@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: greg's bleg
-logo: images/avatar.jpg
 email: gregory.danielson3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Gregory's personal blog.
@@ -28,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Here's hoping you find something cool here, too.
 baseurl: ""  # TODO?
 url: ""
+github_username: gregdan3
 keywords: ["blog", "software"]
 
 # Build settings
@@ -36,10 +36,20 @@ remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
+plainwhite:
+    name: gregory
+    tagline: Student, Software Developer, Teaching Assistant. Full time job(s)!
+    # date_format:
+
+    social_links:
+        github: gregdan3
+        gitlab: gregdan3
+        linkedIn: in/gregdan3
+
 owner:
     name: Gregory Danielson
     job: Software Developer & Teaching Assistant
-    bio:
+    bio: TODO
     email: gregdan3@uab.edu
     github: gregdan3
     gitlab: gregdan3
