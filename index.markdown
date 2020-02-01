@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+# Why would I do this?
+
+I wanted to learn a little more about design, and more importantly, write about cool
+things I've learned or heard about.
