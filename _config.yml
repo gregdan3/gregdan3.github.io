@@ -19,13 +19,13 @@ plugins:
 plainwhite:
     name: Gregory Danielson
     tagline: Student, Developer @ UAB
-    # sitemap: true
+    sitemap: true
     date_format: "%b %-d, %Y"
-    navigation:
-        - title: My Work
-          url: "/my-work"
-        - title: My Resume
-          url: "/resume"
+    # navigation:
+    #     - title: My Work
+    #       url: "/my-work"
+    #     - title: My Resume
+    #       url: "/resume"
     social_links:
         github: gregdan3
         gitlab: gregdan3
