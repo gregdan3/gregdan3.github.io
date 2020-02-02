@@ -11,21 +11,22 @@ show_excerpts: true
 keywords: ["blog", "software", "music"]
 
 # Build settings
-theme: plainwhite-jekyll
+# theme: plainwhite-jekyll
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 plainwhite:
     name: Gregory Danielson
     tagline: Student, Developer @ UAB
     sitemap: true
     date_format: "%b %-d, %Y"
-    # navigation:
-    #     - title: My Work
-    #       url: "/my-work"
-    #     - title: My Resume
-    #       url: "/resume"
+    navigation:
+        - title: My Work
+          url: "/my-work"
+        - title: My Resume
+          url: "/resume"
     social_links:
         github: gregdan3
         gitlab: gregdan3
