@@ -27,6 +27,8 @@ plainwhite:
           url: "/my-work"
         - title: My Resume
           url: "/resume"
+        - title: About Me
+          url: "/about"
     social_links:
         github: gregdan3
         gitlab: gregdan3
