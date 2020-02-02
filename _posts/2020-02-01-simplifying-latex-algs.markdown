@@ -5,12 +5,11 @@ date:   2020-02-01 12:27:45 -0600
 categories: latex writing package
 ---
 
-### Get me out of here as quickly as possible
-I use the `listings` package in `texlive-science` over `algorithmic` or any other
-algorithm writing package for LaTeX, because it is far more convenient to handle
-syntax and whitespace when writing another language in-line instead. The usual
-packages use their own syntax to handle whitespace, and everything else; writing
-another language inline will render exactly what you type.
+For writing LaTeX docs, I use the `listings` over `algorithmic` or any other
+algorithm writing package for LaTeX. It's more convenient to handle
+syntax and whitespace when writing another language in-line. The usual
+packages use their own functions to handle whitespace, and everything else; writing
+another language in-line will render exactly what you type.
 
 # Algorithmic for LaTeX
 I often see the algorithmic package recommended for demonstrating algorithms inside of LaTeX documents.
