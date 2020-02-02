@@ -18,10 +18,7 @@ plugins:
 
 plainwhite:
     name: Gregory Danielson
-    tagline: |
-    Software Developer
-    Teaching Assistant
-    Grad Student @ UAB
+    tagline: Student, Developer @ UAB
     sitemap: true
     date_format: "%b %-d, %Y"
     navigation:
