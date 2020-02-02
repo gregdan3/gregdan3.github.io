@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Where good ideas come, and just kinda stay, lingering in the hallway.

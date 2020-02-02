@@ -2,7 +2,7 @@
 layout: post
 title: Simplifying algorithms written in LaTeX
 date:   2020-02-01 12:27:45 -0600
-categories: jekyll update
+categories: latex writing package
 ---
 
 I often see the algorithmic package recommended for demonstrating algorithms inside of LaTeX documents.

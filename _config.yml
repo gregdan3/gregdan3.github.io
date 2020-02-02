@@ -1,23 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: greg's bleg
 email: gregory.danielson3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -27,24 +7,33 @@ description: >- # this means to ignore newlines until "baseurl:"
   Here's hoping you find something cool here, too.
 baseurl: ""  # TODO?
 url: ""
-github_username: gregdan3
-keywords: ["blog", "software"]
+show_excerpts: true
+keywords: ["blog", "software", "music"]
 
 # Build settings
-# remote_theme: renyuanz/leonids
+theme: plainwhite-jekyll
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
 plainwhite:
-    name: gregory
-    tagline: Student, Software Developer, Teaching Assistant. Full time job(s)!
-    # date_format:
-
+    name: Gregory Danielson
+    tagline: |
+    Software Developer
+    Teaching Assistant
+    Grad Student @ UAB
+    sitemap: true
+    date_format: "%b %-d, %Y"
+    navigation:
+        - title: My Work
+          url: "/my-work"
+        - title: My Resume
+          url: "/resume"
     social_links:
         github: gregdan3
         gitlab: gregdan3
         linkedIn: in/gregdan3
+        twitter: gregdan3d
 
 owner:
     name: Gregory Danielson
@@ -54,15 +43,6 @@ owner:
     github: gregdan3
     gitlab: gregdan3
 
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
