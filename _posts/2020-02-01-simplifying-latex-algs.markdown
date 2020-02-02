@@ -42,7 +42,7 @@ As a less-than-optimal idea of what this might look like in practice, here's a s
 As a side note, yes, it is necessary (or at least, it is necessary in my environment) to `\begin{algorithm}`, then `\begin{algorithmic}`. I have no idea why this is, and better yet, I see algorithms written like this but without the outer algorithm block very regularly.
 
 For reference, here's a rendering of the above example:
-![rendered-find-sum-in-tree](/images/simplify-LaTeX/algorithmic-rendered.png)
+![rendered-find-sum-in-tree](/assets/simplify-LaTeX/algorithmic-rendered.png)
 
 More to the point: frankly, I wrote only three algorithms in this fashion.
 It is certainly convenient to include a dedicated comment syntax, so I can explain my reasoning as I step through an algorithm.
@@ -98,7 +98,7 @@ def find_i_equals_elem(arr, low=0, high=len(arr)):
 
 This is much more comfy. Now, I can still write algorithms in my LaTeX documents, but I can simply in-line Python code to do so. Here's the rendered result:
 
-![python-in-latex](/images/simplify-LaTeX/python-latex.png)
+![python-in-latex](/assets/simplify-LaTeX/python-latex.png)
 
 In this case, all Python keywords are automatically highlighted, which I can use to my advantage when writing out an algorithm, such as I've done here with if/elif/else.
 
