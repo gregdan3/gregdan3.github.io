@@ -12,8 +12,8 @@ Linux servers. I've also been in education, either tutoring or as a teaching ass
 for several years, and have had great successes with students I've taught.
 
 ### About this site
-This blog is where I write about interesting and strange things I discover,
-particularly as it relates to software.
+This blog is where I write about essentially anything that interests me,
+especially as it relates to software.
 
 If you notice an inaccuracy in anything I've written, please let me know!
 
