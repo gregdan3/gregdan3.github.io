@@ -11,3 +11,5 @@
 > you can fake dictionaries with objects? eeeeeeee
 
 > Public vars of gameObjects become assignable in the editor, AAAAAAAAAAAAAA
+
+> you can't just assign the lineRender's startColor and endColor
