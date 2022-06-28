@@ -13,3 +13,5 @@
 > Public vars of gameObjects become assignable in the editor, AAAAAAAAAAAAAA
 
 > you can't just assign the lineRender's startColor and endColor
+
+> you can drag any GameObject from the Project to the Inspector, creating a reference to a GameObject that is not in the scene
