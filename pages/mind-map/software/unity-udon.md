@@ -15,3 +15,5 @@
 > you can't just assign the lineRender's startColor and endColor
 
 > you can drag any GameObject from the Project to the Inspector, creating a reference to a GameObject that is not in the scene
+
+> you can't preview an animation unless the animation and scene view are both visible. docked animation window does NOT work.
