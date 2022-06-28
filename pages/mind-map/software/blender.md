@@ -3,6 +3,9 @@
 Edit -> Preferences -> System, change render backend 
 
 ## UI
+### Windows
+- Drag from top left corner to merge/split
+
 ### Divider
 Space between windows can be split freely
 
@@ -48,6 +51,9 @@ Below Collection, EVERYTHING
 - O - Toggle Porportional Edit
 - Alt G - Move to Origin
 
+#### Texture
+- It's under Shading? The node view is
+
 #### Sculpt
 - Shift F - Strength change
 
@@ -68,3 +74,7 @@ Below Collection, EVERYTHING
 > and since the only other model was either the donut or the icing, the entire opposite end of the operated model would snap to the other
 
 > Cycles renderer is more accurate but way slower than Eevee
+
+> you can usually fix geometry by merging vertices or deleting faces and recreating new ones in their place
+
+> uv map project from view is the best tool that exists at all
