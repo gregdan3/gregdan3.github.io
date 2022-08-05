@@ -38,6 +38,9 @@ $(BUILDDIR)/%: $(STATICDIR)/%
 	@mkdir -p $(@D)
 	cp -r $< $@
 
+build.zip: clean all
+	cd build && zip -r ../build.zip ./*
+
 dev: stopdev all
 	docker rm $(DEVNAME) | true
 	docker run \
