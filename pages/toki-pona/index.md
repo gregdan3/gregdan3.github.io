@@ -12,11 +12,10 @@ unique words? You ask yourself, what is this object? What does this object mean
 to me, and to my listener? You have to simplify, breaking down to only what is
 required, and what is most important.
 
-Toki Pona is a simplifier: once you break down an idea, it becomes much less
-likely that you miscommunicate. In English, it is common to enter a discussion
-or argument and only later realize the discussing parties were talking about
-different things despite using the same word. In Toki Pona, this sort of
-miscommunication is rare.
+Toki Pona is a simplifier: once you break down an idea, it gets harder to
+miscommunicate. In English, it is common to enter an argument and only later
+realize the discussing parties were talking about different things despite
+using the same word. In Toki Pona, this sort of miscommunication is rare.
 
 Toki Pona is meditative: the mind is a complex world, and thoughts fly through
 it at a moment's notice. Toki Pona is one tool among many that help you discern
@@ -65,26 +64,26 @@ at the same time as you start, to help you memorize all the words!
 
 - [Getting Started](./sona/open.html)
 - [_mi_ and _sina_](./sona/mi-sina.html)
-  <!-- - [Verbs with _li_](./sona/li.html) -->
-  <!-- - [Objects with _e_](./sona/e.html) -->
-  <!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
-  <!-- - [Adjectives and _pi_](./sona/adj-pi.html) -->
-  <!-- - [Preverbing verbs](./sona/preverbs.html) -->
-  <!-- - [Instructions with _o_](./sona/o.html) -->
-  <!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
-  <!-- - [Context, Comparisons, _la_](./sona/la.html) -->
-  <!-- - [Questions, answers, _seme_](./sona/seme.html) -->
-  <!-- - [Finale](./sona/pini.html) -->
+<!-- - [Verbs with _li_](./sona/li.html) -->
+<!-- - [Objects with _e_](./sona/e.html) -->
+<!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
+<!-- - [Adjectives and _pi_](./sona/adj-pi.html) -->
+<!-- - [Preverbing verbs](./sona/preverbs.html) -->
+<!-- - [Instructions with _o_](./sona/o.html) -->
+<!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
+<!-- - [Context, Comparisons, _la_](./sona/la.html) -->
+<!-- - [Questions, answers, _seme_](./sona/seme.html) -->
+<!-- - [Finale](./sona/pini.html) -->
 
 ### namako
 
 > %info%
 > I'm adding new lessons all the time! Check back once in a while.
 
-namako is a collection of lessons to supplement kama sona with more
-examples, better understanding, and new ways of thinking about Toki Pona.
-Importantly, all of these lessons focus on how Toki Pona is used commonly,
-teaching a nasin that many others will understand.
+namako is a collection of lessons to supplement kama sona with more examples,
+better understanding, and new ways of thinking about Toki Pona. Importantly,
+all of these lessons focus on how Toki Pona is used commonly, teaching a nasin
+that many others will understand.
 
 <!-- - Grammar -->
   <!-- - [Multiple _li_ with sina with mi](./sona/multiple-li.html) -->
@@ -104,12 +103,12 @@ teaching a nasin that many others will understand.
   <!-- - [Knowing Place](./sona/location.html) -->
   - [kepeken vs kepeken e](./sona/kepeken.html)
 - Themed Lessons
+  - [Conlang Critic opener](./sona/conlang-critic.html)
   <!-- - [Concepts and Translation](./sona/ante-toki.html) -->
   <!-- - [mi monsuta e sina](./sona/monsutatesu.html) -->
   <!-- - [Modern Toki Pona vs. pu](./sona/modern-tp.html) -->
-  - [Conlang Critic opener](./sona/conlang-critic.html)
-  - [Instead of Phatic Phrases](./sona/phatic-phrases.html)
-  - [Units of time](./sona/tenpo-nanpa.html)
+  <!-- - [Instead of Phatic Phrases](./sona/phatic-phrases.html) -->
+  <!-- - [Units of time](./sona/tenpo-nanpa.html) -->
 
 ### nasin
 
@@ -135,17 +134,17 @@ of these.
 
 - nasin sin
   - [transitive prep phrases](./sona/trans-preps.html): mi lon poki e ilo
-    <!-- - nimi weka -->
-    <!--   - [jon't](./sona/jont.html): not using jo -->
-    <!--   - [pin't](./sona/pint.html): not using pi -->
-    <!--   - [anun't](./sona/anunt.html): only using anu for questions -->
-    <!--   - [gendern't](./sona/gendernt.html): not using meli or mije or even tonsi -->
-    <!--   - [jan't](./sona/jant.html): not using jan -->
-    <!--   - [min't](./sona/mint.html): not using mi, or sometimes sina, or even ona! -->
-    <!--   - [noun't](./sona/nount.html): not using proper nouns -->
-    <!--   - [preverbn't](./sona/preverbnt.html): not using preverbs -->
-    <!--   - [nanpan't](./sona/nanpant.html): no number system -->
+  <!-- - nimi weka -->
+  <!--   - [jon't](./sona/jont.html): not using jo -->
+  <!--   - [pin't](./sona/pint.html): not using pi -->
+  <!--   - [anun't](./sona/anunt.html): only using anu for questions -->
+  <!--   - [gendern't](./sona/gendernt.html): not using meli or mije or even tonsi -->
+  <!--   - [jan't](./sona/jant.html): not using jan -->
+  <!--   - [min't](./sona/mint.html): not using mi, or sometimes sina, or even ona! -->
+  <!--   - [noun't](./sona/nount.html): not using proper nouns -->
+  <!--   - [preverbn't](./sona/preverbnt.html): not using preverbs -->
+  <!--   - [nanpan't](./sona/nanpant.html): no number system -->
 
-## ilo pi toki pona
+<!-- ## ilo pi toki pona -->
 
-I am planning to add some tools to this page in the near future. Stay tuned!
+<!-- I am planning to add some tools to this page in the near future. Stay tuned! -->
