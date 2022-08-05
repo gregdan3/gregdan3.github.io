@@ -10,6 +10,14 @@ like English except `j` which makes a `y` sound. If you don't know the vowels
 in Spanish or Italian, I have a guide below. Also, the first syllable of a word
 is always emphasized, and the others are not.
 
+<details><summary>Note for IPA-knowers</summary>
+
+What I described above is good enough- but there's more detail if you're interested!
+
+The sounds of Toki Pona can be subtly different in a variety of ways. For example, the nasal `n` that can end syllables is intended to be in the same part of the mouth as the consonant that follows it- `[tenpo]` becomes `[tempo]`, and `[ilo Linku]` becomes `[ilo Liŋku]` (`ilo Lingku`). Additionally, Toki Pona: The Language of Good notes that some of the vowels are not _exactly_ as in the International Phonetic Alphabet, such as `[a]` actually being realized as `[ä]`- but this book documents jan Sonja's own use of Toki Pona, so don't worry about it too much! So long as you speak clearly and consistently enough to be understood, you'll be fine.
+
+</details>
+
 You should also _listen_ to Toki Pona. Do so
 [here](https://www.youtube.com/watch?v=9VjPV9BpU2I), and don't worry about
 understanding yet!
