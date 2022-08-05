@@ -1,5 +1,5 @@
 ---
-name: pages-build-deployment
+name: trigger-deploy
 on:
   push:
     branches:
@@ -12,7 +12,10 @@ jobs:
         run: sudo apt-get install -y discount
       - name: checkout
         uses: actions/checkout@v3
-      - run: cd ${{ github.workspace }}
+        with:
+          fetch-depth: 1
+      - name: cd repo
+        run: cd ${{ github.workspace }}
       - name: build
         run: make
       - name: deploy
