@@ -1,4 +1,5 @@
 #!/bin/bash
+GLOBIGNORE="build"
 
 make clean all
 git checkout -f gh-pages
