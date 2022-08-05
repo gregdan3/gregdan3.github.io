@@ -1,6 +1,9 @@
 ---
-name: GitHub Actions Demo
-on: [push]
+name: pages-build-deployment
+on:
+  push:
+    branches:
+      - main
 jobs:
   build-website:
     runs-on: ubuntu-latest
@@ -12,8 +15,9 @@ jobs:
       - run: cd ${{ github.workspace }}
       - name: build
         run: make
-      - name: upload
-        uses: actions/upload-artifact@v3
-        with: 
-          name: website
-          path: ${{ github.workspace }}/build
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'ref/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
