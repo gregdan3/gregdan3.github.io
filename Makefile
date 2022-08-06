@@ -38,7 +38,7 @@ $(BUILDDIR)/%: $(STATICDIR)/%
 	@mkdir -p $(@D)
 	cp -r $< $@
 
-dev: stopdev all
+dev: stopdev
 	docker rm $(DEVNAME) | true
 	docker run \
 		-d \
