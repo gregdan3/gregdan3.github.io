@@ -110,15 +110,15 @@ that most others will understand.
     <!-- - [Modern Toki Pona vs. pu](./sona/modern-tp.html) -->
     <!-- - [Units of time](./sona/tenpo-nanpa.html) -->
 
-<!-- ### nasin -->
+### nasin
 
-<!-- nasin is a collection of lessons focusing on a specific usage of Toki Pona -->
-<!-- which you could encounter while speaking Toki Pona. These are not taught as a -->
-<!-- way to speak Toki Pona, but as a way of exploring what is possible and what -->
-<!-- others do. You may choose to use any/all of these nasin -->
+nasin is a collection of lessons, each focusing on a specific usage of Toki Pona
+which you could encounter while speaking Toki Pona. These are not taught as a
+way to speak Toki Pona, but as a way of exploring what is possible and what
+others do. You may choose to use any/all of these nasin
 
-<!-- You should be confident in your understanding of Toki Pona before starting any -->
-<!-- of these. -->
+You should be confident in your understanding of Toki Pona before starting any
+of these.
 
 <!-- - [pu taso](./sona/pu-taso.html): only using Toki Pona: The Language of Good -->
 <!-- - nimi sin -->
@@ -132,18 +132,18 @@ that most others will understand.
 <!--   - [nasin kule](./sona/kule-ante.html): altered color -->
 <!--   - [nasin nanpa ante](./sona/nanpa.html): a few different number systems -->
 
-<!-- - nasin sin -->
-<!--   - [transitive prep phrases](./sona/trans-preps.html): mi lon poki e ilo -->
-<!-- - nimi weka -->
-<!--   - [jon't](./sona/jont.html): not using jo -->
-<!--   - [pin't](./sona/pint.html): not using pi -->
-<!--   - [anun't](./sona/anunt.html): only using anu for questions -->
-<!--   - [gendern't](./sona/gendernt.html): not using meli or mije or even tonsi -->
-<!--   - [jan't](./sona/jant.html): not using jan -->
-<!--   - [min't](./sona/mint.html): not using mi, or sometimes sina, or even ona! -->
-<!--   - [noun't](./sona/nount.html): not using proper nouns -->
-<!--   - [preverbn't](./sona/preverbnt.html): not using preverbs -->
-<!--   - [nanpan't](./sona/nanpant.html): no number system -->
+- nasin sin
+  - [transitive prep phrases](./sona/trans-preps.html): mi lon poki e ilo
+    <!-- - nimi weka -->
+    <!--   - [jon't](./sona/jont.html): not using jo -->
+    <!--   - [pin't](./sona/pint.html): not using pi -->
+    <!--   - [anun't](./sona/anunt.html): only using anu for questions -->
+    <!--   - [gendern't](./sona/gendernt.html): not using meli or mije or even tonsi -->
+    <!--   - [jan't](./sona/jant.html): not using jan -->
+    <!--   - [min't](./sona/mint.html): not using mi, or sometimes sina, or even ona! -->
+    <!--   - [noun't](./sona/nount.html): not using proper nouns -->
+    <!--   - [preverbn't](./sona/preverbnt.html): not using preverbs -->
+    <!--   - [nanpan't](./sona/nanpant.html): no number system -->
 
 <!-- ## ilo pi toki pona -->
 
