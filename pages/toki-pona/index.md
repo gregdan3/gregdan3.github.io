@@ -29,7 +29,7 @@ understanding of my communication that I would never have had without it.
 
 ## sona pi toki pona
 
-I am creating a lesson series to go with my live lessons in VRChat. The written
+I am creating written lessons to go with my live lessons in VRChat. The written
 and live lessons may not be identical: my live lessons are improvised from the
 topic and a few examples to explore, and so may contain different content.
 
@@ -52,15 +52,15 @@ lessons, too.
 > %warning%
 > These lessons are still in progress! They could change at any time.
 
-kama sona is a lesson series about the core of Toki Pona. It is based on _Toki
-Pona: The Language of Good_ and others' lessons, but with a focus on brevity,
+kama sona is a lesson series about the core of Toki Pona. It is based on Toki
+Pona: The Language of Good and others' lessons, but with a focus on brevity,
 accessibility, and what I felt I needed as a learner. I also have cut the
-lesson list down to only **absolute essentials**, but I am making more lessons
-to help your understanding outside these core lessons.
+lesson list down to only **absolute essentials**, but I am making
+[more](#namako) [lessons](#nasin) to help your understanding outside these core lessons.
 
 I highly recommend starting [a memrise
-course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/)
-at the same time as you start, to help you memorize all the words!
+course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/) [or similar other course](https://jamesmoulang.itch.io/nasin-sona-musi)
+at the same time as you start these lessons, to help you memorize all the words!
 
 - [Getting Started](./sona/open.html)
 - [_mi_ and _sina_](./sona/mi-sina.html)
@@ -112,13 +112,11 @@ that most others will understand.
 
 ### nasin
 
-nasin is a collection of lessons, each focusing on a specific usage of Toki Pona
-which you could encounter while speaking Toki Pona. These are not taught as a
+nasin is a collection of lessons focusing on specific uses of Toki Pona
+which you could encounter while speaking. These are not taught as a
 way to speak Toki Pona, but as a way of exploring what is possible and what
-others do. You may choose to use any/all of these nasin
-
-You should be confident in your understanding of Toki Pona before starting any
-of these.
+others do. You may choose to use any/all of these nasin, or none of them, but
+all of them are beneficial to your understanding of Toki Pona.
 
 <!-- - [pu taso](./sona/pu-taso.html): only using Toki Pona: The Language of Good -->
 <!-- - nimi sin -->
@@ -133,7 +131,7 @@ of these.
 <!--   - [nasin nanpa ante](./sona/nanpa.html): a few different number systems -->
 
 - nasin sin
-  - [transitive prep phrases](./sona/trans-preps.html): mi lon poki e ilo
+  - [Transitive Prepositional Phrases](./sona/trans-preps.html): mi lon poki e ilo
     <!-- - nimi weka -->
     <!--   - [jon't](./sona/jont.html): not using jo -->
     <!--   - [pin't](./sona/pint.html): not using pi -->
