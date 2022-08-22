@@ -17,3 +17,7 @@ To say "maybe" in response to a statement or question, "ken" is all you need.
 ## How do I say "think?"
 
 isipin
+
+---
+
+[Back home](/toki-pona/)

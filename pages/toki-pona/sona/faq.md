@@ -1,4 +1,4 @@
-% misikeke li nimi suli
+% Frequently Asked Questions
 % gregdan3
 % date unknown
 

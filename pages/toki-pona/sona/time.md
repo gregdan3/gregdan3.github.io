@@ -13,3 +13,7 @@ tenpo ante
 tenpo sona
 
 tenpo wawa
+
+---
+
+[Back home](/toki-pona/)

@@ -64,16 +64,17 @@ at the same time as you start these lessons, to help you memorize all the words!
 
 - [Getting Started](./sona/open.html)
 - [_mi_ and _sina_](./sona/mi-sina.html)
-  <!-- - [Verbs with _li_](./sona/li.html) -->
-  <!-- - [Objects with _e_](./sona/e.html) -->
-  <!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
-  <!-- - [Adjectives and _pi_](./sona/adj-pi.html) -->
-  <!-- - [Preverbing verbs](./sona/preverbs.html) -->
-  <!-- - [Instructions with _o_](./sona/o.html) -->
-  <!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
-  <!-- - [Context, Comparisons, _la_](./sona/la.html) -->
-  <!-- - [Questions, answers, _seme_](./sona/seme.html) -->
-  <!-- - [Finale](./sona/pini.html) -->
+
+<!-- - [Verbs with _li_](./sona/li.html) -->
+<!-- - [Objects with _e_](./sona/e.html) -->
+<!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
+<!-- - [Adjectives and _pi_](./sona/adj-pi.html) -->
+<!-- - [Preverbing verbs](./sona/preverbs.html) -->
+<!-- - [Instructions with _o_](./sona/o.html) -->
+<!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
+<!-- - [Context, Comparisons, _la_](./sona/la.html) -->
+<!-- - [Questions, answers, _seme_](./sona/seme.html) -->
+<!-- - [Finale](./sona/pini.html) -->
 
 ### namako
 
@@ -88,10 +89,9 @@ that most others will understand.
 <!-- - Grammar -->
   <!-- - [Multiple _li_ with sina with mi](./sona/multiple-li.html) -->
   <!-- - [_la_ and prepositions](./sona/la-prepositions.html) -->
-  <!-- - [Interjections](./sona/interjections.html) -->
+  <!-- - [Interjections and _a_](./sona/interjections.html) -->
 <!-- - Adjectives -->
   <!-- - [Proper nouns](./sona/proper-nouns.html) -->
-  <!-- - [Excitement with _a!_](./sona/a.html) -->
   <!-- - [Colors and _kule_](./sona/kule.html) -->
   <!-- - [Negations with _ala_](./sona/ala.html) -->
   <!-- - [Numbers and _nanpa_](./sona/nanpa.html) -->
@@ -109,6 +109,8 @@ that most others will understand.
     <!-- - [mi monsuta e sina](./sona/monsutatesu.html) -->
     <!-- - [Modern Toki Pona vs. pu](./sona/modern-tp.html) -->
     <!-- - [Units of time](./sona/tenpo-nanpa.html) -->
+    <!-- - [Beginner Mistakes](./sona/beginner-mistakes.html) -->
+    <!-- - [Frequently Asked Questions](./sona/faq.html) -->
 
 ### nasin
 
@@ -128,13 +130,13 @@ all of them are beneficial to your understanding of Toki Pona.
 <!--   - [newer preverbs](./sona/newer-preverbs.html): open, pini, alasa, olin -->
 <!--   - [nanpa seme?](./sona/nanpa-seme.html): nanpa but it ranks non-integers -->
 <!--   - [nasin kule](./sona/kule-ante.html): altered color -->
-<!--   - [nasin nanpa ante](./sona/nanpa.html): a few different number systems -->
+<!--   - [nasin nanpa ante](./sona/nasin-nanpa.html): a few different number systems -->
 
 - nasin sin
   - [Transitive Prepositional Phrases](./sona/trans-preps.html): mi lon poki e ilo
     <!-- - nimi weka -->
     <!--   - [jon't](./sona/jont.html): not using jo -->
-    <!--   - [pin't](./sona/pint.html): not using pi -->
+  - [pin't](./sona/pint.html): not using pi
     <!--   - [anun't](./sona/anunt.html): only using anu for questions -->
     <!--   - [gendern't](./sona/gendernt.html): not using meli or mije or even tonsi -->
     <!--   - [jan't](./sona/jant.html): not using jan -->
@@ -143,6 +145,6 @@ all of them are beneficial to your understanding of Toki Pona.
     <!--   - [preverbn't](./sona/preverbnt.html): not using preverbs -->
     <!--   - [nanpan't](./sona/nanpant.html): no number system -->
 
-<!-- ## ilo pi toki pona -->
+### ilo
 
-<!-- I am planning to add some tools to this page in the near future. Stay tuned! -->
+I am planning to add some tools to this page in the near future. Stay tuned!

@@ -7,3 +7,7 @@
 ## jelon't
 
 jelo's definitions
+
+---
+
+[Back home](/toki-pona/)

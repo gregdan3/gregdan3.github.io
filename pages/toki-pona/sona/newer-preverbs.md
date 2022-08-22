@@ -7,3 +7,9 @@ open
 pini
 
 alasa
+
+olin
+
+---
+
+[Back home](/toki-pona/)

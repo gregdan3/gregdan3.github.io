@@ -124,8 +124,11 @@ For now, don't worry about punctuation much!
 
 Toki Pona can also be written with a system known as sitelen pona. It assigns
 one character per word, which is convenient when you have few words! sitelen
-pona is not required for learning Toki Pona, but I highly recommend it and
-_will_ provide it alongside all new words in the future. [This is not in yet.]
+pona is not required for learning Toki Pona, but I highly recommend it and provide it with all new words.
+
+## Other Notes
+
+The definitions given for words are _not_ comprehensive, and cannot be. Instead, they are both a list of possible meanings and a list of examples- the uses of each word is broader! Try to think of more things you could refer to with each word.
 
 ---
 

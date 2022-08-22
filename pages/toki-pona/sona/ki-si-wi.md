@@ -2,8 +2,12 @@
 % gregdan3
 % date unknown
 
-ki is mi
+ki is mi and ni
 
-si is sina
+si is sina and ni
 
 wi is ona and ni
+
+---
+
+[Back home](/toki-pona/)

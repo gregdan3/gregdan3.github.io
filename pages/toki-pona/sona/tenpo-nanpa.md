@@ -74,3 +74,7 @@ Taken as a unit, it's a stick. stick time!
 I am not familiar with the lunar calendar. But this should be a good reference
 point for getting other time systems into toki pona: describing the properties
 of a system that DOES track time how you want, with the specificity you want.
+
+---
+
+[Back home](/toki-pona/)

@@ -37,8 +37,7 @@ transitive prepositions, but these are rare.
 
 ## Proper use
 
-The recommended use today is to say `mi kepeken ilo`, or `mi pali e tomo
-kepeken ilo`. `kepeken`, being a preposition, can appear in a `la` clause as
+The recommended use today is to say `mi kepeken ilo`, or `mi pali e tomo kepeken ilo`. `kepeken`, being a preposition, can appear in a `la` clause as
 well. `kepeken e` is considered an error in all cases, and if it were
 interpreted with a modern view of Toki Pona, it would read something like
 `applying using to` in the same way other transitive verbs do.
@@ -52,8 +51,9 @@ information about an action.
 
 There is some fringe use of `kepeken e` in the form of transitive prepositions!
 
-Consider: `mi kepeken ilo e sina`. The core of the sentence is `mi kepeken e
-sina`, which would mean `I apply using to you`. The original has `kepeken ilo`,
-`using tools`. If this is considered, the sentence now reads `I apply
-tool-using to you.` In other words, this is a concise way to say `I make you
-use tools.`
+Consider: `mi kepeken ilo e sina`. The core of the sentence is `mi kepeken e sina`, which would mean `I apply using to you`. The original has `kepeken ilo`,
+`using tools`. If this is considered, the sentence now reads `I apply tool-using to you.` In other words, this is a concise way to say `I make you use tools.`
+
+---
+
+[Back home](/toki-pona/)
