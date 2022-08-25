@@ -64,8 +64,8 @@ at the same time as you start these lessons, to help you memorize all the words!
 
 - [Getting Started](./sona/open.html)
 - [_mi_ and _sina_](./sona/mi-sina.html)
+- [Verbs with _li_](./sona/li.html)
 
-<!-- - [Verbs with _li_](./sona/li.html) -->
 <!-- - [Objects with _e_](./sona/e.html) -->
 <!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
 <!-- - [Adjectives and _pi_](./sona/adj-pi.html) -->
@@ -105,6 +105,7 @@ that most others will understand.
 - Themed Lessons
   - [Conlang Critic opener](./sona/conlang-critic.html)
   - [Instead of Phatic Phrases](./sona/phatic-phrases.html)
+    <!-- - [Advanced Comparisons](./sona/comparisons.html) -->
     <!-- - [Concepts and Translation](./sona/ante-toki.html) -->
     <!-- - [mi monsuta e sina](./sona/monsutatesu.html) -->
     <!-- - [Modern Toki Pona vs. pu](./sona/modern-tp.html) -->
