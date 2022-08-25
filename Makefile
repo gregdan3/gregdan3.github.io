@@ -5,13 +5,13 @@ STATICDIR=static
 
 PAGES=$(shell find $(PAGEDIR) -type f -name \*.md)
 STATICS=$(shell find $(STATICDIR) -type f)
+TEMPLATE=templates/default.html
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
 
-MD_TO_HTML=theme
-TEMPLATE=templates/default.html
-FLAGS=-c style,fencedcode -t $(TEMPLATE)
+MD_TO_HTML=theme -c style,fencedcode -t  $(TEMPLATE)
+MINIFIER=htmlmin --remove-comments --remove-all-empty-space
 
 DEVNAME=gregdan3-website
 
@@ -24,15 +24,18 @@ clean:
 
 $(BUILDDIR)/mind-map/index.html:
 	@mkdir -p $(@D)
-	./mapindex.sh | $(MD_TO_HTML) $(FLAGS) -p mind-map/index.html -o $@
+	./mapindex.sh | $(MD_TO_HTML) -p mind-map/index.html -o $@
+	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/blog/index.html: 
 	@mkdir -p $(@D)
-	./blogindex.sh | $(MD_TO_HTML) $(FLAGS) -p blog/index.html -o $@
+	./blogindex.sh | $(MD_TO_HTML) -p blog/index.html -o $@
+	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	@mkdir -p $(@D)
-	$(MD_TO_HTML) $(FLAGS) -p $(patsubst $(BUILDDIR)/%,%,$@) -o $@ $<
+	$(MD_TO_HTML) -p $(patsubst $(BUILDDIR)/%,%,$@) -o $@ $<
+	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%: $(STATICDIR)/%
 	@mkdir -p $(@D)
