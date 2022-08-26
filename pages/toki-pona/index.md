@@ -135,16 +135,17 @@ all of them are beneficial to your understanding of Toki Pona.
 
 - nasin sin
   - [Transitive Prepositional Phrases](./sona/trans-preps.html): mi lon poki e ilo
-    <!-- - nimi weka -->
-    <!--   - [jon't](./sona/jont.html): not using jo -->
+  <!-- - TODO: jant head noun discussion? -->
+- nimi weka
   - [pin't](./sona/pint.html): not using pi
-    <!--   - [anun't](./sona/anunt.html): only using anu for questions -->
-    <!--   - [gendern't](./sona/gendernt.html): not using meli or mije or even tonsi -->
-    <!--   - [jan't](./sona/jant.html): not using jan -->
-    <!--   - [min't](./sona/mint.html): not using mi, or sometimes sina, or even ona! -->
-    <!--   - [noun't](./sona/nount.html): not using proper nouns -->
-    <!--   - [preverbn't](./sona/preverbnt.html): not using preverbs -->
-    <!--   - [nanpan't](./sona/nanpant.html): no number system -->
+  - [gendern't](./sona/gendernt.html): not using meli or mije or even tonsi
+    <!-- - [jan't](./sona/jant.html): not using jan (as a head noun) -->
+    <!-- - [jon't](./sona/jont.html): not using jo -->
+    <!-- - [anun't](./sona/anunt.html): only using anu for questions -->
+    <!-- - [min't](./sona/mint.html): not using mi, or sometimes sina, or even ona! -->
+    <!-- - [noun't](./sona/nount.html): not using proper nouns -->
+    <!-- - [preverbn't](./sona/preverbnt.html): not using preverbs -->
+    <!-- - [nanpan't](./sona/nanpant.html): no number system -->
 
 ### ilo
 

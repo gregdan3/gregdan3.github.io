@@ -2,6 +2,10 @@
 % gregdan3
 % 2022-07-31
 
+Check out my live lesson [here](https://youtu.be/dP3QFNKQB9A), and catch other live lessons [here](https://discord.com/invite/acN3PD5y7M)!
+
+---
+
 New learners often struggle with early Toki Pona usage due to Toki Pona lacking
 units of time. Many advanced speakers will say that you eventually do not need
 specific units of time, or most math, and I've found this to be true as well.

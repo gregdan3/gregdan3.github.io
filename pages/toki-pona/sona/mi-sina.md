@@ -177,8 +177,6 @@ I'm going to bed.
 
 </details>
 
-#### sina
-
 Your friend tells you a great joke. You don't laugh, but you still found it funny, so you tell them:
 
 <details> <summary> sina musi </summary>
@@ -263,49 +261,49 @@ Good morning!
 
 <details> <summary> I'm eating </summary>
 
-- mi moku
+mi moku
 
 </details>
 
 <details> <summary> I'm tall </summary>
 
-- mi suli
+mi suli
 
 </details>
 
 <details> <summary> You're friendly </summary>
 
-- sina pona
+sina pona
 
 </details>
 
 <details> <summary> You're funny </summary>
 
-- sina musi
+sina musi
 
 </details>
 
 <details> <summary> I'm having a conversation </summary>
 
-- mi toki
+mi toki
 
 </details>
 
 <details> <summary> We'll sleep </summary>
 
-- mi lape
+mi lape
 
 </details>
 
 <details> <summary> You're important </summary>
 
-- sina suli
+sina suli
 
 </details>
 
 <details> <summary> You're young </summary>
 
-- sina lili
+sina lili
 
 </details>
 
@@ -321,6 +319,12 @@ both! If something is an action, it is also a description. In English, you
 might say that if a person walks, they are also a walking person. Toki Pona
 runs with this idea. There is no difference between "doing" and "being"
 expressed by the words or grammar.
+
+<details> <summary> A note on "verb" and "adjective" </summary>
+
+Though I do use "verb" and "adjective" to describe the properties of the sentence, they are not a great fit for what Toki Pona's words do. In the community, _predicate_ is preferred over verb, and _adjective_ is rarely used in analyzing the predicate.
+
+</details>
 
 #### Broadness
 
@@ -352,4 +356,4 @@ As in one of the examples, which is _not_ a sentence, you can say `toki` on its 
 
 [Previous lesson](./open.html)
 
-<!-- [Next lesson](./li.html) -->
+[Next lesson](./li.html)

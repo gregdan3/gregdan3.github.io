@@ -5,16 +5,16 @@
 ## How to Read
 
 If you know the International Phonetic Alphabet, Toki Pona is read like that.
-If you don't, the vowels are like Spanish or Italian, and the consonants are
+If you don't, the vowels are like Spanish, Italian, Esperanto, or long vowels in Latin; the consonants are
 like English except `j` which makes a `y` sound. If you don't know the vowels
-in Spanish or Italian, I have a guide below. Also, the first syllable of a word
+in the listed languages, I have a guide below. Also, the first syllable of a word
 is always emphasized, and the others are not.
 
-<details><summary>Note for IPA-knowers</summary>
+<details><summary> A note for IPA-knowers </summary>
 
 What I described above is good enough- but there's more detail if you're interested!
 
-The sounds of Toki Pona can be subtly different in a variety of ways. For example, the nasal `n` that can end syllables is intended to be in the same part of the mouth as the consonant that follows it- `[tenpo]` becomes `[tempo]`, and `[ilo Linku]` becomes `[ilo Liŋku]` (`ilo Lingku`). Additionally, Toki Pona: The Language of Good notes that some of the vowels are not _exactly_ as in the International Phonetic Alphabet, such as `[a]` actually being realized as `[ä]`- but this book documents jan Sonja's own use of Toki Pona, so don't worry about it too much! So long as you speak clearly and consistently enough to be understood, you'll be fine.
+The sounds of Toki Pona can be subtly different in a variety of ways. For example, the nasal `n` that can end syllables is intended to be in the same part of the mouth as the consonant that follows it- `[tenpo]` becomes `/tempo/`, and `[ilo Linku]` becomes `/ilo Liŋku/` (`ilo Lingku`). Additionally, Toki Pona: The Language of Good notes that some of the vowels are not _exactly_ as in the International Phonetic Alphabet, such as `[a]` actually being realized as `/ä/`- but this book documents jan Sonja's own use of Toki Pona, so don't worry about it too much! So long as you speak clearly and consistently enough to be understood, you'll be fine.
 
 </details>
 
@@ -51,8 +51,8 @@ to Toki Pona to be sure!
 
 ### Syllables
 
-In Toki Pona, syllables starting with a vowel are at the start of words, and
-syllables starting with consonants anywhere. Here are all possible syllable
+In Toki Pona, syllables can start with a vowel at the start of words, and
+can start with consonants anywhere. Here are all possible syllable
 types:
 
 - a single vowel (**e**sun)
@@ -112,9 +112,8 @@ start of sentences. Example:
 
 > sina wile lon poka mi la mi tu li tawa ma Sonko
 
-There are no rules for punctuation, but it is common to end sentences with any
-of `.?!`, and some sentences with `:`. It is also common to use `,` to indicate
-natural pauses.
+There are no rules for punctuation, but it is common to end sentences with
+`.` or `!`, questions with `?`, and other sentences with `:`. It is also common to use `,` to indicate natural pauses.
 
 > jan li toki e ni: seme li lon? ona li wile tawa, li wile lape.
 
@@ -126,9 +125,31 @@ Toki Pona can also be written with a system known as sitelen pona. It assigns
 one character per word, which is convenient when you have few words! sitelen
 pona is not required for learning Toki Pona, but I highly recommend it and provide it with all new words.
 
+In sitelen pona, it is common to use an interpunct `・` to mark the end of sentences, in addition to all the punctuation used in sitelen Lasina. Some writers will also start brand new lines.
+
+> %tokipona%
+>
+> > jan li toki e ni・seme li lon・ona li wile tawa li wile lape
+
+Also, proper nouns are written inside a cartouche, which can be just brackets or an entire enclosed square around the symbols. Everything inside the cartouche is read by only its first character:
+
+> %tokipona%
+>
+> > sina wile lon poka mi la mi tu li tawa ma [sitelen olin nasin kasi open]
+
+Lastly, symbols can be stacked or nested! Stacked symbols are read from the bottom up, and nested symbols are read from the outside in.
+
+> %tokipona%
+>
+> > toki-pona li pona mute tawa mi・toki ni la nasin sitelen li linja-suwi a
+
+Again, don't worry about _all_ this just yet! You'll find what feels comfortable for you as you learn.
+
 ## Other Notes
 
-The definitions given for words are _not_ comprehensive, and cannot be. Instead, they are both a list of possible meanings and a list of examples- the uses of each word is broader! Try to think of more things you could refer to with each word.
+The definitions given for words are _not_ comprehensive, and cannot be. The same goes for the exercises in every lesson. Instead, each is a list of possible meanings and a list of examples- words and phrases encompass far more than the examples can cover! Try to think of more things you could refer to with each word as you learn.
+
+Also, if you ever see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
 
 ---
 

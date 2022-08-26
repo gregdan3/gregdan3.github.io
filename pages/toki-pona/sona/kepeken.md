@@ -16,6 +16,8 @@ kepeken. My involvement with the Toki Pona community only began in July of
 I have seen old lessons and documentation, particularly jan Pije's course, from
 prior to pu. As such, I provide everything I know to be true as of today.
 
+If you'd like to see how kepeken was taught as far back as 2006, check [here](https://web.archive.org/web/20071017110330/http://bknight0.myweb.uga.edu/toki/lesson/lesson6.html)!
+
 </details>
 
 ## History

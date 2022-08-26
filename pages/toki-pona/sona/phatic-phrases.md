@@ -2,7 +2,7 @@
 % gregdan3
 % 2022-08-04
 
-Check out my live lesson [here](https://youtu.be/WKN1YRZDuTA)!
+Check out my live lesson [here](https://youtu.be/WKN1YRZDuTA), and catch other live lessons [here](https://discord.com/invite/acN3PD5y7M)!
 
 ---
 

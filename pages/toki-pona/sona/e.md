@@ -27,9 +27,49 @@
 
 We now have several types of sentences to explore, with many new words. I've split the examples based on whether the new grammar, e, is used.
 
-#### Without e
+<details> <summary> </summary>
 
-#### With e
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
+
+<details> <summary> </summary>
+
+</details>
 
 ## Takeaway
 
