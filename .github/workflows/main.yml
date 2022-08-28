@@ -8,7 +8,7 @@ jobs:
   build-website:
     runs-on: ubuntu-latest
     steps:
-      - name: install theme
+      - name: install dependencies
         run: sudo apt-get install -y discount htmlmin npm && npm i -g markmap-cli
       - name: checkout
         uses: actions/checkout@v3
