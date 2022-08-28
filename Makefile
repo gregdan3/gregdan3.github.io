@@ -12,6 +12,7 @@ STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
 
 MD_TO_HTML=theme -c style,fencedcode -t  $(TEMPLATE)
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
+MAPPER=markmap --no-toolbar --no-open
 
 DEVNAME=gregdan3-website
 
@@ -30,6 +31,11 @@ $(BUILDDIR)/mind-map/index.html:
 $(BUILDDIR)/blog/index.html: 
 	@mkdir -p $(@D)
 	./blogindex.sh | $(MD_TO_HTML) -p blog/index.html -o $@
+	$(MINIFIER) $@ $@
+
+$(BUILDDIR)/toki-pona/ilo/map.html:
+	@mkdir -p $(@D)
+	$(MAPPER) pages/toki-pona/ilo/map.md -o $@
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)

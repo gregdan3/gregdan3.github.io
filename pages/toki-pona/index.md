@@ -157,6 +157,10 @@ all of them are beneficial to your understanding of Toki Pona.
     <!-- - [preverbn't](./sona/preverbnt.html): not using preverbs -->
     <!-- - [nanpan't](./sona/nanpant.html): no number system -->
 
+<!--
 ### ilo
 
+- [A semantic map of Toki Pona concepts](./ilo/map.html)
+
 I am planning to add some tools to this page in the near future. Stay tuned!
+-->

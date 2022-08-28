@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: install theme
-        run: sudo apt-get install -y discount htmlmin
+        run: sudo apt-get install -y discount htmlmin npm && npm i -g markmap-cli
       - name: checkout
         uses: actions/checkout@v3
         with:
