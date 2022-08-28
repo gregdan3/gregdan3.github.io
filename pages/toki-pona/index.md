@@ -27,6 +27,16 @@ I could understand, discuss, use, and be excited about. But most importantly,
 Toki Pona gave me a bridge to learning other languages and a deeper
 understanding of my communication that I would never have had without it.
 
+## lipu pi toki pona
+
+I've translated a few stories, books, and songs into Toki Pona. Check them out!
+
+- [Goodnight Moon - "mun o pimeja pona"](./lipu/mun-o-pimeja-pona.html) - **[o kute pona!](https://www.youtube.com/watch?v=Q2UIw8PZsZ8)**
+- [It's okay to not like things - "sina ken wile ala ijo"](./lipu/sina-ken-wile-ala-ijo.html) - **[o kute pona!](https://www.youtube.com/watch?v=iKry3P51SVI)**
+- [Homeward Bound - "tawa tomo"](./lipu/tawa-tomo.html)
+- [The Princess on the Pea - "jan lawa meli lon kili lili"](./lipu/jan-lawa-meli-lon-kili-lili.html)
+- [The Fisherman and his Wife - "jan pi alasa kala en jan olin ona"](./lipu/jan-pi-alasa-kala-en-jan-olin-ona.html)
+
 ## sona pi toki pona
 
 I am creating written lessons to go with my live lessons in VRChat. The written
