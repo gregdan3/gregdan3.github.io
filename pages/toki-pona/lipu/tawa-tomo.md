@@ -10,7 +10,7 @@ kalama li lon ala li tan jan Jay Althouse
 
 ---
 
-## Homeward Bound
+## tawa tomo
 
 | toki pona               |
 | :---------------------- |
@@ -53,7 +53,7 @@ Arrangement (not present) by Jay Althouse
 
 ---
 
-## tawa tomo
+## Homeward Bound
 
 | English                                 | toki pona               | toki ponglish                          |
 | :-------------------------------------- | :---------------------- | -------------------------------------- |
