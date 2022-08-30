@@ -10,9 +10,9 @@ TEMPLATE=templates/default.html
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
 
-MD_TO_HTML=theme -c style,fencedcode -t  $(TEMPLATE)
+MD_TO_HTML=theme -c style,fencedcode -t $(TEMPLATE)
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
-MAPPER=markmap --no-toolbar --no-open
+MAPPER=markmap --no-open
 
 DEVNAME=gregdan3-website
 
