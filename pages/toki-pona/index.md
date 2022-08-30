@@ -145,7 +145,6 @@ all of them are beneficial to your understanding of Toki Pona.
 
 - nasin sin
   - [Transitive Prepositional Phrases](./sona/trans-preps.html): mi lon poki e ilo
-  <!-- - TODO: jant head noun discussion? -->
 - nimi weka
   - [pin't](./sona/pint.html): not using pi
   - [gendern't](./sona/gendernt.html): not using meli or mije or even tonsi
@@ -157,10 +156,11 @@ all of them are beneficial to your understanding of Toki Pona.
     <!-- - [preverbn't](./sona/preverbnt.html): not using preverbs -->
     <!-- - [nanpan't](./sona/nanpant.html): no number system -->
 
-<!--
 ### ilo
 
-- [A semantic map of Toki Pona concepts](./ilo/map.html)
+> %info%
+> More tools are coming!
 
-I am planning to add some tools to this page in the near future. Stay tuned!
--->
+- [An explorable map of Toki Pona concepts](./ilo/map.html)
+  - Most data is from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and
+    [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
