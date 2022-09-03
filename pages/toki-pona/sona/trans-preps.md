@@ -2,7 +2,11 @@
 % gregdan3
 % 2022-07-23
 
-Check out my live lesson [here](https://youtu.be/NpcoCeNOptc), and catch other live lessons [here](https://discord.com/invite/acN3PD5y7M)!
+> %error%
+>
+> This nasin is non-standard in _adding_ to Toki Pona's grammar. Speakers may be able to understand you, but if they don't, **use a more common nasin**!
+
+Check out my live lesson [here](https://youtu.be/NpcoCeNOptc), and join the Discord server [here](https://discord.com/invite/acN3PD5y7M)!
 
 ---
 
