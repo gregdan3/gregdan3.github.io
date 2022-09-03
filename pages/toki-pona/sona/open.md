@@ -29,7 +29,7 @@ to Toki Pona to be sure!
 
 | vowel | sound     |
 | ----- | --------- |
-| [a]   | w**a**ll  |
+| [a]   | c**a**r   |
 | [e]   | b**e**st  |
 | [i]   | wh**ee**l |
 | [o]   | r**o**w   |
