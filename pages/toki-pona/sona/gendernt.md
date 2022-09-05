@@ -14,6 +14,8 @@ What if we extended meli, mije, and tonsi into more meanings? I have personally 
 
 If these issues were not enough to consider removing the three from your vocabulary, there is one more common complaint about them which borders on social issues in discussion of sex and gender. While many Toki Pona speakers say these words exclusively refer to gender, others say these words refer to sex. This creates a divide, and a contention, between different speakers who use these words differently. This is not something that is solvable without prescriptivism, and the Toki Pona community looks down on and rejects prescriptivism. To this end, speakers have rejected the use of all three words to avoid the debate entirely.
 
+Most importantly, `meli`, `mije`, and `tonsi` are redundant. If gender is about self-expression, and it is, then _any_ words may be used to express your gender.
+
 I believe `meli`, `mije`, and `tonsi` are important to Toki Pona, and will remain- but I also expect they will be used even less over time.
 
 ---
