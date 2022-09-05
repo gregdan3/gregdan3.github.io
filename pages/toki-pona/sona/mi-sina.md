@@ -45,7 +45,7 @@ This means English interpretations looks something like this:
 > Y'all are [predicate]
 
 The predicate is always able to be a verb, adjective, or both. Any
-verb/adjective may be used to describe the speaker/listener, and their actions.
+verb/adjective may be used to describe the speaker or listener, and talk about what the speaker or listener does.
 
 ## Exercises
 
