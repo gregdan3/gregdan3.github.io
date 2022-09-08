@@ -16,11 +16,13 @@
 > | kala   | kala   | fish, swimming creature                               |
 > | akesi  | akesi  | reptile, amphibian                                    |
 > | pipi   | pipi   | bug, insect, spider                                   |
-> | mu     | mu     | (animal sound)                                        |
+> | mu     | mu     | moo, meow, ribbit, bark, animal sound                 |
 > | utala  | utala  | fight, battle, competition                            |
 > | moli   | moli   | die, kill                                             |
 > | sijelo | sijelo | body, torso, TODO: can be "website account"           |
 > | olin   | olin   | love, respect, affection, emotional connection        |
+> | mani   | mani   | money, cash, barterable thing                         |
+> | esun   | esun   | trade, barter, shopping, economy                      |
 
 ## Overview
 

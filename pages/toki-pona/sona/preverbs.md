@@ -21,6 +21,8 @@
 
 Note: `ali` is another way to say `ale`. They are considered the same word.
 
+Another note: We've seen some of these words before!
+
 ## Overview
 
 ## Exercises / Examples

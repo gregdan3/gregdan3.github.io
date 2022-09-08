@@ -166,7 +166,7 @@ The food's gone bad!
 
 > %info%
 >
-> Some of these will have a few translations under the spoiler!
+> Some of these will have multiple translations under the spoiler!
 
 <details> <summary> The sand is sludgy. </summary>
 

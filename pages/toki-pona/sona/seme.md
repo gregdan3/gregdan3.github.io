@@ -11,10 +11,9 @@
 > | seme  | seme | what, (request information)                      |
 > | anu   | anu  | or, (between question phrases)                   |
 > | ijo   | ijo  | thing, (literally anything)                      |
-> | supa  | supa | furniture, horizontal surface                    |
 > | unpa  | unpa | sex, sexual relations                            |
-> | nena  | nena | bump, lump, extrusion, hill, mountain, nose      |
-> | selo  | selo | boundary, skin, bark, peel, outer layer          |
+> | meli  | meli | girl, woman, female                              |
+> | mije  | mije | boy, man, male                                   |
 > |       |      |                                                  |
 > | a     | a    | (mark exclamation, excitement, emphasis)         |
 > | pu    | pu   | to interact with Toki Pona: The Language of Good |
