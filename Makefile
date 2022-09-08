@@ -6,12 +6,15 @@ STATICDIR=static
 PAGES=$(shell find $(PAGEDIR) -type f -name \*.md)
 STATICS=$(shell find $(STATICDIR) -type f)
 TEMPLATE=templates/default.html
+METADATA=templates/metadata.yml
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
 
+MD_SIN=pandoc
 MD_TO_HTML=theme -c style,fencedcode -t $(TEMPLATE)
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
+TOC_MAKER=markdown-toc --maxdepth 4 --no-stripHeadingTags --bullets="-" -i
 MAPPER=markmap --no-open
 
 DEVNAME=gregdan3-website
@@ -40,6 +43,7 @@ $(BUILDDIR)/toki-pona/ilo/map.html:
 
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	@mkdir -p $(@D)
+	$(TOC_MAKER) $<
 	$(MD_TO_HTML) -p $(patsubst $(BUILDDIR)/%,%,$@) -o $@ $<
 	$(MINIFIER) $@ $@
 
