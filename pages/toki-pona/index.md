@@ -1,7 +1,8 @@
-% Toki Pona
-% gregdan3
-% 2022-07-02
-
+---
+title: Toki Pona
+author: gregdan3
+date: 2022-07-02T00:00:00.000Z
+---
 Toki Pona is an experience. Toki Pona is art. Toki Pona is many things to many
 people. It is one of the most important things in my life. The passion put
 forth by the community is unmatched, and I am thrilled to be a part of this
@@ -59,15 +60,16 @@ lessons, too.
 
 ### kama sona
 
-> %warning%
-> These lessons are still in progress! They could change at any time.
+::: warning
+
+These lessons are still in progress! They could change at any time.
+
+:::
 
 kama sona is a lesson series about the core of Toki Pona. It is based on Toki
 Pona: The Language of Good and others' lessons, but with a focus on brevity,
 accessibility, and what I felt I needed as a learner. I also have cut the
 lesson list down to only **absolute essentials**, but I am making
-[more](#namako) [lessons](#nasin) to help your understanding outside these core lessons.
-
 I highly recommend starting [a memrise
 course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/) [or similar other course](https://jamesmoulang.itch.io/nasin-sona-musi)
 at the same time as you start these lessons, to help you memorize all the words!
@@ -88,8 +90,11 @@ at the same time as you start these lessons, to help you memorize all the words!
 
 ### namako
 
-> %info%
-> I'm adding new lessons all the time! Check back once in a while.
+::: info
+
+I'm adding new lessons all the time! Check back once in a while.
+
+:::
 
 namako is a collection of lessons to add to kama sona with more examples,
 better understanding, and new ways of thinking about Toki Pona. Importantly,
@@ -158,9 +163,13 @@ all of them are beneficial to your understanding of Toki Pona.
 
 ### ilo
 
-> %info%
-> More tools are coming!
+::: info
+
+More tools are coming!
+
+:::
 
 - [An explorable map of Toki Pona concepts](./ilo/map.html)
   - Most data is from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and
     [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
+

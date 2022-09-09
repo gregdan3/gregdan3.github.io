@@ -32,7 +32,7 @@ for f in $POSTS; do
 	OUTPAGE=${f%.md}.html
 	OUTPAGE=${OUTPAGE#"${BLOGDIR}/"}
 
-	echo -e "* ** [$TITLE]($OUTPAGE) ** ($(date -d "@$MTIME" "+%Y-%m-%d"))\n"
+	echo -e "* **[$TITLE]($OUTPAGE)** ($(date -d "@$MTIME" "+%Y-%m-%d"))\n"
 
 	PREAMBLE=$(sed '/^<!-- cut -->$/Q' "$f")
 	if [[ $(echo "$PREAMBLE" | wc -l) -lt 8 ]]; then

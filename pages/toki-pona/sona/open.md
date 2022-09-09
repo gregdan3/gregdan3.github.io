@@ -127,21 +127,27 @@ pona is not required for learning Toki Pona, but I highly recommend it and provi
 
 In sitelen pona, it is common to use an interpunct `・` to mark the end of sentences, in addition to all the punctuation used in sitelen Lasina. Some writers will also start brand new lines.
 
-> %tokipona%
->
-> > jan li toki e ni・seme li lon・ona li wile tawa li wile lape
+::: tokipona
+
+> jan li toki e ni・seme li lon・ona li wile tawa li wile lape
+
+:::
 
 Also, proper nouns are written inside a cartouche, which can be just brackets or an entire enclosed square around the symbols. Everything inside the cartouche is read by only its first character:
 
-> %tokipona%
->
-> > sina wile lon poka mi la mi tu li tawa ma [sitelen olin nasin kasi open]
+::: tokipona
+
+> sina wile lon poka mi la mi tu li tawa ma [sitelen olin nasin kasi open]
+
+:::
 
 Lastly, symbols can be stacked or nested! Stacked symbols are read from the bottom up, and nested symbols are read from the outside in.
 
-> %tokipona%
->
-> > toki-pona li pona mute tawa mi・toki ni la nasin sitelen li linja-suwi a
+::: tokipona
+
+> toki-pona li pona mute tawa mi・toki ni la nasin sitelen li linja-suwi ala
+
+:::
 
 Again, don't worry about _all_ this just yet! You'll find what feels comfortable for you as you learn.
 

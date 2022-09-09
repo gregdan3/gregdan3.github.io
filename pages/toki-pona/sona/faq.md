@@ -1,27 +1,31 @@
-% Frequently Asked Questions
-% gregdan3
-% date unknown
+---
+title: Frequently Asked Questions
+author: gregdan3
+date: unknown
+---
+
+## Table of Contents
 
 <!-- toc -->
 
-- [How to ask](#how-to-ask)
-  - [Who](#who)
-  - [What](#what)
-  - [Where](#where)
-  - [When](#when)
-  - [Why](#why)
-  - [How](#how)
-  - [Whose](#whose)
-  - [Which](#which)
-- [How do I say "think"](#how-do-i-say-think)
+- [Questions](#questions)
+  - [Who?](#who)
+  - [What?](#what)
+  - [Where?](#where)
+  - [When?](#when)
+  - [Why?](#why)
+  - [How?](#how)
+  - [Whose?](#whose)
+  - [Which?](#which)
+- [How do I say "think?"](#how-do-i-say-think)
 
 <!-- tocstop -->
 
-## How to ask
+## Questions
 
-#### Who
+#### Who?
 
-#### What
+#### What?
 
 <details> <summary> seme li ni? </summary>
 
@@ -43,7 +47,7 @@ What is this?
 
 </details>
 
-#### Where
+#### Where?
 
 <details> <summary> jan li lon seme? </summary>
 
@@ -68,17 +72,17 @@ Where are you going?
 
 </details>
 
-#### When
+#### When?
 
-#### Why
+#### Why?
 
-#### How
+#### How?
 
-#### Whose
+#### Whose?
 
-#### Which
+#### Which?
 
-## How do I say "think"
+## How do I say "think?"
 
 New speakers ask this question often
 

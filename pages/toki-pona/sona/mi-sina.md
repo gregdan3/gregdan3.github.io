@@ -4,22 +4,24 @@
 
 ### Words to Know
 
-> %tokipona%
->
-> | Glyph | Word | Definition                               |
-> | ----- | ---- | ---------------------------------------- |
-> | mi    | mi   | I, me, myself, we, mine, ours            |
-> | sina  | sina | you, yourself, yours, y'all, y'all's     |
-> | toki  | toki | talk, say, conversation, language, hello |
-> | pona  | pona | good, simple, easy, fix, repair, help    |
-> | ike   | ike  | bad, difficult, complex, challenging     |
-> | jan   | jan  | person, people, someone, anyone          |
-> | moku  | moku | food, eat                                |
-> | musi  | musi | fun, entertaining, artistic, playful     |
-> | suli  | suli | big, important, tall, wide               |
-> | lili  | lili | small, miniature, tiny, few, young       |
-> | lape  | lape | rest, sleep                              |
-> | mama  | mama | parent, guardian, ancestor, caretaker    |
+::: tokipona
+
+| Glyph | Word | Definition                               |
+| ----- | ---- | ---------------------------------------- |
+| mi    | mi   | I, me, myself, we, mine, ours            |
+| sina  | sina | you, yourself, yours, y'all, y'all's     |
+| toki  | toki | talk, say, conversation, language, hello |
+| pona  | pona | good, simple, easy, fix, repair, help    |
+| ike   | ike  | bad, difficult, complex, challenging     |
+| jan   | jan  | person, people, someone, anyone          |
+| moku  | moku | food, eat                                |
+| musi  | musi | fun, entertaining, artistic, playful     |
+| suli  | suli | big, important, tall, wide               |
+| lili  | lili | small, miniature, tiny, few, young       |
+| lape  | lape | rest, sleep                              |
+| mama  | mama | parent, guardian, ancestor, caretaker    |
+
+:::
 
 By the way, check out [this dictionary](https://lipu-linku.github.io)! If you ever get lost, set "show pu words" and search for whatever you need.
 
@@ -49,9 +51,11 @@ verb/adjective may be used to describe the speaker or listener, and talk about w
 
 ## Exercises
 
-> %info%
->
-> Translation is inexact! In any language, Toki Pona too. More, Toki Pona words have broad meanings, so answers are a list of possibilities, _not_ comprehensive.
+::: info
+
+Translation is inexact! In any language, Toki Pona too. More, Toki Pona words have broad meanings, so answers are a list of possibilities, _not_ comprehensive.
+
+:::
 
 Try to figure out what these statements mean in English! All answers are under the spoiler. The first statement will be an in-context interpretation. The rest will be examples of what the sentence _could_ mean, regardless of context.
 
@@ -255,9 +259,11 @@ Good morning!
 
 ### English to Toki Pona
 
-> %info%
->
-> No context is provided so these translations are simpler. The translation will be literal but easier to figure out!
+::: info
+
+No context is provided so these translations are simpler. The translation will be literal but easier to figure out!
+
+:::
 
 <details> <summary> I'm eating </summary>
 

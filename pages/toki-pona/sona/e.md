@@ -4,22 +4,24 @@
 
 ### Words to Know
 
-> %tokipona%
->
-> | Glyph  | Word   | Definition                                        |
-> | ------ | ------ | ------------------------------------------------- |
-> | e      | e      | (mark an object; between the verb and the object) |
-> | wile   | wile   | want, need, to want                               |
-> | lukin  | lukin  | eyes, to look, to try                             |
-> | sona   | sona   | knowledge, understanding, to know                 |
-> | pali   | pali   | create, work                                      |
-> | lipu   | lipu   | paper, card, document, website                    |
-> | kute   | kute   | ear, hear, listen, pay attention to               |
-> | jo     | jo     | have, possess, carry, own                         |
-> | pana   | pana   | give, emit, provide                               |
-> | pakala | pakala | destroy, break, shatter, explode                  |
-> | pilin  | pilin  | feeling, emotion                                  |
-> | ante   | ante   | change, alter, other                              |
+::: tokipona
+
+| Glyph  | Word   | Definition                                        |
+| ------ | ------ | ------------------------------------------------- |
+| e      | e      | (mark an object; between the verb and the object) |
+| wile   | wile   | want, need, to want                               |
+| lukin  | lukin  | eyes, to look, to try                             |
+| sona   | sona   | knowledge, understanding, to know                 |
+| pali   | pali   | create, work                                      |
+| lipu   | lipu   | paper, card, document, website                    |
+| kute   | kute   | ear, hear, listen, pay attention to               |
+| jo     | jo     | have, possess, carry, own                         |
+| pana   | pana   | give, emit, provide                               |
+| pakala | pakala | destroy, break, shatter, explode                  |
+| pilin  | pilin  | feeling, emotion                                  |
+| ante   | ante   | change, alter, other                              |
+
+:::
 
 ## Overview
 

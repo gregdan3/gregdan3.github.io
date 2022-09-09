@@ -4,22 +4,24 @@
 
 ### Words to Know
 
-> %tokipona%
->
-> | Glyph | Word | Definition                                          |
-> | ----- | ---- | --------------------------------------------------- |
-> | la    | la   | (between context phrase/sentence and main sentence) |
-> | open  | open | start, begin, open                                  |
-> | pini  | pini | finish, stop, disable                               |
-> | mute  | mute | many, multiple, several, very                       |
-> | luka  | luka | hand, arm, prehensile limb                          |
-> | noka  | noka | foot, leg, locomotive limb                          |
-> | uta   | uta  | mouth, lips, eating orifice                         |
-> | lawa  | lawa | head, mind, brain, control, plan, govern, lead      |
-> | insa  | insa | inside, center, between, organ                      |
-> | lupa  | lupa | hole, door, window, orifice                         |
-> | tomo  | tomo | room, building, home                                |
-> | ma    | ma   | place, country, dirt, earth, outside                |
+::: tokipona
+
+| Glyph | Word | Definition                                          |
+| ----- | ---- | --------------------------------------------------- |
+| la    | la   | (between context phrase/sentence and main sentence) |
+| open  | open | start, begin, open                                  |
+| pini  | pini | finish, stop, disable                               |
+| mute  | mute | many, multiple, several, very                       |
+| luka  | luka | hand, arm, prehensile limb                          |
+| noka  | noka | foot, leg, locomotive limb                          |
+| uta   | uta  | mouth, lips, eating orifice                         |
+| lawa  | lawa | head, mind, brain, control, plan, govern, lead      |
+| insa  | insa | inside, center, between, organ                      |
+| lupa  | lupa | hole, door, window, orifice                         |
+| tomo  | tomo | room, building, home                                |
+| ma    | ma   | place, country, dirt, earth, outside                |
+
+:::
 
 ## Overview
 

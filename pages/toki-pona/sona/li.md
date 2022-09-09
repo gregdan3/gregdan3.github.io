@@ -4,22 +4,24 @@
 
 ### Words to Know
 
-> %tokipona%
->
-> | Glyph  | Word   | Definition                                      |
-> | ------ | ------ | ----------------------------------------------- |
-> | li     | li     | (mark a verb; between the subject and the verb) |
-> | kasi   | kasi   | plant, flower, tree, vegetation                 |
-> | kiwen  | kiwen  | rock, hard, tough, sturdy, durable              |
-> | ko     | ko     | dust, goop, clay, paste, squishy thing          |
-> | telo   | telo   | liquid, water, fluid                            |
-> | kulupu | kulupu | group, collection, nation, community            |
-> | jaki   | jaki   | gross, garbage, trash, sick                     |
-> | wawa   | wawa   | power, strength, courage, energy, electricity   |
-> | suwi   | suwi   | sweet, soft, fluffy, cute, fragrant             |
-> | nasa   | nasa   | strange, weird, silly, rare                     |
-> | seli   | seli   | hot, fire, warm, hot object                     |
-> | lete   | lete   | cold, ice, raw, undercooked, cold object        |
+::: tokipona
+
+| Glyph  | Word   | Definition                                      |
+| ------ | ------ | ----------------------------------------------- |
+| li     | li     | (mark a verb; between the subject and the verb) |
+| kasi   | kasi   | plant, flower, tree, vegetation                 |
+| kiwen  | kiwen  | rock, hard, tough, sturdy, durable              |
+| ko     | ko     | dust, goop, clay, paste, squishy thing          |
+| telo   | telo   | liquid, water, fluid                            |
+| kulupu | kulupu | group, collection, nation, community            |
+| jaki   | jaki   | gross, garbage, trash, sick                     |
+| wawa   | wawa   | power, strength, courage, energy, electricity   |
+| suwi   | suwi   | sweet, soft, fluffy, cute, fragrant             |
+| nasa   | nasa   | strange, weird, silly, rare                     |
+| seli   | seli   | hot, fire, warm, hot object                     |
+| lete   | lete   | cold, ice, raw, undercooked, cold object        |
+
+:::
 
 ## Overview
 
@@ -37,9 +39,11 @@ I do say "any word", but clever observers will have noticed I am treating the wo
 
 Since a word may be in the subject, all the words in the predicate before can now be used as subjects and reference objects or actions instead of being an action! This leans even more heavily into the verb/adjective duality described before. Unlike that duality, you can tell which sense a word is meant in based on its place in a sentence. Subjects are more likely to be specific objects or ideas, where predicates are more likely to be actions or descriptions!
 
-> %warning%
->
-> Remember, if the subject is _just_ mi or _just_ sina, do not include `li`!
+::: warning
+
+Remember, if the subject is _just_ mi or _just_ sina, do not include `li`!
+
+:::
 
 ## Exercises
 
@@ -164,9 +168,11 @@ The food's gone bad!
 
 ### English to Toki Pona
 
-> %info%
->
+::: info
+
 > Some of these will have multiple translations under the spoiler!
+
+:::
 
 <details> <summary> The sand is sludgy. </summary>
 

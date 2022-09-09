@@ -6,15 +6,13 @@ STATICDIR=static
 PAGES=$(shell find $(PAGEDIR) -type f -name \*.md)
 STATICS=$(shell find $(STATICDIR) -type f)
 TEMPLATE=templates/default.html
-METADATA=templates/metadata.yml
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
 
-MD_SIN=pandoc
-MD_TO_HTML=theme -c style,fencedcode -t $(TEMPLATE)
+MD_TO_HTML=pandoc --from=markdown+yaml_metadata_block --template=$(TEMPLATE)
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
-TOC_MAKER=markdown-toc --maxdepth 4 --no-stripHeadingTags --bullets="-" -i
+TOC_MAKER=markdown-toc --maxdepth 4 --no-stripHeadingTags --indent="  " --bullets="-" -i
 MAPPER=markmap --no-open
 
 DEVNAME=gregdan3-website
@@ -28,12 +26,12 @@ clean:
 
 $(BUILDDIR)/mind-map/index.html:
 	@mkdir -p $(@D)
-	./mapindex.sh | $(MD_TO_HTML) -p mind-map/index.html -o $@
+	./mapindex.sh | $(MD_TO_HTML) -o $@
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/blog/index.html: 
 	@mkdir -p $(@D)
-	./blogindex.sh | $(MD_TO_HTML) -p blog/index.html -o $@
+	./blogindex.sh | $(MD_TO_HTML) -o $@
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/toki-pona/ilo/map.html:
@@ -44,12 +42,21 @@ $(BUILDDIR)/toki-pona/ilo/map.html:
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	@mkdir -p $(@D)
 	$(TOC_MAKER) $<
-	$(MD_TO_HTML) -p $(patsubst $(BUILDDIR)/%,%,$@) -o $@ $<
+	$(MD_TO_HTML) \
+		--metadata="directory:$(subst pages/,,$<)" \
+		--metadata="extra-css:$(shell echo $(@D) | grep -o 'toki-pona')" \
+		-o $@ $<
+	# TODO: dir level metadata instead of... this? for css
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%: $(STATICDIR)/%
 	@mkdir -p $(@D)
 	cp -r $< $@
+
+$(BUILDDIR)/%.css: $(STATICDIR)/%.css
+	@mkdir -p $(@D)
+	cp -r $< $@
+	$(MINIFIER) $@ $@
 
 dev: stopdev
 	docker rm $(DEVNAME) | true

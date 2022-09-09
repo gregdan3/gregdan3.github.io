@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
   <head>
     <meta charset="UTF-8" />
     <meta
       name="viewport"
       content="width=device-width, height=device-height, user-scalable=yes, initial-scale=1.0"
     />
-    <meta property="og:title" content="gregsite - <?theme title?>" />
+    $if(date-meta)$
+    <meta name="date" content="$date-meta$" />
+    $endif$
+    <meta property="og:title" content="gregsite - $pagetitle$" />
     <meta property="og:type" content="website" />
-    <meta
-      property="og:url"
-      content="https://gregdan3.github.io/<?theme dir?><?theme source?>"
-    />
+    <meta property="og:url" content="https://gregdan3.github.io/$directory$" />
     <meta property="og:image" content="/avatar.jpg" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="gregsite" />
@@ -19,10 +19,12 @@
       property="og:description"
       content="gregsite, read because it's free"
     />
-    <title>gregsite - <?theme title?></title>
+    <title>gregsite - $pagetitle$</title>
     <link href="https://gregdan3.github.io/" rel="canonical" />
     <link href="/style.css" rel="stylesheet" type="text/css" />
-    <link href="./style.css" rel="stylesheet" type="text/css" />
+    $if(extra-css)$
+    <link href="/$extra-css$/style.css" rel="stylesheet" type="text/css" />
+    $endif$
     <link href="/favicon.ico" rel="icon" type="image/png" />
   </head>
   <body>
@@ -31,7 +33,7 @@
         ><img src="/avatar.jpg" alt="gregdan3's avatar"
       /></a>
       <h2><a href="/">gregdan3</a></h2>
-      <h3><?theme title?></h3>
+      <h3>$pagetitle$</h3>
     </header>
     <nav>
       <a href="/">Home</a> <a href="/blog/">Blogzone</a>
@@ -39,7 +41,10 @@
       <!-- <a href="/projects/">Projects</a> -->
       <a href="/toki-pona/">Toki Pona</a>
     </nav>
-    <article><?theme body?></article>
+    <article>
+      $for(include-before)$ $include-before$ $endfor$ $body$
+      $for(include-after)$ $include-after$ $endfor$
+    </article>
     <footer>
       <p>Licensed under <a href="/LICENSE.txt">GPLv3</a>.</p>
       <p>

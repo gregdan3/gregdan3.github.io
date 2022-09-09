@@ -4,19 +4,21 @@
 
 ### Words to Know
 
-> %tokipona%
->
-> | Glyph | Word | Definition                                       |
-> | ----- | ---- | ------------------------------------------------ |
-> | seme  | seme | what, (request information)                      |
-> | anu   | anu  | or, (between question phrases)                   |
-> | ijo   | ijo  | thing, (literally anything)                      |
-> | unpa  | unpa | sex, sexual relations                            |
-> | meli  | meli | girl, woman, female                              |
-> | mije  | mije | boy, man, male                                   |
-> |       |      |                                                  |
-> | a     | a    | (mark exclamation, excitement, emphasis)         |
-> | pu    | pu   | to interact with Toki Pona: The Language of Good |
+::: tokipona
+
+| Glyph | Word | Definition                                       |
+| ----- | ---- | ------------------------------------------------ |
+| seme  | seme | what, (request information)                      |
+| anu   | anu  | or, (between question phrases)                   |
+| ijo   | ijo  | thing, (literally anything)                      |
+| unpa  | unpa | sex, sexual relations                            |
+| meli  | meli | girl, woman, female                              |
+| mije  | mije | boy, man, male                                   |
+|       |      |                                                  |
+| a     | a    | (mark exclamation, excitement, emphasis)         |
+| pu    | pu   | to interact with Toki Pona: The Language of Good |
+
+:::
 
 ## Overview
 
