@@ -6,20 +6,20 @@
 
 ::: tokipona
 
-| Glyph  | Word   | Definition                                        |
-| ------ | ------ | ------------------------------------------------- |
-| e      | e      | (mark an object; between the verb and the object) |
-| wile   | wile   | want, need, to want                               |
-| lukin  | lukin  | eyes, to look, to try                             |
-| sona   | sona   | knowledge, understanding, to know                 |
-| pali   | pali   | create, work                                      |
-| lipu   | lipu   | paper, card, document, website                    |
-| kute   | kute   | ear, hear, listen, pay attention to               |
-| jo     | jo     | have, possess, carry, own                         |
-| pana   | pana   | give, emit, provide                               |
-| pakala | pakala | destroy, break, shatter, explode                  |
-| pilin  | pilin  | feeling, emotion                                  |
-| ante   | ante   | change, alter, other                              |
+| Glyph  | Word   | Definition                                             |
+| ------ | ------ | ------------------------------------------------------ |
+| e      | e      | (mark an object; between the verb and the object)      |
+| wile   | wile   | want, need, to want                                    |
+| lukin  | lukin  | eyes, to look, to try                                  |
+| sona   | sona   | knowledge, understanding, to know                      |
+| pali   | pali   | create, work, creation                                 |
+| lipu   | lipu   | paper, card, document, website, leaf, small flat thing |
+| kute   | kute   | ear, hear, listen, pay attention to                    |
+| jo     | jo     | have, possess, carry, own                              |
+| pana   | pana   | give, emit, provide, gift                              |
+| pakala | pakala | destroy, break, shatter, explode, ruin, mistake        |
+| pilin  | pilin  | feeling, emotion, touch, contact                       |
+| ante   | ante   | change, alter, other, different                        |
 
 :::
 
@@ -27,9 +27,9 @@
 
 This new sentence is capable of changing things in the world. The subject can now act on or apply changes to other things, with the use of `e`!
 
-> [mi/sina] [verb/adjective] e [object]
+> `[mi/sina] [verb/adjective] e [object]`
 
-> [subject] li [verb/adjective] e [object]
+> `[subject] li [verb/adjective] e [object]`
 
 <details><summary>A note about "predicate"</summary>
 
@@ -62,6 +62,7 @@ The `jan` becomes `pona` in some way, as in the translations given.
 - Rest makes you confident
 - Napping makes you energetic
 - Relaxing energizes you
+- Vacation empowers you
 
 </details>
 
@@ -90,13 +91,31 @@ Instead, the subject is the only one that does any `pilin`.
 
 </details>
 
-Again, the `telo` is _wanted_ or _needed_, but it does not become `wile` or do the action `wile`. The subject _wants_, _needs_, `wile`.
+Again, the `telo` is _wanted_ or _needed_, but it does not become `wile` or do the action `wile` or become describable by `wile`. The subject _wants_, _needs_, `wile` the `telo`.
 
 As you study, you'll get an intuitive sense for this difference.
 Some words will be actions the subject takes on an object, but which do not change that object.
 Other words will change the object in some way, usually applying a new property to the object.
 
-## Exercises / Examples
+<details> <summary> A note on the above </summary>
+
+As you become more advanced in Toki Pona's grammar, you'll learn that the above is somewhat disingenuous. It _is_ possible to describe an object which becomes wanted as a wanted object, but for the time being, this simplification will work.
+
+That said, the following is possible:
+
+> mi wile e telo.
+
+"I want water."
+
+> telo wile li pona e mi.
+
+"The water I want will make me feel better."
+
+This uses a modifier to demonstrate the point, now referencing a "wanted liquid."
+
+</details>
+
+## Exercises
 
 ### Toki Pona to English
 
@@ -125,7 +144,7 @@ I understood the textbook!
 
 </details>
 
-Halloween night! A group of sheet-clad friends, dressed like classic ghosts, walk as a group from home to home, shouting "Trick or treat!" and getting delicious piles of sweets in hand at each door! At the end of the night, all the friends compare their hauls. One friend pulls a weighty, dirty chunk from his bag and says...
+Halloween night! A group of sheet-clad friends, dressed like classic ghosts, walk from home to home shouting "Trick or treat!" and get piles of sweets in hand at each door! At the end of the night, everyone compares their hauls. One friend pulls a weighty, dirty chunk from his bag and says...
 
 <details> <summary> mi jo e kiwen... </summary>
 
@@ -138,25 +157,51 @@ I have a rock...
 - I have a gem!
 - I have gravel!
 - I have a durable chunk.
+- I got a brick.
 
 </details>
 
-You and your sister are
+You and your brother are up to no good, trying to play a prank the neighbor. You just finished setting up the sprinkler system to go off when your neighbor walks out, when your brother yells a warning out at you:
 
-<details> <summary> mama li lukin e sina </summary>
+<details> <summary> mama li lukin e sina! </summary>
 
-Mom is looking at you!
+Mom sees you!
 
 ---
 
 - Mom is looking at you
-- Dad is
+- Dad is looking at you
+- The babysitter sees you!
+- The parents are looking at you
+- The nanny is staring at you
 
 </details>
 
-<details> <summary> mi pakala e musi </summary>
+You're standing out on the beach in a late summer evening, watching the waves roll in. As time passes, and only the moon is left illuminating the surface of the water, you begin to notice a soft white foam piling at the water's edge. You remark to yourself:
+
+<details> <summary> telo li pali e ko </summary>
+
+The water is making foam.
 
 ---
+
+- Water creates mud.
+- Waterfalls erode rock into sand (create sand).
+
+</details>
+
+You and your friends are playing hide-and-seek. The one friend who is "it" is standing at the base of the tree, but only pretending to close their eyes while counting. As soon as the game starts, they rush to tag everyone they saw hide, and then when the game ends, everyone complains at once:
+
+<details> <summary> sina pakala e musi! </summary>
+
+You ruined the game!
+
+---
+
+- You tore up the boardgame!
+- You broke the toy!
+- You shattered the doll!
+- You messed up the joke!
 
 </details>
 
@@ -176,98 +221,128 @@ You changed the code...
 
 </details>
 
+You're late to a choir performance! You race from the parking lot to the auditorium doors, pushing them open with a _thump_ and then pause- and listen. You hear the opening piece, and whisper under your breath:
+
 <details> <summary> mi kute e kulupu </summary>
+
+I hear the choir!
 
 ---
 
+- I listen to the community
+- I hear the group
+- I overhear the family
+- We listen to the neighborhood
+
 </details>
 
-A young child is confused- for years, she's stayed home and spent all her time playing. Suddenly she now has to go to "school," and spend so much time there! Her mom drops her off for her first day
+A young child is confused- for years, she's stayed home and spent all her time playing. Suddenly she now has to go to "school," and spend so much time there! Her mom drops her off, crying and wailing, for her first day. Then mom shushes her and explains how school works, her child's eyes widening as she listens:
 
 <details> <summary> jan li pana e sona </summary>
 
+People will teach you!
+
 ---
+
+- People will give you knowledge.
+- Somebody provides information.
+- The person gives understanding.
 
 </details>
 
-<details> <summary>   </summary>
+On a walkthrough of a science museum, you find yourself in a hands-on exhibit full of boxes! You can't see what's inside, but the organizer directs you to reach in and feel. You reach into a box and feel something gooshy and rubbery. You squish it- but you have no idea what it is! The organizer tells you:
+
+<details> <summary> sina pilin e ko! </summary>
+
+You're feeling the gum!
 
 ---
+
+- You're touching the goop.
+- You're feeling the moss.
+- You're touching the slime
+- You're in contact with the paste.
+- Y'all are feeling sand.
+- You felt the mud
+- You touched the dust
 
 </details>
 
-<details> <summary> </summary>
+You walk through the forest toward your personal getaway, a cozy cabin far from home. When you get there, you find the cabin in disrepair! Vines now creep up the sides, and weeds overgrow the garden; the home is clearly starved of care! You resolve to restore the garden and cabin, and remark to yourself:
+
+<details> <summary> kasi li wile e pona! mi pona e kasi. </summary>
+
+The garden needs help! I will help the plants.
 
 ---
 
-</details>
-
-<details> <summary> </summary>
-
----
+- The tree wants to feel better. I will help the tree.
+- The grass needs to heal. I will help it.
 
 </details>
 
 ### English to Toki Pona
 
-<details> <summary> </summary>
+<details> <summary> Food will make you tall. </summary>
 
----
-
-</details>
-<details> <summary> </summary>
-
----
+moku li suli e sina
 
 </details>
-<details> <summary> </summary>
+<details> <summary> Help strengthens the community.  </summary>
 
----
-
-</details>
-<details> <summary> </summary>
-
----
+pona li wawa e kulupu
 
 </details>
-<details> <summary> </summary>
+<details> <summary> The person is touching the leaf.</summary>
 
----
+jan li pilin e kasi
 
-</details>
-<details> <summary> </summary>
-
----
+jan li pilin e lipu
 
 </details>
-<details> <summary> </summary>
+<details> <summary> Understanding changes people. </summary>
 
----
-
-</details>
-<details> <summary> </summary>
-
----
+sona li ante e jan
 
 </details>
-<details> <summary> </summary>
+<details> <summary> Giving makes people feel better.  </summary>
 
----
-
-</details>
-<details> <summary> </summary>
-
----
+pana li pona e jan
 
 </details>
-<details> <summary> </summary>
+<details> <summary> You spilled something on the book! </summary>
 
----
+sina jaki e lipu!
 
 </details>
-<details> <summary> </summary>
+<details> <summary> I see a garbagefire. </summary>
 
----
+mi lukin e jaki
+
+mi lukin e pakala
+
+</details>
+<details> <summary> I'm making a fire </summary>
+
+mi pali e seli
+
+</details>
+<details> <summary> The person is listening to something different. </summary>
+
+jan li kute e ante.
+
+</details>
+<details> <summary> You have eyes.  </summary>
+
+sina jo e lukin.
+
+</details>
+<details> <summary> You broke the  </summary>
+
+</details>
+<details> <summary> You muddied the water. </summary>
+
+sina ko e telo. telo li ko.
 
 </details>
 
@@ -277,30 +352,32 @@ A young child is confused- for years, she's stayed home and spent all her time p
 
 Toki Pona sentences now look like this:
 
-> [subject] (li) [verb/adjective] (e [object])
+> `[subject] (li) [verb/adjective] (e [object])`
 
-Parentheses indicate something which is optional or conditional, and brackets are stand-ins as before.
+Parentheses indicate something which is optional or conditional, and brackets are stand-ins for words as before.
 
-Breaking it down, we can talk about stuff the speaker and listener do, or what the speaker/listener are like:
+Breaking it down, we can talk about what the speaker and listener do, or what describes the speaker/listener:
 
-> [mi/sina] [verb/adjective]
+> `[mi/sina] [verb/adjective]`
 
 We can talk about what other things do or are like, too:
 
-> [subject] li [verb/adjective]
+> `[subject] li [verb/adjective]`
 
-And we can newly talk about what the speaker, listener, or other subjects do to _other things_.
+We can now talk about what the speaker and listener do to _other things_.
 
-> [mi/sina] [verb/adjective] e [object]
+> `[mi/sina] [verb/adjective] e [object]`
 
-<br>
+And the same goes for what third person things do to other third person things, including themselves!
 
-> [subject] li [verb/adjective] e [object]
+> `[subject] li [verb/adjective] e [object]`
 
 #### Content Words and Particles
+
+The list of particles we know has grown to include `e`! Every other new word is a content word.
 
 ---
 
 [Previous lesson](./li.html)
 
-[Next lesson](./ona-ni.html)
+, different<!-- [Next lesson](./ona-ni.html) -->

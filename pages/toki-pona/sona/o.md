@@ -26,7 +26,7 @@
 
 ## Overview
 
-## Exercises / Examples
+## Exercises
 
 ## Takeaway
 

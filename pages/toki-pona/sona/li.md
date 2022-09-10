@@ -27,7 +27,7 @@
 
 The next type of Toki Pona sentence is a simple but powerful addition!
 
-> [subject] li [predicate]
+> `[subject] li [predicate]`
 
 With this sentence, you can talk about things other than yourself and your listener. Any word but `mi` and `sina` can be in the subject while `li` is present, and any word can be in the predicate! Anything is possible! We're still limited to either basic action or description, but you'll find that the variety in Toki Pona words lets you say a lot.
 
@@ -170,7 +170,7 @@ The food's gone bad!
 
 ::: info
 
-> Some of these will have multiple translations under the spoiler!
+Some of these will have multiple translations under the spoiler!
 
 :::
 
@@ -272,4 +272,4 @@ There are also a handful of words which are so-called **pseudo-particles**. This
 
 [Previous lesson](./mi-sina.html)
 
-<!-- [Next lesson](./e.html) -->
+[Next lesson](./e.html)

@@ -26,7 +26,7 @@
 
 ## Overview
 
-## Exercises / Examples
+## Exercises
 
 As with the preverbs, there are two separate example groups that use the new words in different ways!
 

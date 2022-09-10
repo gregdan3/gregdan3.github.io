@@ -29,7 +29,7 @@ By the way, check out [this dictionary](https://lipu-linku.github.io)! If you ev
 
 The most basic Toki Pona sentence has two parts: a subject and a predicate.
 
-> [subject] [predicate]
+> `[subject] [predicate]`
 
 For this kind of sentence, two subjects are possible:
 
@@ -45,6 +45,10 @@ This means English interpretations looks something like this:
 > You are [predicate]
 
 > Y'all are [predicate]
+
+And sentences always look like this:
+
+> `[mi/sina] [predicate]`
 
 The predicate is always able to be a verb, adjective, or both. Any
 verb/adjective may be used to describe the speaker or listener, and talk about what the speaker or listener does.

@@ -28,7 +28,7 @@
 
 ## Overview
 
-## Exercises / Examples
+## Exercises
 
 #### ona
 

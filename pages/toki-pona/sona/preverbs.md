@@ -27,7 +27,7 @@ Another note: We've seen some of these words before!
 
 ## Overview
 
-## Exercises / Examples
+## Exercises
 
 I introduced new words for this lesson, so here are some examples that don't use these new words as preverbs. That way you can get a feel for them!
 

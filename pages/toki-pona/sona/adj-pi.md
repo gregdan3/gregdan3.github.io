@@ -24,7 +24,7 @@
 
 ## Overview
 
-## Exercises / Examples
+## Exercises
 
 #### Colors
 

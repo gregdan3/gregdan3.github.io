@@ -22,7 +22,7 @@
 
 ## Overview
 
-## Exercises / Examples
+## Exercises
 
 Here, I provide consecutive questions and answers together. The questions are on the main spoiler, and the answers are in a spoiler underneath the first!
 
