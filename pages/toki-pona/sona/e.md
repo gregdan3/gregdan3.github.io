@@ -337,7 +337,11 @@ jan li kute e ante.
 sina jo e lukin.
 
 </details>
-<details> <summary> You broke the  </summary>
+<details> <summary> You tore up the plant!  </summary>
+
+sina pakala e kasi
+
+sina ike e kasi
 
 </details>
 <details> <summary> You muddied the water. </summary>
@@ -380,4 +384,4 @@ The list of particles we know has grown to include `e`! Every other new word is 
 
 [Previous lesson](./li.html)
 
-, different<!-- [Next lesson](./ona-ni.html) -->
+<!-- [Next lesson](./ona-ni.html) -->
