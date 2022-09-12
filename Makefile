@@ -12,8 +12,8 @@ STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
 
 MD_TO_HTML=pandoc --from=markdown+yaml_metadata_block --template=$(TEMPLATE)
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
-TOC_MAKER=markdown-toc --maxdepth 4 --no-stripHeadingTags --indent="  " --bullets="-" -i
-MAPPER=markmap --no-open
+TOC_MAKER=npx markdown-toc --maxdepth 4 --no-stripHeadingTags --indent="  " --bullets="-" -i
+MAPPER=npx markmap --no-open
 
 DEVNAME=gregdan3-website
 

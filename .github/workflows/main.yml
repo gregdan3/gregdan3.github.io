@@ -9,13 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: install dependencies
-        run: sudo apt-get install -y pandoc htmlmin npm && npm i -g markmap-cli markdown-toc
+        run: sudo apt-get install -y pandoc htmlmin npm
       - name: checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 1
       - name: cd repo
         run: cd ${{ github.workspace }}
+      - name: install npm dependencies
+        run: npm i
       - name: build
         run: make
       - name: deploy
