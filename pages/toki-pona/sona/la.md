@@ -2,6 +2,15 @@
 % gregdan3
 % date unknown
 
+<!-- toc -->
+
+  - [Words to Know](#words-to-know)
+- [Overview](#overview)
+- [Exercises](#exercises)
+- [Takeaway](#takeaway)
+
+<!-- tocstop -->
+
 ### Words to Know
 
 ::: tokipona

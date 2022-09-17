@@ -2,42 +2,80 @@
 % gregdan3
 % 2022-08-16
 
+<!-- toc -->
+
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+- [Overview](#overview)
+- [Exercises](#exercises)
+  - [Toki Pona to English](#toki-pona-to-english)
+  - [English to Toki Pona](#english-to-toki-pona)
+- [Takeaway](#takeaway)
+    - [Grammar](#grammar)
+    - [Content Words and Particles](#content-words-and-particles)
+
+<!-- tocstop -->
+
+---
+
 ### Words to Know
+
+All new words will be separated into categories!
+
+#### Particles
+
+Particles are for grammar. They are used for sentence structure. Most do not have meanings.
 
 ::: tokipona
 
-| Glyph  | Word   | Definition                                      |
-| ------ | ------ | ----------------------------------------------- |
-| li     | li     | (mark a verb; between the subject and the verb) |
-| kasi   | kasi   | plant, flower, tree, vegetation                 |
-| kiwen  | kiwen  | rock, hard, tough, sturdy, durable              |
-| ko     | ko     | dust, goop, clay, paste, squishy thing          |
-| telo   | telo   | liquid, water, fluid                            |
-| kulupu | kulupu | group, collection, nation, community            |
-| jaki   | jaki   | gross, garbage, trash, sick                     |
-| wawa   | wawa   | power, strength, courage, energy, electricity   |
-| suwi   | suwi   | sweet, soft, fluffy, cute, fragrant             |
-| nasa   | nasa   | strange, weird, silly, rare                     |
-| seli   | seli   | hot, fire, warm, hot object                     |
-| lete   | lete   | cold, ice, raw, undercooked, cold object        |
+| Glyph | Word | Use                                    |
+| ----- | ---- | -------------------------------------- |
+| li    | li   | (mark a predicate; mark a 'li phrase') |
 
 :::
+
+#### Content Words
+
+Content words have meaning, and can be in many parts of a sentence!
+
+::: tokipona
+
+| Glyph  | Word   | Definition                                    |
+| ------ | ------ | --------------------------------------------- |
+| kasi   | kasi   | plant, flower, tree, vegetation               |
+| kiwen  | kiwen  | rock, hard, tough, sturdy, durable            |
+| ko     | ko     | dust, goop, clay, paste, squishy thing        |
+| telo   | telo   | liquid, water, fluid                          |
+| kulupu | kulupu | group, collection, nation, community          |
+| jaki   | jaki   | gross, garbage, trash, sick                   |
+| wawa   | wawa   | power, strength, courage, energy, electricity |
+| suwi   | suwi   | sweet, soft, fluffy, cute, fragrant           |
+| nasa   | nasa   | strange, weird, silly, rare                   |
+| seli   | seli   | hot, fire, warm, hot object                   |
+| lete   | lete   | cold, ice, raw, undercooked, cold object      |
+
+:::
+
+The words from the last lesson were content words too!
 
 ## Overview
 
 The next type of Toki Pona sentence is a simple but powerful addition!
 
-> `[subject] li [predicate]`
+> `[subject] li [phrase]`
 
-With this sentence, you can talk about things other than yourself and your listener. Any word but `mi` and `sina` can be in the subject while `li` is present, and any word can be in the predicate! Anything is possible! We're still limited to either basic action or description, but you'll find that the variety in Toki Pona words lets you say a lot.
+From now on, I will call the predicate phrase the "li phrase," after this new particle. This may seem odd considering the sentences with `mi`/`sina` from the previous lesson. Read on!
+
+With this sentence, you can talk about things other than yourself and your listener. Any word but `mi` and `sina` can be in the subject while `li` is present, and any word can be in the li phrase! Anything is possible! We're still limited to either basic action or description, but you'll find that the variety in Toki Pona words lets you say a lot.
 
 <details> <summary> A note on "any word" </summary>
 
-I do say "any word", but clever observers will have noticed I am treating the word `li` differently. Its definition is given in parentheses, and it is treated as a grammatical structure instead of as a word. This is because `li` cannot be used in the subject or predicate, with some subtle exceptions we'll get to later. For now, everything _else_ can be in the subject or predicate.
+I do say "any word", but clever observers will have noticed I am treating the word `li` differently. Its definition is given in parentheses, and it is treated as a grammatical structure instead of as a word. This is because `li` cannot be used in the subject or li phrase, with some subtle exceptions we'll get to later. For now, everything _else_ can be in the subject or li phrase.
 
 </details>
 
-Since a word may be in the subject, all the words in the predicate before can now be used as subjects and reference objects or actions instead of being an action! This leans even more heavily into the verb/adjective duality described before. Unlike that duality, you can tell which sense a word is meant in based on its place in a sentence. Subjects are more likely to be specific objects or ideas, where predicates are more likely to be actions or descriptions!
+Since any word may be in the subject when you use li, all the words in the lesson before can now be used as subjects! This leans heavily into the verb/adjective duality described before, but now in the subject. Unlike that duality, you can tell which sense a word is meant in based on its place in a sentence. Subjects are more likely to be specific objects or ideas, where li phrases are more likely to be actions or descriptions!
 
 ::: warning
 
@@ -252,17 +290,17 @@ kiwen li jaki
 
 #### Grammar
 
-In the previous lesson, we covered a sentence which exclusively began with either `mi` or `sina`. In this lesson, we covered a sentence where anything can start the sentence- so long as it is followed by `li`. In fact, these are the same kind of sentence!
+In the previous lesson, we covered a sentence which exclusively began with either `mi` or `sina`. In this lesson, we covered a sentence where anything can start the sentence- so long as it is followed by `li`. In fact, these are the same kind of sentence, which is why the predicate is now named the li phrase!
 
-> `[mi/sina] [predicate]`
+> `[mi/sina] [phrase]`
 
-> `[subject] li [predicate]`
+> `[subject] li [phrase]`
 
 Another way to think about this sentence is this: if the subject is _exactly_ mi or _exactly_ sina, don't include `li`.
 
 #### Content Words and Particles
 
-As in many examples, any _meaningful_ word may appear in either the subject _or_ the predicate, or even in both at once. When I say "meaningful", this refers the idea of a **content word**, or a word which serves some _semantic_ function instead of an exclusively grammatical one. The word `li` is only grammatical- it is not a content word. Every other word so far is a content word.
+Any _meaningful_ word may appear in either the subject, the li phrase, or both at once. When I say "meaningful", this refers the idea of a **content word**, or a word which serves some _semantic_ function instead of an exclusively grammatical one. The word `li` is only grammatical- it is not a content word. Every other word so far is a content word.
 
 The word `li` is a **particle**, and is not the only one! We will learn about the rest in future lessons. What they have in common is having no semantic function- no meaning.
 

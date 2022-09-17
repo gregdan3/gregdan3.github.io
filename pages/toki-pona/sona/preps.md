@@ -2,6 +2,18 @@
 % gregdan3
 % date unknown
 
+<!-- toc -->
+
+  - [Words to Know](#words-to-know)
+- [Overview](#overview)
+- [Exercises](#exercises)
+    - [Without Prepositions](#without-prepositions)
+    - [With Prepositions](#with-prepositions)
+    - [others](#others)
+- [Takeaway](#takeaway)
+
+<!-- tocstop -->
+
 ### Words to Know
 
 ::: tokipona

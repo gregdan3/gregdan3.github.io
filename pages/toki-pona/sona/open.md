@@ -2,6 +2,21 @@
 % gregdan3
 % 2022-07-30
 
+<!-- toc -->
+
+- [How to Read](#how-to-read)
+  - [Vowels](#vowels)
+  - [Consonants](#consonants)
+  - [Syllables](#syllables)
+- [How to Write](#how-to-write)
+  - [sitelen Lasina - "Latin writing"](#sitelen-lasina---latin-writing)
+  - [sitelen pona - "good writing"](#sitelen-pona---good-writing)
+- [As you read...](#as-you-read)
+
+<!-- tocstop -->
+
+---
+
 ## How to Read
 
 If you know the International Phonetic Alphabet, Toki Pona is read like that.
@@ -51,8 +66,8 @@ to Toki Pona to be sure!
 
 ### Syllables
 
-In Toki Pona, syllables can start with a vowel at the start of words, and
-can start with consonants anywhere. Here are all possible syllable
+In Toki Pona, syllables can start with a vowel at the start of a word, and
+can start with consonants any time. Here are all possible syllable
 types:
 
 - a single vowel (**e**sun)
@@ -119,7 +134,7 @@ There are no rules for punctuation, but it is common to end sentences with
 
 For now, don't worry about punctuation much!
 
-## sitelen pona - "good writing"
+### sitelen pona - "good writing"
 
 Toki Pona can also be written with a system known as sitelen pona. It assigns
 one character per word, which is convenient when you have few words! sitelen
@@ -151,9 +166,33 @@ Lastly, symbols can be stacked or nested! Stacked symbols are read from the bott
 
 Again, don't worry about _all_ this just yet! You'll find what feels comfortable for you as you learn.
 
-## Other Notes
+<!-- ## Exercises -->
 
-The definitions given for words are _not_ comprehensive, and cannot be. The same goes for the exercises in every lesson. Instead, each is a list of possible meanings and a list of examples- words and phrases encompass far more than the examples can cover! Try to think of more things you could refer to with each word as you learn.
+<!-- Try to pronounce the following words: -->
+
+<!-- <details><summary>lukin</summary> -->
+<!-- <audio controls src="/lukin.mp3"> </audio> -->
+<!-- </details> -->
+
+<!-- <details><summary>kepeken</summary> -->
+<!-- <audio controls src="/kepeken.mp3"> </audio> -->
+<!-- </details> -->
+
+<!-- <details><summary>loje</summary> -->
+<!-- <audio controls src="/loje.mp3"> </audio> -->
+<!-- </details> -->
+
+<!-- <details><summary>pona</summary> -->
+<!-- <audio controls src="/pona.mp3"> </audio> -->
+<!-- </details> -->
+
+<!-- <details><summary>soweli</summary> -->
+<!-- <audio controls src="/soweli.mp3"> </audio> -->
+<!-- </details> -->
+
+## As you read...
+
+The definitions given for words are examples, not complete. The same goes for exercises. Words can refer to more than the examples, and be used in more ways than appear in the exercises. Be experimental, try many things as you learn!
 
 Also, if you ever see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
 

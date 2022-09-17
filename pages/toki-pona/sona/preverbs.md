@@ -2,22 +2,45 @@
 % gregdan3
 % date unknown
 
+<!-- toc -->
+
+  - [Words to Know](#words-to-know)
+    - [Content Words](#content-words)
+    - [Preverbs](#preverbs)
+- [Overview](#overview)
+- [Exercises](#exercises)
+    - [Not Preverbs](#not-preverbs)
+    - [Preverbs](#preverbs-1)
+    - [More examples with `ala`](#more-examples-with-ala)
+    - [One more note on `taso`](#one-more-note-on-taso)
+- [Takeaway](#takeaway)
+
+<!-- tocstop -->
+
 ### Words to Know
 
 ::: tokipona
 
-| Glyph | Word      | Definition                                 |
-| ----- | --------- | ------------------------------------------ |
-| wile  | wile      | want, need, to want                        |
-| ken   | ken       | capability, power, permission, possibility |
-| kama  | kama      | summon, arrive, invite                     |
-| awen  | awen      | stay, remain, continue, endure             |
-| lukin | lukin     | eyes, to look, to try                      |
-| sona  | sona      | knowledge, understanding, to know          |
-| alasa | alasa     | hunt, seek, search, forage, to try         |
-| ala   | ala       | none, nothing, not, zero                   |
-| ale   | ale / ali | every, all, universe, countless            |
-| taso  | taso      | but, however, only, exclusive              |
+#### Content Words
+
+#### Preverbs
+
+| Glyph | Word  | Definition                                 |
+| ----- | ----- | ------------------------------------------ |
+| wile  | wile  | want, need, to want                        |
+| ken   | ken   | capability, power, permission, possibility |
+| kama  | kama  | summon, arrive, invite                     |
+| awen  | awen  | stay, remain, continue, endure             |
+| lukin | lukin | eyes, to look, to try                      |
+| sona  | sona  | knowledge, understanding, to know          |
+| alasa | alasa | hunt, seek, search, forage, to try         |
+
+| Glyph | Word  | Definition                                 |
+| ----- | ----- | ------------------------------------------ |
+| nanpa | nanpa | number                                     |
+| nanpa | nanpa | (regroup modifiers into an ordinal number) |
+| wan   | wan   | one, unite, join, group                    |
+| tu    | tu    | tu, split, divide, cut                     |
 
 :::
 

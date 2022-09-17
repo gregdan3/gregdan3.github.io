@@ -2,6 +2,12 @@
 % gregdan3
 % date unknown
 
+<!-- toc -->
+
+- [nimi ku suli](#nimi-ku-suli)
+
+<!-- tocstop -->
+
 ## nimi ku suli
 
 There are some words in use which were not in any lesson, or (entirely) in Toki Pona: The Language of Good. Here they are!

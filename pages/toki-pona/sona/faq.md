@@ -92,3 +92,5 @@ isipin
 [Back home](/toki-pona/)
 
 
+
+

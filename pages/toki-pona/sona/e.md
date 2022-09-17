@@ -2,13 +2,41 @@
 % gregdan3
 % date unknown
 
+<!-- toc -->
+
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+- [Overview](#overview)
+- [Exercises](#exercises)
+  - [Toki Pona to English](#toki-pona-to-english)
+  - [English to Toki Pona](#english-to-toki-pona)
+- [Takeaway](#takeaway)
+    - [Grammar](#grammar)
+    - [Content Words and Particles](#content-words-and-particles)
+
+<!-- tocstop -->
+
+---
+
 ### Words to Know
+
+#### Particles
+
+::: tokipona
+
+| Glyph | Word | Use                                  |
+| ----- | ---- | ------------------------------------ |
+| e     | e    | (mark an object; mark an 'e phrase') |
+
+:::
+
+#### Content Words
 
 ::: tokipona
 
 | Glyph  | Word   | Definition                                             |
 | ------ | ------ | ------------------------------------------------------ |
-| e      | e      | (mark an object; between the verb and the object)      |
 | wile   | wile   | want, need, to want                                    |
 | lukin  | lukin  | eyes, to look, to try                                  |
 | sona   | sona   | knowledge, understanding, to know                      |
@@ -27,22 +55,13 @@
 
 This new sentence is capable of changing things in the world. The subject can now act on or apply changes to other things, with the use of `e`!
 
-> `[mi/sina] [verb/adjective] e [object]`
+> `[mi/sina] [phrase] e [object]`
 
-> `[subject] li [verb/adjective] e [object]`
+> `[subject] li [phrase] e [object]`
 
-<details><summary>A note about "predicate"</summary>
+I indicate the new phrase as "object," but it would be valid to call it the "e phrase" too.
 
-In common grammatical terms, "predicate" refers to the entire verb clause, including the object(s) of the sentence.
-It would be slightly more convenient, but disingenuous, to keep using predicate in place of the verb/adjective.
-I considered it wrong enough to replace, meaning the alternative is to always use "verb/adjective" instead... Which is differently disingenuous!
-You can't win, unless you invent a word.
-
-Anyway, that grammatical position can be a verb, adjective, or both. It can also do other things which we'll get to, and it is the _start_ of the predicate.
-
-</details>
-
-In this kind of sentence, the subject usually applies the verb/adjective to the object. Here are a few examples:
+In this kind of sentence, the subject usually applies the li phrase to the object. Here are a few examples:
 
 <details> <summary> mi pona e jan </summary>
 
@@ -356,25 +375,25 @@ sina ko e telo. telo li ko.
 
 Toki Pona sentences now look like this:
 
-> `[subject] (li) [verb/adjective] (e [object])`
+> `[subject] (li) [phrase] (e [object])`
 
 Parentheses indicate something which is optional or conditional, and brackets are stand-ins for words as before.
 
 Breaking it down, we can talk about what the speaker and listener do, or what describes the speaker/listener:
 
-> `[mi/sina] [verb/adjective]`
+> `[mi/sina] [phrase]`
 
 We can talk about what other things do or are like, too:
 
-> `[subject] li [verb/adjective]`
+> `[subject] li [phrase]`
 
 We can now talk about what the speaker and listener do to _other things_.
 
-> `[mi/sina] [verb/adjective] e [object]`
+> `[mi/sina] [phrase] e [object]`
 
 And the same goes for what third person things do to other third person things, including themselves!
 
-> `[subject] li [verb/adjective] e [object]`
+> `[subject] li [phrase] e [object]`
 
 #### Content Words and Particles
 
@@ -384,4 +403,4 @@ The list of particles we know has grown to include `e`! Every other new word is 
 
 [Previous lesson](./li.html)
 
-<!-- [Next lesson](./ona-ni.html) -->
+<!-- [Next lesson](./adj-pi.html) -->

@@ -3,21 +3,23 @@ title: Toki Pona
 author: gregdan3
 date: 2022-07-02T00:00:00.000Z
 ---
-## Contents
+
 
 <!-- toc -->
 
-- [open (beginning)](#open-beginning)
-- [lipu (documents)](#lipu-documents)
+- [open (start)](#open-start)
+- [lipu (stories)](#lipu-stories)
 - [sona (knowledge)](#sona-knowledge)
   - [kama sona (learning)](#kama-sona-learning)
   - [namako (extra)](#namako-extra)
-  - [nasin (method)](#nasin-method)
-  - [ilo (tools)](#ilo-tools)
+  - [nasin (way)](#nasin-way)
+- [ilo (tools)](#ilo-tools)
 
 <!-- tocstop -->
 
-## open (beginning)
+---
+
+## open (start)
 
 Toki Pona is an experience. Toki Pona is art. Toki Pona is many things to many
 people. It is one of the most important things in my life. The passion put
@@ -44,7 +46,7 @@ I could understand, discuss, use, and be excited about. But most importantly,
 Toki Pona gave me a bridge to learning other languages and a deeper
 understanding of my communication that I would never have had without it.
 
-## lipu (documents)
+## lipu (stories)
 
 I've translated a few stories, books, and songs into Toki Pona. Check them out!
 
@@ -95,10 +97,10 @@ at the same time as you start these lessons, to help you memorize all the words!
 - [Verbs with _li_](./sona/li.html)
 - [Objects with _e_](./sona/e.html)
 
-<!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
 <!-- - [Adjectives and _pi_](./sona/adj-pi.html) -->
 <!-- - [Preverbing verbs](./sona/preverbs.html) -->
 <!-- - [Instructions with _o_](./sona/o.html) -->
+<!-- - [Interjections and _a_](./sona/interjections.html) -->
 <!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
 <!-- - [Context, Comparisons, _la_](./sona/la.html) -->
 <!-- - [Questions, answers, _seme_](./sona/seme.html) -->
@@ -120,12 +122,13 @@ that most others will understand.
 <!-- - Grammar -->
   <!-- - [Multiple _li_ with sina with mi](./sona/multiple-li.html) -->
   <!-- - [_la_ and prepositions](./sona/la-prepositions.html) -->
-  <!-- - [Interjections and _a_](./sona/interjections.html) -->
 <!-- - Adjectives -->
   <!-- - [Proper nouns](./sona/proper-nouns.html) -->
   <!-- - [Colors and _kule_](./sona/kule.html) -->
   <!-- - [Negations with _ala_](./sona/ala.html) -->
   <!-- - [Numbers and _nanpa_](./sona/nanpa.html) -->
+
+<!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
 
 - Verbs
   - [pali doesn't (usually) mean "do"](./sona/palint.html)
@@ -136,7 +139,7 @@ that most others will understand.
 - Themed Lessons
   - [Conlang Critic opener](./sona/conlang-critic.html)
   - [Instead of Phatic Phrases](./sona/phatic-phrases.html)
-    <!-- - [Advan Comparisons](./sona/comparisons.html) -->
+    <!-- - [Advanced Comparisons](./sona/comparisons.html) -->
     <!-- - [Concepts and Translation](./sona/ante-toki.html) -->
     <!-- - [mi monsuta e sina](./sona/monsutatesu.html) -->
     <!-- - [Modern Toki Pona vs. pu](./sona/modern-tp.html) -->
@@ -144,7 +147,7 @@ that most others will understand.
     <!-- - [Beginner Mistakes](./sona/beginner-mistakes.html) -->
     <!-- - [Frequently Asked Questions](./sona/faq.html) -->
 
-### nasin (method)
+### nasin (way)
 
 nasin is a collection of lessons focusing on specific uses of Toki Pona
 which you could encounter while speaking. These are not taught as a
@@ -177,7 +180,7 @@ all of them are beneficial to your understanding of Toki Pona.
     <!-- - [preverbn't](./sona/preverbnt.html): not using preverbs -->
     <!-- - [nanpan't](./sona/nanpant.html): no number system -->
 
-### ilo (tools)
+## ilo (tools)
 
 ::: info
 

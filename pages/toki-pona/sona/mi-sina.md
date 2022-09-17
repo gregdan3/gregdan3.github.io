@@ -2,6 +2,22 @@
 % gregdan3
 % 2022-07-30
 
+<!-- toc -->
+
+  - [Words to Know](#words-to-know)
+- [Overview](#overview)
+- [Exercises](#exercises)
+  - [Toki Pona to English](#toki-pona-to-english)
+  - [English to Toki Pona](#english-to-toki-pona)
+- [Takeaway](#takeaway)
+    - [Verb/Adjective duality](#verbadjective-duality)
+    - [Broadness](#broadness)
+- [Other Notes](#other-notes)
+
+<!-- tocstop -->
+
+---
+
 ### Words to Know
 
 ::: tokipona
@@ -23,13 +39,13 @@
 
 :::
 
-By the way, check out [this dictionary](https://lipu-linku.github.io)! If you ever get lost, set "show pu words" and search for whatever you need.
+By the way, check out [this dictionary](https://lipu-linku.github.io)! If you ever get lost, set "core words" and "widespread words" then search for what you need.
 
 ## Overview
 
-The most basic Toki Pona sentence has two parts: a subject and a predicate.
+The most basic Toki Pona sentence has two parts: a subject and a predicate phrase.
 
-> `[subject] [predicate]`
+> [subject] [phrase]
 
 For this kind of sentence, two subjects are possible:
 
@@ -38,19 +54,19 @@ For this kind of sentence, two subjects are possible:
 
 This means English interpretations looks something like this:
 
-> I am [predicate]
+> I am [phrase]
 
-> We are [predicate]
+> We are [phrase]
 
-> You are [predicate]
+> You are [phrase]
 
-> Y'all are [predicate]
+> Y'all are [phrase]
 
 And sentences always look like this:
 
-> `[mi/sina] [predicate]`
+> [mi/sina] [phrase]
 
-The predicate is always able to be a verb, adjective, or both. Any
+The predicate phrase is always able to be a verb, adjective, o, which I indicate as a phrase: both. Any
 verb/adjective may be used to describe the speaker or listener, and talk about what the speaker or listener does.
 
 ## Exercises
@@ -324,7 +340,7 @@ intended! And it comes from two different effects:
 
 #### Verb/Adjective duality
 
-As noted before, predicates in Toki Pona words may be verbs, adjectives, or
+As noted before, the predicate phrase in Toki Pona words may be verbs, adjectives, or
 both! If something is an action, it is also a description. In English, you
 might say that if a person walks, they are also a walking person. Toki Pona
 runs with this idea. There is no difference between "doing" and "being"
@@ -332,28 +348,30 @@ expressed by the words or grammar.
 
 <details> <summary> A note on "verb" and "adjective" </summary>
 
-Though I do use "verb" and "adjective" to describe the properties of the sentence, they are not a great fit for what Toki Pona's words do. In the community, _predicate_ is preferred over verb, and _adjective_ is rarely used in analyzing the predicate.
+Though I do use "verb" and "adjective" to describe the predicate phrase of the sentence, they are not a great fit for what Toki Pona's words do, and neither is the word preidcate. I recommend using the term "li phrase." We'll learn why in the next lesson!
 
 </details>
 
 #### Broadness
 
-Toki Pona words have broad meanings. `mi` doesn't refer to just yourself like
-"I" does. It can also refer to a group of people including yourself like "we",
-an action taken on yourself like "myself", and something that belongs to you
+Toki Pona words have broad meanings. `mi` does not refer to only yourself like
+"I" does. It can refer to a group including yourself like "we",
+an action on yourself like "myself", and something that belongs to you
 such as "mine" or "my"; all of these depend on context and place in a sentence.
 `sina` works the same way, and so do _all_ Toki Pona words.
 
-Words do not mark plurality or tense either! `jan` may talk about one person,
-four people, an entire population of people, and anything between. `moku` may
+In short, words do not mark number! `jan` may talk about one person,
+four people, everyone in a city, and more.
+
+Words do not mark time either! `moku` may
 talk about eating right now, eating in the near future, drinking in the distant
-past, becoming edible exactly a week from now, and more.
+past, becoming edible exactly a week from now, and anything else.
 
-This is a lot, but the broadness is part of the strength of Toki Pona. And, it
+Broadness is part of the strength of Toki Pona. It
 is easier to navigate than you think! Context is everything, and understanding
-a sentence is much easier when you're seeing what it describes.
+a sentence is much easier when you're experiencing what it describes.
 
-That said, a helpful strategy for understanding a sentence with less context is
+A helpful strategy for understanding a sentence with less context is
 to consider how reasonable it is. For example, `mi moku` is able to mean "we
 are food", but it is more likely that `mi` is just the speaker, and `moku` is
 "eat". You can use this thinking to reason about sentences in the future.
