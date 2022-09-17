@@ -37,19 +37,19 @@ Anything I created or contributed to!
 #### Socials
 
 - Reddit: [/u/gregdan3d](https://reddit.com/u/gregdan3d)
-- Twitter: [@gregdan3d](https://twitter.com/gregdan3d)
+- Twitter: [\@gregdan3d](https://twitter.com/gregdan3d)
 - YouTube: [gregdan3](https://www.youtube.com/channel/UC8YRFfrcNc9AFDjI3s6mKSg)
-- Mastodon: [@gregdan3@toki.social](https://toki.social/web/accounts/107192670534304868)
+- Mastodon: [\@gregdan3@toki.social](https://toki.social/web/accounts/107192670534304868)
+- Spotify: [\@gregdan3](https://open.spotify.com/user/kxib8vnqp5n75zg96bx77ryve)
 
 #### Messaging
 
 - Email:
-  - gregdan3@pm.me
-  - gregdan3@uab.edu
-    <!-- - gregory.danielson3@gmail.com -->
-    <!-- - gregdan3@live.com -->
-- Discord: gregdan3#0042
-- Telegram: [@gregdan3](https://t.me/gregdan3)
+  - [gregdan3@pm.me](mailto:gregdan3@pm.me)
+  - [gregdan3@uab.edu](mailto:gregdan3@uab.edu)
+  - [gregory.danielson3@gmail.com](mailto:gregory.danielson3@gmail.com)
+- Discord: [gregdan3#0042](https://discord.com/users/497549183847497739)
+- Telegram: [\@gregdan3](https://gregdan3.t.me/)
   <!-- - Matrix: @gregdan3 -->
   <!-- - IRC: gregdan3@libera.chat -->
   <!--   - #tokipona -->
@@ -59,7 +59,7 @@ Anything I created or contributed to!
 
 - Github: [gregdan3](https://github.com/gregdan3)
 - Gitlab: [gregdan3](https://gitlab.com/gregdan3)
-- LinkedIn: [@gregdan3](https://www.linkedin.com/in/gregdan3)
+- LinkedIn: [\@gregdan3](https://www.linkedin.com/in/gregdan3)
 - Arch User Repository: [gregdan3](https://aur.archlinux.org/account/gregdan3)
 
 #### Games
