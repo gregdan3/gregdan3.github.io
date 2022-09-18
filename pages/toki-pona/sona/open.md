@@ -11,7 +11,10 @@
 - [How to Write](#how-to-write)
   - [sitelen Lasina - "Latin writing"](#sitelen-lasina---latin-writing)
   - [sitelen pona - "good writing"](#sitelen-pona---good-writing)
-- [As you read...](#as-you-read)
+- [How to Learn](#how-to-learn)
+  - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
+  - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
+  - [Lesson Notes](#lesson-notes)
 
 <!-- tocstop -->
 
@@ -20,12 +23,14 @@
 ## How to Read
 
 If you know the International Phonetic Alphabet, Toki Pona is read like that.
-If you don't, the vowels are like Spanish, Italian, Esperanto, or long vowels in Latin; the consonants are
-like English except `j` which makes a `y` sound. If you don't know the vowels
-in the listed languages, I have a guide below. Also, the first syllable of a word
-is always emphasized, and the others are not.
+If you don't, the vowels are like Spanish, Italian, or long vowels in Latin.
+If you don't know the vowels in these languages, read the guide [here](#vowels).
 
-<details><summary> A note for IPA-knowers </summary>
+The consonants are like English except `j` which makes a `y` sound.
+
+The first syllable of a word is stressed, and the others are not. [Listen to Toki Pona](https://youtu.be/9VjPV9BpU2I) to get a feel for this. Don't worry about understanding!
+
+<details><summary> A note for IPA-knowers and the curious </summary>
 
 What I described above is good enough- but there's more detail if you're interested!
 
@@ -33,18 +38,14 @@ The sounds of Toki Pona can be subtly different in a variety of ways. For exampl
 
 </details>
 
-You should also _listen_ to Toki Pona. Do so
-[here](https://www.youtube.com/watch?v=9VjPV9BpU2I), and don't worry about
-understanding yet!
-
 ### Vowels
 
-These are _close_ but not exact. They may change because of accent too. Listen
-to Toki Pona to be sure!
+These are _close_ but not exact. They may change because of accent too. [Listen
+to Toki Pona](https://youtu.be/E_DfpQTRvyc) to get a feel for the sound!
 
 | vowel | sound     |
 | ----- | --------- |
-| [a]   | c**a**r   |
+| [a]   | t**a**ll  |
 | [e]   | b**e**st  |
 | [i]   | wh**ee**l |
 | [o]   | r**o**w   |
@@ -52,23 +53,23 @@ to Toki Pona to be sure!
 
 ### Consonants
 
-| consonant | sound      |
-| --------- | ---------- |
-| [k]       | **k**ind   |
-| [j]       | **y**ear   |
-| [l]       | **l**ess   |
-| [m]       | **m**ark   |
-| [n]       | **n**ose   |
-| [p]       | **p**lease |
-| [s]       | **s**ave   |
-| [t]       | **t**alk   |
-| [w]       | **w**est   |
+| consonant | sound    |
+| --------- | -------- |
+| [k]       | **k**ind |
+| [j]       | **y**ear |
+| [l]       | **l**ess |
+| [m]       | **m**ark |
+| [n]       | **n**ose |
+| [p]       | **p**ace |
+| [s]       | **s**ave |
+| [t]       | **t**alk |
+| [w]       | **w**est |
 
 ### Syllables
 
-In Toki Pona, syllables can start with a vowel at the start of a word, and
-can start with consonants any time. Here are all possible syllable
-types:
+In Toki Pona, syllables can start with a consonant at any time,
+and can start with a vowel at the beginning of a word.
+Here are all possible types of syllable:
 
 - a single vowel (**e**sun)
 - a vowel and n (**an**pa)
@@ -91,56 +92,62 @@ And here are all possible syllables:
 <!-- | on  | jon | kon | lon | mon | non | pon | son | ton |     | -->
 <!-- | un  | jun | kun | lun | mun | nun | pun | sun | tun |     | -->
 
-<!-- For reference, the banned syllables have some common rules for transformation: -->
-
-<!-- | before | after | -->
-<!-- | ------ | ----- | -->
-<!-- | wu     | u     | -->
-<!-- | wo     | o     | -->
-<!-- | ji     | i     | -->
-<!-- | ti     | si    | -->
-
-<!-- But these are not the _only_ ways to realize these syllables; you can change -->
-<!-- the vowel or consonant in any way to produce a more fitting sound. -->
-
 Each of these may be followed with `n` as well.
 
 These syllables are not allowed, and so not given:
 
-- wu
-- wo
-- ji
-- ti
+- wu / wun
+- wo / won
+- ji / jin
+- ti / tin
 
 Also,
 
-- You can't have vowels side by side
-- You can't have `n` next to `m` or `n`
+- You can't have vowels next to each other.
+- You can't have `n` next to `m` or `n`.
+
+<details> <summary>A note on banned syllables</summary>
+
+The purpose of Toki Pona's banned syllables is to make pronunciation easier for learners of many language backgrounds. The syllable `[wu]` has become `/u/` in the development of some languages, and the same applies to the other syllables which all change in some way. Here's the list:
+
+- `[wu] -> /u/`
+- `[wo] -> /o/`
+- `[ji] -> /i/`
+- `[ti] -> /si/`
+- `[nn] -> /n/` or a different second consonant
+- `[nm] -> /n/` or a different second consonant
+
+As an example, the syllable を is generally written `[wo]` in romanized Japanese text, but it is pronounced `/o/`. This sound shift occurred a long time ago, but persisted in the written language.
+
+Also, this distinction does not _have_ to be written despite my use of brackets then slashes- the symbols used to represent the sound can also change or disappear as the sound of the language changes.
+
+</details>
 
 ## How to Write
 
 ### sitelen Lasina - "Latin writing"
 
-With latin characters, Toki Pona is written without capital letters except for
+In the Latin alphabet (this one!), Toki Pona is written without capital letters except for
 proper nouns such as names of people, places, and languages. This includes the
 start of sentences. Example:
 
 > sina wile lon poka mi la mi tu li tawa ma Sonko
 
-There are no rules for punctuation, but it is common to end sentences with
-`.` or `!`, questions with `?`, and other sentences with `:`. It is also common to use `,` to indicate natural pauses.
+There are punctuation rules, but speakers often end statements with a period `.` or exclamation mark `!`, questions with a question mark `?`, and sentences referring to other sentences with a colon `:`. It is also common to use a comma `,` to indicate natural pauses.
 
 > jan li toki e ni: seme li lon? ona li wile tawa, li wile lape.
 
-For now, don't worry about punctuation much!
+For now, don't worry about punctuation! Your intuition from English is close enough.
 
 ### sitelen pona - "good writing"
 
-Toki Pona can also be written with a system known as sitelen pona. It assigns
-one character per word, which is convenient when you have few words! sitelen
-pona is not required for learning Toki Pona, but I highly recommend it and provide it with all new words.
+Toki Pona can be written with a system known as sitelen pona. It has
+one character per word, which is easy with few words! sitelen
+pona is not required for learning Toki Pona, but I provide it with all new words
+because it helps you learn.
 
-In sitelen pona, it is common to use an interpunct `・` to mark the end of sentences, in addition to all the punctuation used in sitelen Lasina. Some writers will also start brand new lines.
+In sitelen pona, speakers often use an interpunct `・` at the end of sentences,
+plus all punctuation used in sitelen Lasina. Others will start new lines at the end of sentences.
 
 ::: tokipona
 
@@ -148,15 +155,18 @@ In sitelen pona, it is common to use an interpunct `・` to mark the end of sent
 
 :::
 
-Also, proper nouns are written inside a cartouche, which can be just brackets or an entire enclosed square around the symbols. Everything inside the cartouche is read by only its first character:
+Proper nouns are written in a box called a cartouche, which is an enclosed square around a group of symbols.
+Everything inside the cartouche is read by only its first character:
 
 ::: tokipona
 
-> sina wile lon poka mi la mi tu li tawa ma [sitelen olin nasin kasi open]
+> sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]
 
 :::
 
-Lastly, symbols can be stacked or nested! Stacked symbols are read from the bottom up, and nested symbols are read from the outside in.
+The reading of the cartouche is "Kanse".
+
+Lastly, symbols can be stacked or nested! Both are read from the bottom up, which is the same as reading from the outside in for nested symbols.
 
 ::: tokipona
 
@@ -164,7 +174,29 @@ Lastly, symbols can be stacked or nested! Stacked symbols are read from the bott
 
 :::
 
-Again, don't worry about _all_ this just yet! You'll find what feels comfortable for you as you learn.
+Here, the first symbol is read "toki pona" and it is nested. The second to last symbol is "linja suwi" and it is stacked.
+
+Don't worry about _all_ this just yet! You'll find what feels comfortable as you learn.
+
+## How to Learn
+
+This is a collection of philosophy notes, both for Toki Pona and for these lessons.
+
+#### Toki Pona is a Real Language
+
+Toki Pona is a real language. It has few words which you can easily memorize, but memorizing all the words is only the start. You learn much more through practice! For comparison, memorizing all the numbers from 0 to 9 won't teach you Calculus, but it would let you start learning more math!
+
+#### Simplicity in Toki Pona
+
+Toki Pona values simplicity in statements and expression. If you find yourself creating or translating a long single phrase, think about how you could restate it! Using more sentences with fewer words each is more clear than one sentence with many words. But don't go too far with this- as you learn, you'll find a comfortable balance between the two.
+
+#### Lesson Notes
+
+The definitions for words are examples, not comprehensive. The same goes for exercise translations.
+Words can refer to more than the examples, and be used in more ways than appear in the exercises.
+Be experimental, try many things as you learn!
+
+Lastly, if you ever see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
 
 <!-- ## Exercises -->
 
@@ -190,11 +222,9 @@ Again, don't worry about _all_ this just yet! You'll find what feels comfortable
 <!-- <audio controls src="/soweli.mp3"> </audio> -->
 <!-- </details> -->
 
-## As you read...
-
-The definitions given for words are examples, not complete. The same goes for exercises. Words can refer to more than the examples, and be used in more ways than appear in the exercises. Be experimental, try many things as you learn!
-
-Also, if you ever see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
+<!-- <details><summary>e</summary> -->
+<!-- <audio controls src="/e.mp3"> </audio> -->
+<!-- </details> -->
 
 ---
 
