@@ -1,6 +1,9 @@
-% mi and sina
-% gregdan3
-% 2022-07-30
+---
+title: You and I
+author: gregdan3
+date: 2022-07-30T00:00:00.000Z
+---
+
 
 <!-- toc -->
 
@@ -10,7 +13,7 @@
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Verb/Adjective duality](#verbadjective-duality)
+    - [Action/Description Duality](#actiondescription-duality)
     - [Broadness](#broadness)
 - [Other Notes](#other-notes)
 
@@ -43,31 +46,61 @@ By the way, check out [this dictionary](https://lipu-linku.github.io)! If you ev
 
 ## Overview
 
-The most basic Toki Pona sentence has two parts: a subject and a predicate phrase.
+The most basic Toki Pona sentence has two parts: a subject phrase and a predicate phrase.
 
-> [subject] [phrase]
+> [subject] [predicate]
 
-For this kind of sentence, two subjects are possible:
+For this kind of sentence, two subjects are possible
 
 - `mi` - First person pronoun. I, me, my, mine, we, our, myself, ourselves
 - `sina` - Second person pronoun. You, yours, yourself, y'all, y'all's
 
-This means English interpretations looks something like this:
+So the Toki Pona sentence always looks like this:
 
-> I am [phrase]
+> [mi/sina] [predicate]
 
-> We are [phrase]
+The English interpretation looks like this for mi:
 
-> You are [phrase]
+> I am [description]
+>
+> I [action]
+>
+> We are [description]
+>
+> We [action]
 
-> Y'all are [phrase]
+And this for sina:
 
-And sentences always look like this:
+> You are [description]
+>
+> You [action]
+>
+> Y'all are [description]
+>
+> Y'all [action]
 
-> [mi/sina] [phrase]
+The words in the predicate describe the speaker or listener, or what the speaker or listener is doing. For example:
 
-The predicate phrase is always able to be a verb, adjective, o, which I indicate as a phrase: both. Any
-verb/adjective may be used to describe the speaker or listener, and talk about what the speaker or listener does.
+<details> <summary> mi jan </summary>
+
+Since jan (person/people) doesn't obviously imply an action, it is reasonable to call it a description here. This sentence means "I am a person" or "We are people."
+
+</details>
+
+`mi` is the subject, and refers to the speaker.
+`jan` is the predicate, and is either an action or description of the speaker.
+Check under the spoiler for an explanation and interpretation!
+
+<details> <summary> sina moku  </summary>
+
+Because moku (food/eat) could be either a description or an action, this sentence could be "You eat" or "You are food."
+
+Importantly, "You eat" is _much_ more likely and common than "You are food." A sentence should be reasonable when you interpret it!
+
+</details>
+
+`sina` is the subject, and refers to the listener.
+`moku` is the predicate, and is either an action or description of the listener.
 
 ## Exercises
 
@@ -338,19 +371,13 @@ sina lili
 There are many given definitions and sentence interpretations. This is
 intended! And it comes from two different effects:
 
-#### Verb/Adjective duality
+#### Action/Description Duality
 
-As noted before, the predicate phrase in Toki Pona words may be verbs, adjectives, or
-both! If something is an action, it is also a description. In English, you
+As noted before, words in the predicate may be actions, descriptions, or
+both! In fact, often if something is an action, it is also a description. In English, you
 might say that if a person walks, they are also a walking person. Toki Pona
 runs with this idea. There is no difference between "doing" and "being"
-expressed by the words or grammar.
-
-<details> <summary> A note on "verb" and "adjective" </summary>
-
-Though I do use "verb" and "adjective" to describe the predicate phrase of the sentence, they are not a great fit for what Toki Pona's words do, and neither is the word preidcate. I recommend using the term "li phrase." We'll learn why in the next lesson!
-
-</details>
+expressed by the grammar.
 
 #### Broadness
 
@@ -385,3 +412,4 @@ As in one of the examples, which is _not_ a sentence, you can say `toki` on its 
 [Previous lesson](./open.html)
 
 [Next lesson](./li.html)
+

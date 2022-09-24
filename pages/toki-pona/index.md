@@ -8,7 +8,7 @@ date: 2022-07-02T00:00:00.000Z
 <!-- toc -->
 
 - [open (start)](#open-start)
-- [lipu (stories)](#lipu-stories)
+- [lipu (pages)](#lipu-pages)
 - [sona (knowledge)](#sona-knowledge)
   - [kama sona (learning)](#kama-sona-learning)
   - [namako (extra)](#namako-extra)
@@ -46,9 +46,11 @@ I could understand, discuss, use, and be excited about. But most importantly,
 Toki Pona gave me a bridge to learning other languages and a deeper
 understanding of my communication that I would never have had without it.
 
-## lipu (stories)
+## lipu (pages)
 
 I've translated a few stories, books, and songs into Toki Pona. Check them out!
+
+<!-- - [College Mao - "musi lawa"](./lipu/musi-lawa.html) -->
 
 - [Goodnight Moon - "mun o pimeja pona"](./lipu/mun-o-pimeja-pona.html) - **[o kute pona!](https://www.youtube.com/watch?v=Q2UIw8PZsZ8)**
 - [It's okay to not like things - "sina ken wile ala ijo"](./lipu/sina-ken-wile-ala-ijo.html) - **[o kute pona!](https://www.youtube.com/watch?v=iKry3P51SVI)**
@@ -93,12 +95,12 @@ course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/) 
 at the same time as you start these lessons, to help you memorize all the words!
 
 - [Getting Started](./sona/open.html)
-- [_mi_ and _sina_](./sona/mi-sina.html)
-- [Verbs with _li_](./sona/li.html)
+- [You and I](./sona/mi-sina.html)
+- [Actions with _li_](./sona/li.html)
 - [Objects with _e_](./sona/e.html)
+- [Modifiers and _pi_](./sona/mod-pi.html)
 
-<!-- - [Adjectives and _pi_](./sona/adj-pi.html) -->
-<!-- - [Preverbing verbs](./sona/preverbs.html) -->
+<!-- - [Pre-predicates](./sona/pre-predicates.html) -->
 <!-- - [Instructions with _o_](./sona/o.html) -->
 <!-- - [Interjections and _a_](./sona/interjections.html) -->
 <!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
@@ -122,7 +124,7 @@ that most others will understand.
 <!-- - Grammar -->
   <!-- - [Multiple _li_ with sina with mi](./sona/multiple-li.html) -->
   <!-- - [_la_ and prepositions](./sona/la-prepositions.html) -->
-<!-- - Adjectives -->
+<!-- - Modifiers -->
   <!-- - [Proper nouns](./sona/proper-nouns.html) -->
   <!-- - [Colors and _kule_](./sona/kule.html) -->
   <!-- - [Negations with _ala_](./sona/ala.html) -->
@@ -130,8 +132,9 @@ that most others will understand.
 
 <!-- - [_ona_ and _ni_](./sona/ona-ni.html) -->
 
-- Verbs
+- Specific Words
   - [pali doesn't (usually) mean "do"](./sona/palint.html)
+  <!-- - [mi monsuta e sina](./sona/monsutatesu.html) -->
 - Prepositions
   <!-- - [Telling Time](./sona/time.html) -->
   <!-- - [Knowing Place](./sona/location.html) -->
@@ -139,9 +142,10 @@ that most others will understand.
 - Themed Lessons
   - [Conlang Critic opener](./sona/conlang-critic.html)
   - [Instead of Phatic Phrases](./sona/phatic-phrases.html)
+    <!-- - [There Is Always Context](./sona/context-always.html) -->
+    <!-- - [Categories in Toki Pona](./sona/category.html) -->
     <!-- - [Advanced Comparisons](./sona/comparisons.html) -->
     <!-- - [Concepts and Translation](./sona/ante-toki.html) -->
-    <!-- - [mi monsuta e sina](./sona/monsutatesu.html) -->
     <!-- - [Modern Toki Pona vs. pu](./sona/modern-tp.html) -->
     <!-- - [Units of time](./sona/tenpo-nanpa.html) -->
     <!-- - [Beginner Mistakes](./sona/beginner-mistakes.html) -->
@@ -162,7 +166,7 @@ all of them are beneficial to your understanding of Toki Pona.
   <!-- - [majuna li ken pona](./sona/majuna.html) -->
   <!-- - [ki si wi](./sona/ki-si-wi.html) -->
 <!-- - nimi ante -->
-<!--   - [newer preverbs](./sona/newer-preverbs.html): open, pini, alasa, olin -->
+<!--   - [newer pre-predicates](./sona/newer-pre-predicates.html): open, pini, alasa, olin -->
 <!--   - [nanpa seme?](./sona/nanpa-seme.html): nanpa but it ranks non-integers -->
 <!--   - [nasin kule](./sona/kule-ante.html): altered color -->
 <!--   - [nasin nanpa ante](./sona/nasin-nanpa.html): a few different number systems -->

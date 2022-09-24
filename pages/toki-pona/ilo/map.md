@@ -317,24 +317,35 @@ markmap:
     - disorder
   - ilo
     - tool
+      - hammer
+      - wrench
+      - microphone
     - device
     - equipment
-    - machine
-    - app
     - hardware
-    - robot
-    - technological
-    - mechanical
+      - computer
+    - machine
+      - mechanism
+      - mechanical
+      - robot
     - gear
-    - tech
-    - mechanism
-    - technical
+      - belt
+      - lever
     - software
+      - app
+      - application
+      - audacity
+      - krita
+      - photoshop
     - utility
     - instrument
-    - application
-    - technology
-    - computer
+      - tuba
+      - flute
+      - trumpet
+    - tech
+      - technical
+      - technology
+      - technological
   - insa
     - internal
     - inner

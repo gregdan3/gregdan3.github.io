@@ -1,6 +1,9 @@
-% Getting Started
-% gregdan3
-% 2022-07-30
+---
+title: Getting Started
+author: gregdan3
+date: 2022-07-30T00:00:00.000Z
+---
+
 
 <!-- toc -->
 
@@ -12,9 +15,9 @@
   - [sitelen Lasina - "Latin writing"](#sitelen-lasina---latin-writing)
   - [sitelen pona - "good writing"](#sitelen-pona---good-writing)
 - [How to Learn](#how-to-learn)
-  - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
-  - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
-  - [Lesson Notes](#lesson-notes)
+    - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
+    - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
+    - [Lesson Notes](#lesson-notes)
 
 <!-- tocstop -->
 
@@ -127,9 +130,7 @@ Also, this distinction does not _have_ to be written despite my use of brackets 
 
 ### sitelen Lasina - "Latin writing"
 
-In the Latin alphabet (this one!), Toki Pona is written without capital letters except for
-proper nouns such as names of people, places, and languages. This includes the
-start of sentences. Example:
+In the Latin alphabet (this one!), Toki Pona is written without capital letters. This includes the start of sentences, but there is one exception: the names of people, places, languages, and other named things. Example:
 
 > sina wile lon poka mi la mi tu li tawa ma Sonko
 
@@ -192,6 +193,8 @@ Toki Pona values simplicity in statements and expression. If you find yourself c
 
 #### Lesson Notes
 
+Everything in the **Overview** section will use exclusively words from previous lessons unless I say otherwise, or you're in the first lesson.
+
 The definitions for words are examples, not comprehensive. The same goes for exercise translations.
 Words can refer to more than the examples, and be used in more ways than appear in the exercises.
 Be experimental, try many things as you learn!
@@ -229,3 +232,4 @@ Lastly, if you ever see a spoiler starting with "a note", it is not necessary to
 ---
 
 [Next lesson](./mi-sina.html)
+

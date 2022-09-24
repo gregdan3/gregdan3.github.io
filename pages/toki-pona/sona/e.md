@@ -1,6 +1,9 @@
-% Objects with e
-% gregdan3
-% date unknown
+---
+title: Objects with e
+author: gregdan3
+date: 2022-09-09T00:00:00.000Z
+---
+
 
 <!-- toc -->
 
@@ -8,6 +11,9 @@
     - [Particles](#particles)
     - [Content Words](#content-words)
 - [Overview](#overview)
+    - [e and Objects](#e-and-objects)
+    - [Changing things](#changing-things)
+    - [Not changing things](#not-changing-things)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
@@ -25,9 +31,9 @@
 
 ::: tokipona
 
-| Glyph | Word | Use                                  |
-| ----- | ---- | ------------------------------------ |
-| e     | e    | (mark an object; mark an 'e phrase') |
+| Glyph | Word | Use                                      |
+| ----- | ---- | ---------------------------------------- |
+| e     | e    | (mark an object; begin an object phrase) |
 
 :::
 
@@ -53,15 +59,27 @@
 
 ## Overview
 
-This new sentence is capable of changing things in the world. The subject can now act on or apply changes to other things, with the use of `e`!
+#### e and Objects
 
-> `[mi/sina] [phrase] e [object]`
+This new sentence is capable of changing things in the world. The subject can now act on other things, applying the predicate to something else, with the use of `e`!
 
-> `[subject] li [phrase] e [object]`
+> [mi/sina] [predicate] e [object]
 
-I indicate the new phrase as "object," but it would be valid to call it the "e phrase" too.
+> [subject] li [predicate] e [object]
 
-In this kind of sentence, the subject usually applies the li phrase to the object. Here are a few examples:
+This new phrase introduces a thing the subject acts on in a way that the predicate specifies.
+
+<details><summary>A note about "predicate"</summary>
+
+I am using "predicate" to refer to _just_ the position of the action/description of a phrase, excluding the object.
+
+In common grammatical terms, "predicate" refers to the entirety of the action/description and the object(s) it acts on. However, it can also refer to just the action/description clause, which is very convenient for these lessons!
+
+</details>
+
+#### Changing things
+
+Here are a few guided examples of how the subject acts on the object, applying the predicate to it:
 
 <details> <summary> mi pona e jan </summary>
 
@@ -87,7 +105,9 @@ The `jan` becomes `pona` in some way, as in the translations given.
 
 Here, `sina` becomes `wawa` in some way.
 
-Not every case is like this though! Here are some examples, using two new words:
+#### Not changing things
+
+Not everything changes the object! Here are some examples, using two new words:
 
 <details> <summary> jan li pilin e kiwen </summary>
 
@@ -116,9 +136,9 @@ As you study, you'll get an intuitive sense for this difference.
 Some words will be actions the subject takes on an object, but which do not change that object.
 Other words will change the object in some way, usually applying a new property to the object.
 
-<details> <summary> A note on the above </summary>
+<details> <summary> A note on "not" changing things </summary>
 
-As you become more advanced in Toki Pona's grammar, you'll learn that the above is somewhat disingenuous. It _is_ possible to describe an object which becomes wanted as a wanted object, but for the time being, this simplification will work.
+As you become more advanced in Toki Pona, you'll learn that the above is somewhat disingenuous. It _is_ possible to describe an object as a wanted object, and to apply want to that object. For the time being, this simplification will work.
 
 That said, the following is possible:
 
@@ -130,7 +150,7 @@ That said, the following is possible:
 
 "The water I want will make me feel better."
 
-This uses a modifier to demonstrate the point, now referencing a "wanted liquid."
+This uses a modifier (next lesson!) to demonstrate the point, now referencing a "wanted liquid."
 
 </details>
 
@@ -375,25 +395,25 @@ sina ko e telo. telo li ko.
 
 Toki Pona sentences now look like this:
 
-> `[subject] (li) [phrase] (e [object])`
+> [subject] (li) [predicate] (e [object])
 
 Parentheses indicate something which is optional or conditional, and brackets are stand-ins for words as before.
 
 Breaking it down, we can talk about what the speaker and listener do, or what describes the speaker/listener:
 
-> `[mi/sina] [phrase]`
+> [mi/sina] [predicate]
 
-We can talk about what other things do or are like, too:
+We can talk about what other things do or are like:
 
-> `[subject] li [phrase]`
+> [subject] li [predicate]
 
 We can now talk about what the speaker and listener do to _other things_.
 
-> `[mi/sina] [phrase] e [object]`
+> [mi/sina] [predicate] e [object]
 
 And the same goes for what third person things do to other third person things, including themselves!
 
-> `[subject] li [phrase] e [object]`
+> [subject] li [predicate] e [object]
 
 #### Content Words and Particles
 
@@ -403,4 +423,5 @@ The list of particles we know has grown to include `e`! Every other new word is 
 
 [Previous lesson](./li.html)
 
-<!-- [Next lesson](./adj-pi.html) -->
+[Next lesson](./mod-pi.html)
+

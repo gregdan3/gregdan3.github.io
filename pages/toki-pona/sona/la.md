@@ -1,6 +1,9 @@
-% Context, Comparisons with la
-% gregdan3
-% date unknown
+---
+title: 'Context, Comparisons, la'
+author: gregdan3
+date: date unknown
+---
+
 
 <!-- toc -->
 
@@ -10,6 +13,8 @@
 - [Takeaway](#takeaway)
 
 <!-- tocstop -->
+
+---
 
 ### Words to Know
 
@@ -57,3 +62,6 @@ but! don't worry much about not getting la yet! it is the most complex part of t
 [Previous lesson](./preps.html)
 
 [Next lesson](./seme.html)
+
+
+

@@ -1,21 +1,32 @@
-% Preverbs of change
-% gregdan3
-% date unknown
+---
+title: Pre-predicates
+author: gregdan3
+date: date unknown
+---
+
 
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
     - [Content Words](#content-words)
-    - [Preverbs](#preverbs)
+    - [Pre-predicates](#pre-predicates)
 - [Overview](#overview)
 - [Exercises](#exercises)
     - [Not Preverbs](#not-preverbs)
-    - [Preverbs](#preverbs-1)
+    - [Preverbs](#preverbs)
     - [More examples with `ala`](#more-examples-with-ala)
     - [One more note on `taso`](#one-more-note-on-taso)
 - [Takeaway](#takeaway)
 
 <!-- tocstop -->
+
+---
+
+::: info
+
+`en` lets us use multiple poki En- so how do we use multiple
+
+:::
 
 ### Words to Know
 
@@ -23,7 +34,17 @@
 
 #### Content Words
 
-#### Preverbs
+| Glyph | Word  | Definition                                 |
+| ----- | ----- | ------------------------------------------ |
+| wile  | wile  | want, need, to want                        |
+| ken   | ken   | capability, power, permission, possibility |
+| kama  | kama  | summon, arrive, invite                     |
+| awen  | awen  | stay, remain, continue, endure             |
+| lukin | lukin | eyes, to look, to try                      |
+| sona  | sona  | knowledge, understanding, to know          |
+| alasa | alasa | hunt, seek, search, forage, to try         |
+
+#### Pre-predicates
 
 | Glyph | Word  | Definition                                 |
 | ----- | ----- | ------------------------------------------ |
@@ -66,6 +87,7 @@ I introduced new words for this lesson, so here are some examples that don't use
 
 ---
 
-[Previous lesson](./adj-pi.html)
+[Previous lesson](./mod-pi.html)
 
 [Next lesson](./o.html)
+

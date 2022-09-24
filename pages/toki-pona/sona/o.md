@@ -1,6 +1,9 @@
-% Instructions with o
-% gregdan3
-% date unknown
+---
+title: Instructions with o
+author: gregdan3
+date: date unknown
+---
+
 
 <!-- toc -->
 
@@ -13,6 +16,8 @@
 - [Takeaway](#takeaway)
 
 <!-- tocstop -->
+
+---
 
 ### Words to Know
 
@@ -66,6 +71,7 @@
 
 ---
 
-[Previous lesson](./preverbs.html)
+[Previous lesson](./pre-predicates.html)
 
 [Next lesson](./preps.html)
+

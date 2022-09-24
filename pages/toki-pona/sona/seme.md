@@ -1,6 +1,9 @@
-% Questions, answers, seme
-% gregdan3
-% date unknown
+---
+title: Asking and Answering Questions
+author: gregdan3
+date: date unknown
+---
+
 
 <!-- toc -->
 
@@ -14,6 +17,8 @@
 - [Takeaway](#takeaway)
 
 <!-- tocstop -->
+
+---
 
 ### Words to Know
 
@@ -54,3 +59,6 @@ Here, I provide consecutive questions and answers together. The questions are on
 [Previous lesson](./la.html)
 
 [Next lesson](./pini.html)
+
+
+
