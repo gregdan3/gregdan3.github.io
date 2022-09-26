@@ -1,4 +1,4 @@
-% newer preverbs
+% newer pre-predicates
 % gregdan3
 % date unknown
 

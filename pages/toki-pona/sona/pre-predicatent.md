@@ -1,8 +1,8 @@
-% Preverbn't
+% Pre-predicate-n't
 % gregdan3
 % date unknown
 
-Non use of preverbs is another lesson in rephrasing.
+Non use of pre-predicates (preverbs) is another lesson in rephrasing.
 
 mi wile tawa
 

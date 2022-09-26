@@ -104,6 +104,7 @@ at the same time as you start these lessons, to help you memorize all the words!
 <!-- - [Instructions with _o_](./sona/o.html) -->
 <!-- - [Interjections and _a_](./sona/interjections.html) -->
 <!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
+<!-- - [Before the Final Act](./sona/bits.html) -->
 <!-- - [Context, Comparisons, _la_](./sona/la.html) -->
 <!-- - [Questions, answers, _seme_](./sona/seme.html) -->
 <!-- - [Finale](./sona/pini.html) -->
@@ -181,7 +182,7 @@ all of them are beneficial to your understanding of Toki Pona.
     <!-- - [anun't](./sona/anunt.html): only using anu for questions -->
     <!-- - [min't](./sona/mint.html): not using mi, or sometimes sina, or even ona! -->
     <!-- - [noun't](./sona/nount.html): not using proper nouns -->
-    <!-- - [preverbn't](./sona/preverbnt.html): not using preverbs -->
+    <!-- - [pre-predicaten't](./sona/pre-predicatent.html): not using pre-predicates -->
     <!-- - [nanpan't](./sona/nanpant.html): no number system -->
 
 ## ilo (tools)
@@ -195,4 +196,5 @@ More tools are coming!
 - [An explorable map of Toki Pona concepts](./ilo/map.html)
   - Most data is from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and
     [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
+
 
