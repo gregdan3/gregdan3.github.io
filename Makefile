@@ -9,8 +9,9 @@ TEMPLATE=templates/default.html
 
 PAGES_BUILT=$(patsubst $(PAGEDIR)/%.md,$(BUILDDIR)/%.html,$(PAGES))
 STATICS_BUILT=$(patsubst static/%,$(BUILDDIR)/%,$(STATICS))
+LUA_FILTER=rm-colgroup.lua
 
-MD_TO_HTML=pandoc --from=markdown+yaml_metadata_block --template=$(TEMPLATE)
+MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTER) --from=markdown+yaml_metadata_block --template=$(TEMPLATE)
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
 TOC_MAKER=npx markdown-toc --maxdepth 4 --no-stripHeadingTags --indent="  " --bullets="-" -i
 MAPPER=npx markmap --no-open
