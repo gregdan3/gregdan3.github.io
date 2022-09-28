@@ -8,6 +8,8 @@ date: date unknown
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
     - [Verb Doubling](#verb-doubling)
@@ -22,19 +24,26 @@ date: date unknown
 
 ### Words to Know
 
+#### Particles
+
 ::: tokipona
 
-| Glyph | Word | Definition                                       |
-| ----- | ---- | ------------------------------------------------ |
-| seme  | seme | what, (request information)                      |
-| anu   | anu  | or, (between question phrases)                   |
-| ijo   | ijo  | thing, (literally anything)                      |
-| unpa  | unpa | sex, sexual relations                            |
-| meli  | meli | girl, woman, female                              |
-| mije  | mije | boy, man, male                                   |
-|       |      |                                                  |
-| a     | a    | (mark exclamation, excitement, emphasis)         |
-| pu    | pu   | to interact with Toki Pona: The Language of Good |
+| Glyph | Word | Definition                  |
+| ----- | ---- | --------------------------- |
+| seme  | seme | (request information)       |
+| anu   | anu  | (connect phrases with 'or') |
+
+:::
+
+#### Content Words
+
+::: tokipona
+
+| Glyph | Word | Definition                             |
+| ----- | ---- | -------------------------------------- |
+| open  | open | start, begin, enable, open             |
+| pini  | pini | finish, stop, disable, close           |
+| len   | len  | cloth, cover, clothing, secret, hidden |
 
 :::
 
@@ -59,6 +68,4 @@ Here, I provide consecutive questions and answers together. The questions are on
 [Previous lesson](./la.html)
 
 [Next lesson](./pini.html)
-
-
 

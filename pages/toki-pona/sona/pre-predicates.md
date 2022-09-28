@@ -12,15 +12,14 @@ date: date unknown
     - [Content Words](#content-words)
     - [Pre-predicates](#pre-predicates)
 - [Overview](#overview)
-    - [ala](#ala)
     - [Pre-predicates](#pre-predicates-1)
     - [Multiple pre-predicates](#multiple-pre-predicates)
+    - [ala](#ala)
 - [Exercises](#exercises)
-    - [Not Preverbs](#not-preverbs)
-    - [Preverbs](#preverbs)
-    - [More examples with `ala`](#more-examples-with-ala)
-    - [One more note on `taso`](#one-more-note-on-taso)
+  - [Toki Pona to English](#toki-pona-to-english)
+  - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
+    - [Clarity of Grammar](#clarity-of-grammar)
     - [Ambiguity](#ambiguity)
 
 <!-- tocstop -->
@@ -62,8 +61,8 @@ date: date unknown
 | ken   | ken   | to have ability, to have permission |
 | kama  | kama  | to begin, to become                 |
 | awen  | awen  | to continue                         |
-| lukin | lukin | to try                              |
 | sona  | sona  | to be skilled in                    |
+| lukin | lukin | to try                              |
 | alasa | alasa | to try                              |
 
 :::
@@ -72,9 +71,103 @@ One word here is a particle _and_ content word! You'll be able to tell these apa
 
 ## Overview
 
+#### Pre-predicates
+
+**Pre-predicates**, also known as **pre-verbs** or **pre-preds**, are a set of words that can be placed at the start of the predicate to alter its meaning.
+
+We already know some of them: `wile`, `sona`, and `lukin` are back!
+
+There are exactly seven pre-predicates in common use, so we'll cover them all.
+
+<details><summary> mi wile pali </summary>
+
+I want to create.
+
+---
+
+</details>
+
+The `wile` pre-predicate means the predicate is wanted, generally implying it isn't something you have already.
+
+You could say:
+
+> mi wile e pali
+
+And it _could_ mean the same thing. But it's more clear to say `mi wile pali` because something in the object position will often be considered some specific physical thing, or an idea. What if it were intended to be an action? Then a pre-predicate is more clear!
+
+<details><summary> mi ken wawa </summary>
+
+I am able to be strong.
+
+</details>
+
+::: error
+
+You can't always tell apart a normal predicate from a pre-predicate. Context can help!
+
+:::
+
+<details><summary> sina kama sona! </summary>
+
+You are learning!
+
+</details>
+
+<details><summary> </summary>
+
+::: info
+
+You can think of pre-predicates as a special kind of **modifier**!
+
+:::
+
+</details>
+
+<details><summary> </summary>
+
+</details>
+
+::: info
+
+You can even use a pre-predicate as a predicate at the same time, such as saying **mi wile wile**!
+
+:::
+
+<details><summary> mi lukin sona e sina </summary>
+
+</details>
+<details><summary> mi alasa sona e sina </summary>
+
+I'm trying to understand you.
+
+</details>
+
+Lastly, there's `lukin` and `alasa`, which have the same meaning as preverbs: to try.
+
+::: info
+
+:::
+
+#### Multiple pre-predicates
+
+Like modifiers, you can use multiple pre-predicates at the same time! They function exactly how you expect:
+
+<details><summary> mi awen ken sona ni: mi mama e kasi  </summary>
+
+I am still able to skillfully do this: I raise plants.
+
+I am still able to skillfully do this: I mother plants.
+
+</details>
+
+- `awen` means something is ongoing
+- `ken` means something is a capability
+- `sona` means something is done skillfully or knowledgeably
+- The predicate `ni` is referencing the next sentence!
+
 #### ala
 
-`ala` has a simple function, but unique behaviors. It functions exactly how you expect as a head, but let's take a closer look at `ala` as a modifier.
+`ala` has a simple function: negate the previous word or phrase.
 
 <details><summary> mi pona ala. </summary>
 
@@ -124,23 +217,37 @@ This statement could be "you're not badly-different " or "you're not-badly diffe
 
 With the pi phrase, this statement is clearly "You're not-badly different." That's not a bad compliment!
 
-#### Pre-predicates
-
-#### Multiple pre-predicates
-
 ## Exercises
 
-I introduced new words for this lesson, so here are some examples that don't use these new words as preverbs. That way you can get a feel for them!
+### Toki Pona to English
 
-#### Not Preverbs
+### English to Toki Pona
 
-#### Preverbs
+<details><summary> That glacier is not white! </summary>
 
-#### More examples with `ala`
+kiwen lete ni li walo ala
 
-#### One more note on `taso`
+lete ni li walo ala
+
+</details>
+
+<details><summary> I didn't do that! </summary>
+
+mi ni ala!
+
+</details>
 
 ## Takeaway
+
+#### Clarity of Grammar
+
+If something is in the **predicate**, it will often be assumed to be an **action**. This is especially true when an **object** is present with `e`.
+
+If something is in the **object**, it will often be assumed to be a **thing**, especially something physical.
+
+Neither of these are true _all_ the time, but they are true often enough that you can take advantage of it! If you want to reference an action, putting that in the predicate can be helpful, and the same goes for putting physical things in the object.
+
+Pre-verbs.
 
 #### Ambiguity
 
@@ -153,6 +260,4 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 [Previous lesson](./mod-pi.html)
 
 [Next lesson](./o.html)
-
-
 

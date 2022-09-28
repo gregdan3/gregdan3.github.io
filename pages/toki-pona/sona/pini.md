@@ -29,23 +29,28 @@ Some of these words were given in lessons, and others were not. I've sorted them
 
 #### Widespread
 
+Everything here is important to know! The three bold words were not in the lessons.
+
 ::: tokipona
 
-| Glyph           | Word            | Definition                            | Note                                    |
-| --------------- | --------------- | ------------------------------------- | --------------------------------------- |
-| kijetesantakalu | kijetesantakalu | raccoon                               | joke word, but beloved                  |
-| kin             | kin             | (also, too, additionally)             | in pu, former synonym of a              |
-| kipisi          | kipisi          | split, cut, divide                    | similar to tu: split, divide            |
-| ku              | ku              | to interact with Toki Pona Dictionary |                                         |
-| leko            | leko            | square, cube                          | my personal favorite nimi ku suli       |
-| monsuta         | monsuta         | fear, scary                           | see [monsutatesu](./monsutatesu.html)   |
-| namako          | namako          | spicy, extra, ornamental              | in pu, former synonym of sin            |
-| soko            | soko            | mushroom, fungus                      | similar to kasi: fungus, kili: mushroom |
-| tonsi           | tonsi           | transexual, non-binary                | similar to kule: LGBT+                  |
+| Glyph           | Word                | Definition                                           | Note                                    |
+| --------------- | ------------------- | ---------------------------------------------------- | --------------------------------------- |
+| pu              | **pu**              | **to interact with Toki Pona: The Language of Good** |
+| ku              | **ku**              | **to interact with Toki Pona Dictionary**            |                                         |
+| kijetesantakalu | **kijetesantakalu** | **raccoon, procyonid, musteloid, skrunkly mammal**   | **joke word, but beloved**              |
+| kin             | kin                 | (indicate something is additional, extra)            | in pu, former synonym of a              |
+| kipisi          | kipisi              | split, cut, divide                                   | similar to tu: split, divide            |
+| leko            | leko                | square, cube                                         | my personal favorite nimi ku suli       |
+| monsuta         | monsuta             | fear, scary                                          | see [monsutatesu](./monsutatesu.html)   |
+| namako          | namako              | spicy, extra, ornamental                             | in pu, former synonym of sin            |
+| soko            | soko                | mushroom, fungus                                     | similar to kasi: fungus, kili: mushroom |
+| tonsi           | tonsi               | transexual, non-binary                               | similar to kule: LGBT+                  |
 
 :::
 
 #### Common
+
+These words are around, but less important to know. They are either falling out of use or poorly adopted. They were not in any lesson.
 
 ::: tokipona
 
@@ -61,13 +66,15 @@ Some of these words were given in lessons, and others were not. I've sorted them
 
 #### Uncommon
 
+It is not necessary to know these words. They were not in any lesson.
+
 ::: tokipona
 
 | Glyph    | Word     | Definition                                                    | Note                             |
 | -------- | -------- | ------------------------------------------------------------- | -------------------------------- |
 | jasima   | jasima   | reflect, mirror, opposite                                     | contentious for inconsistent use |
 | epiku    | epiku    | "pona mute a!"                                                | joke word                        |
-| kokosila | kokosila | to speak a different language in a toki pona taso environment | joke word                        |
+| kokosila | kokosila | to speak a different language in a Toki Pona only environment | joke word                        |
 
 :::
 
@@ -87,7 +94,8 @@ The previous use gives only the definition which is no longer used.
 | pali    | pali    | "do" in any sense in English; "sina pali e seme" meant "what are you doing?" |
 | akesi   | akesi   | non-cute animal                                                              |
 | kepeken | kepeken | could be a verb with "kepeken e" and mean the same                           |
-|         |         |                                                                              |
+| namako  | namako  | synonym of sin                                                               |
+| kin     | kin     | synonym of a                                                                 |
 
 :::
 

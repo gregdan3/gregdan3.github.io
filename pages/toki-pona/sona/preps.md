@@ -8,6 +8,8 @@ date: date unknown
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
+    - [Prepositions](#prepositions)
+    - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
     - [Without Prepositions](#without-prepositions)
@@ -19,25 +21,42 @@ date: date unknown
 
 ### Words to Know
 
+#### Prepositions
+
 ::: tokipona
 
-| Glyph   | Word    | Definition                             |
-| ------- | ------- | -------------------------------------- |
-| tawa    | tawa    | move, travel, go to, in the opinion of |
-| lon     | lon     | truth, existence, real, location       |
-| tan     | tan     | by, from, cause, origin                |
-| sama    | sama    | same, similar                          |
-| kepeken | kepeken | to use                                 |
-| ilo     | ilo     | tool, instrument, machine              |
-| tenpo   | tenpo   | time, duration, event, occurrence      |
-| sewi    | sewi    | up, sky, spiritual, godly              |
-| anpa    | anpa    | below, under                           |
-| poka    | poka    | beside, side, hip                      |
-| weka    | weka    | remove, away, absent                   |
-| sinpin  | sinpin  | front, face, wall                      |
-| monsi   | monsi   | back, behind, rear                     |
+| Glyph   | Word    | Definition                            |
+| ------- | ------- | ------------------------------------- |
+| tawa    | tawa    | to, travel to, for, in the opinion of |
+| lon     | lon     | in the context of, in the presence of |
+| tan     | tan     | by, from, because of                  |
+| sama    | sama    | similar to                            |
+| kepeken | kepeken | to use                                |
 
 :::
+
+#### Content Words
+
+::: tokipona
+
+| Glyph | Word  | Definition                        |
+| ----- | ----- | --------------------------------- |
+| tawa  | tawa  | move, travel                      |
+| lon   | lon   | truth, existence, reality, real   |
+| tan   | tan   | cause, origin                     |
+| sama  | sama  | same, similar                     |
+| ilo   | ilo   | tool, instrument, machine         |
+| tenpo | tenpo | time, duration, event, occurrence |
+| sewi  | sewi  | up, sky, spiritual, godly         |
+| anpa  | anpa  | below, under                      |
+| poka  | poka  | beside, side, hip                 |
+| weka  | weka  | remove, away, absent              |
+| poki  | poki  | container, bag, box               |
+| supa  | supa  | furniture, horizontal surface     |
+
+:::
+
+Take a close look: `kepeken` is exclusively a preposition!
 
 ## Overview
 
@@ -60,6 +79,4 @@ mi tawa
 [Previous lesson](./o.html)
 
 [Next lesson](./la.html)
-
-
 

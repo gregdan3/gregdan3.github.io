@@ -8,6 +8,8 @@ date: date unknown
 <!-- toc -->
 
   - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
 - [Takeaway](#takeaway)
@@ -18,22 +20,28 @@ date: date unknown
 
 ### Words to Know
 
+#### Particles
+
 ::: tokipona
 
 | Glyph | Word | Definition                                          |
 | ----- | ---- | --------------------------------------------------- |
 | la    | la   | (between context phrase/sentence and main sentence) |
-| open  | open | start, begin, open                                  |
-| pini  | pini | finish, stop, disable                               |
-| mute  | mute | many, multiple, several, very                       |
-| luka  | luka | hand, arm, prehensile limb                          |
-| noka  | noka | foot, leg, locomotive limb                          |
-| uta   | uta  | mouth, lips, eating orifice                         |
-| lawa  | lawa | head, mind, brain, control, plan, govern, lead      |
-| insa  | insa | inside, center, between, organ                      |
-| lupa  | lupa | hole, door, window, orifice                         |
-| tomo  | tomo | room, building, home                                |
-| ma    | ma   | place, country, dirt, earth, outside                |
+
+#### Content Words
+
+::: tokipona
+
+| Glyph  | Word   | Definition                                     |
+| ------ | ------ | ---------------------------------------------- |
+| sijelo | sijelo | body, torso                                    |
+| luka   | luka   | hand, arm, prehensile limb                     |
+| noka   | noka   | foot, leg, locomotive limb                     |
+| sinpin | sinpin | front, face, wall                              |
+| monsi  | monsi  | back, behind, rear                             |
+| uta    | uta    | mouth, lips, eating orifice                    |
+| selo   | selo   | boundary, skin, bark, peel, outer layer        |
+| lawa   | lawa   | head, mind, brain, control, plan, govern, lead |
 
 :::
 
@@ -62,6 +70,4 @@ but! don't worry much about not getting la yet! it is the most complex part of t
 [Previous lesson](./preps.html)
 
 [Next lesson](./seme.html)
-
-
 

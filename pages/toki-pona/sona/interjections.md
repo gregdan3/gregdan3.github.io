@@ -3,11 +3,18 @@ title: Interjections and a
 author: gregdan3
 date: date unknown
 ---
-- answers to questions (ni li X ala X? X / X ala / ala)
-- emotives (mu, wawa, a, pona)
-- acknowledgements (a, pona, sona, lon, kin, sama)
-- command-alikes (tawa pona, musi pona, awen pona)
-- remarks (pona, suwi mute) [like being implicitly lead by 'ni li']
+
+
+<!-- toc -->
+
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+- [Overview](#overview)
+- [Exercises](#exercises)
+- [Takeaway](#takeaway)
+
+<!-- tocstop -->
 
 ### Words to Know
 
@@ -15,10 +22,10 @@ date: date unknown
 
 ::: tokipona
 
-| Glyph | Word | Definition                                            |
-| ----- | ---- | ----------------------------------------------------- |
-| o     | o    | (replaces li; command, require)                       |
-| en    | en   | (mark additional subjects; between multiple subjects) |
+| Glyph | Word | Definition                               |
+| ----- | ---- | ---------------------------------------- |
+| a     | a    | (mark exclamation, excitement, emphasis) |
+| o     | o    | (get somebody's attention)               |
 
 :::
 
@@ -26,25 +33,31 @@ date: date unknown
 
 ::: tokipona
 
-| Glyph  | Word   | Definition                                     |
-| ------ | ------ | ---------------------------------------------- |
-| nanpa  | nanpa  | (regroup modifiers into an ordinal number)     |
-| utala  | utala  | fight, battle, competition                     |
-| moli   | moli   | die, kill                                      |
-| sijelo | sijelo | body, torso, TODO: can be "website account"    |
-| olin   | olin   | love, respect, affection, emotional connection |
-| mani   | mani   | money, cash, barterable thing                  |
-| esun   | esun   | trade, barter, shopping, economy               |
-| soweli | soweli | animal, land creature                          |
-| waso   | waso   | bird, flying creature                          |
-| kala   | kala   | fish, swimming creature                        |
-| akesi  | akesi  | reptile, amphibian                             |
-| pipi   | pipi   | bug, insect, spider                            |
-| mu     | mu     | moo, meow, ribbit, bark, animal sound          |
+| Glyph   | Word    | Definition                                     |
+| ------- | ------- | ---------------------------------------------- |
+| olin    | olin    | love, respect, affection, emotional connection |
+| sike    | sike    | circle, spiral, sphere                         |
+| leko    | leko    | square, cube, corner                           |
+| soko    | soko    | mushroom, fungus                               |
+| kon     | kon     | air, ghost, spirit, unseen agent               |
+| monsuta | monsuta | fear, fright, scary, frightening, anxiety      |
+| linja   | linja   | line, rope, string, hair, connection           |
+| palisa  | palisa  | stick, rod, branch                             |
+| lupa    | lupa    | hole, door, window, orifice                    |
+| nena    | nena    | bump, lump, extrusion, hill, mountain, nose    |
+| insa    | insa    | inside, center, between, organ                 |
+| mu      | mu      | moo, meow, ribbit, bark, animal sound          |
 
 :::
 
 ## Overview
+
+<!-- - answers to questions (ni li X ala X? X / X ala / ala) -->
+
+- emotives (mu, wawa, a, pona)
+- acknowledgements (a, pona, sona, lon, kin, sama)
+- command-alikes (tawa pona, musi pona, awen pona)
+- remarks (pona, suwi mute) [like being implicitly lead by 'ni li']
 
 ## Exercises
 
