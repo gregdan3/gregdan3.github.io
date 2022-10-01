@@ -17,6 +17,10 @@ date: date unknown
     - [ala](#ala)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
+    - [ala](#ala-1)
+    - [One pre-pred](#one-pre-pred)
+    - [Many pre-preds](#many-pre-preds)
+    - [Pre-preds and ala](#pre-preds-and-ala)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Clarity of Grammar](#clarity-of-grammar)
@@ -38,9 +42,9 @@ date: date unknown
 
 :::
 
-::: tokipona
-
 #### Content Words
+
+::: tokipona
 
 | Glyph | Word  | Definition                                 |
 | ----- | ----- | ------------------------------------------ |
@@ -53,7 +57,11 @@ date: date unknown
 | alasa | alasa | hunt, seek, search, forage                 |
 | ala   | ala   | none, nothing, not, zero                   |
 
+:::
+
 #### Pre-predicates
+
+::: tokipona
 
 | Glyph | Word  | Definition                          |
 | ----- | ----- | ----------------------------------- |
@@ -221,6 +229,22 @@ With the pi phrase, this statement is clearly "You're not-badly different." That
 
 ### Toki Pona to English
 
+#### ala
+
+You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
+
+<details><summary> ni li jaki. mi pilin ala e ni! </summary>
+
+This is gross. I'm not touching it!
+
+</details>
+
+#### One pre-pred
+
+#### Many pre-preds
+
+#### Pre-preds and ala
+
 ### English to Toki Pona
 
 <details><summary> That glacier is not white! </summary>
@@ -260,4 +284,5 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 [Previous lesson](./mod-pi.html)
 
 [Next lesson](./o.html)
+
 

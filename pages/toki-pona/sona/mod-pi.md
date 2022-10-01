@@ -14,9 +14,11 @@ date: date unknown
     - [One Modifier](#one-modifier)
     - [Many Modifiers](#many-modifiers)
     - [pi phrases](#pi-phrases)
-    - [A note on color](#a-note-on-color)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
+    - [One Modifier](#one-modifier-1)
+    - [Many Modifiers](#many-modifiers-1)
+    - [pi phrases](#pi-phrases-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Terminology](#terminology)
@@ -232,83 +234,11 @@ Some speakers say that multiple pi modify _the one before_, while others say eac
 
 :::
 
-#### A note on color
-
-The colors provided are _not_ all that Toki Pona can refer to!
-
-You can use kule and a modifier to refer to specific kinds of colors. Here are a few examples:
-
-- `kule suno` - Yellow, orange, red, white depending on time and season
-- `kule kasi` - Green, brown, purple, red depending on species and season
-- `kule telo` - Blue, green, brown, clear, depending on the life in the water!
-
-These are contextual, given the explanations of each!
-
-Here are a few without specific color examples you might see:
-
-- `kule tomo` - The color of homes!
-- `kule ko` - The color of some muck, slime, dust, or sand
-- `kule nasa` - A strange color!
-
 ## Exercises
 
 ### Toki Pona to English
 
-One of your friends has been confiding in you that they have no idea what to get for their partner's birthday. You quietly talk to some others, and bring back suggestions for gifts and surprises. Finally, you tell everyone the plan your friend went with:
-
-<details><summary> ona li pana e kasi laso loje </summary>
-
-They gifted red and blue flowers.
-
----
-
-- He gave a red and green tree!
-
-::: info
-
-Remember, modifier order doesn't matter. Both the modifiers affect the head _separately_ and _no matter their order_, so this kasi is separately laso _and_ loje- they don't mix!
-
-:::
-
-</details>
-
-You've been writing down your thoughts and feelings in a journal as a meditation exercise. Unfortunately, you lost it somewhere, so you call up your friends and explain what you lost, what is important about it, and what it looks like:
-
-<details><summary> lipu pi loje jelo li jo e sona mi. </summary>
-
-The orange journal has my knowledge.
-
-The orange journal has my writings.
-
-::: info
-
-Here, `loje` is a head noun, and `jelo` modifies it. Unlike before, we're changing a color from one shade to another with a modifier, instead of having two separate shades both present!
-
-:::
-
-</details>
-
-It's pollen season, and every surface in sight is coated in a fine yellow dust. When you step outside, you start sneezing up a storm. One of your friends, fortunate to not be affected, asks what's wrong. You explain:
-
-<details><summary> ko jelo kasi li ike e mi </summary>
-
-Pollen gives me allergies.
-
----
-
-- Plant-related yellow dust hurts me.
-- Yellow flower dust makes me feel bad.
-- Yellow tree mush causes me to feel icky.
-
-</details>
-
-You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
-
-<details><summary> ni li jaki. mi pilin ala e ni! </summary>
-
-This is gross. I'm not touching it!
-
-</details>
+#### One Modifier
 
 Your penpal said in their last letter that they sent a gift! You had no idea what was coming, but you were so excited for it. When the gift finally came, you open it up to find a personalized piece of art, and you rush to write back that it arrived in good condition:
 
@@ -334,7 +264,7 @@ My thought is that they heard and understood me!
 
 As the air gets cooler and the sun is out for less time each day, you begin to notice the leaves on the trees change color. In your excitement for the changing seasons, you tell everyone you know:
 
-<details><summary> kule kasi li ante! </summary>
+<details><summary> **kule kasi li ante!** </summary>
 
 The plants are changing color!
 
@@ -344,7 +274,58 @@ The color of plants is changing!
 
 - The plant-color is different.
 
+::: info
+
+`kule` can be used to refer to more colors than Toki Pona normally has! Think of saying "The color of sand" in English; this would be `kule ko` in Toki Pona.
+
+:::
+
 </details>
+
+#### Many Modifiers
+
+It's pollen season, and every surface in sight is coated in a fine yellow dust. When you step outside, you start sneezing up a storm. One of your friends, fortunate to not be affected, asks what's wrong. You explain:
+
+<details><summary> ko jelo kasi li ike e mi </summary>
+
+Pollen gives me allergies.
+
+---
+
+- Plant-related yellow dust hurts me.
+- Yellow flower dust makes me feel bad.
+- Yellow tree mush causes me to feel icky.
+
+</details>
+
+You've been excitedly telling your friend about a fantastic ice cream shop that opened only a few weeks ago- they have the best ice cream in the city! You finally convince your friend to go with you, they get a bowl of ice cream heaped tall, and they realize how much they've been missing by not going sooner! They tell you:
+
+<details><summary> lete walo ni ale li suwi mute!  </summary>
+
+All this vanilla ice cream is sweet and delicious!
+
+---
+
+- All this white ice is super sweet!
+- A
+
+</details>
+
+One of your friends has been confiding in you that they have no idea what to get for their partner's birthday. You quietly talk to some others, and bring back suggestions for gifts and surprises. Finally, you tell everyone the plan your friend went with:
+
+<details><summary> **ona li pana e kasi laso loje** </summary>
+
+They gifted red and blue flowers.
+
+::: info
+
+Remember, modifier order doesn't matter. Both the modifiers affect the head _separately_ and _no matter their order_, so kasi is laso _and_ loje- they don't mix!
+
+:::
+
+</details>
+
+#### pi phrases
 
 You're having a conversation on the phone with a long distance friend who speaks Toki Pona! You're walking in public while doing so, keeping your volume down to be respectful. But a little kid comes running up and, in the blunt way only a child can, says you talk super weirdly! When you get back to your call, you explain:
 
@@ -367,19 +348,41 @@ My understanding of Toki Pona is huge!
 
 </details>
 
-### English to Toki Pona
+You've been writing down your thoughts and feelings in a journal as a meditation exercise. Unfortunately, you lost it somewhere, so you call up your friends and explain what you lost, what is important about it, and what it looks like:
 
-<details><summary> I want the shiny black rock! </summary>
+<details><summary> **lipu pi loje jelo li jo e sona mi.** </summary>
 
-mi wile e kiwen pimeja suno!
+The orange journal has my knowledge.
 
-mi wile e kiwen pimeja pona!
+The orange journal has my writings.
+
+::: info
+
+Here, `loje` is a head noun, and `jelo` modifies it. Unlike before, we're changing a color from one shade to another with a modifier, instead of having two separate shades both present!
+
+:::
 
 </details>
 
-<details><summary> All of these are strange-feeling. </summary>
+### English to Toki Pona
+
+<details><summary> I want the shiny white rock! </summary>
+
+mi wile e kiwen walo suno!
+
+mi wile e kiwen walo pona!
+
+</details>
+
+<details><summary> **All of these are strange-feeling.** </summary>
 
 ni ale li nasa pilin!
+
+::: warning
+
+The strange-feeling part is tricky! `nasa` is a more appropriate head noun than `pilin`, because "these" are being "strange" in some way: a `pilin` way.
+
+:::
 
 </details>
 
@@ -421,7 +424,7 @@ We can change words in every part of speech with **Modifiers**, making them more
 
 The word at the start of the phrase is called the **Head**, after its "head" position in a phrase. It can also be called the **Head Noun**.
 
-We also have a few new **particles**. There's some nuance to what that means, now that some of the particles do more than grammatical work, but that can be left for study outside these lessons!
+We also have a new **particle**. There's some nuance to what that means, now that some of the particles do more than grammatical work, but that can be left for study outside these lessons!
 
 #### Grammar
 

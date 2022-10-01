@@ -199,6 +199,8 @@ The definitions for words are examples, not comprehensive. The same goes for exe
 Words can refer to more than the examples, and be used in more ways than appear in the exercises.
 Be experimental, try many things as you learn!
 
+If an exercise spoiler has **bold text**, there's more than just a translation under it. Check for more info!
+
 Lastly, if you ever see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
 
 <!-- ## Exercises -->
