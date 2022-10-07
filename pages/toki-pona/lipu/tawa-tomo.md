@@ -20,12 +20,12 @@ kalama li lon ala li tan jan Jay Althouse
 | lon sewi loje a         |
 | lon tenpo pi seli pini  |
 | lon ike pi moku pan     |
-| lon pini pi wile ni     |
+| lon pini pi wile mi     |
 | mi tawa tomo mi         |
 | o awen ala mi           |
 | o pona e nasin mi       |
 | o ken e wile mi         |
-| ni la mi tawa sina a    |
+| la mi tawa sina a       |
 | sina wile e mi lon poka |
 | sina wile kama e mi     |
 | mi kute e toki sina     |
@@ -37,7 +37,7 @@ kalama li lon ala li tan jan Jay Althouse
 | o awen ala mi           |
 | o pona e nasin mi       |
 | o ken e wile mi         |
-| ni la mi tawa sina a    |
+| la mi tawa sina a       |
 | lon open suno pona      |
 | lon tenpo pi mun lape   |
 | lon pini pi waso kalama |
@@ -63,12 +63,12 @@ Arrangement (not present) by Jay Althouse
 | and the sky is clear and red,           | lon sewi loje a         | when (in) the red sky (emotional)      |
 | When the summer's ceased it's gleaming, | lon tenpo pi seli pini  | at the time of ending warmth           |
 | When the corn is past its prime,        | lon ike pi moku pan     | when the bread is bad                  |
-| When adventure's lost its meaning,      | lon pini pi wile ni     | when my strong feeling ends            |
+| When adventure's lost its meaning,      | lon pini pi wile ni     | when my want ends                      |
 | I'll be homeward bound in time.         | mi tawa tomo mi         | I travel to my home                    |
 | Bind me not to the pasture              | o awen ala mi           | do not stay me                         |
 | Chain me not to the plow                | o pona e nasin mi       | help my path                           |
 | Set me free to find my calling          | o ken e wile mi         | allow my wishes                        |
-| And I'll return to you somehow.         | ni la mi tawa sina a    | for this, I'll come to you             |
+| And I'll return to you somehow.         | la mi tawa sina a       | then, I'll come to you                 |
 | If you find it's me you're missing,     | sina wile e mi lon poka | (if) you want me at (your) side        |
 | If you're hoping I'll return.           | sina wile kama e mi     | (if) you want to summon me             |
 | To your thoughts I'll soon be list'ning | mi kute e toki sina     | I hear your words                      |
@@ -80,7 +80,7 @@ Arrangement (not present) by Jay Althouse
 | Bind me not to the pasture              | o awen ala mi           | do not stay me                         |
 | Chain me not to the plow                | o pona e nasin mi       | help my path                           |
 | Set me free to find my calling          | o ken e wile mi         | allow my wishes                        |
-| And I'll return to you somehow.         | ni la mi tawa sina a    | for this, I'll come to you             |
+| And I'll return to you somehow.         | la mi tawa sina a       | then, I'll come to you                 |
 | In the quiet misty morning              | lon open suno pona      | in the beautiful morning               |
 | When the moon has gone to bed,          | lon tenpo pi mun lape   | when the moon is sleeping              |
 | When the sparrows stop their singing    | lon pini pi waso kalama | when the songbids stop                 |
