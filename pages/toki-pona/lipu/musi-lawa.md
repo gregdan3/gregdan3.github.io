@@ -52,7 +52,7 @@ taso, sina ken pana e musi ni tawa jan poka sina, a a a
   - Q - meli
   - K - mije
 
-<details><summary> nimi ni li pona ala tawa sina lao lukin </summary>
+<details><summary> nimi ni li pona ala tawa sina la o lukin </summary>
 
 kulupu pilin la nimi insa en nimi olin li ken pona
 
@@ -79,7 +79,7 @@ lawa la mi toki e nimi pana taso. sina ante la o ante e lawa kin!
 # lawa
 
 - **jan li pakala la o pana e lipu tawa ona o toki e pakala ona.**
-- lawa li toki ala e toki pakala la toki pakala li ni: "pakala. o ni: [sina toki pona e lawa]"
+- lawa li toki ala e toki pakala la toki pakala li ni: "o ni: [sina toki pona e lawa]"
 
 ### tawa open
 
@@ -156,19 +156,20 @@ jan li ken pilin e lipu pi jan ante lon tenpo pi musi ala
 
 toki pakala mute li ken. o lukin:
 
-- "pakala. o ni: ilo nanpa meli. o pona tawa meli."
+- "o ni: ilo nanpa meli. o pona tawa meli."
   - jan pana li pana e lipu nanpa meli pi kulupu ilo.
-- "pakala. o ni: ilo nanpa luka wan. o pona tawa kule."
+- "o ni: ilo nanpa luka wan. o pona tawa kule."
   - jan pana li pana e lipu nanpa luka wan pi kulupu ilo.
-- "pakala. o ni: sewi li lon. sina pana sin ala. toki."
+- "o ni: sewi li lon. sina pana sin ala. toki."
   - jan pana li pana e lipu nanpa tu, li toki pakala, li pana ala e lipu wan taso.
   - ona li kama jo e lipu tu wan!
-- "pakala. o ni: mi wan."
+- "o ni: mi wan."
   - jan pana li toki ala e ni
-- "pakala. o ni: musi o pini."
+- "o ni: musi o pini."
   - jan pana li toki ala e ni
 - "pilin."
   - jan li pilin e lipu ona lon tenpo pi musi ala
 - "toki"
   - jan li toki lon tenpo musi
-- ""
+- "kulupu o pona"
+  - jan li pana e lipu ike. kulupu ona en nanpa ona li ike la ona o pana e lipu pona!
