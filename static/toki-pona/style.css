@@ -17,3 +17,8 @@ div.tokipona table tbody tr td:nth-child(1) {
   border: 1px solid var(--prim-ac);
   text-align: center;
 }
+
+div.ale {
+  font-family: sp;
+  font-size: 1.6em;
+}

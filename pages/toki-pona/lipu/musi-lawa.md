@@ -4,6 +4,8 @@ author: gregdan3
 date: 2022-09-18T00:00:00.000Z
 ---
 
+::: ale
+
 musi ni la sina ken ala toki e lawa. taso lipu ni li pana e sona lawa tan ni: mi tu li lon ala poka la sina ken ala musi!
 
 taso, sina ken pana e musi ni tawa jan poka sina, a a a
@@ -52,7 +54,7 @@ taso, sina ken pana e musi ni tawa jan poka sina, a a a
   - Q - meli
   - K - mije
 
-<details><summary> nimi ni li pona ala tawa sina la o lukin </summary>
+<details><summary> nimi ni li pona ala tawa sina la o lukin</summary>
 
 kulupu pilin la nimi insa en nimi olin li ken pona
 
@@ -79,7 +81,7 @@ lawa la mi toki e nimi pana taso. sina ante la o ante e lawa kin!
 # lawa
 
 - **jan li pakala la o pana e lipu tawa ona o toki e pakala ona.**
-- lawa li toki ala e toki pakala la toki pakala li ni: "o ni: [sina toki pona e lawa]"
+- lawa li toki ala e toki pakala la o toki pona e lawa ona lon ni: "o ni: ..."
 
 ### tawa open
 
@@ -173,3 +175,5 @@ toki pakala mute li ken. o lukin:
   - jan li toki lon tenpo musi
 - "kulupu o pona"
   - jan li pana e lipu ike. kulupu ona en nanpa ona li ike la ona o pana e lipu pona!
+
+:::
