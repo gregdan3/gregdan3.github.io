@@ -192,4 +192,3 @@ Also, you can optionally include `taso` before a sentence, which connects it to 
 
 [Next lesson](./preps.html)
 
-

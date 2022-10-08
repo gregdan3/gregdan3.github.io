@@ -244,7 +244,7 @@ Your penpal said in their last letter that they sent a gift! You had no idea wha
 
 <details><summary> mi jo pona e pana sina! </summary>
 
-I safely received your gift!
+I safely have your gift!
 
 </details>
 

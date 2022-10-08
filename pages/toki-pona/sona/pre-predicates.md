@@ -4,27 +4,26 @@ author: gregdan3
 date: date unknown
 ---
 
-
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
-    - [Pre-predicates](#pre-predicates)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
+  - [Pre-predicates](#pre-predicates)
 - [Overview](#overview)
-    - [Pre-predicates](#pre-predicates-1)
-    - [Multiple pre-predicates](#multiple-pre-predicates)
-    - [ala](#ala)
+  - [Every Pre-predicate](#every-pre-predicate)
+  - [Multiple pre-predicates](#multiple-pre-predicates)
+  - [ala](#ala)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
-    - [ala](#ala-1)
     - [One pre-pred](#one-pre-pred)
     - [Many pre-preds](#many-pre-preds)
+    - [ala](#ala-1)
     - [Pre-preds and ala](#pre-preds-and-ala)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Clarity of Grammar](#clarity-of-grammar)
-    - [Ambiguity](#ambiguity)
+  - [Clarity of Grammar](#clarity-of-grammar)
+  - [Ambiguity](#ambiguity)
 
 <!-- tocstop -->
 
@@ -51,10 +50,10 @@ date: date unknown
 | wile  | wile  | want, need                                 |
 | ken   | ken   | capability, power, permission, possibility |
 | kama  | kama  | summon, arrive, invite                     |
-| awen  | awen  | stay, remain, continue, endure             |
-| lukin | lukin | eyes, to look                              |
+| awen  | awen  | remain, stay, continue, stop, protect      |
 | sona  | sona  | knowledge, understanding, to know          |
 | alasa | alasa | hunt, seek, search, forage                 |
+| lukin | lukin | eyes, to look                              |
 | ala   | ala   | none, nothing, not, zero                   |
 
 :::
@@ -63,15 +62,15 @@ date: date unknown
 
 ::: tokipona
 
-| Glyph | Word  | Definition                          |
-| ----- | ----- | ----------------------------------- |
-| wile  | wile  | to want, to need                    |
-| ken   | ken   | to have ability, to have permission |
-| kama  | kama  | to begin, to become                 |
-| awen  | awen  | to continue                         |
-| sona  | sona  | to be skilled in                    |
-| lukin | lukin | to try                              |
-| alasa | alasa | to try                              |
+| Glyph | Word  | Definition                     |
+| ----- | ----- | ------------------------------ |
+| wile  | wile  | to want, to need               |
+| ken   | ken   | to be able, to have permission |
+| kama  | kama  | to begin, to become            |
+| awen  | awen  | to continue                    |
+| sona  | sona  | to be skilled in               |
+| alasa | alasa | to try                         |
+| lukin | lukin | to try                         |
 
 :::
 
@@ -79,41 +78,59 @@ One word here is a particle _and_ content word! You'll be able to tell these apa
 
 ## Overview
 
-#### Pre-predicates
+#### Every Pre-predicate
 
-**Pre-predicates**, also known as **pre-verbs** or **pre-preds**, are a set of words that can be placed at the start of the predicate to alter its meaning.
+**Pre-predicates**, also known as **pre-verbs** or **pre-preds**, are special modifiers that go at the start of the predicate.
 
-We already know some of them: `wile`, `sona`, and `lukin` are back!
+There are seven pre-preds in common use. We already know some of them as normal content words!
 
-There are exactly seven pre-predicates in common use, so we'll cover them all.
+---
 
 <details><summary> mi wile pali </summary>
 
 I want to create.
 
+I want to work.
+
 ---
 
 </details>
 
-The `wile` pre-predicate means the predicate is wanted, generally implying it isn't something you have already.
+The `wile` pre-pred means the predicate is wanted or needed.
 
 You could say:
 
 > mi wile e pali
 
-And it _could_ mean the same thing. But it's more clear to say `mi wile pali` because something in the object position will often be considered some specific physical thing, or an idea. What if it were intended to be an action? Then a pre-predicate is more clear!
+And that _could_ mean the same thing. But it's more clear to say `mi wile pali`.
+
+::: info
+
+When something is in the object, it is often considered _not_ an action. If you want to talk about a wanted _action_, ensuring that word is in the **predicate** is the most clear!
+
+:::
+
+---
 
 <details><summary> mi ken wawa </summary>
 
-I am able to be strong.
+I can be strong.
 
 </details>
 
-::: error
+The `ken` pre-pred means the predicate is an ability or permission. Consider this version:
 
-You can't always tell apart a normal predicate from a pre-predicate. Context can help!
+> ken mi li wawa
+
+Again, this has a similar meaning to the original statement that used a pre-predicate.
+
+::: info
+
+You can often restate a sentence _without_ a pre-predicate. Using pre-predicates saves time and makes you more clear!
 
 :::
+
+---
 
 <details><summary> sina kama sona! </summary>
 
@@ -121,57 +138,106 @@ You are learning!
 
 </details>
 
-<details><summary> </summary>
+The `kama` pre-pred means the predicate is beginning, or _progressive_.
+It's similar to a word in English that ends with "-ing," such as learning or growing.
+It can also refer to beginning actions, such as going to sleep.
 
-::: info
+> kasi li kama suli
 
-You can think of pre-predicates as a special kind of **modifier**!
+> jan lili li kama lape
+
+---
+
+<details><summary> mi awen kute </summary>
+
+I am still listening.
+
+</details>
+
+The `awen` pre-pred means the predicate is on-going, continuing, or not changing. This is different from `kama` in that `kama` pre-pred does imply change!
+
+---
+
+<details><summary> ona li sona pakala e ni </summary>
+
+::: error
+
+You can't always tell apart a normal predicate from a pre-predicate. Pay attention to context!
 
 :::
 
+**Pre-predicate sona**: They know how to break this.
+
+**Predicate sona**: They poorly understand this.
+
 </details>
 
-<details><summary> </summary>
+The `sona` pre-pred means the predicate indicates knowledge of how to perform the action, rather than the action itself.
+`mi sona pali` is like saying "I know how to create." Consider this:
+
+> mi sona e pali
+
+The same action-versus-object distinction happens as with the `ken` pre-pred. If something is an action, or knowledge of an action, that will be better understood in the predicate.
+
+---
+
+<details><summary> mi alasa pona e sina / mi lukin pona e sina </summary>
+
+I'm trying to help you!
 
 </details>
+
+Lastly, there's `lukin` and `alasa`, which have the same meaning as pre-preds: to try. I recommend "alasa" over "lukin," but feel free to use both!
 
 ::: info
 
-You can even use a pre-predicate as a predicate at the same time, such as saying **mi wile wile**!
+**lukin** and **alasa** mean the same as pre-preds because Toki Pona has changed over time, even as a constructed language!
 
 :::
 
-<details><summary> mi lukin sona e sina </summary>
+---
 
-</details>
-<details><summary> mi alasa sona e sina </summary>
-
-I'm trying to understand you.
-
-</details>
-
-Lastly, there's `lukin` and `alasa`, which have the same meaning as preverbs: to try.
+Here are some extra notes on pre-predicates before you continue:
 
 ::: info
+
+You can use a pre-predicate with itself in the predicate, such as saying **mi wile wile**! This is not common, because the pre-predicate usually does what you need.
+
+:::
+
+::: warning
+
+We can't ignore pre-predicates like we ignored modifiers before. They _do_ change the predicate, where modifiers just make it more specific!
 
 :::
 
 #### Multiple pre-predicates
 
-Like modifiers, you can use multiple pre-predicates at the same time! They function exactly how you expect:
+Like modifiers, you can use multiple pre-predicates at the same time!
 
-<details><summary> mi awen ken sona ni: mi mama e kasi  </summary>
+<details><summary> mi awen ken mama e kasi  </summary>
 
-I am still able to skillfully do this: I raise plants.
+I am still able to raise plants.
 
-I am still able to skillfully do this: I mother plants.
+I am still able to grow plants.
 
 </details>
 
 - `awen` means something is ongoing
 - `ken` means something is a capability
-- `sona` means something is done skillfully or knowledgeably
-- The predicate `ni` is referencing the next sentence!
+- `mama` is the predicate, making this a parenting action.
+
+The order of pre-predicates matters. Consider this alternate sentence:
+
+<details><summary> mi ken awen mama e kasi  </summary>
+
+I am able to continue raising plants.
+
+</details>
+
+Multiple pre-predicates apply from left to right. The thing that is `ken` is the `awen mama`, and the thing that `awen`-s is `mama`.
+
+In the original, the thing that `awen`-s `ken mama`, and the thing that is `ken` is `mama`.
 
 #### ala
 
@@ -181,9 +247,9 @@ I am still able to skillfully do this: I mother plants.
 
 I'm not well.
 
----
+I'm not good.
 
-- I'm not good.
+---
 
 </details>
 
@@ -191,61 +257,201 @@ Here, `pona` is negated by `ala`- it's like saying "not".
 
 ::: warning
 
-Toki Pona words don't have true opposites. There are some meanings of **pona** that are opposite of **ike**, but **pona ala** is _not_ ike.
+Toki Pona words don't have opposites. There are some uses of **pona** opposite to uses of **ike**, but **pona ala** is _not_ ike.
 
 :::
 
-Compare the phrases "this is good" and "this is not bad" in English. They are close together in meaning, but the negation does not make them the same.
+Compare the phrases "this is good" and "this is not bad" in English. They can be close in meaning, but the negation does not make them the same.
 
-<details><summary> jan ala li ante e toki. </summary>
+<details><summary> jan ala li ante e lipu. </summary>
 
-No person changed the discussion.
+Nobody changed the book.
+
+A non-person changed the book.
+
+::: warning
+
+Two interpretations are possible here! The first means the book was unchanged, and the second means something other than a person changed the book. If you want to be clear that the book is unchanged, try `[subject] li ante ala e lipu.` or `lipu li ante ala.`
+
+:::
 
 </details>
 
-Words in any part of speech may be negated. Negating the subject can be similar to negating the predicate- consider this restatement:
+You can also use `ala` in pre-predicates and `pi` phrases:
 
-> jan li ante ala e toki.
+<details><summary> kasi li kama ala ike </summary>
 
-The meaning is the same _in this case_, although there is room for question. For example, does the first case imply that something besides `jan` _did_ make the `toki` become `ante`?
+The plant did not get hurt!
+
+The plant did not become unpleasant.
+
+</details>
+
+<details><summary> ona li jan pi pana ala </summary>
+
+They are not a giving person.
+
+They are not a gift giver.
+
+</details>
 
 ::: info
 
-Since you can use ala to negate any head noun or modifier, you can use it in pi phrases too!
+**ala** can also be a normal modifier! In this case, it would apply nothingness to the thing it modifies. This is a rare case though!
 
 :::
-
-`ala` doesn't have to negate a whole phrase. It can negate only one modifier, the one right before it. This can't always be told apart from negating the entire phrase:
-
-> sina ante ike ala.
-
-This statement could be "you're not badly-different " or "you're not-badly different". Most speakers will restate when they intend the second:
-
-> sina ante pi ike ala
-
-With the pi phrase, this statement is clearly "You're not-badly different." That's not a bad compliment!
 
 ## Exercises
 
 ### Toki Pona to English
 
-#### ala
+#### One pre-pred
 
-You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
+A teacher is trying to communicate to all of his students that recess is over, and everyone needs to come inside. He sends a nearby student with a message for everyone to group up in the classroom:
 
-<details><summary> ni li jaki. mi pilin ala e ni! </summary>
+<details><summary> jan sona li wile kulupu e jan pi kama sona </summary>
 
-This is gross. I'm not touching it!
+The teacher wants to group together all the students!
+
+::: info
+
+The original statement could be shorter: "pi kama sona" could be dropped and the statement would be similar. Modifiers only make things more specific!
+
+:::
 
 </details>
 
-#### One pre-pred
+You're observing the plants outside. Some are tall and wide, others are small and low to the ground. One plant in particular has many outstretched leaves glowing gently in the sun, and you remark on the shape of these leaves:
+
+<details><summary> kasi mute li ken lipu </summary>
+
+Many plants can be papery.
+
+Lots of leaves can be flat.
+
+</details>
+
+Every day, you come out to the edge of the water and watch the waves lap over the rocks and wash back out. As you come out day after day, you see that all the spots where water can reach are turning green- growing moss! You remark:
+
+<details><summary> telo li kama laso e kiwen! </summary>
+
+The water turned the rock green!
+
+</details>
+
+You're discussing a difficult decision with your family: do you leave your job, that has stressed you for months on end? You don't want to leave, because you know that will hurt your co-workers, and your friends, as they try to fill the gap you leave behind. Your brother chimes in with helpful perspective:
+
+<details><summary> wile sina li awen suli </summary>
+
+Your wishes are still important.
+
+Your wants are still important.
+
+</details>
+
+You're applying for a new job as a social media manager! You've been talking on about your experience and skills, but most importantly, you explain that you know the primary skill of a social media manager:
+
+<details><summary> mi sona pali e kulupu suli </summary>
+
+I know how to create a huge community.
+
+I am skilled at creating large groups.
+
+I skillfully created a huge community!
+
+</details>
+
+You've been talking up Toki Pona with your friends for a while now, and finally convinced one of them to join you in learning! But your friend asks, why were you so persistent about others learning Toki Pona? You explain:
+
+<details><summary> jan pi toki pona li alasa nasa e kulupu ona <br/> jan pi toki pona li lukin nasa e kulupu ona </summary>
+
+---
+
+Toki Pona speakers try to make their communities weird! [positive connotation]
+
+Toki Pona speakers try to weird their communities.
+
+::: info
+
+Remember, **lukin** and **alasa** have the same meaning _as pre-predicates_!
+
+:::
+
+</details>
 
 #### Many pre-preds
+
+Your friend is sick! Your other friends have been asking how your friend is doing, so you explain:
+
+<details><summary> ona li awen kama pona </summary>
+
+They are still getting better.
+
+</details>
+
+You are watching your little brother stare into a triangular prism. Light is shining from the window into the prism, and the prism scatters all the light throughout the room in a variety of colors. Your brother says:
+
+<details><summary> mi wile alasa sona e kule ale <br/> mi wile lukin sona e kule ale </summary>
+
+I want to try understanding all the colors.
+
+</details>
+
+#### ala
+
+Your research team has been working to put together a presentation. However, one member of your team will not be present on the day of the presentation- the one who was going to give it! You go to the coordinator and explain:
+
+<details><summary> ona li ken ala ni... </summary>
+
+They can't do this...
+
+</details>
+
+You've discovered you have a fascinating new power: You can grow plants wherever you point! But you can't make more than small blades of grass or patches of moss. As you discuss this with your teacher, they explain the roadblock you have:
+
+<details><summary> sina sona ala wawa e ken sina </summary>
+
+You don't know how to empower your ability.
+
+</details>
+
+You've been feeling unwell lately, and sleeping a lot as a result. As the hours go by, and you're stuck in bed trying to recover, your responsibilities pile up. You unhappily remark to yourself:
+
+<details><summary> mi wile ala awen lape </summary>
+
+I don't want to keep sleeping...
+
+</details>
+
+object ala
+
+You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
+
+<details><summary> ni li jaki mute. mi pilin ala e ni! </summary>
+
+This is _so_ gross. I'm not touching it!
+
+</details>
 
 #### Pre-preds and ala
 
 ### English to Toki Pona
+
+<details><summary> I don't think anyone has the answer. </summary>
+
+pilin mi li ni: jan ala li sona
+
+pilin mi li ni: jan li sona ala
+
+pilin mi li ni: ala li sona e ni
+
+::: info
+
+This one sentence needs to be broken up to accomplish two things: expressing that the statement is your feeling or thought, and the information of the statement itself!
+
+:::
+
+</details>
 
 <details><summary> That glacier is not white! </summary>
 
@@ -269,13 +475,13 @@ If something is in the **predicate**, it will often be assumed to be an **action
 
 If something is in the **object**, it will often be assumed to be a **thing**, especially something physical.
 
-Neither of these are true _all_ the time, but they are true often enough that you can take advantage of it! If you want to reference an action, putting that in the predicate can be helpful, and the same goes for putting physical things in the object.
+Neither of these are true _all_ the time, but they are true enough that you can rely on it! If you want to reference an action, putting that in the predicate can be helpful, and the same goes for putting physical things in the object.
 
-Pre-verbs.
+Most of what pre-preds are used for can be said _without_ pre-preds. But using them makes you much more understandable.
 
 #### Ambiguity
 
-A few times during this lesson, we noticed that some phrases are **ambiguous**. There are multiple possible interpretations, open-ended statements that need more detail, and more. This is a common feature of Toki Pona. You do not need to specifically learn to avoid it- that will come naturally as you figure out what works and what doesn't!
+In this lesson, we saw that some phrases are **ambiguous**. There are multiple possible interpretations, statements that need more detail, and more. This is a common feature of Toki Pona. You do not need to specifically learn to avoid it- that will come naturally as you figure out what works and what doesn't!
 
 That said, if any ambiguity or even simple misunderstanding comes up when speaking, restating yourself is helpful!
 
@@ -284,5 +490,3 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 [Previous lesson](./mod-pi.html)
 
 [Next lesson](./o.html)
-
-
