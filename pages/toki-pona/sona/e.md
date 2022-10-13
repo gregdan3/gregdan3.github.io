@@ -29,7 +29,7 @@ date: 2022-09-09T00:00:00.000Z
 
 #### Particles
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word | Use                                      |
 | ----- | ---- | ---------------------------------------- |
@@ -39,7 +39,7 @@ date: 2022-09-09T00:00:00.000Z
 
 #### Content Words
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph  | Word   | Definition                                             |
 | ------ | ------ | ------------------------------------------------------ |
@@ -424,6 +424,4 @@ The list of particles we know has grown to include `e`! Every other new word is 
 [Previous lesson](./li.html)
 
 [Next lesson](./mod-pi.html)
-
-
 

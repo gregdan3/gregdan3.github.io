@@ -23,7 +23,7 @@ date: date unknown
 
 #### Prepositions
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph   | Word    | Definition                            |
 | ------- | ------- | ------------------------------------- |
@@ -37,7 +37,7 @@ date: date unknown
 
 #### Content Words
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word  | Definition                        |
 | ----- | ----- | --------------------------------- |
@@ -79,5 +79,4 @@ mi tawa
 [Previous lesson](./o.html)
 
 [Next lesson](./la.html)
-
 

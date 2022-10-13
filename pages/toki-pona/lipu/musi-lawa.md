@@ -3,8 +3,7 @@ title: o toki ala e lawa
 author: gregdan3
 date: 2022-09-18T00:00:00.000Z
 ---
-
-::: ale
+::: tokipona
 
 musi ni la sina ken ala toki e lawa. taso lipu ni li pana e sona lawa tan ni: mi tu li lon ala poka la sina ken ala musi!
 
@@ -16,13 +15,13 @@ taso, sina ken pana e musi ni tawa jan poka sina, a a a
 
 - [ijo jo](#ijo-jo)
 - [lawa](#lawa)
-  - [tawa open](#tawa-open)
-  - [tawa jan ale](#tawa-jan-ale)
-  - [tawa jan pana](#tawa-jan-pana)
-  - [tawa nanpa lipu](#tawa-nanpa-lipu)
-  - [tawa kulupu lipu](#tawa-kulupu-lipu)
-  - [tawa pini](#tawa-pini)
-  - [ijo tan lawa](#ijo-tan-lawa)
+    - [tawa open](#tawa-open)
+    - [tawa jan ale](#tawa-jan-ale)
+    - [tawa jan pana](#tawa-jan-pana)
+    - [tawa nanpa lipu](#tawa-nanpa-lipu)
+    - [tawa kulupu lipu](#tawa-kulupu-lipu)
+    - [tawa pini](#tawa-pini)
+    - [ijo tan lawa](#ijo-tan-lawa)
 
 <!-- tocstop -->
 
@@ -177,3 +176,4 @@ toki pakala mute li ken. o lukin:
   - jan li pana e lipu ike. kulupu ona en nanpa ona li ike la ona o pana e lipu pona!
 
 :::
+

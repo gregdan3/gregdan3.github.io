@@ -22,7 +22,7 @@ date: date unknown
 
 #### Particles
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word | Definition                                          |
 | ----- | ---- | --------------------------------------------------- |
@@ -30,7 +30,7 @@ date: date unknown
 
 #### Content Words
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph  | Word   | Definition                                     |
 | ------ | ------ | ---------------------------------------------- |
@@ -70,5 +70,4 @@ but! don't worry much about not getting la yet! it is the most complex part of t
 [Previous lesson](./preps.html)
 
 [Next lesson](./seme.html)
-
 

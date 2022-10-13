@@ -105,7 +105,7 @@ a:hover {
 }
 blockquote {
   margin: 0.5em;
-  padding-inline: 1em;
+  padding-inline: 0.5em;
   border-inline-start: 0.25em solid var(--prim-ac);
   background: var(--sec-bg);
 }
@@ -116,6 +116,7 @@ code {
   padding: 0.1em;
 }
 table {
+  margin: 0.5em;
   background: var(--sec-bg);
   border: 2px solid var(--prim-ac);
   border-collapse: collapse;

@@ -28,7 +28,7 @@ date: date unknown
 
 #### Particles
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word  | Use                                        |
 | ----- | ----- | ------------------------------------------ |
@@ -41,7 +41,7 @@ date: date unknown
 
 #### Content Words
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph  | Word   | Definition                         |
 | ------ | ------ | ---------------------------------- |
@@ -112,5 +112,4 @@ But with `nanpa`, the modifier is a kind of _ordinal_, a ranking!
 [Previous lesson](./li.html)
 
 [Next lesson](./mod-pi.html)
-
 

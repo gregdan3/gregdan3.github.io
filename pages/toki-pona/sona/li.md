@@ -31,7 +31,7 @@ All new words will be separated into categories!
 
 Particles are for grammar. They are used for sentence structure. Most do not have meanings, only functions.
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word | Use                                          |
 | ----- | ---- | -------------------------------------------- |
@@ -43,7 +43,7 @@ Particles are for grammar. They are used for sentence structure. Most do not hav
 
 Content words have meaning, and can be in both the subject and predicate, plus others we'll see later!
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph  | Word   | Definition                                    |
 | ------ | ------ | --------------------------------------------- |
@@ -330,5 +330,4 @@ There are also a handful of words which are so-called **pseudo-particles**. This
 [Previous lesson](./mi-sina.html)
 
 [Next lesson](./e.html)
-
 

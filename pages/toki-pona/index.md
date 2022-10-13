@@ -4,6 +4,7 @@ author: gregdan3
 date: 2022-07-02T00:00:00.000Z
 ---
 
+
 <!-- toc -->
 
 - [open (start)](#open-start)
@@ -98,8 +99,8 @@ at the same time as you start these lessons, to help you memorize all the words!
 - [Actions with _li_](./sona/li.html)
 - [Objects with _e_](./sona/e.html)
 - [Modifiers and _pi_](./sona/mod-pi.html)
+- [Pre-predicates](./sona/pre-predicates.html)
 
-<!-- - [Pre-predicates](./sona/pre-predicates.html) -->
 <!-- - [Instructions with _o_](./sona/o.html) -->
 <!-- - [Interjections and _a_](./sona/interjections.html) -->
 <!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
@@ -195,3 +196,4 @@ More tools are coming!
 - [An explorable map of Toki Pona concepts](./ilo/map.html)
   - Most data is from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and
     [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
+

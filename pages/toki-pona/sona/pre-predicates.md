@@ -4,26 +4,26 @@ author: gregdan3
 date: date unknown
 ---
 
+
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
-  - [Pre-predicates](#pre-predicates)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+    - [Pre-predicates](#pre-predicates)
 - [Overview](#overview)
-  - [Every Pre-predicate](#every-pre-predicate)
-  - [Multiple pre-predicates](#multiple-pre-predicates)
-  - [ala](#ala)
+    - [Every Pre-predicate](#every-pre-predicate)
+    - [Multiple pre-predicates](#multiple-pre-predicates)
+    - [ala](#ala)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [One pre-pred](#one-pre-pred)
     - [Many pre-preds](#many-pre-preds)
     - [ala](#ala-1)
-    - [Pre-preds and ala](#pre-preds-and-ala)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Clarity of Grammar](#clarity-of-grammar)
-  - [Ambiguity](#ambiguity)
+    - [Clarity of Grammar](#clarity-of-grammar)
+    - [Ambiguity](#ambiguity)
 
 <!-- tocstop -->
 
@@ -33,7 +33,7 @@ date: date unknown
 
 #### Particles
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word | Use                               |
 | ----- | ---- | --------------------------------- |
@@ -43,7 +43,7 @@ date: date unknown
 
 #### Content Words
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word  | Definition                                 |
 | ----- | ----- | ------------------------------------------ |
@@ -60,7 +60,7 @@ date: date unknown
 
 #### Pre-predicates
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word  | Definition                     |
 | ----- | ----- | ------------------------------ |
@@ -91,8 +91,6 @@ There are seven pre-preds in common use. We already know some of them as normal 
 I want to create.
 
 I want to work.
-
----
 
 </details>
 
@@ -154,13 +152,13 @@ I am still listening.
 
 </details>
 
-The `awen` pre-pred means the predicate is on-going, continuing, or not changing. This is different from `kama` in that `kama` pre-pred does imply change!
+The `awen` pre-pred means the predicate is on-going, continuing, or not changing. This is different from `kama` in that the `kama` pre-pred does imply change!
 
 ---
 
 <details><summary> ona li sona pakala e ni </summary>
 
-::: error
+::: warning
 
 You can't always tell apart a normal predicate from a pre-predicate. Pay attention to context!
 
@@ -172,22 +170,22 @@ You can't always tell apart a normal predicate from a pre-predicate. Pay attenti
 
 </details>
 
-The `sona` pre-pred means the predicate indicates knowledge of how to perform the action, rather than the action itself.
+The `sona` pre-pred means the predicate indicates knowledge of how to perform the action.
 `mi sona pali` is like saying "I know how to create." Consider this:
 
 > mi sona e pali
 
-The same action-versus-object distinction happens as with the `ken` pre-pred. If something is an action, or knowledge of an action, that will be better understood in the predicate.
+The same action-versus-thing distinction happens as with the `ken` pre-pred. If something is an action, or knowledge of an action, that will be better understood in the predicate.
 
 ---
 
-<details><summary> mi alasa pona e sina / mi lukin pona e sina </summary>
+<details><summary> mi alasa pona e sina  /  mi lukin pona e sina </summary>
 
 I'm trying to help you!
 
 </details>
 
-Lastly, there's `lukin` and `alasa`, which have the same meaning as pre-preds: to try. I recommend "alasa" over "lukin," but feel free to use both!
+Lastly, there's `lukin` and `alasa`, which have the same meaning as pre-preds: to try. I recommend `alasa` most, but feel free to use both!
 
 ::: info
 
@@ -211,9 +209,21 @@ We can't ignore pre-predicates like we ignored modifiers before. They _do_ chang
 
 :::
 
+<!-- ::: warning -->
+
+<!-- Pre-predicates _are_ modifiers, but you don't need to use pi or another word to connect them to the predicate! -->
+
+<!-- ::: -->
+
+<!-- ::: error -->
+
+<!-- You **cannot** use modifiers or pi on pre-predicates. pi only applies to heads and normal mods- if you use pi, your pre-predicate will be read as a normal head or mod. -->
+
+<!-- ::: -->
+
 #### Multiple pre-predicates
 
-Like modifiers, you can use multiple pre-predicates at the same time!
+Like modifiers, you can use multiple pre-predicates at once!
 
 <details><summary> mi awen ken mama e kasi  </summary>
 
@@ -224,10 +234,10 @@ I am still able to grow plants.
 </details>
 
 - `awen` means something is ongoing
-- `ken` means something is a capability
+- `ken` means something is an ability
 - `mama` is the predicate, making this a parenting action.
 
-The order of pre-predicates matters. Consider this alternate sentence:
+The order of pre-predicates matters. Consider this:
 
 <details><summary> mi ken awen mama e kasi  </summary>
 
@@ -235,9 +245,9 @@ I am able to continue raising plants.
 
 </details>
 
-Multiple pre-predicates apply from left to right. The thing that is `ken` is the `awen mama`, and the thing that `awen`-s is `mama`.
+Multiple pre-predicates apply from left to right. The thing that is `ken` is the `awen mama`, and the thing that is `awen` is `mama`.
 
-In the original, the thing that `awen`-s `ken mama`, and the thing that is `ken` is `mama`.
+In the original, the thing that is `awen` is `ken mama`, and the thing that is `ken` is `mama`.
 
 #### ala
 
@@ -248,8 +258,6 @@ In the original, the thing that `awen`-s `ken mama`, and the thing that is `ken`
 I'm not well.
 
 I'm not good.
-
----
 
 </details>
 
@@ -277,7 +285,13 @@ Two interpretations are possible here! The first means the book was unchanged, a
 
 </details>
 
-You can also use `ala` in pre-predicates and `pi` phrases:
+::: info
+
+**ala** can be a normal modifier! If it is, it applies nothingness to the thing it modifies. This is a rare case though!
+
+:::
+
+You can also use `ala` in pre-predicates:
 
 <details><summary> kasi li kama ala ike </summary>
 
@@ -287,6 +301,8 @@ The plant did not become unpleasant.
 
 </details>
 
+And in `pi` phrases:
+
 <details><summary> ona li jan pi pana ala </summary>
 
 They are not a giving person.
@@ -294,12 +310,6 @@ They are not a giving person.
 They are not a gift giver.
 
 </details>
-
-::: info
-
-**ala** can also be a normal modifier! In this case, it would apply nothingness to the thing it modifies. This is a rare case though!
-
-:::
 
 ## Exercises
 
@@ -323,7 +333,7 @@ The original statement could be shorter: "pi kama sona" could be dropped and the
 
 You're observing the plants outside. Some are tall and wide, others are small and low to the ground. One plant in particular has many outstretched leaves glowing gently in the sun, and you remark on the shape of these leaves:
 
-<details><summary> kasi mute li ken lipu </summary>
+<details><summary>kasi mute li ken lipu. </summary>
 
 Many plants can be papery.
 
@@ -363,9 +373,7 @@ I skillfully created a huge community!
 
 You've been talking up Toki Pona with your friends for a while now, and finally convinced one of them to join you in learning! But your friend asks, why were you so persistent about others learning Toki Pona? You explain:
 
-<details><summary> jan pi toki pona li alasa nasa e kulupu ona <br/> jan pi toki pona li lukin nasa e kulupu ona </summary>
-
----
+<details><summary> jan pi toki pona li alasa nasa e kulupu ona  /  jan pi toki pona li lukin nasa e kulupu ona </summary>
 
 Toki Pona speakers try to make their communities weird! [positive connotation]
 
@@ -391,7 +399,7 @@ They are still getting better.
 
 You are watching your little brother stare into a triangular prism. Light is shining from the window into the prism, and the prism scatters all the light throughout the room in a variety of colors. Your brother says:
 
-<details><summary> mi wile alasa sona e kule ale <br/> mi wile lukin sona e kule ale </summary>
+<details><summary> mi wile alasa sona e kule ale  /  mi wile lukin sona e kule ale </summary>
 
 I want to try understanding all the colors.
 
@@ -423,21 +431,67 @@ I don't want to keep sleeping...
 
 </details>
 
-object ala
+You've been sorting through boxes of donations, trying to make a list of contributors to thank for their help. Somebody you're working with you points out that you've made a mistake- you attributed a donation to the wrong person! They say:
+
+<details><summary> **ona li pana e ni ala. ona li pana e ni!** </summary>
+
+They didn't give this. They gave that!
+
+::: info
+
+While negating the predicate can be similar to negating the object, choosing one over the other can emphasize your intended meaning better!
+
+:::
+
+</details>
 
 You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
 
 <details><summary> ni li jaki mute. mi pilin ala e ni! </summary>
 
-This is _so_ gross. I'm not touching it!
+That is _so_ gross. I'm not touching that!
 
 </details>
 
-#### Pre-preds and ala
+Your family has been clearing out a ton of space in the back yard, and carting all the extra leaves and branches to a pile. They burn the pile to get rid of it, and the smoke makes it a struggle to stay outside so you go in and settle into a book. Later, your brother comes to tell you they stopped:
+
+<details><summary> ona li awen ala seli e kasi </summary>
+
+They stopped burning brush!
+
+---
+
+They're no longer burning plants!
+
+::: info
+
+You could also say "ona li seli ala e kasi" to similar effect!
+
+:::
+
+</details>
+
+You're going swimming in a lake in the middle of summer! The sun is beaming brightly, and your dad is concerned you'll get a sunburn. He's reminded you too many times to bring sunscreen, put on lots of sunscreen, keep re-applying sunscreen, but you know all that already! You finally tell him:
+
+<details><summary> **mi alasa ala kama loje! / mi lukin ala kama loje!** </summary>
+
+I'm not trying to get sunburnt!
+
+::: info
+
+You can apply pre-predicates to descriptions too!
+
+:::
+
+---
+
+I'm not trying to turn red!
+
+</details>
 
 ### English to Toki Pona
 
-<details><summary> I don't think anyone has the answer. </summary>
+<details><summary> **I don't think anyone has the answer.** </summary>
 
 pilin mi li ni: jan ala li sona
 
@@ -467,6 +521,86 @@ mi ni ala!
 
 </details>
 
+<details><summary> I'm searching for my son </summary>
+
+mi alasa e jan lili mi.
+
+mi alasa e jan ni: mi mama ona
+
+::: info
+
+The second example here uses a second sentence to add more information about the object!
+
+:::
+
+</details>
+
+<details><summary> **The fire won't consume the forest!** </summary>
+
+seli li moku ala e kulupu pi kasi suli!
+
+seli li moku ala e kulupu kasi!
+
+seli suli li moku ala e kasi ale!
+
+seli wawa li moku ala e kasi ale!
+
+::: info
+
+Even though "consume" is not meant in the eating sense here, moku still works!
+
+:::
+
+</details>
+
+<details><summary> I'm still waiting! </summary>
+
+mi awen!
+
+::: info
+
+You could say "mi awen awen" here, but "mi awen" already captures that!
+
+:::
+
+</details>
+
+<details><summary> They're really good at that. </summary>
+
+ona li sona ni
+
+</details>
+
+<details><summary> My ears are still feeling really weird. </summary>
+
+kute mi li awen pilin nasa mute
+
+kute mi li awen nasa mute
+
+kute mi li awen nasa
+
+</details>
+
+<details><summary> This tree is ruining my view!  </summary>
+
+kasi ni li pakala e ken lukin mi!
+
+::: info
+
+Here, a "view" is expressed as a looking ability. There are other ways to express this statement which we haven't learned yet; you could also say "I am unable to look because of this tree."
+
+:::
+
+</details>
+
+<details><summary> Your moss garden is becoming pretty! </summary>
+
+kasi lili sina li kama pona!
+
+ko kasi sina li kama pona!
+
+</details>
+
 ## Takeaway
 
 #### Clarity of Grammar
@@ -489,4 +623,5 @@ That said, if any ambiguity or even simple misunderstanding comes up when speaki
 
 [Previous lesson](./mod-pi.html)
 
-[Next lesson](./o.html)
+<!-- [Next lesson](./o.html) -->
+

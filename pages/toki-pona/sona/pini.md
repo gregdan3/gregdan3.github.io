@@ -31,7 +31,7 @@ Some of these words were given in lessons, and others were not. I've sorted them
 
 Everything here is important to know! The three bold words were not in the lessons.
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph           | Word                | Definition                                           | Note                                    |
 | --------------- | ------------------- | ---------------------------------------------------- | --------------------------------------- |
@@ -52,7 +52,7 @@ Everything here is important to know! The three bold words were not in the lesso
 
 These words are around, but less important to know. They are either falling out of use or poorly adopted. They were not in any lesson.
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph    | Word     | Definition                 | Note                              |
 | -------- | -------- | -------------------------- | --------------------------------- |
@@ -68,7 +68,7 @@ These words are around, but less important to know. They are either falling out 
 
 It is not necessary to know these words. They were not in any lesson.
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph    | Word     | Definition                                                    | Note                             |
 | -------- | -------- | ------------------------------------------------------------- | -------------------------------- |
@@ -86,7 +86,7 @@ I do not recommend using these definitions in practice, but I've listed them her
 
 The previous use gives only the definition which is no longer used.
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph   | Word    | Previous Use                                                                 |
 | ------- | ------- | ---------------------------------------------------------------------------- |
@@ -106,7 +106,4 @@ The previous use gives only the definition which is no longer used.
 [Other lessons](/toki-pona/#namako)
 
 [Back home](/toki-pona/)
-
-
-
 

@@ -26,7 +26,7 @@ date: date unknown
 
 #### Particles
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word | Definition                  |
 | ----- | ---- | --------------------------- |
@@ -37,7 +37,7 @@ date: date unknown
 
 #### Content Words
 
-::: tokipona
+::: tpdefinitions
 
 | Glyph | Word | Definition                             |
 | ----- | ---- | -------------------------------------- |
@@ -68,5 +68,4 @@ Here, I provide consecutive questions and answers together. The questions are on
 [Previous lesson](./la.html)
 
 [Next lesson](./pini.html)
-
 
