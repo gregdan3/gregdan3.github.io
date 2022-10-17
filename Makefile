@@ -45,7 +45,8 @@ $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	$(TOC_MAKER) $<
 	$(MD_TO_HTML) \
 		--metadata="directory:$(subst pages/,,$<)" \
-		--metadata="extra-css:$(shell echo $(@D) | grep -o 'toki-pona')" \
+		--metadata="toki-pona:$(shell echo $(@D) | grep -o 'toki-pona')" \
+		--metadata="extra-css:" \
 		-o $@ $<
 	# TODO: dir level metadata instead of... this? for css
 	$(MINIFIER) $@ $@
