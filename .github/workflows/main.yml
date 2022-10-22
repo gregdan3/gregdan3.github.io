@@ -29,6 +29,7 @@ jobs:
           tar \
           --directory "${{ github.workspace }}/build" \
           -cvf "$RUNNER_TEMP/artifact.tar" \
+          .
       - uses: actions/upload-artifact@main
         with:
           name: gh-pages
