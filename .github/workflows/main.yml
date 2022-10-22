@@ -32,7 +32,7 @@ jobs:
           .
       - uses: actions/upload-artifact@main
         with:
-          name: pages
+          name: github-pages
           path: ${{ runner.temp }}/artifact.tar
           if-no-files-found: error
           retention-days: 1
@@ -40,12 +40,12 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     environment:
-      name: pages
+      name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/download-artifact@main
         with:
-          name: pages
+          name: github-pages
           path: .
       - uses: actions/upload-pages-artifact@v1
         with:
