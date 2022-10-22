@@ -1,19 +1,9 @@
 ---
-name: trigger-deploy
+name: deploy
 on:
   push:
     branches:
       - main
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,30 +15,7 @@ jobs:
       - run: cd ${{ github.workspace }}
       - run: npm i
       - run: make
-      - run: |
-          tar \
-          --directory "${{ github.workspace }}/build" \
-          -cvf "$RUNNER_TEMP/artifact.tar" \
-          .
-      - uses: actions/upload-artifact@main
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          name: github-pages
-          path: ${{ runner.temp }}/artifact.tar
-          if-no-files-found: error
-          retention-days: 1
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/download-artifact@main
-        with:
-          name: github-pages
-          path: .
-      - uses: actions/upload-pages-artifact@v1
-        with:
-          path: .
-      - id: deployment
-        uses: actions/deploy-pages@main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: "${{ github.workspace }}/build"
