@@ -4,17 +4,16 @@ author: gregdan3
 date: date unknown
 ---
 
-
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Prepositions](#prepositions)
-    - [Content Words](#content-words)
+- [Words to Know](#words-to-know)
+  - [Prepositions](#prepositions)
+  - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
-    - [Without Prepositions](#without-prepositions)
-    - [With Prepositions](#with-prepositions)
-    - [others](#others)
+  - [Without Prepositions](#without-prepositions)
+  - [With Prepositions](#with-prepositions)
+  - [others](#others)
 - [Takeaway](#takeaway)
 
 <!-- tocstop -->
@@ -39,20 +38,19 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph | Word  | Definition                        |
-| ----- | ----- | --------------------------------- |
-| tawa  | tawa  | move, travel                      |
-| lon   | lon   | truth, existence, reality, real   |
-| tan   | tan   | cause, origin                     |
-| sama  | sama  | same, similar                     |
-| ilo   | ilo   | tool, instrument, machine         |
-| tenpo | tenpo | time, duration, event, occurrence |
-| sewi  | sewi  | up, sky, spiritual, godly         |
-| anpa  | anpa  | below, under                      |
-| poka  | poka  | beside, side, hip                 |
-| weka  | weka  | remove, away, absent              |
-| poki  | poki  | container, bag, box               |
-| supa  | supa  | furniture, horizontal surface     |
+| Glyph | Word  | Definition                             |
+| ----- | ----- | -------------------------------------- |
+| tawa  | tawa  | move, travel                           |
+| lon   | lon   | truth, existence, reality, real        |
+| tan   | tan   | cause, origin                          |
+| sama  | sama  | same, similar                          |
+| ilo   | ilo   | tool, instrument, machine              |
+| tenpo | tenpo | time, duration, event, occurrence      |
+| sewi  | sewi  | up, sky, spiritual, godly              |
+| anpa  | anpa  | below, under                           |
+| poka  | poka  | beside, side, hip                      |
+| ma    | ma    | dirt, ground, place, location, country |
+| supa  | supa  | furniture, horizontal surface          |
 
 :::
 
@@ -79,4 +77,3 @@ mi tawa
 [Previous lesson](./o.html)
 
 [Next lesson](./la.html)
-
