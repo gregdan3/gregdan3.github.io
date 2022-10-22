@@ -20,15 +20,8 @@ jobs:
         run: npm i
       - name: build
         run: make
-      - name: archive
-        run: |
-          tar \
-          --directory "${{ github.workspace }}/build" \
-          -cvf "$RUNNER_TEMP/artifact.tar" \
-          .
-      - name: upload
-        uses: actions/upload-artifact@main
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          name: github-pages
-          path: ${{ runner.temp }}/artifact.tar
-          retention-days: 1
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: "${{ github.workspace }}/build"
