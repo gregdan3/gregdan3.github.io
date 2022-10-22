@@ -100,8 +100,8 @@ at the same time as you start these lessons, to help you memorize all the words!
 - [Objects with _e_](./sona/e.html)
 - [Modifiers and _pi_](./sona/mod-pi.html)
 - [Pre-predicates](./sona/pre-predicates.html)
+- [Instructions with _o_](./sona/o.html)
 
-<!-- - [Instructions with _o_](./sona/o.html) -->
 <!-- - [Interjections and _a_](./sona/interjections.html) -->
 <!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
 <!-- - [Before the Final Act](./sona/bits.html) -->

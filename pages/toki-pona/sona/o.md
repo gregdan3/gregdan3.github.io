@@ -11,12 +11,21 @@ date: date unknown
   - [Content Words](#content-words)
   - [Critters](#critters)
 - [Overview](#overview)
-  - [Pre-predicates](#pre-predicates)
-  - [taso](#taso)
+  - [Instructions](#instructions)
+  - [Attention](#attention)
+  - [taso sentences](#taso-sentences)
+  - [taso modifier](#taso-modifier)
+  - [taso head](#taso-head)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
+    - [o for commands](#o-for-commands)
+    - [o with a subject](#o-with-a-subject)
+    - [o for attention](#o-for-attention)
+    - [Sentence-start taso](#sentence-start-taso)
+    - [Modifier taso](#modifier-taso)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
+  - [Giving Instructions](#giving-instructions)
   - [Grammar](#grammar)
 
 <!-- tocstop -->
@@ -40,19 +49,19 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph   | Word    | Definition                                    |
-| ------- | ------- | --------------------------------------------- |
-| taso    | taso    | only, exclusively, just                       |
-| tawa    | tawa    | move, travel                                  |
-| nasin   | nasin   | road, path, method, way, process              |
-| utala   | utala   | fight, battle, competition, compete           |
-| weka    | weka    | remove, away, absent                          |
-| sitelen | sitelen | writing, drawing, art, painting, script       |
-| moli    | moli    | die, kill, death                              |
-| mani    | mani    | money, cash, barterable thing, thing of value |
-| esun    | esun    | trade, barter, shopping, economy              |
-| tomo    | tomo    | home, room, building                          |
-| poki    | poki    | container, bag, box                           |
+| Glyph   | Word    | Definition                              |
+| ------- | ------- | --------------------------------------- |
+| taso    | taso    | only, exclusively, just                 |
+| tawa    | tawa    | move, travel                            |
+| utala   | utala   | fight, battle, competition, compete     |
+| weka    | weka    | remove, away, absent                    |
+| sitelen | sitelen | writing, drawing, art, painting, script |
+| moli    | moli    | die, kill, death                        |
+| tomo    | tomo    | home, room, building                    |
+| poki    | poki    | container, bag, box                     |
+| palisa  | palisa  | stick, rod, branch                      |
+| kili    | kili    | fruit, vegetable                        |
+| pan     | pan     | bread, wheat, pasta, carbs              |
 
 :::
 
@@ -70,7 +79,7 @@ date: date unknown
 
 :::
 
-Don’t worry: these are content words too! I separated them to make them easier to remember.
+Don’t worry, these are content words too! I separated them to make them easier to remember.
 
 ## Overview
 
@@ -118,7 +127,7 @@ The documents must not be shredded.
 
 </details>
 
-This also applies to inanimate things! What does it mean to give instructions or apply requirements to a building, collection, light, or colors?
+This also applies to inanimate things! What does it mean to give instructions or requirements to a building, collection, light, or colors?
 
 You can also reword these as instructions:
 
@@ -170,7 +179,7 @@ You’re excellent, teacher!
 
 </details>
 
-Here, `jan sona o` is getting the attention of `jan sona`, and then the speaker says a complete sentence directed at them. The order of these doesn’t matter, so do what feels right in the moment!
+Here, `jan sona o` is getting the attention of `jan sona`, and the speaker says a complete sentence directed at them. The order of these doesn’t matter, so do what feels right in the moment.
 
 You can use this interjection with an instruction, so you know that an instruction will be heard by its intended listener:
 
@@ -190,7 +199,7 @@ Everyone must turn in their papers.
 
 </details>
 
-#### taso for sentences
+#### taso sentences
 
 Sometimes you'll see `taso` at the start of a sentence. This is like saying "but" or "however," and is usually used before a _later_ sentence to connect two ideas.
 
@@ -230,7 +239,9 @@ Listening will improve (your understanding only).
 
 </details>
 
-taso can also be the head of a phrase:
+#### taso head
+
+taso can also be the head of a phrase, used as a normal content word:
 
 <details><summary> taso li pona. </summary>
 
@@ -240,19 +251,17 @@ Exclusivity is good.
 
 </details>
 
-::: info
+<details><summary> ona li kama taso. </summary>
 
-If taso appears at the start of the sentence and is modified, things can get confusing! Try asking the speaker to restate themselves.
+They became alone.
 
-:::
-
-Otherwise, taso is rarely used as a normal modifier.
+</details>
 
 ## Exercises
 
 ::: info
 
-In previous lessons, I gave many possible interpretations for each sentence. As these sentences get longer and more complex, I provide fewer or no interpretations other than the original.
+In previous lessons, I gave many interpretations for each sentence. As these sentences get longer and more complex, I provide fewer or only one interpretation, but there are other interpretations; try thinking of a few!
 
 :::
 
@@ -260,8 +269,11 @@ In previous lessons, I gave many possible interpretations for each sentence. As 
 
 #### o for commands
 
+You're on a camping trip in the hills of a huge mountain range, and have a ranger with you to help the trip and provide knowledge of nature! You get back to your camp one night before sunset, and find a bear digging through your food. Oh no, you've gotta stop it! But the ranger tells you in hushed but serious tone:
+
 <details><summary> o utala ala e soweli! </summary>
-Don’t attack the bears!
+
+Don’t attack the bear!
 
 </details>
 
@@ -273,19 +285,25 @@ Look at this huuuuge fish!
 
 </details>
 
-<details><summary> </summary>
+Your neighbor somehow caught a bird, put it in a box, and is planning to keep it. Oh no, the poor bird! You explain to them that birds want to fly and be free, and tell them:
+
+<details><summary> o poki ala e waso! </summary>
+
+Don't put the birds in a box!
 
 </details>
 
-<details><summary> </summary>
+You've been frustratedly working on a piece of art for some time. It's a painting you wanted to gift to your teacher, but you don't think it's coming out right and want to destroy it. You show it to one of your friends for advice, and they say:
 
-</details>
+<details><summary> **o moli ala e sitelen sina. ona li pona!** </summary>
 
-<details><summary> </summary>
+Don't kill your painting. It's fantastic!
 
-</details>
+::: info
 
-<details><summary> </summary>
+Here, the word **ona** refers back to an idea in the previous sentence: "sitelen sina". This is a common way to use **ona**!
+
+:::
 
 </details>
 
@@ -293,7 +311,7 @@ Look at this huuuuge fish!
 
 Your dad is leaving you at home while he runs errands. He wants you to clean the house, because you made a mess of the place not long ago, bringing in a bunch of branches from outside. He says to you:
 
-<details><summary>  palisa o jaki ala e tomo. o weka e palisa! </summary>
+<details><summary> palisa o jaki ala e tomo. o weka e palisa! </summary>
 
 Sticks must not make the house gross. Remove the sticks!
 
@@ -301,17 +319,19 @@ Sticks must not make the house gross. Remove the sticks!
 
 You’ve been hanging out on the porch for too long, and you’ve started to notice lots of obnoxious bugs coming out as the sun sets. In your frustration, you yell out at the bugs:
 
-<details><summary> pipi o weka! </summary>
+<details><summary> pipi o weka! o moli! </summary>
 
-Bugs, go away!
+Bugs, go away! Die!
 
-Bugs have to go away!
+Bugs have to go away! And die!
 
 </details>
 
-<details><summary> jan sona o pana e sona </summary>
+You're trying to play a board game with a group of friends, but only one of you knows the rules. The rest of you are sitting together, trying to make sense of the rules, when one of the group pipes up:
 
-The person who knows has to explain!
+<details><summary> jan pi sona musi o pana e sona! </summary>
+
+The person who knows about the game should explain!
 
 </details>
 
@@ -323,15 +343,21 @@ They all must not move!
 
 </details>
 
+You're in a cooking competition! The dish on order: authentic pasta. When the order comes in, you think long and hard about it; there's a lot of competition. Your coach chimes in with similar thinking, saying:
+
+<details><summary> pan sina o pona wawa! </summary>
+
+Your pasta has to come out _amazingly_!
+
+</details>
+
 #### o for attention
 
-You spotted a cute lizard, and you’re trying to get its attention!
+You spotted a cute squirrel, and you’re trying to get its attention!
 
-<details><summary> akesi o! </summary>
+<details><summary> soweli o! </summary>
 
-Hey, frog!
-
-Hey, lizard!
+Hey squirrel!
 
 </details>
 
@@ -339,7 +365,15 @@ You brought your friend out to birdwatch with you. They are much newer to the ho
 
 <details><summary> waso o! </summary>
 
-Hey, bird!
+Hey bird!
+
+</details>
+
+Your pet lizard absolutely loves to eat lettuce, tearing right into it. You wanted to show off for some of your friends, but it seems your little lizard friend has stage fright: he won't eat in front of the crowd! You tell him gently:
+
+<details><summary> o moku e kili, akesi lili o </summary>
+
+Please eat the lettuce, little lizard
 
 </details>
 
@@ -347,14 +381,14 @@ Hey, bird!
 
 You're discussing hobbies with a friend, especially when you like to work on your hobbies. Your friend is a morning person and loves feeling the sun as they're productive. You like the sun, but prefer to work in the dark when the moon is out. You tell them:
 
-<details><summary> suno li pona. taso pimeja li pona e pali mi. </summary>
+<details><summary> suno li pona. taso pimeja li pona e ken sitelen mi. </summary>
 
-The sun is good, but darkness helps me work.
+The sun is good, but darkness helps my writing ability.
 
 ---
 
-- Sunlight is okay, but the shade improves my productivity.
-- Lights are wonderful, but I prefer no lights for my hobbies.
+- Sunlight is okay, but the shade improves my writing performance.
+- Lights are wonderful, but I prefer no lights for my writing.
 
 </details>
 
@@ -365,6 +399,8 @@ It's the middle of winter, and you've seen nothing but dreary gray skies for wee
 I feel the sunlight, but I feel cold.
 
 </details>
+
+You're a genius inventor, working on an amazing new tool: a working pair of wings you can strap to your back! When you come up with a working prototype, you demonstrate the invention in front of a crowd, explaining:
 
 <details><summary> mi waso ala, taso mi ken tawa sewi </summary>
 
@@ -410,9 +446,27 @@ mi wile e kiwen pimeja pona!
 
 <details><summary> They only have their id card. </summary>
 
-ona li jo taso e lipu ona.
+ona li jo e lipu ona taso.
 
-ona li jo taso e lipu jan ona.
+ona li jo e lipu jan ona taso.
+
+::: info
+
+Here, if `jo` were `taso`, it would mean they only action they were taking is having their ID card. What is meant is that the only object they is their ID card!
+
+:::
+
+</details>
+
+<details><summary> **Make them stop!** </summary>
+
+o awen e ona!
+
+::: info
+
+**awen** can mean to continue, or to stop. Here, applying **awen** to **ona** makes them stop!
+
+:::
 
 </details>
 
@@ -420,7 +474,7 @@ ona li jo taso e lipu jan ona.
 
 #### Giving Instructions
 
-Toki Pona is _earnest_ by default
+Toki Pona is _earnest_ by default. Giving somebody an instruction is not rude unless you are _very_ intentional about being rude. You can tell somebody what to do, and it's perfectly okay for them to say "mi ken ala" -> "I am unable to."
 
 #### Grammar
 
@@ -430,8 +484,10 @@ You can optionally include `taso` before a sentence, which connects it to previo
 
 taso can be used at the end of a phrase to indicate that particular phrase is exclusive.
 
+There's also a bit more freedom for what can go _around_ a sentence. You can interject subjects, followed by o, to indicate who should be listening!
+
 ---
 
 [Previous lesson](./pre-predicates.html)
 
-[Next lesson](./preps.html)
+[Next lesson](./interjections.html)
