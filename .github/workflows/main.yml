@@ -4,8 +4,18 @@ on:
   push:
     branches:
       - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
-  build-website:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: install dependencies
@@ -27,7 +37,7 @@ jobs:
           -cvf "$RUNNER_TEMP/artifact.tar" \
           .
       - name: upload
-        uses: actions/upload-artifact@main
+        uses: actions/upload-pages-artifact@v1
         with:
           name: github-pages
           path: ${{ runner.temp }}/artifact.tar
