@@ -18,26 +18,33 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: install dependencies
-        run: sudo apt-get install -y pandoc htmlmin npm
-      - name: checkout
-        uses: actions/checkout@v3
+      - run: sudo apt-get install -y pandoc htmlmin npm
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 1
-      - name: cd repo
-        run: cd ${{ github.workspace }}
-      - name: install npm dependencies
-        run: npm i
-      - name: build
-        run: make
-      - name: archive
-        run: |
+      - run: cd ${{ github.workspace }}
+      - run: npm i
+      - run: make
+      - run: |
           tar \
           --directory "${{ github.workspace }}/build" \
           -cvf "$RUNNER_TEMP/artifact.tar" \
-          .
-      - name: upload
-        uses: actions/upload-pages-artifact@v1
+      - uses: actions/upload-artifact@main
         with:
+          name: gh-pages
           path: ${{ runner.temp }}/artifact.tar
+          if-no-files-found: error
           retention-days: 1
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - uses: actions/download-artifact@main
+        with:
+          name: gh-pages
+          path: .
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@main
