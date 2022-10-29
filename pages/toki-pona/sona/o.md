@@ -4,18 +4,19 @@ author: gregdan3
 date: date unknown
 ---
 
+
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
-  - [Critters](#critters)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+    - [Critters](#critters)
 - [Overview](#overview)
-  - [Instructions](#instructions)
-  - [Attention](#attention)
-  - [taso sentences](#taso-sentences)
-  - [taso modifier](#taso-modifier)
-  - [taso head](#taso-head)
+    - [Instructions](#instructions)
+    - [Attention](#attention)
+    - [taso sentences](#taso-sentences)
+    - [taso modifier](#taso-modifier)
+    - [taso head](#taso-head)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [o for commands](#o-for-commands)
@@ -25,8 +26,8 @@ date: date unknown
     - [Modifier taso](#modifier-taso)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Giving Instructions](#giving-instructions)
-  - [Grammar](#grammar)
+    - [Giving Instructions](#giving-instructions)
+    - [Grammar](#grammar)
 
 <!-- tocstop -->
 
@@ -136,6 +137,7 @@ You can also reword these as instructions:
 Do not tear the paper.
 
 Do not shred the documents.
+indicate
 
 </details>
 
@@ -179,7 +181,7 @@ You’re excellent, teacher!
 
 </details>
 
-Here, `jan sona o` is getting the attention of `jan sona`, and the speaker says a complete sentence directed at them. The order of these doesn’t matter, so do what feels right in the moment.
+Here, `jan sona o` is getting the attention of `jan sona`, and the speaker says a complete sentence directed at them. The order of the sentence and interjection doesn’t matter, so do what feels right in the moment.
 
 You can use this interjection with an instruction, so you know that an instruction will be heard by its intended listener:
 
@@ -257,6 +259,8 @@ They became alone.
 
 </details>
 
+This is a rare use though; taso is most used together with other concepts!
+
 ## Exercises
 
 ::: info
@@ -299,9 +303,11 @@ You've been frustratedly working on a piece of art for some time. It's a paintin
 
 Don't kill your painting. It's fantastic!
 
+Don't destroy your painting. It's fantastic!
+
 ::: info
 
-Here, the word **ona** refers back to an idea in the previous sentence: "sitelen sina". This is a common way to use **ona**!
+**moli** here is being used to mean the same as **pakala**, but for something which is important or meaningful. This is incorrect if taking **moli** at face value, but it is still a common use in the community!
 
 :::
 
@@ -434,13 +440,37 @@ Your friends are not mean! They're only working. They want you.
 
 </details>
 
+You've been thinking long and hard about an upcoming event. You want it to be the most thrilling event to ever happen in your city- but you don't know to do it without the help of somebody you _really_ don't want to ask for help. But it's worth it. You resolve to get their help, and say to yourself:
+
+<details><summary> ona taso li ken wawa e kulupu! </summary>
+
+Only they are able to excite the party!
+
+::: info
+
+**wawa** here is being used to mean "intensify." It can intensify any anything!
+
+:::
+
+</details>
+
 ### English to Toki Pona
 
-<details><summary> I want the shiny black rock! </summary>
+<details><summary> **I only want the shiny black rock!** </summary>
 
-mi wile e kiwen pimeja suno!
+mi wile e kiwen pimeja suno taso!
 
-mi wile e kiwen pimeja pona!
+mi wile e kiwen pimeja pona taso!
+
+::: warning
+
+This is a little tricky!
+In English, saying "I only want the rock" means the _rock_ is the exclusive thing in the sentence, not wanting!
+When translated, taso only applies to the object.
+
+Otherwise, you would be saying "I am only wanting (and it happens to be wanting this rock)." Weird to think about, huh?
+
+:::
 
 </details>
 
@@ -452,7 +482,7 @@ ona li jo e lipu jan ona taso.
 
 ::: info
 
-Here, if `jo` were `taso`, it would mean they only action they were taking is having their ID card. What is meant is that the only object they is their ID card!
+Here, if `jo` were `taso`, it would mean they only action they were taking is having their ID card. What is meant is that the only object they have is their ID card!
 
 :::
 
@@ -464,7 +494,85 @@ o awen e ona!
 
 ::: info
 
-**awen** can mean to continue, or to stop. Here, applying **awen** to **ona** makes them stop!
+**awen** can mean to continue, or to stop. Here, applying **awen** to **ona** means to stop them!
+
+:::
+
+</details>
+
+<details><summary> Can you wash the dog? </summary>
+
+o telo e soweli
+
+::: info
+
+Remember, instructions are just as good as requests in Toki Pona!
+
+:::
+
+</details>
+
+<details><summary> The reds cannot be that bright! </summary>
+
+loje o suno ale ala / "The reds must not be completely bright"
+
+loje o suno wawa ala / "The reds must not be intensely bright"
+
+loje o suno pi wawa ala / "The reds must be bright in a non-intense way"
+
+::: info
+
+There's a few interpretations possible here- if you caught **loje** as the subject taking an instruction, and brightness as **suno**, you're set!
+
+Also, you can't directly translate "that" as "ni"! Here, "that" is intensifying a statement as in a comparison.
+
+:::
+
+</details>
+
+<details><summary> **You must learn Toki Pona!** </summary>
+
+o kama sona e toki pona / "Learn Toki Pona"
+
+sina o kama sona e toki pona / "You must learn Toki Pona"
+
+sona sina pi toki pona o kama suli / "Your knowledge of Toki Pona must grow"
+
+</details>
+
+<details><summary> Take this with you. </summary>
+
+o jo e ni.
+
+</details>
+
+<details><summary> Smash this pumpkin! </summary>
+
+o pakala e kili suli ni!
+
+o moli e kili loje ni!
+
+o moli e kili jelo ni!
+
+</details>
+
+<details><summary> Move the box out of the way! </summary>
+
+o tawa e poki!
+
+o weka e poki!
+
+</details>
+
+<details><summary> Only remove the important files! </summary>
+
+o weka e lipu suli taso!
+
+o kama jo e lipu suli taso!
+
+::: info
+
+"Remove" in the sense of removing files (such as physically) is to convey instructions for which files to _take_. Thus, **kama jo**. But if it means "remove" as in "get rid of," **weka**!
 
 :::
 
@@ -491,3 +599,4 @@ There's also a bit more freedom for what can go _around_ a sentence. You can int
 [Previous lesson](./pre-predicates.html)
 
 [Next lesson](./interjections.html)
+
