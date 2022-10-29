@@ -6,6 +6,9 @@
   font-family: sp;
   font-size: 1.75em;
 }
+.tokipona::after {
+  content: " "; /* fix ligature on firefox */
+}
 .tokipona blockquote p {
   font-size: 1.2em;
   padding: 1.5%;
