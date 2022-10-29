@@ -42,7 +42,9 @@
       <a href="/toki-pona/">Toki Pona</a>
     </nav>
     <article>
-      $for(include-before)$ $include-before$ $endfor$ $body$
+      $if(toki-pona)$
+      <button type="button" onclick="toggle()">Toggle SP</button>
+      $endif$ $for(include-before)$ $include-before$ $endfor$ $body$
       $for(include-after)$ $include-after$ $endfor$
     </article>
     <footer>
@@ -52,6 +54,9 @@
         <a href="https://github.com/gregdan3/gregdan3.github.io">my GitHub</a>.
       </p>
     </footer>
+    $if(toki-pona)$
+    <script src="/toki-pona/sptoggle.js"></script>
+    $endif$
     <script
       data-goatcounter="https://gregdan3.goatcounter.com/count"
       async

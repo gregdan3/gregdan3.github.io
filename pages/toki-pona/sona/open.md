@@ -208,30 +208,31 @@ Lastly, if you ever see a spoiler starting with "a note", it is not necessary to
 <!-- Try to pronounce the following words: -->
 
 <!-- <details><summary>lukin</summary> -->
-<!-- <audio controls src="/lukin.mp3"> </audio> -->
+<!-- <audio controls src="https://antetokipona.infinityfreeapp.com/kalama/jlakuse/lukin.mp3"> </audio> -->
 <!-- </details> -->
 
 <!-- <details><summary>kepeken</summary> -->
-<!-- <audio controls src="/kepeken.mp3"> </audio> -->
+<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kepeken.mp3"> </audio> -->
 <!-- </details> -->
 
 <!-- <details><summary>loje</summary> -->
-<!-- <audio controls src="/loje.mp3"> </audio> -->
+<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/kalaasi/loje.mp3"> </audio> -->
 <!-- </details> -->
 
 <!-- <details><summary>pona</summary> -->
-<!-- <audio controls src="/pona.mp3"> </audio> -->
+<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pona.mp3"> </audio> -->
 <!-- </details> -->
 
 <!-- <details><summary>soweli</summary> -->
-<!-- <audio controls src="/soweli.mp3"> </audio> -->
+<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/jlakuse/soweli.mp3"> </audio> -->
 <!-- </details> -->
 
 <!-- <details><summary>e</summary> -->
-<!-- <audio controls src="/e.mp3"> </audio> -->
+<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/kalaasi/e.mp3"> </audio> -->
 <!-- </details> -->
 
 ---
 
 [Next lesson](./mi-sina.html)
+
 

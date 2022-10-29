@@ -129,6 +129,8 @@ th {
 hr {
   margin-top: 1em;
   margin-bottom: 1em;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 .spoiler {
   margin: 0.5em;
@@ -142,20 +144,19 @@ hr {
 }
 details {
   margin: 0.5em;
-  padding-inline-start: 0em;
   border-inline-start: 4px solid var(--spoil-fg);
   background: var(--spoil-bg);
   color: var(--spoil-fg);
 }
 summary {
-  margin: 0.5em;
+  padding: 0.15em;
   cursor: pointer;
 }
 details summary > * {
   display: inline; /*fix block elems*/
 }
 details > p {
-  padding-left: 0.5em;
+  padding-left: 1em;
 }
 .info,
 .warning,

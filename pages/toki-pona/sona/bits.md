@@ -52,8 +52,6 @@ date: date unknown
 | kipisi | kipisi | split, cut, divide                 |
 | mun    | mun    | moon, star, planet, celestial body |
 | unpa   | unpa   | sex, sexual relations              |
-| kili   | kili   | fruit, vegetable                   |
-| pan    | pan    | bread, wheat, pasta, carbs         |
 | namako | namako | extra, ornamental, spicy           |
 | ijo    | ijo    | thing, (literally anything)        |
 | meli   | meli   | girl, woman, female                |
@@ -112,4 +110,6 @@ But with `nanpa`, the modifier is a kind of _ordinal_, a ranking!
 [Previous lesson](./li.html)
 
 [Next lesson](./mod-pi.html)
+
+
 

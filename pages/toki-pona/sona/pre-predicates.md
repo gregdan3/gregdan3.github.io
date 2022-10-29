@@ -86,7 +86,7 @@ There are seven pre-preds in common use. We already know some of them as normal 
 
 ---
 
-<details><summary> mi wile pali </summary>
+<details><summary class=tokipona> mi wile pali </summary>
 
 I want to create.
 
@@ -110,7 +110,7 @@ When something is in the object, it is often considered _not_ an action. If you 
 
 ---
 
-<details><summary> mi ken wawa </summary>
+<details><summary class=tokipona> mi ken wawa </summary>
 
 I can be strong.
 
@@ -130,7 +130,7 @@ You can often restate a sentence _without_ a pre-predicate. Using pre-predicates
 
 ---
 
-<details><summary> sina kama sona! </summary>
+<details><summary class=tokipona> sina kama sona! </summary>
 
 You are learning!
 
@@ -146,7 +146,7 @@ It can also refer to beginning actions, such as going to sleep.
 
 ---
 
-<details><summary> mi awen kute </summary>
+<details><summary class=tokipona> mi awen kute </summary>
 
 I am still listening.
 
@@ -156,7 +156,7 @@ The `awen` pre-pred means the predicate is on-going, continuing, or not changing
 
 ---
 
-<details><summary> ona li sona pakala e ni </summary>
+<details><summary class=tokipona> ona li sona pakala e ni </summary>
 
 ::: warning
 
@@ -179,7 +179,7 @@ The same action-versus-thing distinction happens as with the `ken` pre-pred. If 
 
 ---
 
-<details><summary> mi alasa pona e sina  /  mi lukin pona e sina </summary>
+<details><summary class=tokipona> mi alasa pona e sina  /  mi lukin pona e sina </summary>
 
 I'm trying to help you!
 
@@ -225,7 +225,7 @@ We can't ignore pre-predicates like we ignored modifiers before. They _do_ chang
 
 Like modifiers, you can use multiple pre-predicates at once!
 
-<details><summary> mi awen ken mama e kasi  </summary>
+<details><summary class=tokipona> mi awen ken mama e kasi. </summary>
 
 I am still able to raise plants.
 
@@ -239,7 +239,7 @@ I am still able to grow plants.
 
 The order of pre-predicates matters. Consider this:
 
-<details><summary> mi ken awen mama e kasi  </summary>
+<details><summary class=tokipona> mi ken awen mama e kasi. </summary>
 
 I am able to continue raising plants.
 
@@ -253,7 +253,7 @@ In the original, the thing that is `awen` is `ken mama`, and the thing that is `
 
 `ala` has a simple function: negate the previous word or phrase.
 
-<details><summary> mi pona ala. </summary>
+<details><summary class=tokipona> mi pona ala. </summary>
 
 I'm not well.
 
@@ -271,7 +271,7 @@ Toki Pona words don't have opposites. There are some uses of **pona** opposite t
 
 Compare the phrases "this is good" and "this is not bad" in English. They can be close in meaning, but the negation does not make them the same.
 
-<details><summary> jan ala li ante e lipu. </summary>
+<details><summary class=tokipona> jan ala li ante e lipu. </summary>
 
 Nobody changed the book.
 
@@ -293,7 +293,7 @@ Two interpretations are possible here! The first means the book was unchanged, a
 
 You can also use `ala` in pre-predicates:
 
-<details><summary> kasi li kama ala ike </summary>
+<details><summary class=tokipona> kasi li kama ala ike. </summary>
 
 The plant did not get hurt!
 
@@ -303,7 +303,7 @@ The plant did not become unpleasant.
 
 And in `pi` phrases:
 
-<details><summary> ona li jan pi pana ala </summary>
+<details><summary class=tokipona> ona li jan pi pana ala. </summary>
 
 They are not a giving person.
 
@@ -319,7 +319,7 @@ They are not a gift giver.
 
 A teacher is trying to communicate to all of his students that recess is over, and everyone needs to come inside. He sends a nearby student with a message for everyone to group up in the classroom:
 
-<details><summary> jan sona li wile kulupu e jan pi kama sona </summary>
+<details><summary class=tokipona> jan sona li wile kulupu e jan pi kama sona </summary>
 
 The teacher wants to group together all the students!
 
@@ -333,7 +333,7 @@ The original statement could be shorter: "pi kama sona" could be dropped and the
 
 You're observing the plants outside. Some are tall and wide, others are small and low to the ground. One plant in particular has many outstretched leaves glowing gently in the sun, and you remark on the shape of these leaves:
 
-<details><summary>kasi mute li ken lipu. </summary>
+<details><summary class=tokipona>kasi mute li ken lipu. </summary>
 
 Many plants can be papery.
 
@@ -343,7 +343,7 @@ Lots of leaves can be flat.
 
 Every day, you come out to the edge of the water and watch the waves lap over the rocks and wash back out. As you come out day after day, you see that all the spots where water can reach are turning green- growing moss! You remark:
 
-<details><summary> telo li kama laso e kiwen! </summary>
+<details><summary class=tokipona> telo li kama laso e kiwen! </summary>
 
 The water turned the rock green!
 
@@ -351,7 +351,7 @@ The water turned the rock green!
 
 You're discussing a difficult decision with your family: do you leave your job, that has stressed you for months on end? You don't want to leave, because you know that will hurt your co-workers, and your friends, as they try to fill the gap you leave behind. Your brother chimes in with helpful perspective:
 
-<details><summary> wile sina li awen suli </summary>
+<details><summary class=tokipona> wile sina li awen suli. </summary>
 
 Your wishes are still important.
 
@@ -361,7 +361,7 @@ Your wants are still important.
 
 You're applying for a new job as a social media manager! You've been talking on about your experience and skills, but most importantly, you explain that you know the primary skill of a social media manager:
 
-<details><summary> mi sona pali e kulupu suli </summary>
+<details><summary class=tokipona> mi sona pali e kulupu suli. </summary>
 
 I know how to create a huge community.
 
@@ -373,7 +373,7 @@ I skillfully created a huge community!
 
 You've been talking up Toki Pona with your friends for a while now, and finally convinced one of them to join you in learning! But your friend asks, why were you so persistent about others learning Toki Pona? You explain:
 
-<details><summary> jan pi toki pona li alasa nasa e kulupu ona  /  jan pi toki pona li lukin nasa e kulupu ona </summary>
+<details><summary class=tokipona> jan pi toki pona li alasa nasa e kulupu ona. /  jan pi toki pona li lukin nasa e kulupu ona. </summary>
 
 Toki Pona speakers try to make their communities weird! [positive connotation]
 
@@ -391,7 +391,7 @@ Remember, **lukin** and **alasa** have the same meaning _as pre-predicates_!
 
 Your friend is sick! Your other friends have been asking how your friend is doing, so you explain:
 
-<details><summary> ona li awen kama pona </summary>
+<details><summary class=tokipona> ona li awen kama pona. </summary>
 
 They are still getting better.
 
@@ -399,7 +399,7 @@ They are still getting better.
 
 You are watching your little brother stare into a triangular prism. Light is shining from the window into the prism, and the prism scatters all the light throughout the room in a variety of colors. Your brother says:
 
-<details><summary> mi wile alasa sona e kule ale  /  mi wile lukin sona e kule ale </summary>
+<details><summary class=tokipona> mi wile alasa sona e kule ale.  /  mi wile lukin sona e kule ale. </summary>
 
 I want to try understanding all the colors.
 
@@ -409,7 +409,7 @@ I want to try understanding all the colors.
 
 Your research team has been working to put together a presentation. However, one member of your team will not be present on the day of the presentation- the one who was going to give it! You go to the coordinator and explain:
 
-<details><summary> ona li ken ala ni... </summary>
+<details><summary class=tokipona> ona li ken ala ni... </summary>
 
 They can't do this...
 
@@ -417,7 +417,7 @@ They can't do this...
 
 You've discovered you have a fascinating new power: You can grow plants wherever you point! But you can't make more than small blades of grass or patches of moss. As you discuss this with your teacher, they explain the roadblock you have:
 
-<details><summary> sina sona ala wawa e ken sina </summary>
+<details><summary class=tokipona> sina sona ala wawa e ken sina. </summary>
 
 You don't know how to empower your ability.
 
@@ -425,7 +425,7 @@ You don't know how to empower your ability.
 
 You've been feeling unwell lately, and sleeping a lot as a result. As the hours go by, and you're stuck in bed trying to recover, your responsibilities pile up. You unhappily remark to yourself:
 
-<details><summary> mi wile ala awen lape </summary>
+<details><summary class=tokipona> mi wile ala awen lape. </summary>
 
 I don't want to keep sleeping...
 
@@ -433,7 +433,7 @@ I don't want to keep sleeping...
 
 You've been sorting through boxes of donations, trying to make a list of contributors to thank for their help. Somebody you're working with you points out that you've made a mistake- you attributed a donation to the wrong person! They say:
 
-<details><summary> **ona li pana e ni ala. ona li pana e ni!** </summary>
+<details><summary class=tokipona> **ona li pana e ni ala. ona li pana e ni!** </summary>
 
 They didn't give this. They gave that!
 
@@ -447,7 +447,7 @@ While negating the predicate can be similar to negating the object, choosing one
 
 You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
 
-<details><summary> ni li jaki mute. mi pilin ala e ni! </summary>
+<details><summary class=tokipona> ni li jaki mute. mi pilin ala e ni! </summary>
 
 That is _so_ gross. I'm not touching that!
 
@@ -455,7 +455,7 @@ That is _so_ gross. I'm not touching that!
 
 Your family has been clearing out a ton of space in the back yard, and carting all the extra leaves and branches to a pile. They burn the pile to get rid of it, and the smoke makes it a struggle to stay outside so you go in and settle into a book. Later, your brother comes to tell you they stopped:
 
-<details><summary> ona li awen ala seli e kasi </summary>
+<details><summary class=tokipona> ona li awen ala seli e kasi. </summary>
 
 They stopped burning brush!
 
@@ -473,7 +473,7 @@ You could also say "ona li seli ala e kasi" to similar effect!
 
 You're going swimming in a lake in the middle of summer! The sun is beaming brightly, and your dad is concerned you'll get a sunburn. He's reminded you too many times to bring sunscreen, put on lots of sunscreen, keep re-applying sunscreen, but you know all that already! You finally tell him:
 
-<details><summary> **mi alasa ala kama loje! / mi lukin ala kama loje!** </summary>
+<details><summary class=tokipona> **mi alasa ala kama loje! / mi lukin ala kama loje!** </summary>
 
 I'm not trying to get sunburnt!
 

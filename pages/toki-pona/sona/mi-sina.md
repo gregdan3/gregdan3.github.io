@@ -81,7 +81,7 @@ And this for sina:
 
 The words in the predicate describe the speaker or listener, or what the speaker or listener is doing. For example:
 
-<details> <summary> mi jan.</summary>
+<details> <summary class=tokipona> mi jan.</summary>
 
 Since jan (person/people) doesn't obviously imply an action, it is reasonable to call it a description here. This sentence means "I am a person" or "We are people."
 
@@ -91,7 +91,7 @@ Since jan (person/people) doesn't obviously imply an action, it is reasonable to
 `jan` is the predicate, and is either an action or description of the speaker.
 Check under the spoiler for an explanation and interpretation!
 
-<details> <summary> sina moku.</summary>
+<details> <summary class=tokipona> sina moku.</summary>
 
 Because moku (food/eat) could be either a description or an action, this sentence could be "You eat" or "You are food."
 

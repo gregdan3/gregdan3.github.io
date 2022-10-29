@@ -4,16 +4,17 @@ author: gregdan3
 date: date unknown
 ---
 
+
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Prepositions](#prepositions)
-  - [Content Words](#content-words)
+  - [Words to Know](#words-to-know)
+    - [Prepositions](#prepositions)
+    - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
-  - [Without Prepositions](#without-prepositions)
-  - [With Prepositions](#with-prepositions)
-  - [others](#others)
+    - [Without Prepositions](#without-prepositions)
+    - [With Prepositions](#with-prepositions)
+    - [others](#others)
 - [Takeaway](#takeaway)
 
 <!-- tocstop -->
@@ -50,6 +51,7 @@ date: date unknown
 | anpa  | anpa  | below, under                           |
 | poka  | poka  | beside, side, hip                      |
 | ma    | ma    | dirt, ground, place, location, country |
+| nasin | nasin | road, path, method, way, process       |
 | supa  | supa  | furniture, horizontal surface          |
 
 :::
@@ -74,6 +76,9 @@ mi tawa
 
 ---
 
-[Previous lesson](./o.html)
+[Previous lesson](./interjections.html)
 
-[Next lesson](./la.html)
+[Next lesson](./bits.html)
+
+
+

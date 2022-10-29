@@ -67,7 +67,7 @@ date: date unknown
 
 In Toki Pona, words may be _modified_ by adding words after the first in a phrase. This first word is called the **Head**, or sometimes **Head Noun**. Every word after the head is a **Modifier**. Here's an example phrase:
 
-<details><summary>lipu musi</summary>
+<details><summary class=tokipona>lipu musi.</summary>
 
 - Joke book
 - Fun paper
@@ -77,7 +77,7 @@ In Toki Pona, words may be _modified_ by adding words after the first in a phras
 
 The first word is the most important, telling you the most about the thing. Here, `lipu` is the head, so this is some kind of paper or document. Then `musi` modifies `lipu`, making it more specific. Now check the spoiler!
 
-<details><summary> jan pona li toki</summary>
+<details><summary class=tokipona> jan pona li toki.</summary>
 
 The nurse is giving instructions!
 
@@ -93,7 +93,7 @@ The nurse is giving instructions!
 
 Here, the _subject_ is modified: this is a `jan`, and the `jan` is `pona`! It's similar to saying `jan li pona`, but in a single phrase.
 
-<details><summary> mi sona suli e lipu </summary>
+<details><summary class=tokipona> mi sona suli e lipu. </summary>
 
 I critically understand the paper.
 
@@ -106,7 +106,7 @@ I critically understand the paper.
 
 Here, the predicate is modified: `sona` is the start of the predicate, and `suli` changes it. `suli` is making `sona` more important.
 
-<details><summary> sina lukin e kasi suwi </summary>
+<details><summary class=tokipona> sina lukin e kasi suwi. </summary>
 
 You're looking at a cute flower!
 
@@ -130,7 +130,7 @@ mi and sina can be modified, even in the **subject**. If you do, you still use l
 
 :::
 
-<details><summary> kulupu mi li pakala wawa e kiwen suli </summary>
+<details><summary class=tokipona> kulupu mi li pakala wawa e kiwen suli! </summary>
 
 My team _crushed_ a huge boulder.
 
@@ -161,7 +161,7 @@ If you get lost reading a sentence, try ignoring the modifiers and reading just 
 
 You can modify a head with many words!
 
-<details><summary> mi sona e wawa nasa lete </summary>
+<details><summary class=tokipona> mi sona e wawa nasa lete! </summary>
 
 I know a magical ice power!
 
@@ -177,7 +177,7 @@ Importantly, the order _does not matter_. `wawa nasa lete` and `wawa lete nasa` 
 Think it through: In English, `wawa nasa lete` is a weird cold power. `wawa lete nasa` is a cold weird power.
 These statements aren't even different in English!
 
-<details><summary> jan li kalama musi suwi! </summary>
+<details><summary class=tokipona> jan li kalama musi suwi! </summary>
 
 Somebody is singing sweetly.
 
@@ -194,7 +194,7 @@ Same as before, the order does not matter. `kalama musi suwi` and `kalama suwi m
 
 `pi` introduces a new head, and that head plus all the words that follow it become a single modifier. Then that modifier applies to the head of the entire phrase. That's a complex idea, so let's explore it!
 
-<details><summary> mi jan pi pali kasi. </summary>
+<details><summary class=tokipona> mi jan pi pali kasi. </summary>
 
 I'm a gardener.
 
@@ -213,7 +213,7 @@ You **must** have two words or more after pi! You can't use pi for one word beca
 
 :::
 
-<details><summary> mi jan suli pi sona kasi. </summary>
+<details><summary class=tokipona> mi jan suli pi sona kasi. </summary>
 
 I'm an expert botanist.
 
@@ -242,7 +242,7 @@ Some speakers say that multiple pi modify _the one before_, while others say eac
 
 Your penpal said in their last letter that they sent a gift! You had no idea what was coming, but you were so excited for it. When the gift finally came, you open it up to find a personalized piece of art, and you rush to write back that it arrived in good condition:
 
-<details><summary> mi jo pona e pana sina! </summary>
+<details><summary class=tokipona> mi jo pona e pana sina! </summary>
 
 I safely have your gift!
 
@@ -250,7 +250,7 @@ I safely have your gift!
 
 A teacher is struggling to calm their students. The teacher comes in with a new plan each class, but the class stays rowdy! Finally, the teacher turns learning into a group activity, where each student learns one thing and then teaches it to their partner. When asked how the activity went later, the teacher responds excitedly:
 
-<details><summary> pilin mi li ni: ona li kute sona e mi! </summary>
+<details><summary class=tokipona> pilin mi li ni: ona li kute sona e mi! </summary>
 
 My thought is that they heard and understood me!
 
@@ -264,7 +264,7 @@ My thought is that they heard and understood me!
 
 As the air gets cooler and the sun is out for less time each day, you begin to notice the leaves on the trees change color. In your excitement for the changing seasons, you tell everyone you know:
 
-<details><summary> **kule kasi li ante!** </summary>
+<details><summary class=tokipona> **kule kasi li ante!** </summary>
 
 The plants are changing color!
 
@@ -286,7 +286,7 @@ The color of plants is changing!
 
 It's pollen season, and every surface in sight is coated in a fine yellow dust. When you step outside, you start sneezing up a storm. One of your friends, fortunate to not be affected, asks what's wrong. You explain:
 
-<details><summary> ko jelo kasi li ike e mi </summary>
+<details><summary class=tokipona> ko jelo kasi li ike e mi </summary>
 
 Pollen gives me allergies.
 
@@ -300,7 +300,7 @@ Pollen gives me allergies.
 
 You've been excitedly telling your friend about a fantastic ice cream shop that opened only a few weeks ago- they have the best ice cream in the city! You finally convince your friend to go with you, they get a bowl of ice cream heaped tall, and they realize how much they've been missing by not going sooner! They tell you:
 
-<details><summary> lete walo ni ale li suwi mute!  </summary>
+<details><summary class=tokipona> lete walo ni ale li suwi mute!  </summary>
 
 All this vanilla ice cream is sweet and delicious!
 
@@ -313,7 +313,7 @@ All this vanilla ice cream is sweet and delicious!
 
 One of your friends has been confiding in you that they have no idea what to get for their partner's birthday. You quietly talk to some others, and bring back suggestions for gifts and surprises. Finally, you tell everyone the plan your friend went with:
 
-<details><summary> **ona li pana e kasi laso loje** </summary>
+<details><summary class=tokipona> **ona li pana e kasi laso loje.** </summary>
 
 They gifted red and blue flowers.
 
@@ -329,7 +329,7 @@ Remember, modifier order doesn't matter. Both the modifiers affect the head _sep
 
 You're having a conversation on the phone with a long distance friend who speaks Toki Pona! You're walking in public while doing so, keeping your volume down to be respectful. But a little kid comes running up and, in the blunt way only a child can, says you talk super weirdly! When you get back to your call, you explain:
 
-<details><summary> jan lili li toki e ni: mi toki pi nasa mute! </summary>
+<details><summary class=tokipona> jan lili li toki e ni: mi toki pi nasa mute! </summary>
 
 A small child said this: I speak weirdly!
 
@@ -337,7 +337,7 @@ A small child said this: I speak weirdly!
 
 As you've been reading through a series of Toki Pona lessons, you slowly but surely gain an understanding and appreciation of Toki Pona. You've been talking to your friends through the process, trying to convince them to join in, and you say to demonstrate:
 
-<details><summary> sona mi pi toki pona li suli! </summary>
+<details><summary class=tokipona> sona mi pi toki pona li suli! </summary>
 
 My understanding of Toki Pona is huge!
 
@@ -350,7 +350,7 @@ My understanding of Toki Pona is huge!
 
 You've been writing down your thoughts and feelings in a journal as a meditation exercise. Unfortunately, you lost it somewhere, so you call up your friends and explain what you lost, what is important about it, and what it looks like:
 
-<details><summary> **lipu pi loje jelo li jo e sona mi.** </summary>
+<details><summary class=tokipona> **lipu pi loje jelo li jo e sona mi.** </summary>
 
 The orange journal has my knowledge.
 

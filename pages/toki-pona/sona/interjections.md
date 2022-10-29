@@ -42,8 +42,9 @@ date: date unknown
 | kon     | kon     | air, ghost, spirit, unseen agent               |
 | monsuta | monsuta | fear, fright, scary, frightening, anxiety      |
 | linja   | linja   | line, rope, string, hair, connection           |
-| palisa  | palisa  | stick, rod, branch                             |
+| kalama  | kalama  | sound, noise                                   |
 | lupa    | lupa    | hole, door, window, orifice                    |
+| sin     | sin     | new, fresh, update                             |
 | nena    | nena    | bump, lump, extrusion, hill, mountain, nose    |
 | insa    | insa    | inside, center, between, organ                 |
 | mu      | mu      | moo, meow, ribbit, bark, animal sound          |
@@ -83,5 +84,9 @@ see also: [phatic phrases](./phatic-phrases.html)
 
 ---
 
-[Back home](/toki-pona/)
+[Previous lesson](./o.html)
+
+[Next lesson](./preps.html)
+
+
 

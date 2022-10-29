@@ -39,11 +39,13 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph | Word | Definition                             |
-| ----- | ---- | -------------------------------------- |
-| open  | open | start, begin, enable, open             |
-| pini  | pini | finish, stop, disable, close           |
-| len   | len  | cloth, cover, clothing, secret, hidden |
+| Glyph | Word | Definition                                    |
+| ----- | ---- | --------------------------------------------- |
+| open  | open | start, begin, enable, open                    |
+| pini  | pini | finish, stop, disable, close                  |
+| len   | len  | cloth, cover, clothing, secret, hidden        |
+| mani  | mani | money, cash, barterable thing, thing of value |
+| esun  | esun | trade, barter, shopping, economy              |
 
 :::
 
@@ -68,4 +70,6 @@ Here, I provide consecutive questions and answers together. The questions are on
 [Previous lesson](./la.html)
 
 [Next lesson](./pini.html)
+
+
 
