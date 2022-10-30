@@ -9,13 +9,18 @@ date: 2022-07-30T00:00:00.000Z
 
   - [Words to Know](#words-to-know)
 - [Overview](#overview)
+    - [You and I](#you-and-i)
+    - [Hello and Goodbye](#hello-and-goodbye)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
+    - [mi](#mi)
+    - [sina](#sina)
+    - [Greetings](#greetings)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Action/Description Duality](#actiondescription-duality)
     - [Broadness](#broadness)
-- [Other Notes](#other-notes)
+    - [Hello and Goodbye](#hello-and-goodbye-1)
 
 <!-- tocstop -->
 
@@ -39,12 +44,15 @@ date: 2022-07-30T00:00:00.000Z
 | lili  | lili | small, miniature, tiny, few, young       |
 | lape  | lape | rest, sleep                              |
 | mama  | mama | parent, guardian, ancestor, caretaker    |
+| tawa  | tawa | move, go, travel                         |
 
 :::
 
 By the way, check out [this dictionary](https://lipu-linku.github.io)! If you ever get lost, set "core words" and "widespread words" then search for what you need.
 
 ## Overview
+
+#### You and I
 
 The most basic Toki Pona sentence has two parts: a subject phrase and a predicate phrase.
 
@@ -102,6 +110,36 @@ Importantly, "You eat" is _much_ more likely and common than "You are food." A s
 `sina` is the subject, and refers to the listener.
 `moku` is the predicate, and is either an action or description of the listener.
 
+#### Hello and Goodbye
+
+In Toki Pona, there is no specific word for "hello" or for "goodbye."
+
+Instead, "hello" is part of the word `toki`.
+It covers every kind of greeting!
+
+<details> <summary class=tokipona> toki </summary>
+
+- Hello!
+- Good morning!
+- Hi!
+- Hey!
+
+</details>
+
+And saying "goodbye" is to describe how you're leaving, by moving!
+
+<details> <summary class=tokipona> mi tawa </summary>
+
+- I'm leaving
+- I'm going
+- I'm traveling
+- I'm walking
+- I'm moving
+
+</details>
+
+This is the most common way to say "goodbye" in Toki Pona.
+
 ## Exercises
 
 ::: info
@@ -117,6 +155,8 @@ Language lives in context, and Toki Pona is no exception.
 Knowing what is going on will help you understand the statement, and will improve your learning.
 
 ### Toki Pona to English
+
+#### mi
 
 You're about to go up to the podium on stage and give a speech. Before stepping on stage, you say to an attendent:
 
@@ -186,6 +226,22 @@ I'm human!
 
 </details>
 
+Several friends have been playing a board game for hours. When the game ends, they sit around joking together, until one realizes it's time for them to go home. They say:
+
+<details> <summary class=tokipona> mi tawa </summary>
+
+I'm going!
+
+---
+
+- I'm traveling
+- I'm moving
+- I'm walking
+- I'm running
+- (non-literally) Goodbye!
+
+</details>
+
 A small child is reaching up to the top of the counter, stretching their best to reach a pack of cookies sitting there. The kid can't quite reach, so they sit down next to the counter and huff:
 
 <details> <summary class=tokipona> mi lili</summary>
@@ -233,6 +289,8 @@ I'm going to bed.
 - We sleep.
 
 </details>
+
+#### sina
 
 Your friend tells you a great joke. You don't laugh, but you still found it funny, so you tell them:
 
@@ -295,6 +353,8 @@ You're tall!
 
 </details>
 
+#### Greetings
+
 A group of students are sitting in their seats, boredly poking at their phones or doodling in their textbooks, waiting for class to start. The teacher walks in and says to everyone:
 
 <details> <summary class=tokipona> toki</summary>
@@ -330,6 +390,12 @@ No context is provided so these translations are simpler. The translation will b
 
 </details>
 
+<details> <summary> I'm leaving! </summary>
+
+[mi tawa]{.tokipona}
+
+</details>
+
 <details> <summary> You're friendly.</summary>
 
 [sina pona]{.tokipona}
@@ -339,6 +405,12 @@ No context is provided so these translations are simpler. The translation will b
 <details> <summary> You're funny.</summary>
 
 [sina musi]{.tokipona}
+
+</details>
+
+<details> <summary> Hello! </summary>
+
+[toki]{.tokipona}
 
 </details>
 
@@ -403,9 +475,11 @@ to consider how reasonable it is. For example, `mi moku` is able to mean "we
 are food", but it is more likely that `mi` is just the speaker, and `moku` is
 "eat". You can use this thinking to reason about sentences in the future.
 
-## Other Notes
+#### Hello and Goodbye
 
 As in one of the examples, which is _not_ a sentence, you can say `toki` on its own to mean "hello!"
+
+Another one of the examples is a sentence, and is the most common way to say goodbye: `mi tawa`, "I am leaving!"
 
 ---
 

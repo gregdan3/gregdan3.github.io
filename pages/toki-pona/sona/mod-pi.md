@@ -250,7 +250,7 @@ I safely have your gift!
 
 A teacher is struggling to calm their students. The teacher comes in with a new plan each class, but the class stays rowdy! Finally, the teacher turns learning into a group activity, where each student learns one thing and then teaches it to their partner. When asked how the activity went later, the teacher responds excitedly:
 
-<details><summary class=tokipona> pilin mi li ni .. ona li kute sona e mi </summary>
+<details><summary class=tokipona> pilin mi li ni・ona li kute sona e mi </summary>
 
 My thought is that they heard and understood me!
 
@@ -329,7 +329,7 @@ Remember, modifier order doesn't matter. Both the modifiers affect the head _sep
 
 You're having a conversation on the phone with a long distance friend who speaks Toki Pona! You're walking in public while doing so, keeping your volume down to be respectful. But a little kid comes running up and, in the blunt way only a child can, says you talk super weirdly! When you get back to your call, you explain:
 
-<details><summary class=tokipona> jan lili li toki e ni .. mi toki pi nasa mute </summary>
+<details><summary class=tokipona> jan lili li toki e ni・mi toki pi nasa mute </summary>
 
 A small child said this: I speak weirdly!
 
