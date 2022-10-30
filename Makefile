@@ -64,10 +64,7 @@ dev: stopdev
 	docker rm $(DEVNAME) | true
 	docker run \
 		-d \
-		-p 80:80 \
-		-p 443:443 \
-		--expose 80 \
-		--expose 443 \
+		--network host \
 		-v $(PWD)/$(BUILDDIR):/usr/local/apache2/htdocs \
 		--name $(DEVNAME) \
 		httpd:2
