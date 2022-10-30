@@ -29,7 +29,7 @@ All new words will be separated into categories!
 
 #### Particles
 
-Particles are for grammar. They are used for sentence structure. Most do not have meanings, only functions.
+Particles are for grammar. They are used for sentence structure, introducing new parts of a sentence. Most do not have meanings, only functions.
 
 ::: tpdefinitions
 
@@ -79,7 +79,7 @@ I do say "any word", but clever observers will have noticed I am treating the wo
 
 </details>
 
-Since using `li` lets you put any word in the subject, all the words in the lesson before can now be used there! This leans heavily into the action/description duality described before. Unlike that duality, you can tell which sense a word is meant in based on its place in a sentence. Words in the subject are more likely to be specific objects or ideas, where words in the predicate are more likely to be actions or descriptions!
+Since using `li` lets you put any word in the subject, most of the words in the lesson before can now be used there! This leans heavily into the action/description duality described before. Unlike that duality, you can tell which sense a word is meant in based on its place in a sentence. Words in the subject are more likely to be specific objects or ideas, where words in the predicate are more likely to be actions or descriptions!
 
 ::: warning
 
@@ -89,7 +89,7 @@ Remember, if the subject is _just_ mi or _just_ sina, do not include li!
 
 Here's a few guided examples:
 
-<details> <summary class=tokipona> mama li musi. </summary>
+<details> <summary class=tokipona> mama li musi </summary>
 
 - Mom is hilarious.
 - Dad is being funny.
@@ -108,7 +108,7 @@ Here, the subject is `mama`, a parent or ancestor. Since the subject isn't `mi` 
 
 You and a friend are looking through old photos. Your friend points to one of a person leaning against a wall, smiling wide at the camera and says:
 
-<details> <summary class=tokipona> jan li mi! </summary>
+<details> <summary class=tokipona> jan li mi </summary>
 
 The person is me!
 
@@ -121,7 +121,7 @@ The person is me!
 
 A group of friends is at the side of a pool. All of them stare into the water, unsure whether they are ready to brave it. Suddenly, one friend cannonballs into the water, splashing everyone. When they surface, they yell:
 
-<details> <summary class=tokipona> telo li lete! </summary>
+<details> <summary class=tokipona> telo li lete </summary>
 
 The water is cold!
 
@@ -137,7 +137,7 @@ The water is cold!
 
 You are walking along a forest trail, and brush your hand over a rock. When you pull your hand away, you find it covered in tree sap and remark:
 
-<details> <summary class=tokipona> kiwen li ko... </summary>
+<details> <summary class=tokipona> kiwen li ko </summary>
 
 The rock is gooey...
 
@@ -152,7 +152,7 @@ The rock is gooey...
 
 You're on an expedition to see the tallest tree in the world. You've walked for hours upon hours, sweating heavily under the sun. You hike to the peak of one more hill, and spot the tree on the horizon. You can see it from miles away! You shout:
 
-<details> <summary class=tokipona> kasi li suli! </summary>
+<details> <summary class=tokipona> kasi li suli </summary>
 
 The tree is _enormous!_
 
@@ -168,7 +168,7 @@ The tree is _enormous!_
 
 On an epic quest, you stop at a wizard's tower and climb it. At the top, the wizard is deep in research. He teaches you a new spell to aid your journey: Spoonform. With this power, you can turn into a spoon for a short time. You don't tell the wizard, but you think to yourself:
 
-<details> <summary class=tokipona> wawa li nasa! </summary>
+<details> <summary class=tokipona> wawa li nasa </summary>
 
 Magic is ridiculous!
 
@@ -182,7 +182,7 @@ Magic is ridiculous!
 
 While visiting your grandmother's house, she offers you piles of different sweets! You try each and every one, enjoying the smell and taste of your grandmother's wonderful cooking. Your most favorite was her apple pie- thinking about it again, you think to yourself:
 
-<details> <summary class=tokipona> moku li suwi! </summary>
+<details> <summary class=tokipona> moku li suwi </summary>
 
 Pie is sweet!
 
@@ -196,7 +196,7 @@ Pie is sweet!
 
 After enjoying your grandmother's cooking, you and your family head out to the beach to swim! The sun is beaming brightly, and the air feels hot as the ocean breeze whips past. You take your first step out on the sand and recoil- it's way too hot!
 
-<details> <summary class=tokipona> ko li seli! </summary>
+<details> <summary class=tokipona> ko li seli </summary>
 
 The sand is hot!
 
@@ -210,7 +210,7 @@ The sand is hot!
 
 You've just come home from a long vacation. Unwinding was wonderful, but being back home means being back to the grind! While settling back in, you open your fridge and to your dismay discover some of your food went bad while you were gone! You shout:
 
-<details> <summary class=tokipona> moku li jaki! </summary>
+<details> <summary class=tokipona> moku li jaki </summary>
 
 The food's gone bad!
 
@@ -231,77 +231,77 @@ Some of these will have multiple translations under the spoiler!
 
 :::
 
-<details> <summary> The sand is sludgy. </summary>
+<details> <summary> The sand is sludgy </summary>
 
-ko li jaki
+[ko li jaki]{.tokipona}
 
 </details>
 
 <details> <summary> I'm warm </summary>
 
-mi seli
+[mi seli]{.tokipona}
 
 </details>
 
-<details> <summary> The conversation is weird! </summary>
+<details> <summary> The conversation is weird </summary>
 
-toki li nasa!
-
-</details>
-
-<details> <summary> The cold is unpleasant. </summary>
-
-lete li ike
+[toki li nasa]{.tokipona}
 
 </details>
 
-<details> <summary> The plant is cute! </summary>
+<details> <summary> The cold is unpleasant </summary>
 
-kasi li suwi!
-
-kasi li pona!
+[lete li ike]{.tokipona}
 
 </details>
 
-<details> <summary> You're magical! </summary>
+<details> <summary> The plant is cute </summary>
 
-sina pona
+[kasi li suwi]{.tokipona}
 
-sina wawa
-
-sina nasa
+[kasi li pona]{.tokipona}
 
 </details>
 
-<details> <summary> The community is friendly. </summary>
+<details> <summary> You're magical </summary>
 
-kulupu li pona
+[sina pona]{.tokipona}
+
+[sina wawa]{.tokipona}
+
+[sina nasa]{.tokipona}
 
 </details>
 
-<details> <summary> The water is fast! </summary>
+<details> <summary> The community is friendly </summary>
 
-telo li wawa!
+[kulupu li pona]{.tokipona}
+
+</details>
+
+<details> <summary> The water is fast </summary>
+
+[telo li wawa]{.tokipona}
 
 </details>
 
 <details> <summary> Strangeness is wonderful </summary>
 
-nasa li pona
+[nasa li pona]{.tokipona}
 
 </details>
 
 <details> <summary> People are strong </summary>
 
-jan li wawa
+[jan li wawa]{.tokipona}
 
 </details>
 
 <details> <summary> The gravel is muddy </summary>
 
-ko li jaki
+[ko li jaki]{.tokipona}
 
-kiwen li jaki
+[kiwen li jaki]{.tokipona}
 
 </details>
 
@@ -330,6 +330,4 @@ There are also a handful of words which are so-called **pseudo-particles**. This
 [Previous lesson](./mi-sina.html)
 
 [Next lesson](./e.html)
-
-
 

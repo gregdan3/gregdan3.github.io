@@ -155,8 +155,10 @@ summary {
 details summary > * {
   display: inline; /*fix block elems*/
 }
-details > p {
-  padding-left: 1em;
+details p {
+  /* TODO: why the FUCK is this needed?? */
+  margin: 0.1em;
+  margin-left: 1em;
 }
 .info,
 .warning,
