@@ -18,12 +18,13 @@ This assumption of reasonability is critical to making toki pona usable- it's an
 
 That said, I _don't_ disagree. The above has been my tested experience for the entire time I've spoken Toki Pona- I don't see value in undermining this thought process just because something different is possible :sweat_smile: If something different from my assumptions/experiences occurs, context will inform that. The rest of the time, my assumptions are practical and effective- and while I haven't much examined English in this same lens, I imagine I do the same there without thought?
 
-Otherwise, the "lili kili" example is good as a counterpoint- I hadn't used lili in that way before, so I'll probably adopt that
+Otherwise, the "lili kili" example is good as a counterpoint- I hadn't used lili in that way before [like kipisi], so I'll probably adopt that
 
+Here's a short version of this:
+Toki Pona words do not mark time or number, but this does not mean their use _is_ arbitrarily large/complex. It means their use _can be_ arbitrarily large/complex.
+Far more often than not, their uses _aren't_ in these extremes. They're average cases with reasonably sized meanings/outcomes, because that's the majority of what we deal with day to day.
 
+---
 
-
-
-
-
+[Back home](/toki-pona/)
 

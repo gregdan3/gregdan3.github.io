@@ -3,7 +3,7 @@ title: Objects with e
 author: gregdan3
 date: 2022-09-09T00:00:00.000Z
 ---
-
+[Check out the video lesson too!](https://youtu.be/ZLcSwYEZmIY)
 
 <!-- toc -->
 
@@ -11,11 +11,15 @@ date: 2022-09-09T00:00:00.000Z
     - [Particles](#particles)
     - [Content Words](#content-words)
 - [Overview](#overview)
-    - [e and Objects](#e-and-objects)
+    - [Objects and e](#objects-and-e)
     - [Changing things](#changing-things)
     - [Not changing things](#not-changing-things)
+    - [Multiple e](#multiple-e)
+    - [Multiple li and multiple e](#multiple-li-and-multiple-e)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
+    - [Single e](#single-e)
+    - [Multiple e](#multiple-e-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Grammar](#grammar)
@@ -59,7 +63,7 @@ date: 2022-09-09T00:00:00.000Z
 
 ## Overview
 
-#### e and Objects
+#### Objects and e
 
 This new sentence is capable of changing things in the world. The subject can now act on other things, applying the predicate to something else, with the use of `e`!
 
@@ -81,7 +85,7 @@ In common grammatical terms, "predicate" refers to the entirety of the action/de
 
 Here are a few guided examples of how the subject acts on the object, applying the predicate to it:
 
-<details> <summary class=tokipona> mi pona e jan </summary>
+<details> <summary> [mi pona e jan]{.tokipona} </summary>
 
 - I help somebody.
 - I improve people.
@@ -93,7 +97,7 @@ Here are a few guided examples of how the subject acts on the object, applying t
 
 The `jan` becomes `pona` in some way, as in the translations given.
 
-<details> <summary class=tokipona> lape li wawa e sina </summary>
+<details> <summary> [lape li wawa e sina]{.tokipona} </summary>
 
 - Sleep makes you stronger
 - Rest makes you confident
@@ -109,7 +113,7 @@ Here, `sina` becomes `wawa` in some way.
 
 Not everything changes the object! Here are some examples, using two new words:
 
-<details> <summary class=tokipona> jan li pilin e kiwen </summary>
+<details> <summary> [jan li pilin e kiwen]{.tokipona} </summary>
 
 - The person feels a rock.
 - Somebody touched metal.
@@ -121,7 +125,7 @@ Not everything changes the object! Here are some examples, using two new words:
 Here, the `kiwen` is _felt_ or _touched_, but it never is or becomes `pilin`.
 Instead, the subject is the only one that does any `pilin`.
 
-<details> <summary class=tokipona> mi wile e telo </summary>
+<details> <summary> [mi wile e telo]{.tokipona} </summary>
 
 - I want water
 - I need water
@@ -154,13 +158,63 @@ This uses a modifier (next lesson!) to demonstrate the point, now referencing a 
 
 </details>
 
+#### Multiple e
+
+As with `li`, `e` can be used multiple times to apply a predicate to more than one object at a time! Every object after a predicate will be affected.
+
+<details> <summary> [mi moku e suwi e lete]{.tokipona} </summary>
+
+I eat sugar and ice.
+
+</details>
+
+#### Multiple li and multiple e
+
+::: warning
+
+This is a recent addition- it isn't complete yet!
+
+:::
+
+When using multiple `li` _and_ multiple `e`, predicates only connect to immediately following objects. If you use `li` twice and `e` once, only the `li` before `e` matters to the object!
+
+<details> <summary> [kasi li suwi li pana e ko]{.tokipona} </summary>
+
+The plant is sweet, and gives off dust!
+
+</details>
+
+<details> <summary> [kasi li pana e ko li suwi]{.tokipona} </summary>
+
+The plant gives off dust, and is sweet!
+
+</details>
+
+Objects always connect to the previous predicate. So for multiple objects, the rules are the same as with multiple `e`.
+
+<details> <summary> [jan li jaki e lipu li telo e lipu]{.tokipona} </summary>
+
+The person made a mess on the book and cleaned the book.
+
+</details>
+
+There is some room for experimentation though! The above statement can be understood similarly with a relaxed grammar:
+
+> [jan li jaki li telo e lipu]{.tokipona}
+
+_Technically_ the first predicate does not connect to the object, because another predicate interrupts it. But this will probably be understood the same!
+
+</details>
+
 ## Exercises
 
 ### Toki Pona to English
 
+#### Single e
+
 A parent is doing his best to make his kid eat his dinner, resulting in an argument at the table. The kid offers the very reasonable point that vegetables are gross! But after some arguing back and forth, mom chimes in with convincing wisdom:
 
-<details> <summary class=tokipona> moku li pona e sina </summary>
+<details> <summary> [moku li pona e sina]{.tokipona} </summary>
 
 The food will make you feel better!
 
@@ -175,7 +229,7 @@ The food will make you feel better!
 
 You've been struggling in class, trying your hardest to follow along with the lessons and lab. You hire a tutor to help, and they provide well-practiced teaching and piles of useful examples. Late one night, you are pouring over the textbook and you realize you actually understand every word. You exclaim:
 
-<details> <summary class=tokipona> mi sona e lipu </summary>
+<details> <summary> [mi sona e lipu]{.tokipona} </summary>
 
 I understood the textbook!
 
@@ -188,7 +242,7 @@ I understood the textbook!
 
 Halloween night! A group of sheet-clad friends, dressed like classic ghosts, walk from home to home shouting "Trick or treat!" and get piles of sweets in hand at each door! At the end of the night, everyone compares their hauls. One friend pulls a weighty, dirty chunk from his bag and says...
 
-<details> <summary class=tokipona> mi jo e kiwen </summary>
+<details> <summary> [mi jo e kiwen]{.tokipona} </summary>
 
 I have a rock...
 
@@ -205,7 +259,7 @@ I have a rock...
 
 You and your brother are up to no good, trying to play a prank the neighbor. You just finished setting up the sprinkler system to go off when your neighbor walks out, when your brother yells a warning out at you:
 
-<details> <summary class=tokipona> mama li lukin e sina </summary>
+<details> <summary> [mama li lukin e sina]{.tokipona} </summary>
 
 Mom sees you!
 
@@ -221,7 +275,7 @@ Mom sees you!
 
 You're standing out on the beach in a late summer evening, watching the waves roll in. As time passes, and only the moon is left illuminating the surface of the water, you begin to notice a soft white foam piling at the water's edge. You remark to yourself:
 
-<details> <summary class=tokipona> telo li pali e ko </summary>
+<details> <summary> [telo li pali e ko]{.tokipona} </summary>
 
 The water is making foam.
 
@@ -234,7 +288,7 @@ The water is making foam.
 
 You and your friends are playing hide-and-seek. The one friend who is "it" is standing at the base of the tree, but only pretending to close their eyes while counting. As soon as the game starts, they rush to tag everyone they saw hide, and then when the game ends, everyone complains at once:
 
-<details> <summary class=tokipona> sina pakala e musi </summary>
+<details> <summary> [sina pakala e musi]{.tokipona} </summary>
 
 You ruined the game!
 
@@ -249,7 +303,7 @@ You ruined the game!
 
 You're a project manager, working with one of your developers on a new project. Your developer comes to you with a problem, and as you work through it, you identify the issue: one of the supporting tools has a change you don't recognize. You check who wrote it, and inform the confused developer:
 
-<details> <summary class=tokipona> sina ante e lipu </summary>
+<details> <summary> [sina ante e lipu]{.tokipona} </summary>
 
 You changed the code...
 
@@ -265,7 +319,7 @@ You changed the code...
 
 You're late to a choir performance! You race from the parking lot to the auditorium doors, pushing them open with a _thump_ and then pause- and listen. You hear the opening piece, and whisper under your breath:
 
-<details> <summary class=tokipona> mi kute e kulupu </summary>
+<details> <summary> [mi kute e kulupu]{.tokipona} </summary>
 
 I hear the choir.
 
@@ -280,7 +334,7 @@ I hear the choir.
 
 A young child is confused- for years, she's stayed home and spent all her time playing. Suddenly she now has to go to "school," and spend so much time there! Her mom drops her off, crying and wailing, for her first day. Then mom shushes her and explains how school works, her child's eyes widening as she listens:
 
-<details> <summary class=tokipona> jan li pana e sona </summary>
+<details> <summary> [jan li pana e sona]{.tokipona} </summary>
 
 People will teach you!
 
@@ -294,7 +348,7 @@ People will teach you!
 
 On a walkthrough of a science museum, you find yourself in a hands-on exhibit full of boxes! You can't see what's inside, but the organizer directs you to reach in and feel. You reach into a box and feel something gooshy and rubbery. You squish it- but you have no idea what it is! The organizer tells you:
 
-<details> <summary class=tokipona> sina pilin e ko </summary>
+<details> <summary> [sina pilin e ko]{.tokipona} </summary>
 
 You're feeling the gum!
 
@@ -312,7 +366,7 @@ You're feeling the gum!
 
 You walk through the forest toward your personal getaway, a cozy cabin far from home. When you get there, you find the cabin in disrepair! Vines now creep up the sides, and weeds overgrow the garden; the home is clearly starved of care! You resolve to restore the garden and cabin, and remark to yourself:
 
-<details> <summary class=tokipona> kasi li wile e pona・mi pona e kasi </summary>
+<details> <summary> [kasi li wile e pona・mi pona e kasi]{.tokipona} </summary>
 
 The garden needs help! I will help the plants.
 
@@ -322,6 +376,14 @@ The garden needs help! I will help the plants.
 - The grass needs to heal. I will help it.
 
 </details>
+
+#### Multiple e
+
+::: error
+
+This part of the lesson is a recent addition! Examples coming soon!
+
+:::
 
 ### English to Toki Pona
 

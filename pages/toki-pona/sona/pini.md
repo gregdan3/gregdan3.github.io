@@ -3,7 +3,11 @@ title: Finale
 author: gregdan3
 date: date unknown
 ---
+::: error
 
+This lesson is a work in progress!
+
+:::
 
 <!-- toc -->
 
@@ -14,14 +18,6 @@ date: date unknown
 - [Differences](#differences)
 
 <!-- tocstop -->
-
----
-
-::: error
-
-This section is not yet complete! I've made it public only because its content is important to the existing lessons.
-
-:::
 
 ## nimi ku suli
 
@@ -35,7 +31,7 @@ Everything here is important to know! The three bold words were not in the lesso
 
 | Glyph           | Word                | Definition                                           | Note                                    |
 | --------------- | ------------------- | ---------------------------------------------------- | --------------------------------------- |
-| pu              | **pu**              | **to interact with Toki Pona: The Language of Good** |
+| pu              | **pu**              | **to interact with Toki Pona: The Language of Good** |                                         |
 | ku              | **ku**              | **to interact with Toki Pona Dictionary**            |                                         |
 | kijetesantakalu | **kijetesantakalu** | **raccoon, procyonid, musteloid, skrunkly mammal**   | **joke word, but beloved**              |
 | kin             | kin                 | (indicate something is additional, extra)            | in pu, former synonym of a              |
@@ -106,6 +102,4 @@ The previous use gives only the definition which is no longer used.
 [Other lessons](/toki-pona/#namako)
 
 [Back home](/toki-pona/)
-
-
 

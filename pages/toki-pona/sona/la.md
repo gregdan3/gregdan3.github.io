@@ -3,7 +3,11 @@ title: 'Context, Comparisons, la'
 author: gregdan3
 date: date unknown
 ---
+::: error
 
+This lesson is a work in progress!
+
+:::
 
 <!-- toc -->
 
@@ -42,6 +46,13 @@ date: date unknown
 | uta    | uta    | mouth, lips, eating orifice                    |
 | selo   | selo   | boundary, skin, bark, peel, outer layer        |
 | lawa   | lawa   | head, mind, brain, control, plan, govern, lead |
+| sike   | sike   | circle, spiral, sphere, cycle                  |
+| kon    | kon    | air, ghost, spirit, unseen agent               |
+| linja  | linja  | line, rope, string, hair, connection           |
+| kalama | kalama | sound, noise                                   |
+| lupa   | lupa   | hole, door, window, orifice                    |
+| nena   | nena   | bump, lump, extrusion, hill, mountain, nose    |
+| insa   | insa   | inside, center, between, organ                 |
 
 :::
 
@@ -70,6 +81,4 @@ but! don't worry much about not getting la yet! it is the most complex part of t
 [Previous lesson](./preps.html)
 
 [Next lesson](./seme.html)
-
-
 

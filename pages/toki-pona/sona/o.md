@@ -31,8 +31,6 @@ date: date unknown
 
 <!-- tocstop -->
 
----
-
 ### Words to Know
 
 #### Particles
@@ -514,11 +512,11 @@ Remember, instructions are just as good as requests in Toki Pona!
 
 <details><summary> The reds cannot be that bright! </summary>
 
-[loje o suno ale ala ]{.tokipona} / "The reds must not be completely bright"
+[loje o suno ale ala]{.tokipona} / "The reds must not be completely bright"
 
-[loje o suno wawa ala ]{.tokipona} / "The reds must not be intensely bright"
+[loje o suno wawa ala]{.tokipona} / "The reds must not be intensely bright"
 
-[loje o suno pi wawa ala ]{.tokipona} / "The reds must be bright in a non-intense way"
+[loje o suno pi wawa ala]{.tokipona} / "The reds must be bright in a non-intense way"
 
 ::: info
 
@@ -532,11 +530,11 @@ Also, you can't directly translate "that" as "ni"! Here, "that" is intensifying 
 
 <details><summary> **You must learn Toki Pona!** </summary>
 
-[o kama sona e toki pona ]{.tokipona} / "Learn Toki Pona"
+[o kama sona e toki pona]{.tokipona} / "Learn Toki Pona"
 
-[sina o kama sona e toki pona ]{.tokipona} / "You must learn Toki Pona"
+[sina o kama sona e toki pona]{.tokipona} / "You must learn Toki Pona"
 
-[sona sina pi toki pona o kama suli ]{.tokipona} / "Your knowledge of Toki Pona must grow"
+[sona sina pi toki pona o kama suli]{.tokipona} / "Your knowledge of Toki Pona must grow"
 
 </details>
 
@@ -596,7 +594,8 @@ There's also a bit more freedom for what can go _around_ a sentence. You can int
 
 ---
 
-[Previous lesson](./pre-predicates.html)
+[Previous lesson](./preps.html)
 
 [Next lesson](./interjections.html)
+
 

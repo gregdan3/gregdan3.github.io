@@ -4,15 +4,18 @@ author: gregdan3
 date: 2022-07-02T00:00:00.000Z
 ---
 
-
 <!-- toc -->
 
 - [open (start)](#open-start)
 - [lipu (pages)](#lipu-pages)
+  - [sitelen tawa (video)](#sitelen-tawa-video)
+  - [sitelen (writing)](#sitelen-writing)
+  - [ante toki (translation)](#ante-toki-translation)
 - [sona (knowledge)](#sona-knowledge)
   - [kama sona (learning)](#kama-sona-learning)
   - [namako (extra)](#namako-extra)
   - [nasin (way)](#nasin-way)
+  - [mi (myself)](#mi-myself)
 - [ilo (tools)](#ilo-tools)
 
 <!-- tocstop -->
@@ -50,13 +53,22 @@ understanding of my communication that I would never have had without it.
 
 I've translated a few stories, books, and songs into Toki Pona. I've also written some things of my own. Check it all out!
 
-- [College Mao - "musi lawa"](./lipu/musi-lawa.html)
+#### sitelen tawa (video)
+
 - [Goodnight Moon - "mun o pimeja pona"](./lipu/mun-o-pimeja-pona.html) - **[o kute pona!](https://www.youtube.com/watch?v=Q2UIw8PZsZ8)**
 - [It's okay to not like things - "sina ken wile ala ijo"](./lipu/sina-ken-wile-ala-ijo.html) - **[o kute pona!](https://www.youtube.com/watch?v=iKry3P51SVI)**
-- [Homeward Bound - "tawa tomo"](./lipu/tawa-tomo.html)
+
+#### sitelen (writing)
+
+- [College Mao - "musi lawa"](./lipu/musi-lawa.html)
+- [Knowledge of Very Tiny Things - "sona pi ijo lili a"](./lipu/sona-pi-ijo-lili-a.html)
+<!-- - [Knowledge of Light Travel - "sona pi tawa suno"](./lipu/sona-pi-tawa-suno.html) -->
+
+#### ante toki (translation)
+
 - [The Princess on the Pea - "jan lawa meli lon kili lili"](./lipu/jan-lawa-meli-lon-kili-lili.html)
 - [The Fisherman and his Wife - "jan pi alasa kala en jan olin ona"](./lipu/jan-pi-alasa-kala-en-jan-olin-ona.html)
-<!-- - [Knowledge of Very Tiny Things - "sona pi ijo lili a"](./lipu/sona-pi-ijo-lili-a.html) -->
+- [Homeward Bound - "tawa tomo"](./lipu/tawa-tomo.html)
 
 ## sona (knowledge)
 
@@ -86,13 +98,15 @@ These lessons are still in progress! They could change at any time.
 
 :::
 
-kama sona is a lesson series about the core of Toki Pona. It is based on Toki
-Pona: The Language of Good and others' lessons, but with a focus on brevity,
-accessibility, and what I felt I needed as a learner. I also have cut the
-lesson list down to only **absolute essentials**, but I am making
-I highly recommend starting [a memrise
-course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/) [or similar other course](https://jamesmoulang.itch.io/nasin-sona-musi)
+kama sona is my Toki Pona lesson series, with written and video lessons. It is based on many other Toki Pona lessons, but with important changes to lesson order, terminology, and design. These changes reduce misunderstandings, provide helpful context, and give more example material than any other lesson series I know! Reading an entire lesson and doing all of its exercises will give you enough understanding of its topic to practice right away.
+
+Start [a memrise
+course](https://app.memrise.com/course/5969373/essential-toki-pona-vocabulary/)
+or [memorizing game](https://jamesmoulang.itch.io/nasin-sona-musi)
 at the same time as you start these lessons, to help you memorize all the words!
+Be patient too. Toki Pona is easy to start, but like any language, it takes time!
+
+[Lesson playlist](https://www.youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT)
 
 - [Getting Started](./sona/open.html)
 - [You and I](./sona/mi-sina.html)
@@ -100,11 +114,17 @@ at the same time as you start these lessons, to help you memorize all the words!
 - [Objects with _e_](./sona/e.html)
 - [Modifiers and _pi_](./sona/mod-pi.html)
 - [Pre-predicates](./sona/pre-predicates.html)
+<!-- - [Prepositions](./sona/preps.html) -->
 - [Instructions with _o_](./sona/o.html)
-
 <!-- - [Interjections and _a_](./sona/interjections.html) -->
-<!-- - [Prepositions: time, place, cause](./sona/preps.html) -->
-<!-- - [Before the Final Act](./sona/bits.html) -->
+
+<!-- ::: error -->
+
+<!-- The next few lessons are not yet complete! -->
+
+<!-- ::: -->
+
+<!-- - [Before We Continue...](./sona/bits.html) -->
 <!-- - [Context, Comparisons, _la_](./sona/la.html) -->
 <!-- - [Questions, answers, _seme_](./sona/seme.html) -->
 <!-- - [Finale](./sona/pini.html) -->
@@ -143,8 +163,6 @@ that most others will understand.
 - Themed Lessons
   - [Conlang Critic opener](./sona/conlang-critic.html)
   - [Instead of Phatic Phrases](./sona/phatic-phrases.html)
-    <!-- - [There Is Always Context](./sona/context-always.html) -->
-    <!-- - [Categories in Toki Pona](./sona/category.html) -->
     <!-- - [Advanced Comparisons](./sona/comparisons.html) -->
     <!-- - [Concepts and Translation](./sona/ante-toki.html) -->
     <!-- - [Modern Toki Pona vs. pu](./sona/modern-tp.html) -->
@@ -162,9 +180,6 @@ all of them are beneficial to your understanding of Toki Pona.
 
 <!-- - [pu taso](./sona/pu-taso.html): only using Toki Pona: The Language of Good -->
 <!-- - nimi sin -->
-  <!-- - [misikeke li pona](./sona/misikeke.html) -->
-  <!-- - [epiku li ike](./sona/epikunt.html) -->
-  <!-- - [majuna li ken pona](./sona/majuna.html) -->
   <!-- - [ki si wi](./sona/ki-si-wi.html) -->
 <!-- - nimi ante -->
 <!--   - [newer pre-predicates](./sona/newer-pre-predicates.html): open, pini, alasa, olin -->
@@ -185,6 +200,21 @@ all of them are beneficial to your understanding of Toki Pona.
     <!-- - [pre-predicaten't](./sona/pre-predicatent.html): not using pre-predicates -->
     <!-- - [nanpan't](./sona/nanpant.html): no number system -->
 
+### mi (myself)
+
+My thoughts and feelings on Toki Pona. Sometimes insight, sometimes my nasin, sometimes meta!
+Anything labeled "scrap" is pulled from a conversation and is mostly unedited.
+
+- [Growing Toki Pona](./mi/growing-toki-pona.html)
+- [Toki Pona is a weird name!](./mi/toki-pona-is-a-weird-name.html)
+- [Context is Always There (scrap)](./mi/context-always.html)
+- [Critter Categories (scrap)](./mi/critters.html)
+- [Predicate is better than Verb (scrap)](./mi/predicate-vs-verb.html)
+- [Monsutatesu isn't special (scrap)](./mi/monsutatesu-isnt-special.html)
+
+<!-- - [misikeke li pona](./sona/misikeke.html) -->
+<!-- - [epiku li ike](./sona/epikunt.html) -->
+
 ## ilo (tools)
 
 ::: info
@@ -196,5 +226,3 @@ More tools are coming!
 - [An explorable map of Toki Pona concepts](./ilo/map.html)
   - Most data is from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and
     [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
-
-

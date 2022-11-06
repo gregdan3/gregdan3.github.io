@@ -1,5 +1,3 @@
-A writing system for proper nouns in sitelen pona, using mora!
-
 A writing system for proper names in sitelen pona, using moras!
 
 - This goes _with_ the pu system, where symbols read by their first letter. You can mix these systems!

@@ -3,7 +3,11 @@ title: Asking and Answering Questions
 author: gregdan3
 date: date unknown
 ---
+::: error
 
+This lesson is a work in progress!
+
+:::
 
 <!-- toc -->
 
@@ -51,6 +55,8 @@ date: date unknown
 
 ## Overview
 
+- answers to questions (ni li X ala X? X / X ala / ala)
+
 ## Exercises
 
 Here, I provide consecutive questions and answers together. The questions are on the main spoiler, and the answers are in a spoiler underneath the first!
@@ -70,6 +76,4 @@ Here, I provide consecutive questions and answers together. The questions are on
 [Previous lesson](./la.html)
 
 [Next lesson](./pini.html)
-
-
 

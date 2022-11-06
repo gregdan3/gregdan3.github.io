@@ -3,7 +3,7 @@ title: Actions with li
 author: gregdan3
 date: 2022-08-16T00:00:00.000Z
 ---
-
+[Check out the video lesson too!](https://youtu.be/xaYd936H--o)
 
 <!-- toc -->
 
@@ -11,17 +11,18 @@ date: 2022-08-16T00:00:00.000Z
     - [Particles](#particles)
     - [Content Words](#content-words)
 - [Overview](#overview)
-    - [li and Predicates](#li-and-predicates)
+    - [Predicates and li](#predicates-and-li)
+    - [Multiple li](#multiple-li)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
+    - [Single li](#single-li)
+    - [Multiple li](#multiple-li-1)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Grammar](#grammar)
     - [Content Words and Particles](#content-words-and-particles)
 
 <!-- tocstop -->
-
----
 
 ### Words to Know
 
@@ -65,7 +66,7 @@ The words from the last lesson were content words too!
 
 ## Overview
 
-#### li and Predicates
+#### Predicates and li
 
 The next type of Toki Pona sentence is a simple but powerful addition!
 
@@ -87,9 +88,9 @@ Remember, if the subject is _just_ mi or _just_ sina, do not include li!
 
 :::
 
-Here's a few guided examples:
+Here's a guided example:
 
-<details> <summary class=tokipona> mama li musi </summary>
+<details> <summary> [mama li musi]{.tokipona} </summary>
 
 - Mom is hilarious.
 - Dad is being funny.
@@ -102,13 +103,47 @@ Here's a few guided examples:
 Here, the subject is `mama`, a parent or ancestor. Since the subject isn't `mi` or `sina`, `li` is present and starts the predicate. Then the predicate is `musi`, fun and entertainment.
 `musi` could be either a description or action here, and these cannot be told apart without more context. Check under the spoiler for possible interpretations!
 
+#### Multiple li
+
+Toki Pona has no word for "and" like English has- instead, you say `li` again, making another predicate. Saying `li` multiple times is like saying "and" in English! Here's another example:
+
+<details> <summary> [kulupu li suli li pona]{.tokipona} </summary>
+
+- The community is huge, and wonderful!
+- The collection is enormous, and pretty!
+- The stack is tall, and fantastic!
+
+</details>
+
+Here, the subject `kulupu` is doing two different things: being `suli` and being `pona`.
+
+<details> <summary> [jan li tawa li lape]{.tokipona} </summary>
+
+- The person walks, and goes to sleep.
+- The person walks, and sleeps.
+- Everyone is traveling, and sleeping.
+
+</details>
+
+Here, `jan` is doing two different things: `tawa`, moving, and `lape`, sleeping. The two actions don't have to happen at the same time, since Toki Pona words don't mark time.
+
+You can have as many predicates as you want, but try to keep your sentences shorter- shorter sentences are easier to understand.
+
+::: warning
+
+**mi** and **sina** do not take **li**, so you can't _normally_ do this with **mi** and **sina**. Instead, use separate sentences: [mi tawa・mi lape]{.tokipona}
+
+:::
+
 ## Exercises
 
 ### Toki Pona to English
 
+#### Single li
+
 You and a friend are looking through old photos. Your friend points to one of a person leaning against a wall, smiling wide at the camera and says:
 
-<details> <summary class=tokipona> jan li mi </summary>
+<details> <summary> [jan li mi]{.tokipona} </summary>
 
 The person is me!
 
@@ -121,7 +156,7 @@ The person is me!
 
 A group of friends is at the side of a pool. All of them stare into the water, unsure whether they are ready to brave it. Suddenly, one friend cannonballs into the water, splashing everyone. When they surface, they yell:
 
-<details> <summary class=tokipona> telo li lete </summary>
+<details> <summary> [telo li lete]{.tokipona} </summary>
 
 The water is cold!
 
@@ -137,7 +172,7 @@ The water is cold!
 
 You are walking along a forest trail, and brush your hand over a rock. When you pull your hand away, you find it covered in tree sap and remark:
 
-<details> <summary class=tokipona> kiwen li ko </summary>
+<details> <summary> [kiwen li ko]{.tokipona} </summary>
 
 The rock is gooey...
 
@@ -152,7 +187,7 @@ The rock is gooey...
 
 You're on an expedition to see the tallest tree in the world. You've walked for hours upon hours, sweating heavily under the sun. You hike to the peak of one more hill, and spot the tree on the horizon. You can see it from miles away! You shout:
 
-<details> <summary class=tokipona> kasi li suli </summary>
+<details> <summary> [kasi li suli]{.tokipona} </summary>
 
 The tree is _enormous!_
 
@@ -168,7 +203,7 @@ The tree is _enormous!_
 
 On an epic quest, you stop at a wizard's tower and climb it. At the top, the wizard is deep in research. He teaches you a new spell to aid your journey: Spoonform. With this power, you can turn into a spoon for a short time. You don't tell the wizard, but you think to yourself:
 
-<details> <summary class=tokipona> wawa li nasa </summary>
+<details> <summary> [wawa li nasa]{.tokipona} </summary>
 
 Magic is ridiculous!
 
@@ -182,7 +217,7 @@ Magic is ridiculous!
 
 While visiting your grandmother's house, she offers you piles of different sweets! You try each and every one, enjoying the smell and taste of your grandmother's wonderful cooking. Your most favorite was her apple pie- thinking about it again, you think to yourself:
 
-<details> <summary class=tokipona> moku li suwi </summary>
+<details> <summary> [moku li suwi]{.tokipona} </summary>
 
 Pie is sweet!
 
@@ -196,7 +231,7 @@ Pie is sweet!
 
 After enjoying your grandmother's cooking, you and your family head out to the beach to swim! The sun is beaming brightly, and the air feels hot as the ocean breeze whips past. You take your first step out on the sand and recoil- it's way too hot!
 
-<details> <summary class=tokipona> ko li seli </summary>
+<details> <summary> [ko li seli]{.tokipona} </summary>
 
 The sand is hot!
 
@@ -210,7 +245,7 @@ The sand is hot!
 
 You've just come home from a long vacation. Unwinding was wonderful, but being back home means being back to the grind! While settling back in, you open your fridge and to your dismay discover some of your food went bad while you were gone! You shout:
 
-<details> <summary class=tokipona> moku li jaki </summary>
+<details> <summary> [moku li jaki]{.tokipona} </summary>
 
 The food's gone bad!
 
@@ -222,6 +257,14 @@ The food's gone bad!
 - Eating is gross!
 
 </details>
+
+#### Multiple li
+
+::: error
+
+This part of the lesson is a recent addition! Examples coming soon!
+
+:::
 
 ### English to Toki Pona
 

@@ -21,8 +21,6 @@ date: 2022-07-30T00:00:00.000Z
 
 <!-- tocstop -->
 
----
-
 ## How to Read
 
 If you know the International Phonetic Alphabet, Toki Pona is read like that.
@@ -234,4 +232,5 @@ Lastly, if you ever see a spoiler starting with "a note", it is not necessary to
 ---
 
 [Next lesson](./mi-sina.html)
+
 
