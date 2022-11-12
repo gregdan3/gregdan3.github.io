@@ -138,11 +138,11 @@ Again, the `telo` is _wanted_ or _needed_, but it does not become `wile` or do t
 
 As you study, you'll get an intuitive sense for this difference.
 Some words will be actions the subject takes on an object, but which do not change that object.
-Other words will change the object in some way, usually applying a new property to the object.
+Other words will change the object, applying a new property to the object.
 
 <details> <summary> A note on "not" changing things </summary>
 
-As you become more advanced in Toki Pona, you'll learn that the above is somewhat disingenuous. It _is_ possible to describe an object as a wanted object, and to apply want to that object. For the time being, this simplification will work.
+As you become more advanced in Toki Pona, you'll learn that the above is complicated! It _is_ possible to describe an object as a wanted object, and to apply want to that object. For the time being, this simplification will work.
 
 That said, the following is possible:
 
@@ -160,7 +160,7 @@ This uses a modifier (next lesson!) to demonstrate the point, now referencing a 
 
 #### Multiple e
 
-As with `li`, `e` can be used multiple times to apply a predicate to more than one object at a time! Every object after a predicate will be affected.
+Like `li`, `e` can be used more than once to apply a predicate to more than one object at a time! This applies to every object that follows a predicate. Like `li`, this is like "and" in English!
 
 <details> <summary> [mi moku e suwi e lete]{.tokipona} </summary>
 
@@ -168,15 +168,16 @@ I eat sugar and ice.
 
 </details>
 
+<details> <summary> [kasi li pilin e seli e telo]{.tokipona} </summary>
+
+The plant is touching the fire and the water!
+
+</details>
+
 #### Multiple li and multiple e
 
-::: warning
-
-This is a recent addition- it isn't complete yet!
-
-:::
-
-When using multiple `li` _and_ multiple `e`, predicates only connect to immediately following objects. If you use `li` twice and `e` once, only the `li` before `e` matters to the object!
+When using multiple `li` _and_ multiple `e`, objects connect to the predicate right before.
+If you use `li` twice and `e` after both, only the second predicate `li` matters to the object `e`!
 
 <details> <summary> [kasi li suwi li pana e ko]{.tokipona} </summary>
 
@@ -190,7 +191,8 @@ The plant gives off dust, and is sweet!
 
 </details>
 
-Objects always connect to the previous predicate. So for multiple objects, the rules are the same as with multiple `e`.
+Objects _always_ connect to the predicate before.
+For multiple `e` with multiple `li`, the rules are the same as with just multiple `e`!
 
 <details> <summary> [jan li jaki e lipu li telo e lipu]{.tokipona} </summary>
 
@@ -198,11 +200,18 @@ The person made a mess on the book and cleaned the book.
 
 </details>
 
-There is some room for experimentation though! The above statement can be understood similarly with a relaxed grammar:
+<details><summary> A note about multiple "li" and multiple "e" </summary>
+
+There is some room for experimentation! The above statement can be understood similarly with a relaxed grammar:
 
 > [jan li jaki li telo e lipu]{.tokipona}
 
-_Technically_ the first predicate does not connect to the object, because another predicate interrupts it. But this will probably be understood the same!
+The first predicate does not connect to the object because another predicate interrupts it.
+Despite that, this sentence can be understood the same as the above one.
+
+That is, can be. It could be understood as "This person is gross, and washes the book."
+
+If somebody doesn't understand you, try restating yourself. Using more words to be more specific is always helpful!
 
 </details>
 
@@ -348,7 +357,7 @@ People will teach you!
 
 On a walkthrough of a science museum, you find yourself in a hands-on exhibit full of boxes! You can't see what's inside, but the organizer directs you to reach in and feel. You reach into a box and feel something gooshy and rubbery. You squish it- but you have no idea what it is! The organizer tells you:
 
-<details> <summary> [sina pilin e ko]{.tokipona} </summary>
+<details> <summary> [sina pilin e ko e ]{.tokipona} </summary>
 
 You're feeling the gum!
 

@@ -105,7 +105,7 @@ Here, the subject is `mama`, a parent or ancestor. Since the subject isn't `mi` 
 
 #### Multiple li
 
-Toki Pona has no word for "and" like English has- instead, you say `li` again, making another predicate. Saying `li` multiple times is like saying "and" in English! Here's another example:
+To say a subject does more than one thing, you say `li` again, making another predicate. Saying `li` multiple times is like saying "and" in English! Here's another example:
 
 <details> <summary> [kulupu li suli li pona]{.tokipona} </summary>
 
@@ -125,7 +125,7 @@ Here, the subject `kulupu` is doing two different things: being `suli` and being
 
 </details>
 
-Here, `jan` is doing two different things: `tawa`, moving, and `lape`, sleeping. The two actions don't have to happen at the same time, since Toki Pona words don't mark time.
+Here, `jan` is doing two different things: `tawa`, moving, and `lape`, sleeping. Remember- Toki Pona words don't mark time, so these two actions can happen at different times!
 
 You can have as many predicates as you want, but try to keep your sentences shorter- shorter sentences are easier to understand.
 

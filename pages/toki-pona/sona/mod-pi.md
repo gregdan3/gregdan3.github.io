@@ -37,6 +37,8 @@ date: date unknown
 | ----- | ---- | ------------------------------------------- |
 | pi    | pi   | (regroups modifiers into a single modifier) |
 
+<!-- | en    | en   | (mark additional subjects/subject phrases)  | -->
+
 :::
 
 #### Content Words
@@ -228,9 +230,13 @@ You can have a `pi` phrase after other modifiers. The same rules apply: `pi` tur
 
 For clarity, limit yourself to **one pi** per phrase.
 
-Some speakers say that multiple pi modify _the one before_, while others say each modifies _the whole phrase's head_. Don't even bother!
+If you have more than one **pi**, context tells whether they both modify the head or the second modifies the first. But with **one pi**, you can't go wrong!
 
 :::
+
+<!-- #### Subjects and en -->
+
+<!-- `en` lets you have more than one subject in a single sentence. -->
 
 ## Exercises
 
@@ -414,6 +420,14 @@ The strange-feeling part is tricky! **nasa** is a more appropriate head noun tha
 
 </details>
 
+<details><summary> I'm looking at a lot of plants! </summary>
+
+[mi lukin e kasi mute]{.tokipona}
+
+[mi lukin e kasi mute mute]{.tokipona}
+
+</details>
+
 ## Takeaway
 
 #### Terminology
@@ -447,5 +461,5 @@ You can see this in English too: a blue book is a kind of book, and a deep under
 
 [Previous lesson](./e.html)
 
-<!-- [Next lesson](./pre-predicates.html) -->
+[Next lesson](./pre-predicates.html)
 

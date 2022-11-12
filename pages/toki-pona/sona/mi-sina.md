@@ -46,7 +46,15 @@ date: 2022-07-30T00:00:00.000Z
 
 :::
 
-By the way, check out [this dictionary](https://lipu-linku.github.io)! If you ever get lost, set "core words" and "widespread words" then search for what you need.
+<br/>
+
+::: info
+
+Check out [this dictionary](https://lipu-linku.github.io)! If you ever get lost, set "core words" and "widespread words" then search for what you need.
+
+:::
+
+<br/>
 
 ## Overview
 
@@ -89,7 +97,7 @@ The words in the predicate describe the speaker or listener, or what the speaker
 
 <details> <summary> [mi jan]{.tokipona} </summary>
 
-Since jan (person/people) doesn't obviously imply an action, it is reasonable to call it a description here. This sentence means "I am a person" or "We are people."
+Since jan (person/people) doesn't obviously imply an action, it is reasonable to call it a description here. This sentence means "**I am a person**" or "**We are people.**"
 
 </details>
 
@@ -99,9 +107,9 @@ Check under the spoiler for an explanation and interpretation!
 
 <details> <summary> [sina moku]{.tokipona} </summary>
 
-Because moku (food/eat) could be either a description or an action, this sentence could be "You eat" or "You are food."
+Because moku (food/eat) could be either a description or an action, this sentence could be "**You eat**" or "**You are food.**"
 
-Importantly, "You eat" is _much_ more likely and common than "You are food." A sentence should be reasonable when you interpret it!
+Importantly, "**You eat**" is _much_ more likely and common than "**You are food.**" A sentence should be reasonable when you interpret it!
 
 </details>
 
@@ -142,7 +150,7 @@ This is the most common way to say "goodbye" in Toki Pona.
 
 ::: info
 
-Translation is inexact! In any language, Toki Pona too. More, Toki Pona words have broad meanings, so answers are a list of possibilities, _not_ comprehensive.
+Translation is inexact! Toki Pona words have broad meanings, so answers are a list of possibilities, _not_ comprehensive.
 
 :::
 
@@ -157,6 +165,9 @@ Knowing what is going on will help you understand the statement, and will improv
 #### mi
 
 You're about to go up to the podium on stage and give a speech. Before stepping on stage, you say to an attendent:
+
+<!-- <details> <summary> [[mi]{.p1} [toki]{.p2}]{.tokipona} </summary> -->
+<!-- [I]{.p1} [will be speaking]{.p2} next! -->
 
 <details> <summary> [mi toki]{.tokipona} </summary>
 

@@ -13,13 +13,20 @@ date: date unknown
     - [Pre-predicates](#pre-predicates)
 - [Overview](#overview)
     - [Every Pre-predicate](#every-pre-predicate)
+      - [wile](#wile)
+      - [ken](#ken)
+      - [kama](#kama)
+      - [awen](#awen)
+      - [sona](#sona)
+      - [alasa / lukin](#alasa--lukin)
     - [Multiple pre-predicates](#multiple-pre-predicates)
     - [ala](#ala)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [One pre-pred](#one-pre-pred)
     - [Many pre-preds](#many-pre-preds)
-    - [ala](#ala-1)
+    - [ala and pre-preds](#ala-and-pre-preds)
+    - [ala and other things](#ala-and-other-things)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Clarity of Grammar](#clarity-of-grammar)
@@ -84,6 +91,8 @@ There are seven pre-preds in common use. We already know some of them as normal 
 
 ---
 
+##### wile
+
 <details><summary> [mi wile pali]{.tokipona} </summary>
 
 I want to create.
@@ -108,6 +117,8 @@ When something is in the object, it is often considered _not_ an action. If you 
 
 ---
 
+##### ken
+
 <details><summary> [mi ken wawa]{.tokipona} </summary>
 
 I can be strong.
@@ -128,6 +139,8 @@ You can often restate a sentence _without_ a pre-predicate. Using pre-predicates
 
 ---
 
+##### kama
+
 <details><summary> [sina kama sona]{.tokipona} </summary>
 
 You are learning!
@@ -144,6 +157,8 @@ It can also refer to beginning actions, such as going to sleep.
 
 ---
 
+##### awen
+
 <details><summary> [mi awen kute]{.tokipona} </summary>
 
 I am still listening.
@@ -153,6 +168,8 @@ I am still listening.
 The `awen` pre-pred means the predicate is on-going, continuing, or not changing. This is different from `kama` in that the `kama` pre-pred does imply change!
 
 ---
+
+##### sona
 
 <details><summary> [ona li sona pakala e ni]{.tokipona} </summary>
 
@@ -176,6 +193,8 @@ The `sona` pre-pred means the predicate indicates knowledge of how to perform th
 The same action-versus-thing distinction happens as with the `ken` pre-pred. If something is an action, or knowledge of an action, that will be better understood in the predicate.
 
 ---
+
+##### alasa / lukin
 
 <details><summary> [mi alasa pona e sina  /  mi lukin pona e sina]{.tokipona} </summary>
 
@@ -309,6 +328,12 @@ They are not a gift giver.
 
 </details>
 
+::: info
+
+Stick to negating **predicates**, **modifiers**, and **pre-predicates**. Easy to understand!
+
+:::
+
 ## Exercises
 
 ### Toki Pona to English
@@ -403,7 +428,7 @@ I want to try understanding all the colors.
 
 </details>
 
-#### ala
+#### ala and pre-preds
 
 Your research team has been working to put together a presentation. However, one member of your team will not be present on the day of the presentation- the one who was going to give it! You go to the coordinator and explain:
 
@@ -426,28 +451,6 @@ You've been feeling unwell lately, and sleeping a lot as a result. As the hours 
 <details><summary> [mi wile ala awen lape]{.tokipona} </summary>
 
 I don't want to keep sleeping...
-
-</details>
-
-You've been sorting through boxes of donations, trying to make a list of contributors to thank for their help. Somebody you're working with you points out that you've made a mistake- you attributed a donation to the wrong person! They say:
-
-<details><summary> [**ona li pana e ni ala・ona li pana e ni**]{.tokipona} </summary>
-
-They didn't give this. They gave that!
-
-::: info
-
-While negating the predicate can be similar to negating the object, choosing one over the other can emphasize your intended meaning better!
-
-:::
-
-</details>
-
-You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
-
-<details><summary> [ni li jaki mute・mi pilin ala e ni]{.tokipona} </summary>
-
-That is _so_ gross. I'm not touching that!
 
 </details>
 
@@ -484,6 +487,30 @@ You can apply pre-predicates to descriptions too!
 ---
 
 I'm not trying to turn red!
+
+</details>
+
+#### ala and other things
+
+You've been sorting through boxes of donations, trying to make a list of contributors to thank for their help. Somebody you're working with you points out that you've made a mistake- you attributed a donation to the wrong person! They say:
+
+<details><summary> [**ona li pana e ni ala・ona li pana e ni**]{.tokipona} </summary>
+
+They didn't give this. They gave that!
+
+::: info
+
+While negating the predicate can be similar to negating the object, choosing one over the other can emphasize your intended meaning better!
+
+:::
+
+</details>
+
+You're watching a friend confidently dive through piles of trash to find their lost hat. You're grossed out, but they insist they'll find it. Eventually, they come up from the pile with their hat! But the hat desperately needs to be washed after its garbage stint. Your friend tries to hand you the hat, and you exclaim:
+
+<details><summary> [ni li jaki mute・mi pilin ala e ni]{.tokipona} </summary>
+
+That is _so_ gross. I'm not touching that!
 
 </details>
 
