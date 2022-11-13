@@ -148,30 +148,18 @@ because it helps you learn.
 In sitelen pona, speakers often use an interpunct `・` at the end of sentences,
 plus all punctuation used in sitelen Lasina. Others will start new lines at the end of sentences.
 
-::: tokipona
-
-> jan li toki e ni・seme li lon・ona li wile tawa li wile lape
-
-:::
+> [jan li toki e ni・seme li lon・ona li wile tawa li wile lape]{.tokipona}
 
 Proper nouns are written in a box called a cartouche, which is an enclosed square around a group of symbols.
 Everything inside the cartouche is read by only its first character:
 
-::: tokipona
-
-> sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]
-
-:::
+> [sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]]{.tokipona}
 
 The reading of the cartouche is "Kanse".
 
 Lastly, symbols can be stacked or nested! Both are read from the bottom up, which is the same as reading from the outside in for nested symbols.
 
-::: tokipona
-
-> toki-pona li pona mute tawa mi・toki ni la nasin sitelen li linja-suwi ala
-
-:::
+> [toki-pona li pona mute tawa mi・toki ni la nasin sitelen li linja-suwi ala]{.tokipona}
 
 Here, the first symbol is read "toki pona" and it is nested. The second to last symbol is "linja suwi" and it is stacked.
 
@@ -191,7 +179,7 @@ Toki Pona values simplicity in statements and expression. If you find yourself c
 
 #### Lesson Notes
 
-Everything in the **Overview** section will use exclusively words from previous lessons unless I say otherwise, or you're in the first lesson.
+Everything in the **Overview** section will use as few words from previous lessons as possible, excepting the first lesson and lessons about collections of important words.
 
 The definitions for words are examples, not comprehensive. The same goes for exercise translations.
 Words can refer to more than the examples, and be used in more ways than appear in the exercises.

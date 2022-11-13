@@ -23,10 +23,11 @@ date: date unknown
   - [Toki Pona to English](#toki-pona-to-english)
     - [One Preposition](#one-preposition)
     - [Multiple Prepositions](#multiple-prepositions)
-    - [Preps and ala](#preps-and-ala)
+    - [Prepositions and ala](#prepositions-and-ala)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Grammar](#grammar)
+    - [New Ambiguity](#new-ambiguity)
 
 <!-- tocstop -->
 
@@ -71,9 +72,9 @@ Take a close look: `kepeken` is only a preposition!
 
 ## Overview
 
-Prepositions add context to a sentence. When using a preposition, you say the word and a phrase following it- the phrase is the context, and the word tells you what kind of context it is!
+The word "preposition" comes from these words marking times and place- the "pre" part is for the fact that these words come before positions.
 
-The term "preposition" comes from these words marking times and place- the "pre" part is for the fact that these words come before positions.
+Prepositions add context to a sentence. When using a preposition, you say the word and a phrase following it- the phrase is the context, and the word tells you what kind of context it is!
 
 ::: info
 
@@ -91,9 +92,9 @@ After the predicate, without an object:
 
 Or right after `li` as the predicate:
 
-> [ona li <u>**sama mi**</u>]{.tokipona}
+> [ona li <u>**sama mi mute**</u>]{.tokipona}
 
-Prepositions always appear **last** in a statement. Keep that in mind!
+Prepositions appear **last** in a statement. Keep that in mind!
 
 #### Every Preposition
 
@@ -159,9 +160,9 @@ You can tell these different uses of `tawa` apart by context. For example, if th
 
 This can be a place:
 
-<details><summary> [kulupu li <u>**lon kiwen suli**</u>]{.tokipona} </summary>
+<details><summary> [kulupu li <u>**lon kiwen walo jelo**</u>]{.tokipona} </summary>
 
-The group is **on the big rocks**!
+The group is **on the rocks that are yellow and white**!
 
 </details>
 
@@ -176,13 +177,13 @@ It will be sunny **for a long time**!
 
 </details>
 
-And it can be semantic, such as in ideas:
+And it can be about ideas, like subjects in a conversation:
 
-<details><summary> [mi toki <u>**lon sona ma mi**</u>]{.tokipona} </summary>
+<details><summary> [mi toki <u>**lon sona alasa mi**</u>]{.tokipona} </summary>
 
-I am talking **about my knowledge of places**!
+I am talking **about my hunting knowledge**!
 
-I am talking **about my understanding of dirt**.
+I am talking **about my searching knowledge**.
 
 </details>
 
@@ -192,7 +193,7 @@ All of these are different kinds of locations. Try lots of things out!
 
 ##### tan
 
-`tan` indicates the cause of or reason for something. It's similar to "from" or "because of" in English.
+`tan` talks about the cause or origin of something. It is similar to "from" or "because of" in English.
 
 <details><summary> [mi wawa <u>**tan moku pona**</u>]{.tokipona} </summary>
 
@@ -202,11 +203,11 @@ I'm strong because of good food!
 
 This can describe some kinds of motion, or just be explanatory:
 
-<details><summary> [mi <u>**tan kulupu suli**</u>]{.tokipona} </summary>
+<details><summary> [mi <u>**tan kulupu musi**</u>]{.tokipona} </summary>
 
-I'm from a huge community!
+I'm from a comedy troupe!
 
-I'm here from a huge community!
+I got here from the improv group.
 
 </details>
 
@@ -220,13 +221,13 @@ Remember: **tawa** talks about purpose, while **tan** talks about cause. To tell
 
 ##### sama
 
-`sama` says that something is similar to something else. This may be to compare the subject to something:
+`sama` talks about the similarity of things. This may be to compare the subject to something:
 
-<details><summary> [pali mani sina li <u>**sama mama mi**</u>]{.tokipona} </summary>
+<details><summary> [pali sona sina li <u>**sama mama mi**</u>]{.tokipona} </summary>
 
-Your work is similar to my mom's!
+Your teaching job is the same as my dad's!
 
-You do the same job as my dad!
+Your programming work is the same as my mom's!
 
 </details>
 
@@ -246,19 +247,13 @@ They can move powerfully, like a weight-lifter!
 
 ##### kepeken
 
-<details><summary> [jan li pali e ma kasi <u>**kepeken ilo**</u>]{.tokipona} </summary>
+<details><summary> [jan li seli e moku <u>**kepeken ilo seli**</u>]{.tokipona} </summary>
 
-The people are creating a garden **using tools**.
+The person is cooking the food **using a heating tool**.
 
 </details>
 
 `kepeken` means "to use". The thing in a `kepeken` prep phrase is being used by the subject. That's it!
-
-<!-- #### "Modifying" prepositions -->
-<!-- You cannot modify a preposition. However, you can apply pre-predicates to prepositions: -->
-<!-- ona li awen pana tawa sina -->
-<!-- they're still giving to you -->
-<!-- And you can modify prepositions with other parts -->
 
 ---
 
@@ -274,12 +269,6 @@ They received some cake **from a baker**, **to feel better**
 
 </details>
 
-<details><summary> [pilin mi li kama pona <u>**tan lape**</u>, <u>**tan tawa telo**</u>]{.tokipona} </summary>
-
-My feelings have gotten better **from sleeping** and **from swimming**.
-
-</details>
-
 <details><summary> [ona li toki <u>**lon lape ona**</u>, <u>**sama mama pi jan mi**</u>]{.tokipona} </summary>
 
 They talk **in their sleep**, **same as my partner's dad!**
@@ -288,11 +277,17 @@ They talk **when napping**, **like my friend's mom!**
 
 </details>
 
+<details><summary> [pilin mi li kama pona <u>**tan lape**</u>, <u>**tan tawa telo**</u>]{.tokipona} </summary>
+
+My feelings have gotten better **from sleeping** and **from swimming**.
+
+</details>
+
 Otherwise, the rules are the same as with just one preposition!
 
 ::: warning
 
-The commas are present to separate the two prepositions. They aren't needed!
+The commas are present to separate the two prepositions. They aren't needed- just helpful!
 
 :::
 
@@ -300,23 +295,39 @@ The commas are present to separate the two prepositions. They aren't needed!
 
 You can negate prepositions by putting `ala` after the preposition.
 
-<details><summary> [mama kasi li <u>**tawa ala sina**</u>]{.tokipona} </summary>
+<details><summary> [kiwen suno li <u>**tawa ala mi**</u>]{.tokipona} </summary>
 
-The gardener is **not coming to you**.
-
-The plant's parent is **not going over to you**!
+The shiny rock is **not for me**!
 
 </details>
 
 <details><summary> [jan pali li <u>**kepeken ala lipu ni**</u>]{.tokipona} </summary>
 
-The workers are not using this document!
+The workers are **not using this document**!
+
+</details>
+
+<details><summary> [mi pilin nasa <u>**sama ala sina**</u>]{.tokipona} </summary>
+
+I'm feeling weird, **unlike you**.
+
+::: info
+
+This sentence doesn't clarify _which_ thing is not similar- and that's okay!
+
+:::
 
 </details>
 
 This is so simple, you already got it!
 
-<details><summary>A note about negating things other than prepositions</summary>
+::: info
+
+Stick to negating **predicates**, **modifiers**, **pre-predicates**, or **prepositions**. Clean and clear!
+
+:::
+
+<details><summary>A note about ala with other things</summary>
 
 Negating the subject (**jan ala li ...**) and negating the prepositional phrase (**... tan sona ala**) can give you a similar result to negating the preposition. **_Can_**.
 
@@ -325,12 +336,6 @@ Most of the time, it makes things confusing! What does it mean when **jan ala li
 The first is something like "Not-people" or "Non-persons" use knowledge. And the second is "I dance the same way as not-you." These are confusing!
 
 </details>
-
-::: info
-
-Stick to negating **predicates**, **modifiers**, **pre-predicates**, or **prepositions**. Clean and clear!
-
-:::
 
 ## Exercises
 
@@ -380,14 +385,6 @@ The earth is flat like a dinner plate!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
-
-</details>
-
-<details><summary> []{.tokipona} </summary>
-
-</details>
-
 Your teacher is emphasizing the relative size of the earth in comparison to other objects. This is an important idea for students to understand, because it helps them to put the earth's size into perspective. It also helps them to understand that the earth is a huge object, and that it is much larger than any one person. Your teacher says:
 
 <details><summary> [ma li suli ala tawa sewi・ona li suli tawa jan]{.tokipona} </summary>
@@ -422,19 +419,15 @@ I can be in any place, at any time!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<!-- <details><summary> []{.tokipona} </summary> -->
 
-</details>
+<!-- </details> -->
 
-<details><summary> []{.tokipona} </summary>
+<!-- <details><summary> []{.tokipona} </summary> -->
 
-</details>
+<!-- </details> -->
 
-<details><summary> []{.tokipona} </summary>
-
-</details>
-
-#### Preps and ala
+#### Prepositions and ala
 
 You're sitting in class, learning about how plants have adapted to a variety of different environments. However, there are some environments that plants haven't adapted to, such as the cold and thin air on tall mountains! The teacher says:
 
@@ -444,7 +437,7 @@ Plants aren't on ground that is way high up!
 
 </details>
 
-You're watching a storm roll in. The wind is whipping past you at an alarming speed! As the storm inches closer, the wind picks up more, blowing the plants and the trees around in vicious circles. As you watch, you notice the shrubs and grasses being blown over without resistance, then rising back up. But the trees have their branches torn away. You remark:
+There's a storm, and the wind is whipping past you at an alarming speed! As the storm comes in, the wind picks up ferociously, blowing the plants and the trees around. As you watch, you notice the shrubs and grasses being blown over without resistance, then rising back up. But the trees have their branches torn away. You remark:
 
 <details><summary> [kasi lili li sama ala kasi suli]{.tokipona} </summary>
 
@@ -452,109 +445,139 @@ The shrubs and grasses are not similar to the trees.
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+You're having a discussion with some friends about where you grew up, and how that influenced the way you think. For many of them, their life philosophies came from where they grew up, but you feel differently and say:
+
+<details><summary> [nasin mi li tan ala ma mi]{.tokipona} </summary>
+
+My philosophy is not from where I was born!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+You're trekking through a desert with a guide, stopping rest through the night. Your guide explains that you need to bundle up: the temperature of the desert depends on the sun, so the desert will become freezing when the sun sets. You ask a follow-up question: if it gets cold enough, will there be ice? And the guide explains:
+
+<details><summary> [kiwen lete li lon ala ma ni tan ni・telo li lon ala]{.tokipona} </summary>
+
+There is no ice here because of this: there is no water.
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+<!-- <details><summary> []{.tokipona} </summary> -->
 
-</details>
+<!-- </details> -->
 
-<details><summary> []{.tokipona} </summary>
+<!-- <details><summary> []{.tokipona} </summary> -->
 
-</details>
+<!-- </details> -->
 
-<details><summary> []{.tokipona} </summary>
+<!-- <details><summary> []{.tokipona} </summary> -->
 
-</details>
+<!-- </details> -->
 
-<details><summary> []{.tokipona} </summary>
+<!-- <details><summary> []{.tokipona} </summary> -->
 
-</details>
+<!-- </details> -->
+
+<!-- <details><summary> []{.tokipona} </summary> -->
+
+<!-- </details> -->
 
 ### English to Toki Pona
 
-<details><summary>  </summary>
+<details><summary> Everyone is on the road. They're heading to the cool caves! </summary>
 
-[]{.tokipona}
+[jan ale li lon nasin・ona li tawa ma anpa pona]{.tokipona}
 
-</details>
+[jan ale li tawa nasin・ona li tawa ma anpa pona]{.tokipona}
 
-<details><summary>  </summary>
-
-[]{.tokipona}
+[jan ale li tawa ma anpa pona]{.tokipona}
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> You can look at the gravel on the mountain from here! </summary>
 
-[]{.tokipona}
+[sina ken lukin e ma lon ma sewi tan ma ni]{.tokipona}
 
-</details>
+[sina ken lukin e ko lon ma sewi tan ma ni]{.tokipona}
 
-<details><summary>  </summary>
-
-[]{.tokipona}
+[sina ken lukin e kiwen lili mute lon ma sewi tan ma ni]{.tokipona}
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> I'm sitting in a pretty chair. </summary>
 
-[]{.tokipona}
+[mi lon supa pona]{.tokipona}
 
-</details>
-
-<details><summary>  </summary>
-
-[]{.tokipona}
+[mi awen lon supa ni・ona li pona tawa lukin]{.tokipona}
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> **I'm giving this to my brother for your sake.**  </summary>
 
-[]{.tokipona}
+[mi pana e ni tawa jan poka mi・ni li tawa sina]{.tokipona}
 
-</details>
+::: info
 
-<details><summary>  </summary>
+In this case, using the **tawa** preposition twice is confusing, since it could mean another person getting something from `pana`! The second use of it is moved to a separate sentence.
 
-[]{.tokipona}
-
-</details>
-
-<details><summary>  </summary>
-
-[]{.tokipona}
+:::
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> My books are on a big bookshelf! </summary>
 
-[]{.tokipona}
+[lipu mi li lon supa suli]{.tokipona}
 
-</details>
-
-<details><summary>  </summary>
-
-[]{.tokipona}
+[lipu mi li lon supa suli lipu]{.tokipona}
 
 </details>
 
-<details><summary>  </summary>
+<details><summary> My books fell off my bookshelf... </summary>
 
-[]{.tokipona}
+[lipu mi li tawa anpa tan supa mi]{.tokipona}
 
 </details>
+
+<!-- <details><summary>  </summary> -->
+
+<!-- []{.tokipona} -->
+
+<!-- </details> -->
+
+<!-- <details><summary>  </summary> -->
+
+<!-- []{.tokipona} -->
+
+<!-- </details> -->
+
+<!-- <details><summary>  </summary> -->
+
+<!-- []{.tokipona} -->
+
+<!-- </details> -->
+
+<!-- <details><summary>  </summary> -->
+
+<!-- []{.tokipona} -->
+
+<!-- </details> -->
+
+<!-- <details><summary>  </summary> -->
+
+<!-- []{.tokipona} -->
+
+<!-- </details> -->
+
+<!-- <details><summary>  </summary> -->
+
+<!-- []{.tokipona} -->
+
+<!-- </details> -->
 
 ## Takeaway
 
 #### Grammar
 
-Prepositions extend the grammar a bit! You can now include a new phrase at the end of the sentence, or as soon as the predicate. Here are some examples of this idea:
+Prepositions extend the grammar once more! You can now include a new phrase in your sentences, which occurs in the predicate, after the predicate, or after the object- last in the statement. Here are some examples of this idea:
 
 > [subject] (li) (preposition [prep phrase])
 
@@ -564,16 +587,17 @@ Prepositions extend the grammar a bit! You can now include a new phrase at the e
 
 Keep in mind: if a preposition comes right after `li` it's still the predicate!
 
+#### New Ambiguity
+
+You may have noticed during the lesson that the word `tawa` is used often as a normal content word and as a preposition. It gets modified often too. Telling `tawa` preposition apart from `tawa` as a content word can be difficult!
+
+Toki Pona doesn't have a way of telling apart modified `tawa` from `tawa` preposition. But the two can be told apart easily, especially as you practice. `tawa` near the end of the sentence, and especially after an object, is a preposition more often than not. `tawa` in the predicate is generally a modifier.
+
+This applies to every preposition, but understandably, it affects `tawa` the most. If you're ever unsure, ask somebody for help with reading, or ask for a restatement when speaking!
+
 ---
 
 [Previous lesson](./pre-predicates.html)
 
 [Next lesson](./o.html)
-
-<!-- TODO: -->
-
-<!-- - english examples -->
-<!-- - more anpa -->
-<!-- - more sewi -->
-<!-- - more nasin -->
 
