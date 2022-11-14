@@ -13,7 +13,7 @@ LUA_FILTER=rm-colgroup.lua
 
 MD_TO_HTML=pandoc --lua-filter=$(LUA_FILTER) --from=markdown+yaml_metadata_block --template=$(TEMPLATE)
 MINIFIER=htmlmin --remove-comments --remove-all-empty-space
-TOC_MAKER=npx markdown-toc --maxdepth 4 --no-stripHeadingTags --indent="  " --bullets="-" -i
+TOC_MAKER=npx markdown-toc --maxdepth 5 --no-stripHeadingTags --indent="  " --bullets="-" -i
 MAPPER=npx markmap --no-open
 
 DEVNAME=gregdan3-website
