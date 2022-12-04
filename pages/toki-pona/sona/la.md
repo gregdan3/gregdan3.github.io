@@ -16,6 +16,8 @@ This lesson is a work in progress!
     - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
+  - [Toki Pona to English](#toki-pona-to-english)
+  - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
 
 <!-- tocstop -->
@@ -32,33 +34,117 @@ This lesson is a work in progress!
 | ----- | ---- | --------------------------------------------------- |
 | la    | la   | (between context phrase/sentence and main sentence) |
 
+:::
+
 #### Content Words
 
 ::: tpdefinitions
 
-| Glyph  | Word   | Definition                                     |
-| ------ | ------ | ---------------------------------------------- |
-| sijelo | sijelo | body, torso                                    |
-| luka   | luka   | hand, arm, prehensile limb                     |
-| noka   | noka   | foot, leg, locomotive limb                     |
-| sinpin | sinpin | front, face, wall                              |
-| monsi  | monsi  | back, behind, rear                             |
-| uta    | uta    | mouth, lips, eating orifice                    |
-| selo   | selo   | boundary, skin, bark, peel, outer layer        |
-| lawa   | lawa   | head, mind, brain, control, plan, govern, lead |
-| sike   | sike   | circle, spiral, sphere, cycle                  |
-| kon    | kon    | air, ghost, spirit, unseen agent               |
-| linja  | linja  | line, rope, string, hair, connection           |
-| kalama | kalama | sound, noise                                   |
-| lupa   | lupa   | hole, door, window, orifice                    |
-| nena   | nena   | bump, lump, extrusion, hill, mountain, nose    |
-| insa   | insa   | inside, center, between, organ                 |
+| Glyph | Word  | Definition                                     |
+| ----- | ----- | ---------------------------------------------- |
+| open  | open  | start, begin, enable, open                     |
+| pini  | pini  | finish, stop, disable, close                   |
+| mani  | mani  | money, cash, barterable thing, thing of value  |
+| esun  | esun  | trade, barter, shopping, economy               |
+| len   | len   | cloth, cover, clothing, secret, hidden         |
+| mun   | mun   | moon, star, planet, celestial body             |
+| sin   | sin   | new, fresh, update                             |
+| olin  | olin  | love, respect, affection, emotional connection |
+| kon   | kon   | air, ghost, spirit, unseen agent               |
+| linja | linja | line, rope, string, hair, connection           |
+| sike  | sike  | circle, spiral, sphere, cycle                  |
 
 :::
 
 ## Overview
 
+As in the interjections lesson, `la` phrases may be any subject, predicate, object, preposition with prep phrase.
+
 ## Exercises
+
+### Toki Pona to English
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+### English to Toki Pona
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
 
 ## Takeaway
 
@@ -78,7 +164,7 @@ but! don't worry much about not getting la yet! it is the most complex part of t
 
 ---
 
-[Previous lesson](./preps.html)
+[Previous lesson](./interjections.html)
 
 [Next lesson](./seme.html)
 

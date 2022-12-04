@@ -11,6 +11,7 @@ date: date unknown
     - [Particles](#particles)
     - [Content Words](#content-words)
 - [Overview](#overview)
+    - [en, quickly!](#en-quickly)
     - [One Modifier](#one-modifier)
     - [Many Modifiers](#many-modifiers)
     - [pi phrases](#pi-phrases)
@@ -33,11 +34,10 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph | Word | Use                                         |
-| ----- | ---- | ------------------------------------------- |
-| pi    | pi   | (regroups modifiers into a single modifier) |
-
-<!-- | en    | en   | (mark additional subjects/subject phrases)  | -->
+| Glyph | Word | Use                                        |
+| ----- | ---- | ------------------------------------------ |
+| pi    | pi   | (groups modifiers into one modifier)       |
+| en    | en   | (mark additional subjects/subject phrases) |
 
 :::
 
@@ -63,6 +63,28 @@ date: date unknown
 
 ## Overview
 
+#### en, quickly!
+
+We saw before that [li]{.tokipona} can be used more than once to refer to multiple actions or traits of the subject.
+You can also use [e]{.tokipona} more than once for multiple objects.
+You can even use them both together.
+
+What about multiple subjects? The word [en]{.tokipona} is used to add subjects after the first.
+
+<details><summary> [sina en mi li musi]{.tokipona} </summary>
+
+You and I are having fun!
+
+</details>
+
+<details><summary> [pali en lape li pona e jan]{.tokipona} </summary>
+
+Creating and sleeping heals people.
+
+</details>
+
+[en]{.tokipona} can be used any number of times, but only at the start of a sentence!
+
 #### One Modifier
 
 In Toki Pona, words may be _modified_ by adding words after the first in a phrase. This first word is called the **Head**, or sometimes **Head Noun**. Every word after the head is a **Modifier**. Here's an example phrase:
@@ -75,7 +97,7 @@ In Toki Pona, words may be _modified_ by adding words after the first in a phras
 
 </details>
 
-The first word is the most important, telling you the most about the thing. Here, `lipu` is the head, so this is some kind of paper or document. Then `musi` modifies `lipu`, making it more specific. Now check the spoiler!
+The first word is the most important, telling you the most about the thing. Here, [lipu]{.tokipona} is the head, so this is some kind of paper or document. Then [musi]{.tokipona} modifies [lipu]{.tokipona}, making it more specific. Now check the spoiler!
 
 <details><summary> [jan pona li toki]{.tokipona} </summary>
 
@@ -91,7 +113,7 @@ The nurse is giving instructions!
 
 </details>
 
-Here, the _subject_ is modified: this is a `jan`, and the `jan` is `pona`! It's similar to saying `jan li pona`, but in a single phrase.
+Here, the _subject_ is modified: this is a [jan]{.tokipona}, and the [jan]{.tokipona} is [pona]{.tokipona}! It's similar to saying [jan li pona]{.tokipona}, but in a single phrase.
 
 <details><summary> [mi sona suli e lipu]{.tokipona} </summary>
 
@@ -104,7 +126,7 @@ I critically understand the paper.
 
 </details>
 
-Here, the predicate is modified: `sona` is the start of the predicate, and `suli` changes it. `suli` is making `sona` more important.
+Here, the predicate is modified: [sona]{.tokipona} is the start of the predicate, and [suli]{.tokipona} changes it. [suli]{.tokipona} is making [sona]{.tokipona} more important.
 
 <details><summary> [sina lukin e kasi suwi]{.tokipona} </summary>
 
@@ -118,17 +140,19 @@ You're looking at a cute flower!
 
 </details>
 
-Here, the object `kasi` is modified with `suwi`. Try splitting this into two sentences:
+Here, the object [kasi]{.tokipona} is modified with [suwi]{.tokipona}. Try splitting this into two sentences:
 
-> sina lukin e kasi. kasi li suwi.
+> [sina lukin e kasi・kasi li suwi]{.tokipona}
 
 This means mostly the same: You look at the plant. The plant is cute.
 
 ::: info
 
-mi and sina can be modified, even in the **subject**. If you do, you still use li! You only omit li if the subject is _exactly_ mi or _exactly_ sina. [Check the first lesson again](./mi-sina.html)!
+[mi]{.tokipona} and [sina]{.tokipona} can be modified, even in the **subject**. If you do, you still use [li]{.tokipona}! You only omit [li]{.tokipona} if the subject is _exactly_ [mi]{.tokipona} or _exactly_ [sina]{.tokipona}. [Check the first lesson again](./mi-sina.html)!
 
 :::
+
+You can even modify multiple phrases at once!
 
 <details><summary> [kulupu mi li pakala wawa e kiwen suli]{.tokipona} </summary>
 
@@ -138,16 +162,14 @@ My community _blew up_ an enormous slate!
 
 ---
 
-Also, the **kiwen** is now a **kiwen pakala**!
+Also, the [kiwen]{.tokipona} is now a [kiwen pakala]{.tokipona}!
 
 </details>
 
-You can even modify multiple phrases at once!
-
-- `kulupu mi` means the group is related to or owned by the speaker.
-- `pakala wawa` makes this destruction _powerful_ or _intense!_
-- `kiwen suli` makes the rock huge or important!
-- Lastly, `kulupu` applies `pakala` to the `kiwen`, giving the `kiwen` a new property.
+- [kulupu mi]{.tokipona} means the group is related to or owned by the speaker.
+- [pakala wawa]{.tokipona} makes this destruction _powerful_ or _intense!_
+- [kiwen suli]{.tokipona} makes the rock huge or important!
+- Lastly, [kulupu]{.tokipona} applies [pakala]{.tokipona} to the [kiwen]{.tokipona}, giving the [kiwen]{.tokipona} a new property.
 
 Check your understanding under the spoiler!
 
@@ -173,8 +195,8 @@ I know a magical ice power!
 
 </details>
 
-Importantly, the order _does not matter_. `wawa nasa lete` and `wawa lete nasa` are the same thing.
-Think it through: In English, `wawa nasa lete` is a weird cold power. `wawa lete nasa` is a cold weird power.
+Importantly, the order _does not matter_. [wawa nasa lete]{.tokipona} and [wawa lete nasa]{.tokipona} are the same thing.
+Think it through: In English, [wawa nasa lete]{.tokipona} is a weird cold power. [wawa lete nasa]{.tokipona} is a cold weird power.
 These statements aren't even different in English!
 
 <details><summary> [jan li kalama musi suwi]{.tokipona} </summary>
@@ -188,11 +210,11 @@ Somebody is singing sweetly.
 
 </details>
 
-Same as before, the order does not matter. `kalama musi suwi` and `kalama suwi musi` are the same.
+Same as before, the order does not matter. [kalama musi suwi]{.tokipona} and [kalama suwi musi]{.tokipona} are the same.
 
 #### pi phrases
 
-`pi` introduces a new head, and that head plus all the words that follow it become a single modifier. Then that modifier applies to the head of the entire phrase. That's a complex idea, so let's explore it!
+[pi]{.tokipona} introduces a new head, and that head plus all the words that follow it become a single modifier. Then that modifier applies to the head of the entire phrase. That's a complex idea, so let's explore it!
 
 <details><summary> [mi jan pi pali kasi]{.tokipona} </summary>
 
@@ -205,7 +227,7 @@ I'm a gardener.
 
 </details>
 
-Here, the predicate begins with `jan`. `pi` turns the following words into a single modifier, with the first word as a head: `pali` modified by `kasi` makes it plant-related work. Apply this idea to `jan` and you're done. Check the spoiler!
+Here, the predicate begins with [jan]{.tokipona}. [pi]{.tokipona} turns the following words into a single modifier, with the first word as a head: [pali]{.tokipona} modified by [kasi]{.tokipona} makes it plant-related work. Apply this idea to [jan]{.tokipona} and you're done. Check the spoiler!
 
 ::: info
 
@@ -224,19 +246,15 @@ I'm an expert botanist.
 
 </details>
 
-You can have a `pi` phrase after other modifiers. The same rules apply: `pi` turns everything that follows it into a modifier, and that applies to the head of the whole phrase. Here, `jan` is _both_ `suli` and `sona kasi`. Check your understanding!
+You can have a [pi]{.tokipona} phrase after other modifiers. The same rules apply: [pi]{.tokipona} turns everything that follows it into a modifier, and that applies to the head of the whole phrase. Here, [jan]{.tokipona} is _both_ [suli]{.tokipona} and [sona kasi]{.tokipona}. Check your understanding!
 
 ::: warning
 
-For clarity, limit yourself to **one pi** per phrase.
+For clarity, limit yourself to one [pi]{.tokipona} per phrase.
 
-If you have more than one **pi**, context tells whether they both modify the head or the second modifies the first. But with **one pi**, you can't go wrong!
+If you have more than one [pi]{.tokipona}, context tells whether they both modify the head or the second modifies the first. But with one [pi]{.tokipona}, you can't go wrong!
 
 :::
-
-<!-- #### Subjects and en -->
-
-<!-- `en` lets you have more than one subject in a single sentence. -->
 
 ## Exercises
 
@@ -280,7 +298,7 @@ The color of plants is changing!
 
 ::: info
 
-**kule** can be used to refer to more colors than Toki Pona normally has! Think of saying "The color of sand" in English; this would be **kule ko** in Toki Pona.
+[kule]{.tokipona} can be used to refer to more colors than Toki Pona normally has! Think of saying "The color of sand" in English; this would be [kule ko]{.tokipona} in Toki Pona.
 
 :::
 
@@ -323,7 +341,7 @@ They gifted red and blue flowers.
 
 ::: info
 
-Remember, modifier order doesn't matter. Both the modifiers affect the head _separately_ and _no matter their order_, so **kasi** is **laso** _and_ **loje**- they don't mix!
+Remember, modifier order doesn't matter. Both the modifiers affect the head _separately_ and _no matter their order_, so [kasi]{.tokipona} is [laso]{.tokipona} _and_ [loje]{.tokipona}- they don't mix!
 
 :::
 
@@ -362,7 +380,7 @@ The orange journal has my writings.
 
 ::: info
 
-Here, **loje** is a head noun, and **jelo** modifies it. Unlike before, we're changing a color from one shade to another with a modifier, instead of having two separate shades both present!
+Here, [loje]{.tokipona} is a head noun, and [jelo]{.tokipona} modifies it. Unlike before, we're changing a color from one shade to another with a modifier, instead of having two separate shades both present!
 
 :::
 
@@ -384,7 +402,7 @@ Here, **loje** is a head noun, and **jelo** modifies it. Unlike before, we're ch
 
 ::: warning
 
-The strange-feeling part is tricky! **nasa** is a more appropriate head noun than **pilin**, because "these" are being "strange" in some way: a **pilin** way.
+The strange-feeling part is tricky! [nasa]{.tokipona} is a more appropriate head noun than [pilin]{.tokipona}, because "these" are being "strange" in some way: a [pilin]{.tokipona} way.
 
 :::
 
@@ -406,7 +424,7 @@ The strange-feeling part is tricky! **nasa** is a more appropriate head noun tha
 
 </details>
 
-<details><summary> They are making a guide to explosions </summary>
+<details><summary> **They are making a guide to explosions** </summary>
 
 [ona li pali e lipu pi sona pakala]{.tokipona}
 
@@ -414,7 +432,7 @@ The strange-feeling part is tricky! **nasa** is a more appropriate head noun tha
 
 ::: info
 
-**pakala** can directly modify **lipu** and _not_ mean that the **lipu** is broken! It can be related to broken-ness as well.
+[pakala]{.tokipona} can directly modify [lipu]{.tokipona} and _not_ mean that the [lipu]{.tokipona} is broken! It can be related to broken-ness as well.
 
 :::
 
@@ -427,6 +445,8 @@ The strange-feeling part is tricky! **nasa** is a more appropriate head noun tha
 [mi lukin e kasi mute mute]{.tokipona}
 
 </details>
+
+<!-- TODO: more examples -->
 
 ## Takeaway
 
@@ -442,7 +462,7 @@ We also have a new **particle**. There's some nuance to what that means, now tha
 
 Toki Pona sentences still look the same:
 
-> [subject] (li) [predicate] (e [object])
+> [subject] ([li]{.tokipona}) [predicate] ([e]{.tokipona} [object])
 
 But now, each phrase can be modified! This does not change where anything belongs, but it lets you be more specific about what you say.
 
@@ -450,10 +470,10 @@ But now, each phrase can be modified! This does not change where anything belong
 
 Modifiers do not _change_ what they modify, only make it more specific.
 
-- `sona lipu` is a `sona`.
-- `suli wawa` is a `suli`.
-- `kiwen pakala` is a `kiwen`
-- `jan ante` is a `jan`!
+- [sona lipu]{.tokipona} is a [sona]{.tokipona}.
+- [suli wawa]{.tokipona} is a [suli]{.tokipona}.
+- [kiwen pakala]{.tokipona} is a [kiwen]{.tokipona}
+- [jan ante]{.tokipona} is a [jan]{.tokipona}!
 
 You can see this in English too: a blue book is a kind of book, and a deep understanding is still a kind of understanding. Toki Pona always works like this, with _one_ exception coming up next lesson.
 

@@ -66,12 +66,12 @@ The most basic Toki Pona sentence has two parts: a subject phrase and a predicat
 
 For this kind of sentence, two subjects are possible
 
-- `mi` - First person pronoun. I, me, my, mine, we, our, myself, ourselves
-- `sina` - Second person pronoun. You, yours, yourself, y'all, y'all's
+- [mi]{.tokipona} - First person pronoun. I, me, my, mine, we, our, myself, ourselves
+- [sina]{.tokipona} - Second person pronoun. You, yours, yourself, y'all, y'all's
 
 So the Toki Pona sentence always looks like this:
 
-> [mi/sina] [predicate]
+> [[mi]{.tokipona}/[sina]{.tokipona}] [predicate]
 
 The English interpretation looks like this for mi:
 
@@ -101,8 +101,8 @@ Since jan (person/people) doesn't obviously imply an action, it is reasonable to
 
 </details>
 
-`mi` is the subject, and refers to the speaker.
-`jan` is the predicate, and is either an action or description of the speaker.
+[mi]{.tokipona} is the subject, and refers to the speaker.
+[jan]{.tokipona} is the predicate, and is either an action or description of the speaker.
 Check under the spoiler for an explanation and interpretation!
 
 <details> <summary> [sina moku]{.tokipona} </summary>
@@ -113,14 +113,14 @@ Importantly, "**You eat**" is _much_ more likely and common than "**You are food
 
 </details>
 
-`sina` is the subject, and refers to the listener.
-`moku` is the predicate, and is either an action or description of the listener.
+[sina]{.tokipona} is the subject, and refers to the listener.
+[moku]{.tokipona} is the predicate, and is either an action or description of the listener.
 
 #### Hello and Goodbye
 
 In Toki Pona, there is no specific word for "hello" or for "goodbye."
 
-Instead, "hello" is part of the word `toki`.
+Instead, "hello" is part of the word [toki]{.tokipona}.
 It covers every kind of greeting!
 
 <details> <summary> [toki]{.tokipona} </summary>
@@ -464,16 +464,16 @@ expressed by the grammar.
 
 #### Broadness
 
-Toki Pona words have broad meanings. `mi` does not refer to only yourself like
+Toki Pona words have broad meanings. [mi]{.tokipona} does not refer to only yourself like
 "I" does. It can refer to a group including yourself like "we",
 an action on yourself like "myself", and something that belongs to you
 such as "mine" or "my"; all of these depend on context and place in a sentence.
-`sina` works the same way, and so do _all_ Toki Pona words.
+[sina]{.tokipona} works the same way, and so do _all_ Toki Pona words.
 
-In short, words do not mark number! `jan` may talk about one person,
+In short, words do not mark number! [jan]{.tokipona} may talk about one person,
 four people, everyone in a city, and more.
 
-Words do not mark time either! `moku` may
+Words do not mark time either! [moku]{.tokipona} may
 talk about eating right now, eating in the near future, drinking in the distant
 past, becoming edible exactly a week from now, and anything else.
 
@@ -482,15 +482,15 @@ is easier to navigate than you think! Context is everything, and understanding
 a sentence is much easier when you're experiencing what it describes.
 
 A helpful strategy for understanding a sentence with less context is
-to consider how reasonable it is. For example, `mi moku` is able to mean "we
-are food", but it is more likely that `mi` is just the speaker, and `moku` is
+to consider how reasonable it is. For example, [mi moku]{.tokipona} is able to mean "we
+are food", but it is more likely that [mi]{.tokipona} is just the speaker, and [moku]{.tokipona} is
 "eat". You can use this thinking to reason about sentences in the future.
 
 #### Hello and Goodbye
 
-As in one of the examples, which is _not_ a sentence, you can say `toki` on its own to mean "hello!"
+As in one of the examples, which is _not_ a sentence, you can say [toki]{.tokipona} on its own to mean "hello!"
 
-Another one of the examples is a sentence, and is the most common way to say goodbye: `mi tawa`, "I am leaving!"
+Another one of the examples is a sentence, and is the most common way to say goodbye: [mi tawa]{.tokipona}, "I am leaving!"
 
 ---
 

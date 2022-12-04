@@ -3,7 +3,7 @@ title: Prepositions and Context
 author: gregdan3
 date: date unknown
 ---
-
+[Check out the video lesson too!](https://youtu.be/hbUaLDRmULI)
 
 <!-- toc -->
 
@@ -23,7 +23,7 @@ date: date unknown
   - [Toki Pona to English](#toki-pona-to-english)
     - [One Preposition](#one-preposition)
     - [Multiple Prepositions](#multiple-prepositions)
-    - [Prepositions and ala](#prepositions-and-ala)
+    - [ala and Prepositions](#ala-and-prepositions)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
     - [Grammar](#grammar)
@@ -68,7 +68,7 @@ date: date unknown
 
 :::
 
-Take a close look: `kepeken` is only a preposition!
+Take a close look: [kepeken]{.tokipona} is only a preposition!
 
 ## Overview
 
@@ -90,7 +90,7 @@ After the predicate, without an object:
 
 > [kasi li kama wawa <u>**tan telo pona**</u>]{.tokipona}
 
-Or right after `li` as the predicate:
+Or right after [li]{.tokipona} as the predicate:
 
 > [ona li <u>**sama mi mute**</u>]{.tokipona}
 
@@ -102,9 +102,9 @@ Prepositions appear **last** in a statement. Keep that in mind!
 
 ##### tawa
 
-`tawa` is all about context, so watch carefully!
+[tawa]{.tokipona} is all about context, so watch carefully!
 
-`tawa` can describe moving toward a specific place or thing:
+[tawa]{.tokipona} can describe moving toward a specific place or thing:
 
 <details><summary> [mi <u>**tawa telo suli**</u>]{.tokipona} </summary>
 
@@ -118,7 +118,7 @@ They gave knowledge **to different people**.
 
 </details>
 
-`tawa` can describe perspective, like English "to": description from the point of view of something or someone!
+[tawa]{.tokipona} can describe perspective, like English "to": description from the point of view of something or someone!
 
 <details><summary> [ni li pona mute <u>**tawa mi**</u>]{.tokipona} </summary>
 
@@ -136,7 +136,7 @@ This plant is huge **compared to people**!
 
 </details>
 
-And `tawa` can describe purpose, like English "for": doing an action on something or someone's behalf.
+And [tawa]{.tokipona} can describe purpose, like English "for": doing an action on something or someone's behalf.
 
 <details><summary> [jan li pali e ni <u>**tawa sona**</u>]{.tokipona} </summary>
 
@@ -150,13 +150,13 @@ I did this **for them**.
 
 </details>
 
-You can tell these different uses of `tawa` apart by context. For example, if the speaker is explaining why they did something, that would be about purpose. Or, if the speaker is giving their opinion, that would be about perspective. You'll get used to these different ideas as you practice!
+You can tell these different uses of [tawa]{.tokipona} apart by context. For example, if the speaker is explaining why they did something, that would be about purpose. Or, if the speaker is giving their opinion, that would be about perspective. You'll get used to these different ideas as you practice!
 
 ---
 
 ##### lon
 
-`lon` is used for location, telling where or when something is!
+[lon]{.tokipona} is used for location, telling where or when something is!
 
 This can be a place:
 
@@ -167,7 +167,7 @@ The group is **on the rocks that are yellow and white**!
 </details>
 
 It can also be about time, when or for how long something happens.
-This uses one new word besides `lon`, `tenpo`:
+This uses one new word besides [lon]{.tokipona}, [tenpo]{.tokipona}:
 
 <details><summary> [suno li <u>**lon tenpo suli**</u>]{.tokipona} </summary>
 
@@ -193,7 +193,7 @@ All of these are different kinds of locations. Try lots of things out!
 
 ##### tan
 
-`tan` talks about the cause or origin of something. It is similar to "from" or "because of" in English.
+[tan]{.tokipona} talks about the cause or origin of something. It is similar to "from" or "because of" in English.
 
 <details><summary> [mi wawa <u>**tan moku pona**</u>]{.tokipona} </summary>
 
@@ -213,7 +213,7 @@ I got here from the improv group.
 
 ::: warning
 
-Remember: **tawa** talks about purpose, while **tan** talks about cause. To tell them apart, ask yourself: is one making the other happen? If so, that's **tan**!
+Remember: [tawa]{.tokipona} talks about purpose, while [tan]{.tokipona} talks about cause. To tell them apart, ask yourself: is one making the other happen? If so, that's [tan]{.tokipona}!
 
 :::
 
@@ -221,7 +221,7 @@ Remember: **tawa** talks about purpose, while **tan** talks about cause. To tell
 
 ##### sama
 
-`sama` talks about the similarity of things. This may be to compare the subject to something:
+[sama]{.tokipona} talks about the similarity of things. This may be to compare the subject to something:
 
 <details><summary> [pali sona sina li <u>**sama mama mi**</u>]{.tokipona} </summary>
 
@@ -241,7 +241,7 @@ They can move powerfully, like a weight-lifter!
 
 </details>
 
-`sama` covers all kinds of sameness- a little similar, identical, and everything between!
+[sama]{.tokipona} covers all kinds of sameness- a little similar, identical, and everything between!
 
 ---
 
@@ -253,7 +253,7 @@ The person is cooking the food **using a heating tool**.
 
 </details>
 
-`kepeken` means "to use". The thing in a `kepeken` prep phrase is being used by the subject. That's it!
+[kepeken]{.tokipona} means "to use". The thing in a [kepeken]{.tokipona} prep phrase is being used by the subject. That's it!
 
 ---
 
@@ -293,7 +293,7 @@ The commas are present to separate the two prepositions. They aren't needed- jus
 
 #### ala and prepositions
 
-You can negate prepositions by putting `ala` after the preposition.
+You can negate prepositions by putting [ala]{.tokipona} after the preposition.
 
 <details><summary> [kiwen suno li <u>**tawa ala mi**</u>]{.tokipona} </summary>
 
@@ -327,11 +327,11 @@ Stick to negating **predicates**, **modifiers**, **pre-predicates**, or **prepos
 
 :::
 
-<details><summary>A note about ala with other things</summary>
+<details><summary>A note about [ala]{.tokipona} with other things</summary>
 
-Negating the subject (**jan ala li ...**) and negating the prepositional phrase (**... tan sona ala**) can give you a similar result to negating the preposition. **_Can_**.
+Negating the subject ([jan ala li ...]{.tokipona}) and negating the prepositional phrase ([... tan sona ala]{.tokipona}) can give you a similar result to negating the preposition. **_Can_**.
 
-Most of the time, it makes things confusing! What does it mean when **jan ala li kepeken sona**? Or when **mi tawa musi sama sina ala**?
+Most of the time, it makes things confusing! What does it mean when [jan ala li kepeken sona]{.tokipona}? Or when [mi tawa musi sama sina ala]{.tokipona}?
 
 The first is something like "Not-people" or "Non-persons" use knowledge. And the second is "I dance the same way as not-you." These are confusing!
 
@@ -419,15 +419,9 @@ I can be in any place, at any time!
 
 </details>
 
-<!-- <details><summary> []{.tokipona} </summary> -->
+<!-- TODO: more examples -->
 
-<!-- </details> -->
-
-<!-- <details><summary> []{.tokipona} </summary> -->
-
-<!-- </details> -->
-
-#### Prepositions and ala
+#### ala and Prepositions
 
 You're sitting in class, learning about how plants have adapted to a variety of different environments. However, there are some environments that plants haven't adapted to, such as the cold and thin air on tall mountains! The teacher says:
 
@@ -461,25 +455,7 @@ There is no ice here because of this: there is no water.
 
 </details>
 
-<!-- <details><summary> []{.tokipona} </summary> -->
-
-<!-- </details> -->
-
-<!-- <details><summary> []{.tokipona} </summary> -->
-
-<!-- </details> -->
-
-<!-- <details><summary> []{.tokipona} </summary> -->
-
-<!-- </details> -->
-
-<!-- <details><summary> []{.tokipona} </summary> -->
-
-<!-- </details> -->
-
-<!-- <details><summary> []{.tokipona} </summary> -->
-
-<!-- </details> -->
+<!-- TODO: more examples -->
 
 ### English to Toki Pona
 
@@ -517,7 +493,7 @@ There is no ice here because of this: there is no water.
 
 ::: info
 
-In this case, using the **tawa** preposition twice is confusing, since it could mean another person getting something from `pana`! The second use of it is moved to a separate sentence.
+In this case, using the [tawa]{.tokipona} preposition twice is confusing, since it could mean another person getting something from [pana]{.tokipona}! The second use of it is moved to a separate sentence.
 
 :::
 
@@ -537,41 +513,7 @@ In this case, using the **tawa** preposition twice is confusing, since it could 
 
 </details>
 
-<!-- <details><summary>  </summary> -->
-
-<!-- []{.tokipona} -->
-
-<!-- </details> -->
-
-<!-- <details><summary>  </summary> -->
-
-<!-- []{.tokipona} -->
-
-<!-- </details> -->
-
-<!-- <details><summary>  </summary> -->
-
-<!-- []{.tokipona} -->
-
-<!-- </details> -->
-
-<!-- <details><summary>  </summary> -->
-
-<!-- []{.tokipona} -->
-
-<!-- </details> -->
-
-<!-- <details><summary>  </summary> -->
-
-<!-- []{.tokipona} -->
-
-<!-- </details> -->
-
-<!-- <details><summary>  </summary> -->
-
-<!-- []{.tokipona} -->
-
-<!-- </details> -->
+<!-- TODO: more examples -->
 
 ## Takeaway
 
@@ -579,21 +521,21 @@ In this case, using the **tawa** preposition twice is confusing, since it could 
 
 Prepositions extend the grammar once more! You can now include a new phrase in your sentences, which occurs in the predicate, after the predicate, or after the object- last in the statement. Here are some examples of this idea:
 
-> [subject] (li) (preposition [prep phrase])
+> [subject] ([li]{.tokipona}) (preposition [prep phrase])
 
-> [subject] (li) [predicate] (e [object]) (preposition [prep phrase])
+> [subject] ([li]{.tokipona}) [predicate] (preposition [prep phrase])
 
-> [subject] (li) [predicate] (preposition [prep phrase])
+> [subject] ([li]{.tokipona}) [predicate] ([e]{.tokipona} [object]) (preposition [prep phrase])
 
-Keep in mind: if a preposition comes right after `li` it's still the predicate!
+Keep in mind: if a preposition comes right after [li]{.tokipona} it's still the predicate!
 
 #### New Ambiguity
 
-You may have noticed during the lesson that the word `tawa` is used often as a normal content word and as a preposition. It gets modified often too. Telling `tawa` preposition apart from `tawa` as a content word can be difficult!
+You may have noticed during the lesson that the word [tawa]{.tokipona} is used often as a normal content word and as a preposition. It gets modified often too. Telling [tawa]{.tokipona} preposition apart from [tawa]{.tokipona} as a content word can be difficult!
 
-Toki Pona doesn't have a way of telling apart modified `tawa` from `tawa` preposition. But the two can be told apart easily, especially as you practice. `tawa` near the end of the sentence, and especially after an object, is a preposition more often than not. `tawa` in the predicate is generally a modifier.
+Toki Pona doesn't have a way of telling apart modified [tawa]{.tokipona} from [tawa]{.tokipona} preposition. But the two can be told apart easily, especially as you practice. [tawa]{.tokipona} near the end of the sentence, and especially after an object, is a preposition more often than not. [tawa]{.tokipona} in the predicate is generally a modifier.
 
-This applies to every preposition, but understandably, it affects `tawa` the most. If you're ever unsure, ask somebody for help with reading, or ask for a restatement when speaking!
+This applies to every preposition, but understandably, it affects [tawa]{.tokipona} the most. If you're ever unsure, ask somebody for help with reading, or ask for a restatement when speaking!
 
 ---
 

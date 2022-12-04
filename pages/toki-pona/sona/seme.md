@@ -16,10 +16,8 @@ This lesson is a work in progress!
     - [Content Words](#content-words)
 - [Overview](#overview)
 - [Exercises](#exercises)
-    - [Verb Doubling](#verb-doubling)
-    - [In basic sentences](#in-basic-sentences)
-    - [In prepositions](#in-prepositions)
-    - [In `la`](#in-la)
+  - [Toki Pona to English](#toki-pona-to-english)
+  - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
 
 <!-- tocstop -->
@@ -43,13 +41,20 @@ This lesson is a work in progress!
 
 ::: tpdefinitions
 
-| Glyph | Word | Definition                                    |
-| ----- | ---- | --------------------------------------------- |
-| open  | open | start, begin, enable, open                    |
-| pini  | pini | finish, stop, disable, close                  |
-| len   | len  | cloth, cover, clothing, secret, hidden        |
-| mani  | mani | money, cash, barterable thing, thing of value |
-| esun  | esun | trade, barter, shopping, economy              |
+| Glyph  | Word   | Definition                                     |
+| ------ | ------ | ---------------------------------------------- |
+| sijelo | sijelo | body, torso                                    |
+| lawa   | lawa   | head, mind, brain, control, plan, govern, lead |
+| sinpin | sinpin | front, face, wall                              |
+| luka   | luka   | hand, arm, tactile limb                        |
+| noka   | noka   | foot, leg, locomotive limb                     |
+| selo   | selo   | boundary, skin, bark, peel, outer layer        |
+| uta    | uta    | mouth, lips, eating orifice                    |
+| lupa   | lupa   | hole, door, window, orifice                    |
+| monsi  | monsi  | back, behind, rear                             |
+| nena   | nena   | bump, lump, extrusion, hill, mountain, nose    |
+| insa   | insa   | inside, center, between, organ                 |
+| ijo    | ijo    | thing                                          |
 
 :::
 
@@ -59,15 +64,89 @@ This lesson is a work in progress!
 
 ## Exercises
 
-Here, I provide consecutive questions and answers together. The questions are on the main spoiler, and the answers are in a spoiler underneath the first!
+### Toki Pona to English
 
-#### Verb Doubling
+<details><summary> []{.tokipona} </summary>
 
-#### In basic sentences
+</details>
 
-#### In prepositions
+<details><summary> []{.tokipona} </summary>
 
-#### In `la`
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+<details><summary> []{.tokipona} </summary>
+
+</details>
+
+### English to Toki Pona
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
+
+<details><summary>  </summary>
+
+[]{.tokipona}
+
+</details>
 
 ## Takeaway
 
@@ -75,5 +154,5 @@ Here, I provide consecutive questions and answers together. The questions are on
 
 [Previous lesson](./la.html)
 
-[Next lesson](./pini.html)
+[Next lesson](./bits.html)
 

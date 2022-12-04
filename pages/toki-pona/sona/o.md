@@ -4,19 +4,20 @@ author: gregdan3
 date: date unknown
 ---
 
+[Check out the video lesson too!](https://youtu.be/lf3lDjIWiYI)
 
 <!-- toc -->
 
-  - [Words to Know](#words-to-know)
-    - [Particles](#particles)
-    - [Content Words](#content-words)
-    - [Critters](#critters)
+- [Words to Know](#words-to-know)
+  - [Particles](#particles)
+  - [Content Words](#content-words)
+  - [Critters](#critters)
 - [Overview](#overview)
-    - [Instructions](#instructions)
-    - [Attention](#attention)
-    - [taso sentences](#taso-sentences)
-    - [taso modifier](#taso-modifier)
-    - [taso head](#taso-head)
+  - [Instructions](#instructions)
+  - [Attention](#attention)
+  - [taso sentences](#taso-sentences)
+  - [taso modifier](#taso-modifier)
+  - [taso head](#taso-head)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [o for commands](#o-for-commands)
@@ -26,8 +27,9 @@ date: date unknown
     - [Modifier taso](#modifier-taso)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-    - [Giving Instructions](#giving-instructions)
-    - [Grammar](#grammar)
+  - [Giving Instructions](#giving-instructions)
+  - [Grammar](#grammar)
+  - [Other Notes](#other-notes)
 
 <!-- tocstop -->
 
@@ -84,9 +86,9 @@ Don’t worry, these are content words too! I separated them to make them easier
 
 #### Instructions
 
-We’re going to look at another new sentence! We'll use the particle `o`, so we can give instructions or set out requirements.
+We’re going to look at another new sentence! We'll use the particle [o]{.tokipona}, so we can give instructions or set out requirements.
 
-The particle `o` is like `li`. It takes the same place in the sentence, but it changes the meaning: now, the sentence is an instruction!
+The particle [o]{.tokipona} is like [li]{.tokipona}. It takes the same place in the sentence, but it changes the meaning: now, the sentence is an instruction!
 
 You may give instructions without a subject, which are directed at the listener:
 
@@ -102,7 +104,7 @@ This is the most common form of an instruction, _without_ a subject.
 
 ::: info
 
-In Toki Pona, it is not rude to give an instruction. If you say “o ni” as in “Do this”, it is as polite as “Can you please do this?” in English. There is no “please” in Toki Pona, and no need for it!
+In Toki Pona, it is not rude to give an instruction. If you say [o ni]{.tokipona} as in "Do this", it is as polite as "Can you please do this?" in English. There is no “please” in Toki Pona, and no need for it!
 
 :::
 
@@ -110,9 +112,9 @@ You may also give instructions to a specific subject:
 
 <details><summary> [jan lili o musi nasa ala ]{.tokipona} </summary>
 
-**If jan lili is listening**: Child, stop being silly!
+**If [jan lili]{.tokipona} is listening**: Child, stop being silly!
 
-**If jan lili is not listening**: The child has to stop being silly.
+**If [jan lili]{.tokipona} is not listening**: The child has to stop being silly.
 
 </details>
 
@@ -149,7 +151,7 @@ It is possible to be rude in Toki Pona, as it is possible in any language. But i
 
 #### Attention
 
-You may use `o` directly after a subject phrase to get that subject’s attention:
+You may use [o]{.tokipona} directly after a subject phrase to get that subject’s attention:
 
 <details><summary> [mama o ]{.tokipona} </summary>
 
@@ -179,7 +181,7 @@ You’re excellent, teacher!
 
 </details>
 
-Here, `jan sona o` is getting the attention of `jan sona`, and the speaker says a complete sentence directed at them. The order of the sentence and interjection doesn’t matter, so do what feels right in the moment.
+Here, [jan sona o]{.tokipona} is getting the attention of [jan sona]{.tokipona}, and the speaker says a complete sentence directed at them. The order of the sentence and interjection doesn’t matter, so do what feels right in the moment.
 
 You can use this interjection with an instruction, so you know that an instruction will be heard by its intended listener:
 
@@ -201,7 +203,7 @@ Everyone must turn in their papers.
 
 #### taso sentences
 
-Sometimes you'll see `taso` at the start of a sentence. This is like saying "but" or "however," and is usually used before a _later_ sentence to connect two ideas.
+Sometimes you'll see [taso]{.tokipona} at the start of a sentence. This is like saying "but" or "however," and is usually used before a _later_ sentence to connect two ideas.
 
 <details><summary> [mi kute e pakala・taso mi pona ]{.tokipona} </summary>
 
@@ -211,15 +213,15 @@ I heard something break. But I'm alright!
 
 The first sentence establishes context, and the second provides some clarifying or contrary information.
 
-For comparison, here is the second sentence without `taso`:
+For comparison, here is the second sentence without [taso]{.tokipona}:
 
 > [mi kute e pakala・mi pona]{.tokipona}
 
-Without `taso`, the sentences are not as clearly related.
+Without [taso]{.tokipona}, the sentences are not as clearly related.
 
 #### taso modifier
 
-`taso` is a modifier the rest of the time, but only as the _last_ modifier of a phrase, affecting the entire phrase. Consider these examples:
+[taso]{.tokipona} is a modifier the rest of the time, but only as the _last_ modifier of a phrase, affecting the entire phrase. Consider these examples:
 
 <details><summary> [kute taso li pona e sona sina ]{.tokipona} </summary>
 
@@ -446,7 +448,7 @@ Only they are able to excite the party!
 
 ::: info
 
-**wawa** here is being used to mean "intensify." It can intensify any anything!
+[wawa]{.tokipona} here is being used to mean "intensify." It can intensify any anything!
 
 :::
 
@@ -464,7 +466,7 @@ Only they are able to excite the party!
 
 This is a little tricky!
 In English, saying "I only want the rock" means the _rock_ is the exclusive thing in the sentence, not wanting!
-When translated, taso only applies to the object.
+When translated, [taso]{.tokipona} only applies to the object.
 
 Otherwise, you would be saying "I am only wanting (and it happens to be wanting this rock)." Weird to think about, huh?
 
@@ -480,7 +482,7 @@ Otherwise, you would be saying "I am only wanting (and it happens to be wanting 
 
 ::: info
 
-Here, if **jo** were **taso**, it would mean they only action they were taking is having their ID card. What is meant is that the only object they have is their ID card!
+Here, if [jo]{.tokipona} were [taso]{.tokipona}, it would mean they only action they were taking is having their ID card. What is meant is that the only object they have is their ID card!
 
 :::
 
@@ -492,7 +494,7 @@ Here, if **jo** were **taso**, it would mean they only action they were taking i
 
 ::: info
 
-**awen** can mean to continue, or to stop. Here, applying **awen** to **ona** means to stop them!
+[awen]{.tokipona} can mean to continue, or to stop. Here, applying [awen]{.tokipona} to [ona]{.tokipona} means to stop them!
 
 :::
 
@@ -520,9 +522,9 @@ Remember, instructions are just as good as requests in Toki Pona!
 
 ::: info
 
-There's a few interpretations possible here- if you caught **loje** as the subject taking an instruction, and brightness as **suno**, you're set!
+There's a few interpretations possible here- if you caught [loje]{.tokipona} as the subject taking an instruction, and brightness as [suno]{.tokipona}, you're set!
 
-Also, you can't directly translate "that" as "ni"! Here, "that" is intensifying a statement as in a comparison.
+Also, you can't directly translate "that" as [ni]{.tokipona}! Here, "that" is intensifying a statement as in a comparison.
 
 :::
 
@@ -570,7 +572,7 @@ Also, you can't directly translate "that" as "ni"! Here, "that" is intensifying 
 
 ::: info
 
-"Remove" in the sense of removing files (such as physically) is to convey instructions for which files to _take_. Thus, **kama jo**. But if it means "remove" as in "get rid of," **weka**!
+"Remove" in the sense of removing files (such as physically) is to convey instructions for which files to _take_. Thus, [kama jo]{.tokipona}. But if it means "remove" as in "get rid of," [weka]{.tokipona}!
 
 :::
 
@@ -584,7 +586,9 @@ Toki Pona is _earnest_ by default. Giving somebody an instruction is not rude un
 
 #### Grammar
 
-You can optionally include `taso` before a sentence, which connects it to previous statements in a similar way to "but" or "however" in English.
+You can use [o]{.tokipona} in place of [li]{.tokipona} in a sentence to turn that sentence into an instruction or command! This doesn't change the grammar much, but you can omit the subject before [o]{.tokipona} in which case it is intended for the listener.
+
+You can optionally include [taso]{.tokipona} before a sentence, which connects it to previous statements in a similar way to "but" or "however" in English.
 
 > (taso) [subject] (li) [predicate] (e [object])
 
@@ -592,9 +596,12 @@ taso can be used at the end of a phrase to indicate that particular phrase is ex
 
 There's also a bit more freedom for what can go _around_ a sentence. You can interject subjects, followed by o, to indicate who should be listening!
 
+#### Other Notes
+
+Now that we've learned the word [sitelen]{.tokipona}, here's a fun side note: Toki Pona's writing system is called [sitelen pona]{.tokipona}, "good writing"!
+
 ---
 
 [Previous lesson](./preps.html)
 
-<!-- [Next lesson](./interjections.html) -->
-
+[Next lesson](./interjections.html)

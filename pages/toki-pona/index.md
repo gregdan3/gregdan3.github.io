@@ -4,6 +4,7 @@ author: gregdan3
 date: 2022-07-02T00:00:00.000Z
 ---
 
+
 <!-- toc -->
 
 - [sona (knowledge)](#sona-knowledge)
@@ -13,9 +14,9 @@ date: 2022-07-02T00:00:00.000Z
   - [mi (myself)](#mi-myself)
   - [ijo ante (other things)](#ijo-ante-other-things)
 - [lipu (pages)](#lipu-pages)
-  - [kalama (sound)](#kalama-sound)
-  - [sitelen (writing)](#sitelen-writing)
-  - [ante toki (translation)](#ante-toki-translation)
+    - [kalama (sound)](#kalama-sound)
+    - [sitelen (writing)](#sitelen-writing)
+    - [ante toki (translation)](#ante-toki-translation)
 - [ilo (tools)](#ilo-tools)
 
 <!-- tocstop -->
@@ -53,19 +54,12 @@ Each lesson is the chapter of a book! They are long and detailed. Each one has i
 - [Modifiers and pi](./sona/mod-pi.html) --- [On YouTube](https://youtu.be/J6ThX6dQyCI)
 - [Pre-predicates, ala](./sona/pre-predicates.html) --- [On YouTube](https://youtu.be/YjxSaqAZwqk)
 - [Prepositions](./sona/preps.html) --- [On YouTube](https://youtu.be/hbUaLDRmULI)
-- [Instructions with o](./sona/o.html)
-
-::: error
-
-More lessons to come!
-
-:::
-
-<!-- - [Interjections and a](./sona/interjections.html) -->
-<!-- - [Context, Comparisons, la](./sona/la.html) -->
-<!-- - [Questions, answers, seme](./sona/seme.html) -->
-<!-- - [And Another Thing...](./sona/bits.html) -->
-<!-- - [Finale](./sona/pini.html) -->
+- [Instructions with o](./sona/o.html) --- [On YouTube](https://youtu.be/lf3lDjIWiYI)
+- [Interjections and a](./sona/interjections.html)
+- [[WIP] Context, Comparisons, la](./sona/la.html)
+- [[WIP] Questions, answers, seme](./sona/seme.html)
+- [[WIP] And Another Thing...](./sona/bits.html)
+- [[WIP] Finale](./sona/pini.html)
 
 Here are some others' lessons too:
 
@@ -74,8 +68,8 @@ Here are some others' lessons too:
 - [Toki Pona: The Language of Good, by jan Sonja](https://www.amazon.com/dp/0978292308/) (ebook or paperback)
 - [lipu sona, by soweli Tesa](https://sowelitesa.kittycat.homes/lipu-sona/) (webpage)
 - [lipu sona pona, by jan Lentan](https://lipu-sona.pona.la/) (webpage)
-- [Toki Pona Lessons, by jan Misali](https://www.youtube.com/watch?v=2EZihKCB9iw&list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX) (youtube, in progress)
 
+<!-- - [Toki Pona Lessons, by jan Misali](https://www.youtube.com/watch?v=2EZihKCB9iw&list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX) (youtube, in progress) -->
 <!-- - [Toki Pona in a fortnight, by astrodonunt](https://www.youtube.com/watch?v=qzWrG9iM9ac&list=PLOedATW-HKZO9BYoXRiHkX_SWi7VKsCKB) (youtube) -->
 <!-- - [12 days of sona pi toki pona, by jan Misali](https://www.youtube.com/watch?v=4L-dvvng4Zc&list=PLuYLhuXt4HrQIv3xnDxZqRaLfmxB2U5rJ) -->
 <!-- - [Toki Pona Lessons, by jan Lope](https://jan-lope.github.io/Toki_Pona_lessons_English/) -->
@@ -226,3 +220,4 @@ More tools are coming!
 - [An explorable map of Toki Pona concepts](./ilo/map.html)
   - Most data is from [nimi_pu.txt](http://tokipona.org/nimi_pu.txt) and
     [nimi_pi_pu_ala.txt](http://tokipona.org/nimi_pi_pu_ala.txt)
+

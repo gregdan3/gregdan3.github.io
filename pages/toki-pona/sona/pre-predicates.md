@@ -63,6 +63,8 @@ date: date unknown
 
 :::
 
+The word [ala]{.tokipona} is a particle _and_ content word! You'll be able to tell these apart by how the word is used.
+
 #### Pre-predicates
 
 ::: tpdefinitions
@@ -78,8 +80,6 @@ date: date unknown
 | lukin | lukin | to try                         |
 
 :::
-
-One word here is a particle _and_ content word! You'll be able to tell these apart by how the word is used.
 
 ## Overview
 
@@ -101,13 +101,13 @@ I want to work.
 
 </details>
 
-The `wile` pre-pred means the predicate is wanted or needed.
+The [wile]{.tokipona} pre-pred means the predicate is wanted or needed.
 
 You could say:
 
-> mi wile e pali
+> [mi wile e pali]{.tokipona}
 
-And that _could_ mean the same thing. But it's more clear to say `mi wile pali`.
+And that _could_ mean the same thing. But it's more clear to say [mi wile pali]{.tokipona}.
 
 ::: info
 
@@ -125,9 +125,9 @@ I can be strong.
 
 </details>
 
-The `ken` pre-pred means the predicate is an ability or permission. Consider this version:
+The [ken]{.tokipona} pre-pred means the predicate is an ability or permission. Consider this version:
 
-> ken mi li wawa
+> [ken mi li wawa]{.tokipona}
 
 Again, this has a similar meaning to the original statement that used a pre-predicate.
 
@@ -147,13 +147,23 @@ You are learning!
 
 </details>
 
-The `kama` pre-pred means the predicate is beginning, or _progressive_.
+The [kama]{.tokipona} pre-pred means the predicate is beginning, or _progressive_.
 It's similar to a word in English that ends with "-ing," such as learning or growing.
 It can also refer to beginning actions, such as going to sleep.
 
-> kasi li kama suli
+<details><summary> [kasi li kama suli]{.tokipona} </summary>
 
-> jan lili li kama lape
+The plant is growing!
+
+The plant is becoming huge!
+
+</details>
+
+<details><summary> [jan lili li kama lape]{.tokipona} </summary>
+
+The child goes to sleep.
+
+</details>
 
 ---
 
@@ -165,7 +175,13 @@ I am still listening.
 
 </details>
 
-The `awen` pre-pred means the predicate is on-going, continuing, or not changing. This is different from `kama` in that the `kama` pre-pred does imply change!
+The [awen]{.tokipona} pre-pred means the predicate is on-going, continuing, or not changing. This is different from [kama]{.tokipona} in that the [kama]{.tokipona} pre-pred does imply change!
+
+You can still restate this without the pre-predicate:
+
+> [mi awen e kute mi]{.tokipona}
+
+But still, the predicate version is most clear to the "listening" meaning.
 
 ---
 
@@ -179,18 +195,18 @@ You can't always tell apart a normal predicate from a pre-predicate. Pay attenti
 
 :::
 
-**Pre-predicate sona**: They know how to break this.
+**Pre-predicate [sona]{.tokipona}**: They know how to break this.
 
-**Predicate sona**: They poorly understand this.
+**Predicate [sona]{.tokipona}**: They poorly understand this.
 
 </details>
 
-The `sona` pre-pred means the predicate indicates knowledge of how to perform the action.
-`mi sona pali` is like saying "I know how to create." Consider this:
+The [sona]{.tokipona} pre-pred means the predicate indicates knowledge of how to perform the action.
+[mi sona pali]{.tokipona} is like saying "I know how to create." Consider this:
 
-> mi sona e pali
+> [mi sona e pali]{.tokipona}
 
-The same action-versus-thing distinction happens as with the `ken` pre-pred. If something is an action, or knowledge of an action, that will be better understood in the predicate.
+The same action-versus-thing distinction happens as with the [ken]{.tokipona} pre-pred. If something is an action, or knowledge of an action, that will be better understood in the predicate.
 
 ---
 
@@ -202,11 +218,11 @@ I'm trying to help you!
 
 </details>
 
-Lastly, there's `lukin` and `alasa`, which have the same meaning as pre-preds: to try. I recommend `alasa` most, but feel free to use both!
+Lastly, there's [alasa]{.tokipona} and [lukin]{.tokipona}, which have the same meaning as pre-preds: to try. I recommend [alasa]{.tokipona} most, but feel free to use both!
 
 ::: info
 
-**lukin** and **alasa** mean the same as pre-preds because Toki Pona has changed over time, even as a constructed language!
+[alasa]{.tokipona} and [lukin]{.tokipona} mean the same as pre-preds because Toki Pona has changed over time, even as a constructed language!
 
 :::
 
@@ -216,7 +232,7 @@ Here are some extra notes on pre-predicates before you continue:
 
 ::: info
 
-You can use a pre-predicate with itself in the predicate, such as saying **mi wile wile**! This is not common, because the pre-predicate usually does what you need.
+You can use a pre-predicate with itself in the predicate, such as saying [mi wile wile]{.tokipona}! This is not common, because the pre-predicate usually does what you need.
 
 :::
 
@@ -250,9 +266,9 @@ I am still able to grow plants.
 
 </details>
 
-- `awen` means something is ongoing
-- `ken` means something is an ability
-- `mama` is the predicate, making this a parenting action.
+- [awen]{.tokipona} means something is ongoing
+- [ken]{.tokipona} means something is an ability
+- [mama]{.tokipona} is the predicate, making this a parenting action.
 
 The order of pre-predicates matters. Consider this:
 
@@ -262,13 +278,13 @@ I am able to continue raising plants.
 
 </details>
 
-Multiple pre-predicates apply from left to right. The thing that is `ken` is the `awen mama`, and the thing that is `awen` is `mama`.
+Multiple pre-predicates apply from left to right. The thing that is [ken]{.tokipona} is the [awen mama]{.tokipona}, and the thing that is [awen]{.tokipona} is [mama]{.tokipona}.
 
-In the original, the thing that is `awen` is `ken mama`, and the thing that is `ken` is `mama`.
+In the original, the thing that is [awen]{.tokipona} is [ken mama]{.tokipona}, and the thing that is [ken]{.tokipona} is [mama]{.tokipona}.
 
 #### ala
 
-`ala` has a simple function: negate the previous word or phrase.
+[ala]{.tokipona} has a simple function: negate the previous word or phrase.
 
 <details><summary> [mi pona ala]{.tokipona} </summary>
 
@@ -278,11 +294,11 @@ I'm not good.
 
 </details>
 
-Here, `pona` is negated by `ala`- it's like saying "not".
+Here, [pona]{.tokipona} is negated by [ala]{.tokipona}- it's like saying "not".
 
 ::: warning
 
-Toki Pona words don't have opposites. There are some uses of **pona** opposite to uses of **ike**, but **pona ala** is _not_ ike.
+Toki Pona words don't have opposites. There are some uses of [pona]{.tokipona} opposite to uses of [ike]{.tokipona}, but [pona ala]{.tokipona} is _not_ [ike]{.tokipona}.
 
 :::
 
@@ -296,7 +312,7 @@ A non-person changed the book.
 
 ::: warning
 
-Two interpretations are possible here! The first means the book was unchanged, and the second means something other than a person changed the book. If you want to be clear that the book is unchanged, try `[subject] li ante ala e lipu.` or `lipu li ante ala.`
+Two interpretations are possible here! The first means the book was unchanged, and the second means something other than a person changed the book. If you want to be clear that the book is unchanged, try [lipu li ante ala.]{.tokipona}
 
 :::
 
@@ -304,11 +320,11 @@ Two interpretations are possible here! The first means the book was unchanged, a
 
 ::: info
 
-**ala** can be a normal modifier! If it is, it applies nothingness to the thing it modifies. This is a rare case though!
+[ala]{.tokipona} can be a normal modifier! If it is, it applies nothingness to the thing it modifies. This is a rare case though!
 
 :::
 
-You can also use `ala` in pre-predicates:
+You can also use [ala]{.tokipona} in pre-predicates:
 
 <details><summary> [kasi li kama ala ike]{.tokipona} </summary>
 
@@ -318,7 +334,7 @@ The plant did not become unpleasant.
 
 </details>
 
-And in `pi` phrases:
+And in [pi]{.tokipona} phrases:
 
 <details><summary> [ona li jan pi pana ala]{.tokipona} </summary>
 
@@ -404,7 +420,7 @@ Toki Pona speakers try to weird their communities.
 
 ::: info
 
-Remember, pre-predicate **lukin** and **alasa** have the same meaning!
+Remember, pre-predicate [lukin]{.tokipona} and [alasa]{.tokipona} have the same meaning!
 
 :::
 
@@ -630,7 +646,7 @@ Here, a "view" is expressed as a looking ability. There are other ways to expres
 
 #### Clarity of Grammar
 
-If something is in the **predicate**, it will often be assumed to be an **action**. This is especially true when an **object** is present with `e`.
+If something is in the **predicate**, it will often be assumed to be an **action**. This is especially true when an **object** is present with [e]{.tokipona}.
 
 If something is in the **object**, it will often be assumed to be a **thing**, especially something physical.
 

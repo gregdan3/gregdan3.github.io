@@ -70,21 +70,21 @@ The words from the last lesson were content words too!
 
 The next type of Toki Pona sentence is a simple but powerful addition!
 
-> [subject] li [predicate]
+> [subject] [li]{.tokipona} [predicate]
 
-With this sentence, you can talk about things other than yourself and your listener. While `li` is present, any word but `mi` and `sina` can be in the subject, and any word can be in the predicate like in last lesson. You'll find that the variety in Toki Pona words lets you say a lot, even with so few words!
+With this sentence, you can talk about things other than yourself and your listener. While [li]{.tokipona} is present, any word but [mi]{.tokipona} and [sina]{.tokipona} can be in the subject, and any word can be in the predicate like in last lesson. You'll find that the variety in Toki Pona words lets you say a lot, even with so few words!
 
 <details> <summary> A note on "any word" </summary>
 
-I do say "any word", but clever observers will have noticed I am treating the word `li` differently. It is introduced as a particle, its definition is given in parentheses, and it is treated as a grammatical structure instead of as a word. This is because `li` cannot be used in the subject or predicate, with some subtle exceptions we'll get to later. For now, everything _else_ can be in the subject or predicate.
+I do say "any word", but clever observers will have noticed I am treating the word [li]{.tokipona} differently. It is introduced as a particle, its definition is given in parentheses, and it is treated as a grammatical structure instead of as a word. This is because [li]{.tokipona} cannot be used in the subject or predicate, with some subtle exceptions we'll get to later. For now, everything _else_ can be in the subject or predicate.
 
 </details>
 
-Since using `li` lets you put any word in the subject, most of the words in the lesson before can now be used there! This leans heavily into the action/description duality described before. Unlike that duality, you can tell which sense a word is meant in based on its place in a sentence. Words in the subject are more likely to be specific objects or ideas, where words in the predicate are more likely to be actions or descriptions!
+Since using [li]{.tokipona} lets you put any word in the subject, most of the words in the lesson before can now be used there! This leans heavily into the action/description duality described before. Unlike that duality, you can tell which sense a word is meant in based on its place in a sentence. Words in the subject are more likely to be specific objects or ideas, where words in the predicate are more likely to be actions or descriptions!
 
 ::: warning
 
-Remember, if the subject is _just_ mi or _just_ sina, do not include li!
+Remember, if the subject is _just_ [mi]{.tokipona} or _just_ [sina]{.tokipona}, do not include [li]{.tokipona}!
 
 :::
 
@@ -100,12 +100,12 @@ Here's a guided example:
 
 </details>
 
-Here, the subject is `mama`, a parent or ancestor. Since the subject isn't `mi` or `sina`, `li` is present and starts the predicate. Then the predicate is `musi`, fun and entertainment.
-`musi` could be either a description or action here, and these cannot be told apart without more context. Check under the spoiler for possible interpretations!
+Here, the subject is [mama]{.tokipona}, a parent or ancestor. Since the subject isn't [mi]{.tokipona} or [sina]{.tokipona}, [li]{.tokipona} is present and starts the predicate. Then the predicate is [musi]{.tokipona}, fun and entertainment.
+[musi]{.tokipona} could be either a description or action here, and these cannot be told apart without more context. Check under the spoiler for possible interpretations!
 
 #### Multiple li
 
-To say a subject does more than one thing, you say `li` again, making another predicate. Saying `li` multiple times is like saying "and" in English! Here's another example:
+To say a subject does more than one thing, you say [li]{.tokipona} again, making another predicate. Saying [li]{.tokipona} multiple times is like saying "and" in English! Here's another example:
 
 <details> <summary> [kulupu li suli li pona]{.tokipona} </summary>
 
@@ -115,7 +115,7 @@ To say a subject does more than one thing, you say `li` again, making another pr
 
 </details>
 
-Here, the subject `kulupu` is doing two different things: being `suli` and being `pona`.
+Here, the subject [kulupu]{.tokipona} is doing two different things: being [suli]{.tokipona} (big) and being [pona]{.tokipona} (good).
 
 <details> <summary> [jan li tawa li lape]{.tokipona} </summary>
 
@@ -125,13 +125,13 @@ Here, the subject `kulupu` is doing two different things: being `suli` and being
 
 </details>
 
-Here, `jan` is doing two different things: `tawa`, moving, and `lape`, sleeping. Remember- Toki Pona words don't mark time, so these two actions can happen at different times!
+Here, [jan]{.tokipona} is doing two different things: [tawa]{.tokipona} (moving), and [lape]{.tokipona} (sleeping). Toki Pona words don't mark time, so these two actions can happen at different times!
 
 You can have as many predicates as you want, but try to keep your sentences shorter- shorter sentences are easier to understand.
 
 ::: warning
 
-**mi** and **sina** do not take **li**, so you can't _normally_ do this with **mi** and **sina**. Instead, use separate sentences: [mi tawa・mi lape]{.tokipona}
+[mi]{.tokipona} and [sina]{.tokipona} do not take [li]{.tokipona}, so you can't _normally_ do this with [mi]{.tokipona} and [sina]{.tokipona}. Instead, use separate sentences: [mi tawa・mi lape]{.tokipona}
 
 :::
 
@@ -352,19 +352,19 @@ Some of these will have multiple translations under the spoiler!
 
 #### Grammar
 
-In the previous lesson, we covered a sentence which exclusively began with either `mi` or `sina`. In this lesson, we covered a sentence where anything can start the sentence- so long as it is followed by `li`. In fact, these are the same kind of sentence!
+In the previous lesson, we covered a sentence which exclusively began with either [mi]{.tokipona} or [sina]{.tokipona}. In this lesson, we covered a sentence where anything can start the sentence- so long as it is followed by [li]{.tokipona}. In fact, these are the same kind of sentence!
 
-> [mi/sina] [predicate]
+> [[mi]{.tokipona}/[sina]{.tokipona}] [predicate]
 
-> [subject] li [predicate]
+> [subject] [li]{.tokipona} [predicate]
 
-Another way to think about this sentence is this: if the subject is _exactly_ mi or _exactly_ sina, don't include `li`.
+Another way to think about this sentence is this: if the subject is _exactly_ [mi]{.tokipona} or _exactly_ [sina]{.tokipona}, don't include [li]{.tokipona}.
 
 #### Content Words and Particles
 
-Any _meaningful_ word may appear in either the subject, the predicate, or both at once. When I say "meaningful", this refers the idea of a **content word**, or a word which serves some _semantic_ function instead of an exclusively grammatical one. The word `li` is only grammatical- it is not a content word. Every other word so far is a content word.
+Any _meaningful_ word may appear in either the subject, the predicate, or both at once. When I say "meaningful", this refers the idea of a **content word**, or a word which serves some _semantic_ function instead of an exclusively grammatical one. The word [li]{.tokipona} is only grammatical- it is not a content word. Every other word so far is a content word.
 
-The word `li` is a **particle**, and is not the only one! We will learn about the rest in future lessons. What they have in common is having no semantic function- no meaning.
+The word [li]{.tokipona} is a **particle**, and is not the only one! We will learn about the rest in future lessons. What they have in common is having no semantic function- no meaning.
 
 There are also a handful of words which are so-called **pseudo-particles**. This category is more blurry, but it contains words which have functions as particles _and_ as content words.
 

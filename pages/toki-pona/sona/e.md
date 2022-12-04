@@ -65,11 +65,11 @@ date: 2022-09-09T00:00:00.000Z
 
 #### Objects and e
 
-This new sentence is capable of changing things in the world. The subject can now act on other things, applying the predicate to something else, with the use of `e`!
+This new sentence is capable of changing things in the world. The subject can now act on other things, applying the predicate to something else, with the use of [e]{.tokipona}!
 
-> [mi/sina] [predicate] e [object]
+> [[mi]{.tokipona}/[sina]{.tokipona}] [predicate] [e]{.tokipona} [object]
 
-> [subject] li [predicate] e [object]
+> [subject] [li]{.tokipona} [predicate] [e]{.tokipona} [object]
 
 This new phrase introduces a thing the subject acts on in a way that the predicate specifies.
 
@@ -95,7 +95,7 @@ Here are a few guided examples of how the subject acts on the object, applying t
 
 </details>
 
-The `jan` becomes `pona` in some way, as in the translations given.
+The [jan]{.tokipona} becomes [pona]{.tokipona} in some way, as in the translations given.
 
 <details> <summary> [lape li wawa e sina]{.tokipona} </summary>
 
@@ -107,7 +107,7 @@ The `jan` becomes `pona` in some way, as in the translations given.
 
 </details>
 
-Here, `sina` becomes `wawa` in some way.
+Here, [sina]{.tokipona} becomes [wawa]{.tokipona} in some way.
 
 #### Not changing things
 
@@ -122,8 +122,8 @@ Not everything changes the object! Here are some examples, using two new words:
 
 </details>
 
-Here, the `kiwen` is _felt_ or _touched_, but it never is or becomes `pilin`.
-Instead, the subject is the only one that does any `pilin`.
+Here, the [kiwen]{.tokipona} is _felt_ or _touched_, but it never is or becomes [pilin]{.tokipona}.
+Instead, the subject is the only one that does any [pilin]{.tokipona}.
 
 <details> <summary> [mi wile e telo]{.tokipona} </summary>
 
@@ -134,10 +134,10 @@ Instead, the subject is the only one that does any `pilin`.
 
 </details>
 
-Again, the `telo` is _wanted_ or _needed_, but it does not become `wile` or do the action `wile` or become describable by `wile`. The subject _wants_, _needs_, `wile` the `telo`.
+Again, the [telo]{.tokipona} is _wanted_ or _needed_, but it does not become [wile]{.tokipona} or do the action [wile]{.tokipona} or become describable by [wile]{.tokipona}. The subject _wants_, _needs_, [wile]{.tokipona} the [telo]{.tokipona}.
 
 As you study, you'll get an intuitive sense for this difference.
-Some words will be actions the subject takes on an object, but which do not change that object.
+Some words will be actions the subject takes on an object, but which do not change that object. [pana]{.tokipona} works this way!
 Other words will change the object, applying a new property to the object.
 
 <details> <summary> A note on "not" changing things </summary>
@@ -146,11 +146,11 @@ As you become more advanced in Toki Pona, you'll learn that the above is complic
 
 That said, the following is possible:
 
-> mi wile e telo.
+> [mi wile e telo]{.tokipona}
 
 "I want water."
 
-> telo wile li pona e mi.
+> [telo wile li pona e mi]{.tokipona}
 
 "The water I want will make me feel better."
 
@@ -160,7 +160,7 @@ This uses a modifier (next lesson!) to demonstrate the point, now referencing a 
 
 #### Multiple e
 
-Like `li`, `e` can be used more than once to apply a predicate to more than one object at a time! This applies to every object that follows a predicate. Like `li`, this is like "and" in English!
+Like [li]{.tokipona}, [e]{.tokipona} can be used more than once to apply a predicate to more than one object at a time! This applies to every object that follows a predicate. Like [li]{.tokipona}, this is like "and" in English!
 
 <details> <summary> [mi moku e suwi e lete]{.tokipona} </summary>
 
@@ -176,8 +176,8 @@ The plant is touching the fire and the water!
 
 #### Multiple li and multiple e
 
-When using multiple `li` _and_ multiple `e`, objects connect to the predicate right before.
-If you use `li` twice and `e` after both, only the second predicate `li` matters to the object `e`!
+When using multiple [li]{.tokipona} _and_ multiple [e]{.tokipona}, objects connect to the predicate right before.
+If you use [li]{.tokipona} twice and [e]{.tokipona} after both, only the second predicate [li]{.tokipona} matters to the object [e]{.tokipona}!
 
 <details> <summary> [kasi li suwi li pana e ko]{.tokipona} </summary>
 
@@ -192,7 +192,7 @@ The plant gives off dust, and is sweet!
 </details>
 
 Objects _always_ connect to the predicate before.
-For multiple `e` with multiple `li`, the rules are the same as with just multiple `e`!
+For multiple [e]{.tokipona} with multiple [li]{.tokipona}, the rules are the same as with just multiple [e]{.tokipona}!
 
 <details> <summary> [jan li jaki e lipu li telo e lipu]{.tokipona} </summary>
 
@@ -200,7 +200,7 @@ The person made a mess on the book and cleaned the book.
 
 </details>
 
-<details><summary> A note about multiple "li" and multiple "e" </summary>
+<details><summary> A note about multiple [li]{.tokipona} and multiple [e]{.tokipona} </summary>
 
 There is some room for experimentation! The above statement can be understood similarly with a relaxed grammar:
 
@@ -480,29 +480,29 @@ This part of the lesson is a recent addition! Examples coming soon!
 
 Toki Pona sentences now look like this:
 
-> [subject] (li) [predicate] (e [object])
+> [subject] ([li]{.tokipona}) [predicate] ([e]{.tokipona} [object])
 
 Parentheses indicate something which is optional or conditional, and brackets are stand-ins for words as before.
 
 Breaking it down, we can talk about what the speaker and listener do, or what describes the speaker/listener:
 
-> [mi/sina] [predicate]
+> [[mi]{.tokipona}/[sina]{.tokipona}] [predicate]
 
 We can talk about what other things do or are like:
 
-> [subject] li [predicate]
+> [subject] [li]{.tokipona} [predicate]
 
 We can now talk about what the speaker and listener do to _other things_.
 
-> [mi/sina] [predicate] e [object]
+> [[mi]{.tokipona}/[sina]{.tokipona}] [predicate] [e]{.tokipona} [object]
 
 And the same goes for what third person things do to other third person things, including themselves!
 
-> [subject] li [predicate] e [object]
+> [subject] [li]{.tokipona} [predicate] [e]{.tokipona} [object]
 
 #### Content Words and Particles
 
-The list of particles we know has grown to include `e`! Every other new word is a content word.
+The list of particles we know has grown to include [e]{.tokipona}! Every other new word is a content word.
 
 ---
 
