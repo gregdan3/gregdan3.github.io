@@ -37,20 +37,21 @@ date: date unknown
 
 ::: tpdefinitions
 
-| Glyph | Word  | Definition                             |
-| ----- | ----- | -------------------------------------- |
-| tawa  | tawa  | move, travel                           |
-| lon   | lon   | truth, existence, reality, real        |
-| tan   | tan   | cause, origin                          |
-| sama  | sama  | same, similar                          |
-| ilo   | ilo   | tool, instrument, machine              |
-| tenpo | tenpo | time, duration, event, occurrence      |
-| sewi  | sewi  | up, sky, spiritual, godly              |
-| anpa  | anpa  | below, under                           |
-| ma    | ma    | dirt, ground, place, location, country |
-| nasin | nasin | road, path, method, way, process       |
-| supa  | supa  | furniture, horizontal surface          |
-| poka  | poka  | beside, side, hip                      |
+| Glyph   | Word    | Definition                             |
+| ------- | ------- | -------------------------------------- |
+| tawa    | tawa    | move, travel                           |
+| lon     | lon     | truth, existence, reality, real        |
+| tan     | tan     | cause, origin                          |
+| sama    | sama    | same, similar                          |
+| kepeken | kepeken | usage, the act of using                |
+| ilo     | ilo     | tool, instrument, machine              |
+| tenpo   | tenpo   | time, duration, event, occurrence      |
+| sewi    | sewi    | up, sky, spiritual, godly              |
+| anpa    | anpa    | below, under                           |
+| ma      | ma      | dirt, ground, place, location, country |
+| nasin   | nasin   | road, path, method, way, process       |
+| supa    | supa    | furniture, horizontal surface          |
+| poka    | poka    | beside, side, hip                      |
 
 :::
 
@@ -67,8 +68,6 @@ date: date unknown
 | kepeken | kepeken | to use                                |
 
 :::
-
-Take a close look: [kepeken]{.tokipona} is only a preposition!
 
 ## Overview
 
@@ -223,11 +222,11 @@ Remember: [tawa]{.tokipona} talks about purpose, while [tan]{.tokipona} talks ab
 
 [sama]{.tokipona} talks about the similarity of things. This may be to compare the subject to something:
 
-<details><summary> [pali sona sina li <u>**sama mama mi**</u>]{.tokipona} </summary>
+<details><summary> [pali sona sina li <u>**sama pali pi mama mi**</u>]{.tokipona} </summary>
 
-Your teaching job is the same as my dad's!
+Your teaching job is the same as my dad's job!
 
-Your programming work is the same as my mom's!
+Your programming work is the same as my mom's work!
 
 </details>
 

@@ -7,6 +7,10 @@ date: 2022-07-30T00:00:00.000Z
 
 <!-- toc -->
 
+- [How to Learn](#how-to-learn)
+    - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
+    - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
+    - [Lesson Notes](#lesson-notes)
 - [How to Read](#how-to-read)
   - [Vowels](#vowels)
   - [Consonants](#consonants)
@@ -14,12 +18,32 @@ date: 2022-07-30T00:00:00.000Z
 - [How to Write](#how-to-write)
   - [sitelen Lasina - "Latin writing"](#sitelen-lasina---latin-writing)
   - [sitelen pona - "good writing"](#sitelen-pona---good-writing)
-- [How to Learn](#how-to-learn)
-    - [Toki Pona is a Real Language](#toki-pona-is-a-real-language)
-    - [Simplicity in Toki Pona](#simplicity-in-toki-pona)
-    - [Lesson Notes](#lesson-notes)
 
 <!-- tocstop -->
+
+## How to Learn
+
+This is a collection of philosophy notes, both for Toki Pona and for these lessons.
+
+#### Toki Pona is a Real Language
+
+Toki Pona is a real language. It has few words which you can easily memorize, but memorizing all the words is only the start. You learn much more through practice! For comparison, memorizing all the numbers from 0 to 9 won't teach you Calculus, but it would let you start learning more math!
+
+#### Simplicity in Toki Pona
+
+Toki Pona values simplicity in statements and expression. If you find yourself creating or translating a long single phrase, think about how you could restate it! Using more sentences with fewer words each is more clear than one sentence with many words. But don't go too far with this- as you learn, you'll find a comfortable balance between the two.
+
+#### Lesson Notes
+
+Everything in the **Overview** section will use as few words from previous lessons as possible, excepting the first lesson and lessons about collections of important words.
+
+The definitions for words are examples, not comprehensive. The same goes for exercise translations.
+Words can refer to more than the examples, and be used in more ways than appear in the exercises.
+Be experimental, try many things as you learn!
+
+If an exercise spoiler has **bold text**, there's more than just a translation under it. Check for more info!
+
+Lastly, if you ever see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
 
 ## How to Read
 
@@ -132,21 +156,17 @@ In the Latin alphabet (this one!), Toki Pona is written without capital letters.
 
 > sina wile lon poka mi la mi tu li tawa ma Sonko
 
-There are punctuation rules, but speakers often end statements with a period `.` or exclamation mark `!`, questions with a question mark `?`, and sentences referring to other sentences with a colon `:`. It is also common to use a comma `,` to indicate natural pauses.
+There are no punctuation rules, but speakers often end statements with a period `.` or exclamation mark `!`, questions with a question mark `?`, and sentences referring to other sentences with a colon `:`. It is also common to use a comma `,` to indicate natural pauses. None of these are required though- some speakers use nothing but new lines or periods!
 
 > jan li toki e ni: seme li lon? ona li wile tawa, li wile lape.
 
-For now, don't worry about punctuation! Your intuition from English is close enough.
+Your intuition from English is close enough that you don't need to worry.
 
 ### sitelen pona - "good writing"
 
-Toki Pona can be written with a system known as sitelen pona. It has
-one character per word, which is easy with few words! sitelen
-pona is not required for learning Toki Pona, but I provide it with all new words
-because it helps you learn.
+Toki Pona can be written with a system known as sitelen pona. It has one character per word, which is easy with few words! I provide each character with each new word, and use it for all the exercises.
 
-In sitelen pona, speakers often use an interpunct `・` at the end of sentences,
-plus all punctuation used in sitelen Lasina. Others will start new lines at the end of sentences.
+In sitelen pona, speakers will either start a new line, or use an interpunct `・` at the end of sentences. No other punctuation is generally used.
 
 > [jan li toki e ni・seme li lon・ona li wile tawa li wile lape]{.tokipona}
 
@@ -164,30 +184,6 @@ Lastly, symbols can be stacked or nested! Both are read from the bottom up, whic
 Here, the first symbol is read "toki pona" and it is nested. The second to last symbol is "linja suwi" and it is stacked.
 
 Don't worry about _all_ this just yet! You'll find what feels comfortable as you learn.
-
-## How to Learn
-
-This is a collection of philosophy notes, both for Toki Pona and for these lessons.
-
-#### Toki Pona is a Real Language
-
-Toki Pona is a real language. It has few words which you can easily memorize, but memorizing all the words is only the start. You learn much more through practice! For comparison, memorizing all the numbers from 0 to 9 won't teach you Calculus, but it would let you start learning more math!
-
-#### Simplicity in Toki Pona
-
-Toki Pona values simplicity in statements and expression. If you find yourself creating or translating a long single phrase, think about how you could restate it! Using more sentences with fewer words each is more clear than one sentence with many words. But don't go too far with this- as you learn, you'll find a comfortable balance between the two.
-
-#### Lesson Notes
-
-Everything in the **Overview** section will use as few words from previous lessons as possible, excepting the first lesson and lessons about collections of important words.
-
-The definitions for words are examples, not comprehensive. The same goes for exercise translations.
-Words can refer to more than the examples, and be used in more ways than appear in the exercises.
-Be experimental, try many things as you learn!
-
-If an exercise spoiler has **bold text**, there's more than just a translation under it. Check for more info!
-
-Lastly, if you ever see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
 
 <!-- ## Exercises -->
 
@@ -220,5 +216,4 @@ Lastly, if you ever see a spoiler starting with "a note", it is not necessary to
 ---
 
 [Next lesson](./mi-sina.html)
-
 

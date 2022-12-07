@@ -17,6 +17,7 @@ date: date unknown
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
   - [English to Toki Pona](#english-to-toki-pona)
+- [Takeaway](#takeaway)
 
 <!-- tocstop -->
 
@@ -49,7 +50,7 @@ Not many words this time! Instead, we'll be looking at a bunch of words from bef
 
 #### Interjections
 
-In Toki Pona, there are many things to say that are not complete sentences; interjections! [toki]{.tokipona} says "hello", and a subject plus [o]{.tokipona} gets that subject's attention. But there's more!
+In Toki Pona, there are many things to say that are not complete sentences: interjections! [toki]{.tokipona} says "hello", and a subject plus [o]{.tokipona} gets that subject's attention. But there's more!
 
 Anything that can be a subject, predicate, object, or preposition with prep phrase can be an interjection! Some of these can even be used together.
 
@@ -59,9 +60,9 @@ Before we start, let's talk about [a]{.tokipona}!
 
 #### a, the interjection that ever
 
-[a]{.tokipona} is a special word. It has no meaning like particles, but it also doesn't do anything to a sentence. It's just [a]{.tokipona}! This means you can use it however you feel, as both an interjection and a modifier.
+[a]{.tokipona} is a special word. It has no meaning like particles, but it also doesn't do anything to a sentence. It's just [a]{.tokipona}, and you use it to express your feelings! As a modifier, it makes the thing it modifies more intense like the word "very" in English. As an interjection, it works like a lot of wordless responses, such as "um," "oh," and "ah."
 
-Since [a]{.tokipona} can be used so many ways, we'll look at a few examples:
+Since [a]{.tokipona} can be used so many ways, we'll look at a few examples to get a feel for it:
 
 > [mi kama jo e lipu a]{.tokipona}
 >
@@ -149,7 +150,7 @@ You can choose to include [o]{.tokipona} where it makes sense, making these comp
 
 These versions could be instructions or well wishes. It's all about context!
 
-Try lots of different things! As long as your listener understands what you mean, you're speaking Toki Pona.
+Try lots of different things! Experimenting is key to speaking Toki Pona.
 
 Here's an example exchange to fit the idea in a conversation:
 
@@ -181,11 +182,11 @@ The above is a literal translation, so here is a comparable conversation but wri
 
 #### Feelings, Opinions, and Remarks
 
-Most other interjections are specific words! Their meaning as an interjection comes from their usual meaning. We already saw that [a]{.tokipona} can be used for any feeling, but words like [sona, wawa, musi]{.tokipona}, and others can do specific feelings: Excitement, interest, happiness, fear, anger, sadness, and everything between!
+Most other interjections are specific words! Their meaning as an interjection comes from what the word normally means. We already saw that [a]{.tokipona} can be used for any feeling, but words like [sona, wawa, musi,]{.tokipona} and others can do specific feelings: Excitement, interest, happiness, fear, anger, sadness, and everything between!
 
-These can also be used to express how you feel about a situation, similar to saying `ni li [word]`, or `pilin mi li [word]`.
+These can also be used to express how you feel about a situation, similar to saying "[ni li]{.tokipona} [word]", or "[pilin mi li]{.tokipona} [word]".
 
-And they can be used to respond in a conversation, which
+And they can be used to respond in a conversation!
 
 Here's a bunch of common use examples. This is not a complete list, and it doesn't cover every way you could use these words. But it does cover a lot of common uses. Try lots of things!
 
@@ -237,21 +238,21 @@ I lost my textbook. Crap!
 
 [musi]{.tokipona} interjection is used to express excitement or humor! It can express the same feeling as laughter, but laughter itself is usually written with [a a a]{.tokipona}
 
-> []{.tokipona}
+> [jan tomo li toki e ni: mi pana ala tawa jan pi tawa tenpo... jan pi tawa tenpo li tawa tomo pi telo nasa.]{.tokipona}
 >
-> > [musi a!]{.tokipona}
+> > [musi! a a a]{.tokipona}
 
 <details><summary> See Translation! </summary>
 
-1:
+1: "The bartender says this: I don't serve time travellers! A time traveller walks into a bar."
 
-2: Hilarious!
+2: Hilarious! Hahahhaha
 
 </details>
 
 ---
 
-[suwi]{.tokipona} interjection is used to say that something is cute, soft, or sweet, just like [suwi]{.tokipona} itself.
+[suwi]{.tokipona} interjection is used to say that something is cute, soft, or sweet.
 
 > [kala ni li suwi a・o lukin!]{.tokipona}
 >
@@ -283,7 +284,7 @@ I lost my textbook. Crap!
 
 ---
 
-[sona]{.tokipona} interjection is used to express understanding of a previous statement.
+[sona]{.tokipona} interjection is used to express understanding of a previous statement, or to express that something is wise or smart!
 
 > [sina ken kepeken ilo ni tawa pali tomo]{.tokipona}
 >
@@ -307,7 +308,7 @@ I lost my textbook. Crap!
 
 <details><summary> See Translation! </summary>
 
-1: I'm feeling super entertained because of this liquid!
+1: I'm feeling funny [in a humor way] because of this liquid!
 
 2: Same!
 
@@ -331,7 +332,7 @@ I lost my textbook. Crap!
 
 ::: info
 
-Many interjections overlap in use! [pona]{.tokipona} can be used to show happiness, and acknowledge that something said is good or that something present is good.
+Many interjections overlap in use! [pona]{.tokipona} and [lon]{.tokipona} can both positively acknowledge a statement. But they're not the same!
 
 :::
 
@@ -340,6 +341,19 @@ Many interjections overlap in use! [pona]{.tokipona} can be used to show happine
 > [mu]{.tokipona}
 
 ---
+
+Remember: this is not a complete list, but many examples. There are plenty words not on this list that work too! Here's even more rapid fire examples:
+
+- [suli]{.tokipona} - Huuuuge!
+- [lili]{.tokipona} - Tiny!
+- [mute]{.tokipona} - So many!
+- [seli]{.tokipona} - Hot!
+- [lete]{.tokipona} - Cold!
+- [jaki]{.tokipona} - Gross!
+- [nasa]{.tokipona} - Weird!
+- [ken]{.tokipona} - Maybe!
+
+With the right context, any word can be used as an interjection in Toki Pona, so try lots of things!
 
 ## Exercises
 
@@ -351,85 +365,247 @@ Interjections are best understood as part of conversations, so the exercises are
 
 ### Toki Pona to English
 
-<details><summary> []{.tokipona} </summary>
+Your friend said...
+
+> [akesi li mu! o mu tawa ona!]{.tokipona}
+>
+> > [mu mu mu!]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: The frog went "ribbit!" Say "ribbit" back!
+
+2: Ribbit ribbit ribbit!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+Your friend said...
+
+> [mi kute e kalama! taso mi sona ala e tan ona!]{.tokipona}
+>
+> > [nasa a!]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: I heard a sound! But I don't know where it came from!
+
+2: Weird!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+Your friend said...
+
+> [mi kama sona pali e ilo wawa lon tomo sona ]{.tokipona}
+>
+> > [sama]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: I learned how to build computers in school.
+
+2: Same!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+Your friend said...
+
+> [ona li ken tawa sike pona!]{.tokipona}
+>
+> > [wawa! pona!]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: They can do a cartwheel!
+
+2: Wow, awesome!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+You're playing Minecraft!
+
+> [mi tu li tawa nasin kasi. sina o tawa ma anpa.]{.tokipona}
+>
+> > [sona]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: Myself and two others are going to the forest. You'll head to the cave.
+
+2: Understood!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+Your friend said...
+
+> [jan ale o lukin! mi pali e sitelen kulupu, o mu!]{.tokipona}
+>
+> > [mu!]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: Everyone look! I'm taking a picture of the group, say moo!
+
+2: mooooooo!
+
+::: info
+
+This one is a not so literal- it's a mimicry of the equivalent exchange in English, "Say cheese!" when smiling for a photo!
+
+:::
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+Your friend said...
+
+> [mi ken ala awen musi, mi o tawa pali.]{.tokipona}
+>
+> > [a mi sona! pali pona!]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: I can't keep playing, I have to go work.
+
+2: Ahh, I understand. Have a good day at work!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+Your friend said...
+
+> [jan poka mi li pilin ike lili tan ni: ona li musi lon tenpo suli a!]{.tokipona}
+>
+> > [aa ona o kama pona!]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: My friend is feeling a little bad because they were playing for a long time!
+
+2: Oh, I hope they feel better!
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+You've been looking for your book for hours! You know you had it earlier today
+
+> [mi kama jo e lipu sina tan alasa. mi pana e ona tawa poki sina!]{.tokipona}
+>
+> > [pona tawa sina!]{.tokipona}
+
+<details><summary> See Translation! </summary>
+
+1: I found your book from searching. I put it in your bag!
+
+2: Thank you so much! / "Goodness go to you!"
 
 </details>
 
-<details><summary> []{.tokipona} </summary>
+Your friend invited you over to show off something exciting: they taught their pet fish a new trick! Now, you've been a little doubtful the previous times, and this time is no exception. You get inside, and your friend points to their fish and says:
 
-</details>
+> [kala mi li ken toki a!]{.tokipona}
+>
+> > [ken a...]{.tokipona}
 
-<details><summary> []{.tokipona} </summary>
+<details><summary> See Translation! </summary>
+
+1: Look! My fish can speak!
+
+2: Can it now...
 
 </details>
 
 ### English to Toki Pona
 
+> t
+>
+> > t
+
 <details><summary>  </summary>
 
-[]{.tokipona}
+1: []{.tokipona}
+
+2: []{.tokipona}
 
 </details>
 
+> t
+>
+> > t
+
 <details><summary>  </summary>
 
-[]{.tokipona}
+1: []{.tokipona}
+
+2: []{.tokipona}
 
 </details>
 
+> t
+>
+> > t
+
 <details><summary>  </summary>
 
-[]{.tokipona}
+1: []{.tokipona}
+
+2: []{.tokipona}
 
 </details>
 
+> t
+>
+> > t
+
 <details><summary>  </summary>
 
-[]{.tokipona}
+1: []{.tokipona}
+
+2: []{.tokipona}
 
 </details>
 
+> t
+>
+> > t
+
 <details><summary>  </summary>
 
-[]{.tokipona}
+1: []{.tokipona}
+
+2: []{.tokipona}
 
 </details>
 
+> t
+>
+> > t
+
 <details><summary>  </summary>
 
-[]{.tokipona}
+1: []{.tokipona}
+
+2: []{.tokipona}
+
+</details>
+
+> t
+>
+> > t
+
+<details><summary>  </summary>
+
+1: []{.tokipona}
+
+2: []{.tokipona}
+
+</details>
+
+> t
+>
+> > t
+
+<details><summary>  </summary>
+
+1: []{.tokipona}
+
+2: []{.tokipona}
 
 </details>
 
@@ -440,6 +616,9 @@ By the way, check out [this side lesson about phatic phrases](./phatic-phrases.h
 :::
 
 ## Takeaway
+
+There are a variety of ways to speak Toki Pona that aren't complete sentences! [a]{.tokipona} can be used however you want, there are many ways to say hello or goodbye, and every content word can express a feeling or opinion related to its meaning.
+These are useful in conversations, explanations
 
 ---
 

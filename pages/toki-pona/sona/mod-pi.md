@@ -134,8 +134,8 @@ You're looking at a cute flower!
 
 ---
 
-- You're seeing a sweet plant.
-- You're observing an adorable forest.
+- You see a sweet plant.
+- You saw an adorable forest.
 - Y'all are perceiving a soft vine.
 
 </details>
@@ -243,6 +243,7 @@ I'm an expert botanist.
 
 - I'm a researcher who knows a lot about plants.
 - I'm an important person in plant knowledge.
+- I'm a tall biologist!
 
 </details>
 

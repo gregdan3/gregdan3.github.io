@@ -181,7 +181,6 @@ The rock is gooey...
 - The rock is dusty
 - The rock is sticky
 - The metal is glued
-- The rock
 
 </details>
 

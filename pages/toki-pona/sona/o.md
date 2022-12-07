@@ -3,21 +3,20 @@ title: Instructions with o
 author: gregdan3
 date: date unknown
 ---
-
 [Check out the video lesson too!](https://youtu.be/lf3lDjIWiYI)
 
 <!-- toc -->
 
-- [Words to Know](#words-to-know)
-  - [Particles](#particles)
-  - [Content Words](#content-words)
-  - [Critters](#critters)
+  - [Words to Know](#words-to-know)
+    - [Particles](#particles)
+    - [Content Words](#content-words)
+    - [Critters](#critters)
 - [Overview](#overview)
-  - [Instructions](#instructions)
-  - [Attention](#attention)
-  - [taso sentences](#taso-sentences)
-  - [taso modifier](#taso-modifier)
-  - [taso head](#taso-head)
+    - [Instructions](#instructions)
+    - [Attention](#attention)
+    - [taso sentences](#taso-sentences)
+    - [taso modifier](#taso-modifier)
+    - [taso head](#taso-head)
 - [Exercises](#exercises)
   - [Toki Pona to English](#toki-pona-to-english)
     - [o for commands](#o-for-commands)
@@ -27,9 +26,9 @@ date: date unknown
     - [Modifier taso](#modifier-taso)
   - [English to Toki Pona](#english-to-toki-pona)
 - [Takeaway](#takeaway)
-  - [Giving Instructions](#giving-instructions)
-  - [Grammar](#grammar)
-  - [Other Notes](#other-notes)
+    - [Giving Instructions](#giving-instructions)
+    - [Grammar](#grammar)
+    - [Other Notes](#other-notes)
 
 <!-- tocstop -->
 
@@ -605,3 +604,4 @@ Now that we've learned the word [sitelen]{.tokipona}, here's a fun side note: To
 [Previous lesson](./preps.html)
 
 [Next lesson](./interjections.html)
+
