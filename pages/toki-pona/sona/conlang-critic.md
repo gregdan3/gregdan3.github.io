@@ -111,7 +111,7 @@ too, until you're no longer thinking about it!
 
 Also, I recorded the final result. Enjoy!
 
-<audio controls src="/conlangcritic.mp3"> </audio>
+<audio controls src="/sound/conlangcritic.mp3"> </audio>
 
 ---
 
