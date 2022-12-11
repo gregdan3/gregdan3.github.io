@@ -18,6 +18,7 @@ date: 2022-07-30T00:00:00.000Z
 - [How to Write](#how-to-write)
   - [sitelen Lasina - "Latin writing"](#sitelen-lasina---latin-writing)
   - [sitelen pona - "good writing"](#sitelen-pona---good-writing)
+- [Exercises](#exercises)
 
 <!-- tocstop -->
 
@@ -31,19 +32,15 @@ Toki Pona is a real language. It has few words which you can easily memorize, bu
 
 #### Simplicity in Toki Pona
 
-Toki Pona values simplicity in statements and expression. If you find yourself creating or translating a long single phrase, think about how you could restate it! Using more sentences with fewer words each is more clear than one sentence with many words. But don't go too far with this- as you learn, you'll find a comfortable balance between the two.
+Toki Pona values simplicity in statements and expression. If you find yourself making a long single phrase, think about breaking it up to restate it! Using more sentences with fewer words each is more clear than one sentence with many words. But don't go too far with this- as you learn, you'll find a comfortable balance between the two.
 
 #### Lesson Notes
 
-Everything in the **Overview** section will use as few words from previous lessons as possible, excepting the first lesson and lessons about collections of important words.
+The definitions for words are examples, not comprehensive. The same goes for exercise translations. Words can refer to more than the examples, and be used in more ways than appear in the exercises. Be experimental, try many things as you learn!
 
-The definitions for words are examples, not comprehensive. The same goes for exercise translations.
-Words can refer to more than the examples, and be used in more ways than appear in the exercises.
-Be experimental, try many things as you learn!
+If an exercise spoiler has **bold text**, there's a lesson with the translation! Check for more info!
 
-If an exercise spoiler has **bold text**, there's more than just a translation under it. Check for more info!
-
-Lastly, if you ever see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
+If you see a spoiler starting with "a note", it is not necessary to read. But it might still be helpful!
 
 ## How to Read
 
@@ -164,7 +161,7 @@ Your intuition from English is close enough that you don't need to worry.
 
 ### sitelen pona - "good writing"
 
-Toki Pona can be written with a system known as sitelen pona. It has one character per word, which is easy with few words! I provide each character with each new word, and use it for all the exercises.
+Toki Pona can be written with a system known as sitelen pona, or [sitelen pona]{.tokipona}. It has one character per word, which is easy with few words! I provide each character with each new word, and use it for all the exercises.
 
 In sitelen pona, speakers will either start a new line, or use an interpunct `・` at the end of sentences. No other punctuation is generally used.
 
@@ -183,35 +180,41 @@ Lastly, symbols can be stacked or nested! Both are read from the bottom up, whic
 
 Here, the first symbol is read "toki pona" and it is nested. The second to last symbol is "linja suwi" and it is stacked.
 
+::: info
+
+There's a button labeled **Toggle SP** in the upper right for mobile, and the bottom right for desktop. It switches sitelen pona for English letters and back! <
+
+:::
+
 Don't worry about _all_ this just yet! You'll find what feels comfortable as you learn.
 
-<!-- ## Exercises -->
+## Exercises
 
-<!-- Try to pronounce the following words: -->
+Try to pronounce the following words. The pronunciation is in a clip under the spoiler!
 
-<!-- <details><summary>lukin</summary> -->
-<!-- <audio controls src="https://antetokipona.infinityfreeapp.com/kalama/jlakuse/lukin.mp3"> </audio> -->
-<!-- </details> -->
+<details><summary> [lukin]{.tokipona} - lukin </summary>
+<audio controls src="/sound/lukin.mp3"> </audio>
+</details>
 
-<!-- <details><summary>kepeken</summary> -->
-<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kepeken.mp3"> </audio> -->
-<!-- </details> -->
+<details><summary> [pona]{.tokipona} - pona </summary>
+<audio controls src="/sound/pona.mp3"> </audio>
+</details>
 
-<!-- <details><summary>loje</summary> -->
-<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/kalaasi/loje.mp3"> </audio> -->
-<!-- </details> -->
+<details><summary> [soweli]{.tokipona} - soweli </summary>
+<audio controls src="/sound/soweli.mp3"> </audio>
+</details>
 
-<!-- <details><summary>pona</summary> -->
-<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pona.mp3"> </audio> -->
-<!-- </details> -->
+<details><summary> [kepeken]{.tokipona} - kepeken </summary>
+<audio controls src="/sound/kepeken.mp3"> </audio>
+</details>
 
-<!-- <details><summary>soweli</summary> -->
-<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/jlakuse/soweli.mp3"> </audio> -->
-<!-- </details> -->
+<details><summary> [loje]{.tokipona} - loje </summary>
+<audio controls src="/sound/loje.mp3"> </audio>
+</details>
 
-<!-- <details><summary>e</summary> -->
-<!-- <audio controls src="http://antetokipona.infinityfreeapp.com/kalama/kalaasi/e.mp3"> </audio> -->
-<!-- </details> -->
+<details><summary> [e]{.tokipona} - e </summary>
+<audio controls src="/sound/e.mp3"> </audio>
+</details>
 
 ---
 
