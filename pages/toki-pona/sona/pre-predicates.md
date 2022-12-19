@@ -179,7 +179,7 @@ The [awen]{.tokipona} pre-pred means the predicate is on-going, continuing, or n
 
 You can still restate this without the pre-predicate:
 
-> [mi awen e kute mi]{.tokipona}
+> [kute mi li awen]{.tokipona}
 
 But still, the predicate version is most clear to the "listening" meaning.
 
@@ -218,7 +218,7 @@ I'm trying to help you!
 
 </details>
 
-Lastly, there's [alasa]{.tokipona} and [lukin]{.tokipona}, which have the same meaning as pre-preds: to try. I recommend [alasa]{.tokipona} most, but feel free to use both!
+Lastly, there's [alasa]{.tokipona} and [lukin]{.tokipona}, which have the same meaning as pre-preds: to try. I recommend [alasa]{.tokipona} most: it is more commonly used. But both will be understood, so use whichever you feel!
 
 ::: info
 
