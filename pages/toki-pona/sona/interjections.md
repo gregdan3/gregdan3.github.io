@@ -365,7 +365,7 @@ Interjections are best understood as part of conversations, so the exercises are
 
 ### Toki Pona to English
 
-Your friend said...
+A group of friends is out at the zoo, enjoying the sights and sounds of critters racing through their space and making all manner of noise. You walk through the reptile enclosure, and most of the snakes and frogs are quiet! But one croaks loudly, and one of the group says:
 
 > [akesi li mu! o mu tawa ona!]{.tokipona}
 >
@@ -379,7 +379,7 @@ Your friend said...
 
 </details>
 
-Your friend said...
+You're walking through the neighborhood's most rundown house on a dare! Your friend stayed at the door to keep watch. Every corner has a cobweb, the rafters are sagging from age, and each step you take makes the floor creak and bend from the stress of your feet. Suddenly, you hear a loud crash from across the house, and you yell to your friend:
 
 > [mi kute e kalama! taso mi sona ala e tan ona!]{.tokipona}
 >
@@ -393,21 +393,25 @@ Your friend said...
 
 </details>
 
-Your friend said...
+At work, your friend has been working hard to get forklift certified! They've taken test after test, practiced for forever, and finally made it! But what they didn't know is, you've been working on your certification too! And somehow, you both reveal at the same time:
 
-> [mi kama sona pali e ilo wawa lon tomo sona ]{.tokipona}
+> [mi kama sona kepeken ilo suli tawa, lon tomo pali mi]{.tokipona}
 >
 > > [sama]{.tokipona}
+> >
+> > > [a wawa]{.tokipona}
 
 <details><summary> See Translation! </summary>
 
-1: I learned how to build computers in school.
+1: I learned how to use a forklift at my work!
 
 2: Same!
 
+1: Oh wow!
+
 </details>
 
-Your friend said...
+You and a friend have had a bet going on: you bet that your sister could learn to do a cartwheel in just a week! Rude that you friend would bet against, huh? After a week though, your sister is still struggling to get her feet off the ground. But you finally catch it on video: she does a full cartwheel! You rush to your friend to deliver the news:
 
 > [ona li ken tawa sike pona!]{.tokipona}
 >
@@ -421,21 +425,21 @@ Your friend said...
 
 </details>
 
-You're playing Minecraft!
+You're playing Minecraft with some friends! You just started a new world, got yourself a hut put together, and now you're looking for lots of resources to get your building ideas started. One friend puts together a plan for who does what, and tells you what to do:
 
-> [mi tu li tawa nasin kasi. sina o tawa ma anpa.]{.tokipona}
+> [mi tu li alasa e kulupu pi kasi suli. sina o tawa ma anpa.]{.tokipona}
 >
 > > [sona]{.tokipona}
 
 <details><summary> See Translation! </summary>
 
-1: Myself and two others are going to the forest. You'll head to the cave.
+1: We're going to look for a jungle. You'll head to the cave.
 
 2: Understood!
 
 </details>
 
-Your friend said...
+You're playing VRChat with a group of friends you've come to know and love over the past few months! At the end of this most recent meetup, everyone piles together in front of a beautiful landscape in game, and the meetup host says to the crowd as they prepare to take a picture:
 
 > [jan ale o lukin! mi pali e sitelen kulupu, o mu!]{.tokipona}
 >
@@ -455,45 +459,55 @@ This one is a not so literal- it's a mimicry of the equivalent exchange in Engli
 
 </details>
 
-Your friend said...
+After a few hours of gaming with some friends, you realize it's late in the night and you need to go to sleep soon. You find a comfortable spot to take a break in the game, and then let your friends know:
 
-> [mi ken ala awen musi, mi o tawa pali.]{.tokipona}
+> [mi ken ala awen musi, mi o tawa pali lon open pi tenpo suno kama.]{.tokipona}
 >
 > > [a mi sona! pali pona!]{.tokipona}
+> >
+> > [pali pona a!]{.tokipona}
 
 <details><summary> See Translation! </summary>
 
-1: I can't keep playing, I have to go work.
+1: I can't keep playing, I have to go work at the start of the next day.
 
 2: Ahh, I understand. Have a good day at work!
 
+3: Have fun at work!
+
 </details>
 
-Your friend said...
+You come into work early one Monday, but your friend didn't make it in and you don't know why! You message them, and they explain: I was playing games for so long that I got sick... You feel a little bad, but you can't help but laugh at the same time! You explain to your other co-workers over lunch:
 
 > [jan poka mi li pilin ike lili tan ni: ona li musi lon tenpo suli a!]{.tokipona}
 >
 > > [aa ona o kama pona!]{.tokipona}
+> >
+> > [mi sama! ona o pona!]{.tokipona}
 
 <details><summary> See Translation! </summary>
 
-1: My friend is feeling a little bad because they were playing for a long time!
+1: My friend is feeling a little bad because they were playing games for too long!
 
 2: Oh, I hope they feel better!
 
+3: I feel the same way! I hope they get better!
+
 </details>
 
-You've been looking for your book for hours! You know you had it earlier today
+You've been looking for your driver's license for hours! You know you had it earlier today, but after your appointment you lost track of it. You ask a few friends for help tracking it down, and after a few hours, a friend calls you up and tells you:
 
 > [mi kama jo e lipu sina tan alasa. mi pana e ona tawa poki sina!]{.tokipona}
 >
-> > [pona tawa sina!]{.tokipona}
+> > [pona tawa sina! sina pona wawa e mi!]{.tokipona}
 
 <details><summary> See Translation! </summary>
 
 1: I found your book from searching. I put it in your bag!
 
-2: Thank you so much! / "Goodness go to you!"
+2: Thank you! You helped me so much!
+
+2 (alt): Goodness go to you! You're so helpful!
 
 </details>
 
@@ -513,99 +527,131 @@ Your friend invited you over to show off something exciting: they taught their p
 
 ### English to Toki Pona
 
-> t
+> Watch me lift this huuuuge rock!
 >
-> > t
+> > Impressive!
 
-<details><summary>  </summary>
+<details><summary> See Translation! </summary>
 
-1: []{.tokipona}
+1: [o lukin! mi tawa sewi e kiwen suli ni!]{.tokipona}
 
-2: []{.tokipona}
+2: [wawa!]{.tokipona}
+
+---
+
+1: [o lukin e ni! mi sewi e kiwen suli ni!]{.tokipona}
+
+2: [pona!]{.tokipona}
 
 </details>
 
-> t
+> I teach people a better way to teach.
 >
-> > t
+> > Brilliant!
 
-<details><summary>  </summary>
+<details><summary> **See Translation!** </summary>
 
-1: []{.tokipona}
+1: [mi pana e sona ni: jan li ken pana pona e sona]{.tokipona}
 
-2: []{.tokipona}
+2: [nasin sona a]{.tokipona}
+
+---
+
+1: [mi pana e sona ni: jan li ken pana pona e sona]{.tokipona}
+
+2: [sona]{.tokipona}
+
+::: info
+
+[nasin]{.tokipona} can be used to refer to any
+
+:::
 
 </details>
 
-> t
+> My friends said we can go with them to the zoo!
 >
-> > t
+> > Hooray!
 
-<details><summary>  </summary>
+<details><summary> See Translation! </summary>
 
-1: []{.tokipona}
+1: [jan poka mi li toki e ni: mi tu li ken tawa ma soweli lon poka ona]{.tokipona}
 
-2: []{.tokipona}
+2: [pona a!]{.tokipona}
 
 </details>
 
-> t
+> Bring your brother with you to the restaurant!
 >
-> > t
+> > Gotcha, I will!
 
-<details><summary>  </summary>
+<details><summary> See Translation! </summary>
 
-1: []{.tokipona}
+1: [sina en jan poka sina o tawa tomo moku]{.tokipona}
 
-2: []{.tokipona}
+2: [sona, mi ni!]{.tokipona}
+
+::: info
+
+The first sentence isn't exactly the same as the original English! Next lesson, we'll look at a piece of grammar that can translate the original idea even better.
+
+:::
 
 </details>
 
-> t
+> I think we should create a storage room for all the cobble!
 >
-> > t
+> > I'm thinking the same!
 
-<details><summary>  </summary>
+<details><summary> See Translation! </summary>
 
-1: []{.tokipona}
+1: [pilin mi li ni: mi mute o pali e tomo awen tawa kiwen ale!]{.tokipona}
 
-2: []{.tokipona}
+2: [sama!]{.tokipona} / [pilin mi li sama!]{.tokipona}
 
 </details>
 
-> t
+> They can't go to the park today because of the rain. But they can play a game inside!
 >
-> > t
+> > Ooo exciting! Fantastic!
 
-<details><summary>  </summary>
+<details><summary> See Translation! </summary>
 
-1: []{.tokipona}
+1: [ona li ken ala tawa ma musi lon tenpo suno ni tan telo sewi. taso, ona li ken musi lon tomo!]{.tokipona}
 
-2: []{.tokipona}
+2: [a pona wawa!]{.tokipona}
+
+::: info
+
+The idea of a park being [ma musi]{.tokipona}, or the rain being [telo sewi]{.tokipona}, are not the only ways to do it! If you came up with something else, such as [ma kasi]{.tokipona} for park or [telo mute]{.tokipona} for rain, that's good too!
+
+:::
 
 </details>
 
-> t
->
-> > t
+> They broke my bike! I can't get home! Oh no!
 
-<details><summary>  </summary>
+<details><summary> See Translation! </summary>
 
-1: []{.tokipona}
-
-2: []{.tokipona}
+[ona li pakala e ilo tawa mi! mi ken ala tawa tomi mi! ike! pakala!]{.tokipona}
 
 </details>
 
-> t
+> They're a beekeeper. They've been beekeeping for a long time!
 >
-> > t
+> > Aww, sweet!
 
-<details><summary>  </summary>
+<details><summary> See Translation! </summary>
 
-1: []{.tokipona}
+1: [ona li jan pali pi kulupu pipi! ona li ni lon tenpo suli!]{.tokipona}
 
-2: []{.tokipona}
+2: [suwi! pona mute a!]{.tokipona}
+
+::: info
+
+"Sweet" in English could be like "cool" and "awesome", or like "cute" and "adorable". It depends on if you're thinking of the excitement of beekeeping, or the adorable faces of bees. The Toki Pona translation does both, first cute then awesome!
+
+:::
 
 </details>
 
