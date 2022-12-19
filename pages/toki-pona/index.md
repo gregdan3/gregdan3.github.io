@@ -55,7 +55,7 @@ Each lesson is the chapter of a book! They are long and detailed. Each one has i
 - [Pre-predicates, ala](./sona/pre-predicates.html) --- [On YouTube](https://youtu.be/YjxSaqAZwqk)
 - [Prepositions](./sona/preps.html) --- [On YouTube](https://youtu.be/hbUaLDRmULI)
 - [Instructions with o](./sona/o.html) --- [On YouTube](https://youtu.be/lf3lDjIWiYI)
-- [[WIP]Interjections and a](./sona/interjections.html)
+- [Interjections and a](./sona/interjections.html)
 - [[WIP] Context, Comparisons, la](./sona/la.html)
 - [[WIP] Questions, answers, seme](./sona/seme.html)
 - [[WIP] And Another Thing...](./sona/bits.html)
