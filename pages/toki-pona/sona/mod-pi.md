@@ -66,8 +66,7 @@ date: date unknown
 #### en, quickly!
 
 We saw before that [li]{.tokipona} can be used more than once to refer to multiple actions or traits of the subject.
-You can also use [e]{.tokipona} more than once for multiple objects.
-You can even use them both together.
+You can also use [e]{.tokipona} more than once for multiple objects, and you can use [li]{.tokipona} and [e]{.tokipona} together too!
 
 What about multiple subjects? The word [en]{.tokipona} is used to add subjects after the first.
 
@@ -256,6 +255,27 @@ For clarity, limit yourself to one [pi]{.tokipona} per phrase.
 If you have more than one [pi]{.tokipona}, context tells whether they both modify the head or the second modifies the first. But with one [pi]{.tokipona}, you can't go wrong!
 
 :::
+
+<details><summary>A note on multiple [pi]{.tokipona}</summary>
+
+When using or reading double pi, there are two possible interpretations.
+
+- Both pi can separately modify the head of the phrase: [jan pi {pali wawa} pi {toki pona}]{.tokipona}, a person related to toki pona and strong work
+- The later pi can modify the one before: [jan pi {pali wawa pi toki pona}]{.tokipona}, a person related to strong work, and the work is toki pona related
+
+Context tells you which is in use, but it is more clear to limit yourself to one pi per phase
+
+Restatements for this example:
+
+[jan li pali wawa li toki pona]{.tokipona}
+
+Here, the two are separated, since they're separate predicates for the subject [jan]{.tokipona} in a single sentence.
+
+[jan li pali wawa. pali li toki pona!]{.tokipona}
+
+Here, the two are related, since the second sentence adds more information about the [pali]{.tokipona} in the first sentence!
+
+</details>
 
 ## Exercises
 
