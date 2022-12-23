@@ -11,7 +11,7 @@
     $endif$
     <meta property="og:title" content="gregsite - $pagetitle$" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://gregdan3.github.io/$directory$" />
+    <meta property="og:url" content="https://gregdan3.dev/$directory$" />
     <meta property="og:image" content="/avatar.jpg" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="gregsite" />
@@ -20,31 +20,28 @@
       content="gregsite, read because it's free"
     />
     <title>gregsite - $pagetitle$</title>
-    <link href="https://gregdan3.github.io/" rel="canonical" />
+    <link href="https://gregdan3.dev/" rel="canonical" />
     <link href="/style.css" rel="stylesheet" type="text/css" />
-    $if(toki-pona)$
-    <link href="/toki-pona/style.css" rel="stylesheet" type="text/css" />
-    $endif$
     <link href="/favicon.ico" rel="icon" type="image/png" />
   </head>
   <body>
     <header>
       <a href="/" style="border-bottom: none"
-        ><img src="/avatar.jpg" alt="gregdan3's avatar"
+        ><img src="/avatar.jpg" alt="gregdan3"
       /></a>
       <h2><a href="/">gregdan3</a></h2>
       <h3>$pagetitle$</h3>
     </header>
     <nav>
-      <a href="/">Home</a> <a href="/blog/">Blogzone</a>
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+      <a href="/now.html">Me & Now</a>
+      <a href="https://mun.la">Toki Pona</a>
       <!-- <a href="/mind-map/">Mind Map</a> -->
       <!-- <a href="/projects/">Projects</a> -->
-      <a href="/toki-pona/">Toki Pona</a>
     </nav>
     <article>
-      $if(toki-pona)$
-      <button type="button" onclick="toggle()">Toggle SP</button>
-      $endif$ $for(include-before)$ $include-before$ $endfor$ $body$
+      $for(include-before)$ $include-before$ $endfor$ $body$
       $for(include-after)$ $include-after$ $endfor$
     </article>
     <footer>
@@ -54,9 +51,6 @@
         <a href="https://github.com/gregdan3/gregdan3.github.io">my GitHub</a>.
       </p>
     </footer>
-    $if(toki-pona)$
-    <script src="/toki-pona/sptoggle.js"></script>
-    $endif$
     <script
       data-goatcounter="https://gregdan3.goatcounter.com/count"
       async
