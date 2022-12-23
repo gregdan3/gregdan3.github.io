@@ -10,6 +10,16 @@
   content: "​";
   /* fix line-end ligature on firefox */
 }
+/* @media (pointer: fine) { */
+/*   .tokipona:hover { */
+/*     font-size: unset; */
+/*     font-family: unset; */
+/*   } */
+/*   .tokipona:hover::before { */
+/*     width: 500%; */
+/*     height: 500%; */
+/*   } */
+/* } */
 .tokipona blockquote p {
   font-size: 1.2em;
   padding: 1.5%;
