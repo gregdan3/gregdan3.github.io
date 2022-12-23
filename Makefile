@@ -35,20 +35,12 @@ $(BUILDDIR)/blog/index.html:
 	./blogindex.sh | $(MD_TO_HTML) -o $@
 	$(MINIFIER) $@ $@
 
-$(BUILDDIR)/toki-pona/ilo/map.html:
-	@mkdir -p $(@D)
-	$(MAPPER) pages/toki-pona/ilo/map.md -o $@
-	$(MINIFIER) $@ $@
-
 $(BUILDDIR)/%.html: $(PAGEDIR)/%.md $(TEMPLATE)
 	@mkdir -p $(@D)
 	$(TOC_MAKER) $<
 	$(MD_TO_HTML) \
 		--metadata="directory:$(subst pages/,,$<)" \
-		--metadata="toki-pona:$(shell echo $(@D) | grep -o 'toki-pona')" \
-		--metadata="extra-css:" \
 		-o $@ $<
-	# TODO: dir level metadata instead of... this? for css
 	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/%: $(STATICDIR)/%
