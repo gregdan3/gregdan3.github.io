@@ -19,6 +19,9 @@
       property="og:description"
       content="gregsite, read because it's free"
     />
+    $if(destination)$
+    <meta http-equiv="refresh" content="0;url=https://mun.la$destination$" />
+    $endif$
     <title>gregsite - $pagetitle$</title>
     <link href="https://gregdan3.dev/" rel="canonical" />
     <link href="/style.css" rel="stylesheet" type="text/css" />
@@ -35,7 +38,7 @@
     <nav>
       <a href="/">Home</a>
       <a href="/blog/">Blog</a>
-      <a href="/now.html">Me & Now</a>
+      <a href="/now.html">Now</a>
       <a href="https://mun.la">Toki Pona</a>
       <!-- <a href="/mind-map/">Mind Map</a> -->
       <!-- <a href="/projects/">Projects</a> -->
