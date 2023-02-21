@@ -20,17 +20,18 @@ DEVNAME=scoot-site
 
 .PHONY: all clean dev stopdev
 
-all: $(BUILDDIR)/blog/index.html $(BUILDDIR)/mind-map/index.html $(PAGES_BUILT) $(STATICS_BUILT) 
+# all: $(BUILDDIR)/blog/index.html $(BUILDDIR)/mind-map/index.html $(PAGES_BUILT) $(STATICS_BUILT) 
+all: $(BUILDDIR)/blog/index.html $(PAGES_BUILT) $(STATICS_BUILT) 
 
 clean:
 	rm -rf $(BUILDDIR)/*
 
-# $(BUILDDIR)/mind-map/index.html:
-# 	@mkdir -p $(@D)
-# 	./mapindex.sh | $(MD_TO_HTML) \
-# 	--template=$(TEMPLATE) \
-# 	-o $@
-# 	$(MINIFIER) $@ $@
+$(BUILDDIR)/mind-map/index.html:
+	@mkdir -p $(@D)
+	./mapindex.sh | $(MD_TO_HTML) \
+	--template=$(TEMPLATE) \
+	-o $@
+	$(MINIFIER) $@ $@
 
 $(BUILDDIR)/blog/index.html: 
 	@mkdir -p $(@D)
