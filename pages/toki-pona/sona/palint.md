@@ -1,9 +1,0 @@
----
-destination: /sona/palint.html
----
-
-
-
-
-
-

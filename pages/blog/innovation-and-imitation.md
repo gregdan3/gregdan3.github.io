@@ -26,19 +26,19 @@ When I was younger and about to start my first, ill-fated attempt at college, I
 briefly contemplated going into music. I play guitar. I don't just play guitar, 
 I **love** guitar. For a long time (and maybe still) I harbored dreams of being
 a professional musician. Ultimately I decided to go into school for something else
-entirely - something *practical*. But part of the reason I decided not to was that
+entirely - something *practical*. But part of the reason for that was 
 I didn't want to learn some bland, academic way of playing. In my arrogance, I thought
 it would be better to learn as much as I could on my own rather than seek instruction
-in a skill that I could not live without. I think maybe my dumb teenage brain thought
+in a skill that meant a lot to me. I think maybe my dumb teenage brain thought
 it was going to reinvent music from the ground up.
 
 
-It's been a decade, and I can confidently declare that hasn't been the case.
+It's been a decade, and I can confidently say that hasn't been the case.
 
 
-This is an attitude that has followed me in other areas of my life.
+But this is an attitude that has followed me in other areas of my life.
 I feel like maybe, I haven't earned it if I haven't worked through
-the entire thing from beginning to end. If I were an automobile engineer, I
+the entire thing from bottom to top. If I were an automobile engineer, I
 think some part of me would inevitably feel compelled to reinvent the 
 windshield wiper, combustion engine, and of course the wheel. I almost
 feel guilty taking hints from others, or basing my work off of theirs.
@@ -51,9 +51,9 @@ something from first principles.
 
 Making a small improvement to an existing thing is a humbling experience.
 You've created something. And maybe you've created something really amazing!
-But in that act you come to an awareness (maybe not always!) of all the work
-that makes yours possible. Even more humbling is when you *don't* understand
-all the ground work of what you're doing.
+But in that act you come to an awareness (not necessarily and understanding!)
+of all the work that makes yours possible. Even more humbling is when you 
+*don't* understand all the ground work of what you're doing.
 
 
 But you can kind of endlessly dig into things you don't understand right? 
@@ -66,8 +66,8 @@ The assembly language in question probably depends on
 the architecture of the CPU in question.
 
 CPU architecture... is complex and I don't really know
-a lot about it! But at some point you're now asking electrical
-engineering questions about logic circuits.
+a lot about it! But at some point you're starting to ask 
+electrical engineering questions about logic circuits.
 
 Then you're asking physics questions about how conductors and
 electrons and atoms work.
@@ -85,7 +85,7 @@ that I swim instead of try to dive to the bottom though.
 
 ### good artists copy... 
 
-This is all to say that, I yanked the format for this static website
+This is all to say that I yanked the format for this static website
 from my friend Greg's github:
 
 [gregdan3's Site](https://github.com/gregdan3/gregdan3.github.io)
