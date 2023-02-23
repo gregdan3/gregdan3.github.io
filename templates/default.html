@@ -29,18 +29,25 @@
     <h2><a href="/">gregdan3</a></h2>
     <h3>$pagetitle$</h3>
   </header>
-  <nav>
-    <a href="/">Home</a>
-    <a href="/blog/">Blog</a>
-    <a href="/now.html">Now</a>
-    <a href="https://mun.la">Toki Pona</a>
-    <!-- <a href="/mind-map/">Mind Map</a> -->
-    <!-- <a href="/projects/">Projects</a> -->
-  </nav>
-  <article>
-    $for(include-before)$ $include-before$ $endfor$ $body$
-    $for(include-after)$ $include-after$ $endfor$
-  </article>
+
+  <div class="side-nav">
+    <nav>
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+      <a href="/now.html">Projects</a>
+      <!--<a href="https://mun.la">Games</a> -->
+      <!-- <a href="/mind-map/">Mind Map</a> -->
+      <!-- <a href="/projects/">Projects</a> -->
+    </nav>
+  </div>
+
+  <div>
+    <article class="main">
+      $for(include-before)$ $include-before$ $endfor$ $body$
+      $for(include-after)$ $include-after$ $endfor$
+    </article>
+  </div>
+
   <footer>
     <p>Licensed under <a href="/LICENSE.txt">GPLv3</a>.</p>
     <p>
