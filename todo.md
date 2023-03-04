@@ -1,22 +1,17 @@
 
-#STEALING
+# STEALING
 
-
-## Workflow
-
-Need language server formatting for css and html
-to modify build files active in docker volume.
 
 ## Tasks
-Okay so big tasks:
-Revamp the main index.html
 
+- Get Domain name
+- Re-make cname file
+- meta og property with new name
+- canonical link
+- Add contact info
+- Set up goatcounters
+- Rework Blogs/Projects into same page, Mix Blog Posts in with project posts, use emoji identifier in headliner!
 
-## Delete
-Obviously remove all of Greg's personal blogs and Toki Pona Content.
-
-## Replace
-About Me section on main page
 
 ## Add
 Section for personal projects!
