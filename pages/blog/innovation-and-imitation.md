@@ -86,7 +86,7 @@ that I swim instead of try to dive to the bottom though.
 ### good artists copy... 
 
 This is all to say that I yanked the format for this static website
-from my friend Greg's github:
+from my friend Greg's github.
 
 [gregdan3's Site](https://github.com/gregdan3/gregdan3.github.io)
 
