@@ -1,41 +1,40 @@
-/* @media (prefers-color-scheme: light) { */
 :root {
-  --prim-fg: #444444;
-  --prim-bg: #f2f2f2;
-  --prim-ac: #555555;
-  --sec-fg: #333333;
-  --sec-bg: #d3d3d3;
-  --sec-ac: #555555;
-  --info-bg: lightblue;
-  --info-fg: blue;
-  --warn-bg: lightyellow;
-  --warn-fg: green;
-  --error-bg: pink;
-  --error-fg: darkred;
-  --spoil-fg: #443231;
-  --spoil-bg: #e2c49c;
-}
-/* } */
-/* @media (prefers-color-scheme: dark) { */
-/*   :root { */
-/*     --prim-fg: #eeeeee; */
-/*     --prim-bg: #333333; */
-/*     --prim-ac: #cccccc; */
-/*     --sec-fg: #dddddd; */
-/*     --sec-bg: #222222; */
-/*     --sec-ac: #b9b9b9; */
-/*     --info-bg: darkblue; */
-/*     --info-fg: lightblue; */
-/*     --warn-bg: darkgreen; */
-/*     --warn-fg: yellow; */
-/*     --error-bg: darkred; */
-/*     --error-fg: pink; */
-/*     --spoil-fg: #e2c49c; */
-/*     --spoil-bg: #443231; */
-/*   } */
-/* } */
+    --prim-fg: #52598F;
+    --prim-bg: #E9E9F0;
+    --prim-ac: #757DB3;
+    --sec-fg: #6E8CB6;
+    --sec-bg: #D9E3F0;
+    --sec-ac: #52598F;
+    --info-bg: #A0C0D9;
+    --info-fg: #F0F5FA;
+    --warn-bg: #D9C1E8;
+    --warn-fg: #52598F;
+    --error-bg: #F1C2D1;
+    --error-fg: #8F5E5E;
+    --spoil-fg: #D9C1E8;
+    --spoil-bg: #6E8CB6;
+
+    --tokyo-night-1: #001848;
+    --tokyo-night-2: #004267;
+    --tokyo-night-3: #007396;
+    --tokyo-night-4: #00a0c6;
+    --tokyo-night-5: #9dd9d2;
+    --tokyo-night-6: #f2d492;
+    --tokyo-night-7: #e5a9b1;
+    --tokyo-night-8: #c83e4d;
+
+    /* #a6445d */
+    /* #021c41 */
+    /* #142f40 */
+    /* #d89b65 */
+    /* #bf835f */
+  }
+
 body {
-  margin: 8% auto;
+  margin: 5% auto;
+  margin-left: 28%;
+  margin-right: 8%;
+
   padding: 4%;
   background: var(--prim-bg);
   color: var(--prim-fg);
@@ -44,19 +43,9 @@ body {
   font-size: 1.125em;
   line-height: 1.7em;
   max-width: 69%;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2), 0 15px 40px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 5px 7px var(--tokyo-night-8), 0 15px 40px var(--tokyo-night-3);
 }
 
-@media (pointer: none), (pointer: coarse) {
-  body {
-    line-height: 1.5em;
-    max-width: 80%;
-    font-size: 1.05em;
-  }
-  header h2 {
-    display: none;
-  }
-}
 header {
   display: flex;
   padding-block: 1em;
@@ -78,22 +67,6 @@ header img {
   height: 3.8em;
 }
 
-nav {
-height: 100%;
-width: 20%;
-position: fixed;
-z-index: 1;
-top: 0;
-left: 0;
-background-color: #111;
-overflow-x: hidden;
-padding-top: 20px;
-display: flex;
-flex-direction: column;
-justify-content: center;
-}
-
-
 article {
   padding-inline: 0.5em;
   margin: 8% auto;
@@ -108,13 +81,8 @@ article {
 }
 
 .main {
-  margin-left: 25%;
+  margin: auto;
   padding-inline: 0.5em;
-  margin: 8% auto;
-    margin-top: 8%;
-    margin-right: auto;
-    margin-bottom: 8%;
-    margin-left: auto;
   padding: 4%;
   background: var(--prim-bg);
   color: var(--prim-fg);
@@ -123,23 +91,8 @@ article {
   line-height: 1.7em;
   max-width: 69%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2), 0 15px 40px rgba(0, 0, 0, 0.05);
-  margin-right: 5%;
 }
 
-.side-nav {
-  height: 100%;
-  width: 20%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
 footer {
   font-size: 0.75em;
   line-height: 1em;
@@ -150,9 +103,6 @@ a {
   text-decoration: none;
   border-bottom: 0.06em solid var(--prim-ac);
   color: var(--prim-fg);
-}
-a:hover {
-  border-bottom: 0.06em dotted var(--prim-ac);
 }
 blockquote {
   margin: 0.5em;
@@ -268,4 +218,36 @@ details p {
   padding-inline: 0.5em;
   /* border-inline-start: 0.25em solid var(--prim-ac); */
   /* background: var(--sec-bg); */
+}
+
+nav {
+  height:100%;
+  width: 20%;
+
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+
+  background-color: var(--tokyo-night-2);
+
+  overflow-x: hidden;
+  /* padding-top: 20px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+nav > a {
+  border-bottom: 3px solid var(--tokyo-night-3);
+  color: var(--tokyo-night-4);
+  padding-top: 20%;
+  padding-left: 10%;
+  font-size: 20px;
+}
+
+nav > a:hover {
+  border-bottom: 3px solid var(--tokyo-night-4);
+  color: var(--tokyo-night-5);
 }
