@@ -1,15 +1,35 @@
-# Static Website Generator I Guess (SWGIG)
+# gregdan3.dev
 
-### Scraps
+## References
 
-```sh
-cat ./pages/toki-pona/index.md | grep -oP '\/sona\/[-\w]*.html' | sed 's|/sona/||g ; s|.html|.md|g' | xsel --clipboard
-```
+<https://github.com/cubedhuang/sona-nimi/>
 
-fetch all links from toki pona index
+## Dependencies
 
-```vim
-:%s/\([:.!?]\) \?/\1\r/g
-```
+### Core
 
-newline-ify a document (better for smaller docs)
+##### PNPM
+
+##### TypeScript
+
+##### Svelte
+
+### TODO: NAME
+
+##### MDsveX
+
+Pre-process Markdown documents so they can also be dynamic Svelte documents.
+
+### Style & Components
+
+##### TailwindCSS
+
+##### Skeleton
+
+##### Flowbite
+
+### Testing
+
+##### Playwright
+
+##### Vite

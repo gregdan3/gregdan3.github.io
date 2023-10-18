@@ -1,9 +1,0 @@
----
-destination: /sona/seme.html
----
-
-
-
-
-
-
