@@ -11,15 +11,15 @@ published: true
 
 # Markdown Test Page
 
-- [Headings](#Headings)
-- [Paragraphs](#Paragraphs)
-- [Blockquotes](#Blockquotes)
-- [Lists](#Lists)
-- [Horizontal rule](#Horizontal)
-- [Table](#Table)
-- [Code](#Code)
-- [Inline elements](#Inline)
-- [Spoilers](#Spoilers)
+- [headings](#headings)
+- [paragraphs](#paragraphs)
+- [blockquotes](#blockquotes)
+- [lists](#lists)
+- [horizontal rule](#horizontal-rule)
+- [table](#table)
+- [code](#code)
+- [inline elements](#inline-elements)
+- [spoilers](#spoilers)
 
 ---
 

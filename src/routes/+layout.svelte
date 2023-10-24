@@ -4,22 +4,23 @@
 	import Meta from '$lib/components/Meta.svelte';
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
-	import Nav from '$lib/components/Nav.svelte';
 
-	import { links } from '../data/navlinks';
+	import { headerlinks, footerlinks } from '../data/links';
 
 	export let title = 'Title Missing';
 </script>
 
-<article class="">
+<svelte:head>
 	<Meta {title} />
-	<Header {title} />
-	<Nav {links} />
-	<!-- TODO: why prosen't?  -->
-	<slot />
+</svelte:head>
 
-	<Footer />
+<Header {title} links={headerlinks} />
+
+<article>
+	<slot />
 </article>
+
+<Footer links={footerlinks} />
 
 <style>
 </style>

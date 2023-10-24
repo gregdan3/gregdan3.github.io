@@ -2,7 +2,12 @@
   import type { PageData } from './$types';
   import { goto } from '$app/navigation';
   import BlogEntry from '$lib/components/BlogEntry.svelte';
-  import { Paginator } from '@skeletonlabs/skeleton';
+
+  // import {Pagination, PaginationItem} from 'flowbite-svelte';
+  import { page } from '$app/stores';
+  import { Pagination } from 'flowbite-svelte';
+  import { ChevronLeftOutline, ChevronRightOutline } from 'flowbite-svelte-icons';
+
   export let data: PageData;
   const {posts, currentPage, totalPages} = data;
 

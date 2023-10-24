@@ -5,57 +5,8 @@
 @tailwind screens;
 
 @layer utilities {
-  :root {
-      @apply bg-white dark:bg-gray-800;
-  }
-
-  body {
-  }
   article {
-      @apply prose lg:prose-xl dark:prose-invert mx-auto mt-16 mb-16 pt-6 p-12 font-sans;
-      box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.4);
-    }
-
-  blockquote {
-      @apply rounded-l rounded-r border-gray-600 bg-gray-300
+    @apply prose md:prose-lg lg:prose-xl dark:prose-invert mx-auto mt-16 mb-16 pt-6 p-12 font-sans;
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.4);
   }
-
-  /* blockquote ::before {
-      @apply pl-4
-  } */
-
-  hr {
-    @apply my-4 border-t border-b border-gray-600 w-10/12 mx-auto;
-  }
-
-  table {
-    @apply w-full text-left bg-gray-100 border-collapse;
-  }
-
-  thead {
-    @apply bg-gray-200;
-  }
-
-  th {
-    @apply p-4 font-semibold text-gray-800 border-b-2 border-gray-300;
-  }
-
-  tbody {
-    @apply bg-white;
-  }
-
-  tr {
-    @apply border-b border-gray-200;
-  }
-
-  td {
-    @apply p-4;
-  }
-
-  tr:hover {
-    @apply bg-gray-100;
-  }
-
-
-
 }
