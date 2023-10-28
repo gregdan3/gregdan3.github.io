@@ -1,43 +1,48 @@
 <script lang="ts">
-	import type { Link } from '$lib/types';
-
 	import {
 		Footer,
 		FooterBrand,
-		FooterCopyright,
 		FooterIcon,
+		FooterLinkGroup,
 		FooterLink,
-		FooterLinkGroup
+		FooterCopyright
 	} from 'flowbite-svelte';
 
-	export let links: Link[];
+	import type { Link } from '$lib/types';
+	import FooterSocial from '$lib/components/FooterSocial.svelte';
+
+	import Icon from '@iconify/svelte';
+	import chevronUpIcon from '@iconify/icons-mdi/chevron-up';
+
+	export let footerlinks: Link[];
+	export let socials: Link[];
 </script>
 
-<Footer class="absolute w-screen bottom-0">
-	<!-- <FooterCopyright href="/" by="Flowbite™" year={2022} /> -->
-	<FooterBrand href="/" src="/avatar.jpg" alt="gregdan3" name="gregdan3" />
-	<FooterLinkGroup
-		ulClass="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0"
-	>
-		<FooterLink href="/">About</FooterLink>
-		<FooterLink href="/">Privacy Policy</FooterLink>
-		<FooterLink href="/">Licensing</FooterLink>
-		<FooterLink href="/">Contact</FooterLink>
-	</FooterLinkGroup>
+<Footer class="relative w-screen bottom-0" footerType="socialmedia">
+	<!-- TODO: what I want is for it to stick to the bottom of the document, or if the screen is lower than that, to the bottom of the screen  -->
+
+	<div class="flex items-center justify-between">
+		<FooterBrand href="/" src="/avatar.jpg" alt="gregdan3.dev" name="gregdan3.dev" />
+
+		<FooterLinkGroup class="ml-14">
+			<FooterIcon href="#top">
+				<Icon
+					icon={chevronUpIcon}
+					class="w-8 h-8 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
+				/>
+			</FooterIcon>
+		</FooterLinkGroup>
+
+		<FooterLinkGroup class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
+			{#each footerlinks as link}
+				<FooterSocial {...link} />
+			{/each}
+
+			<div class="h-6 w-0.5" />
+
+			{#each socials as social}
+				<FooterSocial {...social} />
+			{/each}
+		</FooterLinkGroup>
+	</div>
 </Footer>
-
-<!-- <footer class="text-xs text-center pt-4"> -->
-<!-- 	<div>Licensed under <a href="/LICENSE.txt">GPLv3</a>.</div> -->
-<!-- 	<div> -->
-<!-- 		Code on -->
-<!-- 		<a href="https://github.com/gregdan3/gregdan3.github.io">my GitHub</a>. -->
-<!-- 	</div> -->
-<!-- 	<script -->
-<!-- 		data-goatcounter="https://gregdan3.goatcounter.com/count" -->
-<!-- 		async -->
-<!-- 		src="//gc.zgo.at/count.js" -->
-<!-- 	></script> -->
-<!-- </footer> -->
-
-<style>
-</style>

@@ -56,5 +56,17 @@ export const links: Project[] = [
 			{ name: 'Python', icon: 'python' },
 			{ name: 'Golang', icon: 'golang' }
 		]
+	},
+	{
+		name: 'Cool Space Things',
+		link: 'https://coolspacethings.neocities.org',
+		repo: 'https://github.com/gregdan3/n2yo-vis',
+		role: 'Creator',
+		description:
+			'A very cool, if cludgy, NORAD object visualizer. Made with @jmfrees while in my undergrad.',
+		skills: [
+			{ name: 'JavaScript', icon: 'js' },
+			{ name: 'D3', icon: 'd3' }
+		]
 	}
 ];

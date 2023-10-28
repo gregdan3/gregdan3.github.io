@@ -6,7 +6,36 @@
 
 @layer utilities {
   article {
-    @apply prose md:prose-lg lg:prose-xl dark:prose-invert mx-auto mt-16 mb-16 pt-6 p-12 font-sans;
+    /* primary styles */
+    @apply prose dark:prose-invert sm:prose-sm md:prose-lg lg:prose-xl mx-auto m-8 p-12 font-sans;
+    /* h-[calc(100vh-242px)] */
+
+    /* links */
+    @apply prose-a:decoration-blue-500 dark:prose-a:decoration-indigo-700 hover:prose-a:decoration-dashed;
+    /* hover:prose-a:decoration-blue-500 */
+
+    /* headings */
+    @apply prose-h1:underline prose-h2:underline prose-h3:underline prose-h4:underline;
+    /* prose-headings:underline */
+
+    /* inline code */
+    @apply prose-code:before:content-[] prose-code:after:content-[]; 
+    /* prose-code:bg-gray-300 prose-code:dark:bg-gray-700 prose-code:text-red-700 dark:prose-code:text-rose-500 ; */
+
+    /* tables */
+    /* @apply prose-table:; */
+
     box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.4);
   }
+
+  /* default mt on these is Enormous */
+  /*
+  article h1, h2, h3, h4 {
+    @apply mt-6 mb-4 ml-2
+  }
+  */
+
+
+  article summary { }
+  article details { }
 }

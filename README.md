@@ -4,6 +4,8 @@
 
 <https://github.com/cubedhuang/sona-nimi/>
 
+<https://flowbite-svelte.com/docs/components/navbar>
+
 ## Dependencies
 
 ### Core

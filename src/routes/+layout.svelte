@@ -5,22 +5,23 @@
 	import Header from '$lib/components/Header.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 
-	import { headerlinks, footerlinks } from '../data/links';
+	import { headerlinks, footerlinks, socials } from '../data/links';
 
 	export let title = 'Title Missing';
+	export let frontmatter = {};
 </script>
 
 <svelte:head>
 	<Meta {title} />
 </svelte:head>
 
-<Header {title} links={headerlinks} />
+<Header links={headerlinks} />
 
 <article>
 	<slot />
 </article>
 
-<Footer links={footerlinks} />
+<Footer {headerlinks} {footerlinks} {socials} />
 
 <style>
 </style>

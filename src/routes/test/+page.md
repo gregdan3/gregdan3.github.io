@@ -9,6 +9,7 @@ published: true
 <script lang="ts">
   import 'prism-themes/themes/prism-material-light.min.css';
   import 'prism-themes/themes/prism-material-dark.min.css';
+	import { Accordion, AccordionItem } from 'flowbite-svelte';
 </script>
 
 # Markdown Test Page
@@ -100,13 +101,13 @@ Officia irure in non voluptate adipisicing sit amet tempor duis dolore deserunt 
 > > ...by using additional greater-than signs right next to each other...
 > >
 > > > ...or with spaces between arrows.
-> > 
+> >
 > > And can unnest
-> 
+>
 > And do so a lot
-> > > >
+>
 > > > > And nest arbitrarily
-> 
+>
 > And go back to normal
 
 Bottom text.
@@ -428,6 +429,12 @@ TODO: requires prettier-ignore comment to function
 
 ### [Custom containers](https://github.com/markdown-it/markdown-it-container)
 
-::: warning
-_here be dragons_
-:::
+<Accordion>
+  <AccordionItem>
+    <span slot="header">summary content</span>
+    <p>Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.</p>
+  </AccordionItem>
+  <AccordionItem>
+    <span slot="header">summary number two</span>
+  </AccordionItem>
+</Accordion>

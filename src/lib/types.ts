@@ -1,14 +1,19 @@
+import type { IconOutline, IconSolid } from 'flowbite-svelte-icons';
+import type { IconifyIcon } from '@iconify/svelte';
+
 // links.ts
 export interface Link {
 	name: string;
-	url: string;
-	icon?: string;
+	href: string;
+	icon?: IconifyIcon;
+	bclass?: string;
+	tooltip?: string;
 }
 
 // projects.ts
 export interface Technology {
 	name: string;
-	icon: string;
+	icon: string; // TODO
 }
 
 type Role = 'Contributor' | 'Maintainer' | 'Creator';
@@ -22,11 +27,4 @@ export interface Project {
 	description: string;
 	skills: Technology[];
 	header?: string;
-}
-
-// socials.ts
-export interface SocialMedia {
-	name: string;
-	url: string;
-	icon?: string;
 }

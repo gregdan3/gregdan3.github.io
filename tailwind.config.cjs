@@ -12,7 +12,13 @@ const config = {
 		'./node_modules/flowbite-svelte/**/*.{html,js,svelte,ts}',
 		join(require.resolve('@skeletonlabs/skeleton'), '../**/*.{html,js,svelte,ts}')
 	],
-	theme: { },
+	theme: {
+		// extend: {
+		// 	typography: {
+		// 		default: { css: { 'code::before': { content: '' }, 'code::after': { content: '' } } }
+		// 	}
+		// }
+	},
 	plugins: [
 		require('@tailwindcss/typography'),
 		require('flowbite/plugin'),
