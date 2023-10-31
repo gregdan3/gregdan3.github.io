@@ -15,13 +15,12 @@
 	<Meta {title} />
 </svelte:head>
 
-<Header links={headerlinks} />
+<div class="flex flex-col min-h-screen bg-table dark:bg-table-dark">
+	<Header links={headerlinks} />
 
-<article>
-	<slot />
-</article>
+	<article>
+		<slot />
+	</article>
 
-<Footer {headerlinks} {footerlinks} {socials} />
-
-<style>
-</style>
+	<Footer {footerlinks} {socials} />
+</div>

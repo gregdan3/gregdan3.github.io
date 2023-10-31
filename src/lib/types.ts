@@ -1,4 +1,3 @@
-import type { IconOutline, IconSolid } from 'flowbite-svelte-icons';
 import type { IconifyIcon } from '@iconify/svelte';
 
 // links.ts

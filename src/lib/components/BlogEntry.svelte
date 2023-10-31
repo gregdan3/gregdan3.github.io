@@ -9,7 +9,7 @@
 
 <div class="relative p-0 my-2 border-l-4 bg-gray-100 dark:bg-gray-800">
 	<span
-		class="absolute top-0 left-0 mt-[-1.5] ml-4 px-2 py-1 text-xs text-gray-600 dark:text-gray-400 bg-gray-200 dark:bg-gray-700 rounded"
+		class="absolute top-0 left-0 mt-[-1.5] ml-4 px-2 py-1 text-xs text-gray-600 bg-bg-main-dark"
 	>
 		{date.split('T')[0]}
 	</span>

@@ -7,8 +7,7 @@
 @layer utilities {
   article {
     /* primary styles */
-    @apply prose dark:prose-invert sm:prose-sm md:prose-lg lg:prose-xl mx-auto m-8 p-12 font-sans;
-    /* h-[calc(100vh-242px)] */
+    @apply prose dark:prose-invert sm:prose-sm md:prose-lg lg:prose-xl rounded bg-paper dark:bg-paper-dark flex-1 shrink-0 w-full mx-auto my-8 p-12 font-sans shadow-[5px_5px_15px_5px_rgba(0,0,0,0.2)] dark:shadow-[5px_5px_15px_5px_rgba(255,255,255,0.04)];
 
     /* links */
     @apply prose-a:decoration-blue-500 dark:prose-a:decoration-indigo-700 hover:prose-a:decoration-dashed;
@@ -25,7 +24,7 @@
     /* tables */
     /* @apply prose-table:; */
 
-    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.4);
+    /* box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.2); */
   }
 
   /* default mt on these is Enormous */

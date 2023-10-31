@@ -18,31 +18,44 @@
 	export let socials: Link[];
 </script>
 
-<Footer class="relative w-screen bottom-0" footerType="socialmedia">
-	<!-- TODO: what I want is for it to stick to the bottom of the document, or if the screen is lower than that, to the bottom of the screen  -->
+<Footer
+	footerType="socialmedia"
+	class="grid grid-cols-3 border-t-2 bg-ends dark:bg-ends-dark border-trim dark:border-trim-dark"
+>
+	<FooterBrand
+		href="/"
+		src="/avatar.jpg"
+		alt="gregdan3.dev"
+		name="gregdan3.dev"
+		imgClass="h-8 w-8 rounded-full border border-trim dark:border-trim-dark mr-2"
+		spanClass="self-center whitespace-nowrap text-md md:text-xl font-semibold text-major dark:text-major-dark"
+	/>
+	<!-- visible lg:hidden -->
 
-	<div class="flex items-center justify-between">
-		<FooterBrand href="/" src="/avatar.jpg" alt="gregdan3.dev" name="gregdan3.dev" />
+	<FooterLinkGroup class="flex justify-center">
+		<FooterIcon href="#top">
+			<Icon
+				icon={chevronUpIcon}
+				class="w-8 h-8 text-accent dark:text-accent-dark hover:text-black dark:hover:text-white"
+			/>
+		</FooterIcon>
+	</FooterLinkGroup>
 
-		<FooterLinkGroup class="ml-14">
-			<FooterIcon href="#top">
-				<Icon
-					icon={chevronUpIcon}
-					class="w-8 h-8 text-gray-500 dark:text-gray-500 hover:text-gray-900 dark:hover:text-white"
-				/>
-			</FooterIcon>
-		</FooterLinkGroup>
+	<FooterLinkGroup class="flex justify-end">
+		<div></div>
+		<!-- the empty div consumes the left-most space of the ul -->
 
-		<FooterLinkGroup class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
+		<div class="invisible md:visible flex space-x-4">
 			{#each footerlinks as link}
 				<FooterSocial {...link} />
 			{/each}
+			<div class="w-4" />
+		</div>
 
-			<div class="h-6 w-0.5" />
-
+		<div class="flex space-x-4">
 			{#each socials as social}
 				<FooterSocial {...social} />
 			{/each}
-		</FooterLinkGroup>
-	</div>
+		</div>
+	</FooterLinkGroup>
 </Footer>

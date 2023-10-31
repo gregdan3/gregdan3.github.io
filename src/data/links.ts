@@ -15,6 +15,9 @@ import discordIcon from '@iconify/icons-carbon/logo-discord';
 import youtubeIcon from '@iconify/icons-carbon/logo-youtube';
 import githubIcon from '@iconify/icons-carbon/logo-github';
 import telegramIcon from '@iconify/icons-cib/telegram-plane';
+import linkedInIcon from '@iconify/icons-carbon/logo-linkedin';
+import twitterIcon from '@iconify/icons-carbon/logo-twitter';
+import gitlabIcon from '@iconify/icons-carbon/logo-gitlab';
 
 export const footerlinks: Link[] = [
 	{ name: 'License', href: '/LICENSE.txt', icon: licenseIcon },
@@ -22,11 +25,11 @@ export const footerlinks: Link[] = [
 ];
 
 export const headerlinks: Link[] = [
-	{ name: 'Home', href: '/', icon: homeIcon },
-	{ name: 'Blog', href: '/blog/', icon: bookIcon },
-	{ name: 'Projects', href: '/projects/', icon: terminalIcon },
+	{ name: 'Home', href: '/', icon: homeIcon, tooltip: '' },
+	{ name: 'Blog', href: '/blog/', icon: bookIcon, tooltip: 'Every dev needs an abandoned blog.' },
+	{ name: 'Projects', href: '/projects/', icon: terminalIcon, tooltip: '' },
 	// { name: 'Mind Map', url: '/map/' },
-	{ name: 'Now', href: '/now/', icon: clockIcon },
+	{ name: 'Now', href: '/now/', icon: clockIcon, tooltip: '' },
 	{
 		name: 'Toki Pona',
 		href: 'https://mun.la',
@@ -34,16 +37,31 @@ export const headerlinks: Link[] = [
 		// blue: #000099
 		bclass:
 			'hover:bg-yellow-200 hover:border-blue-700 hover:text-blue-700 hover:shadow-blue-300 \
-      hover:dark:bg-yellow-200 hover:dark:border-blue-700 hover:dark:text-blue-700 hover:dark:shadow-blue-800',
-		tooltip: 'This goes off-site!'
+      hover:dark:bg-yellow-200 hover:dark:border-blue-600 hover:dark:text-blue-700 hover:dark:shadow-blue-800',
+		tooltip: 'A language with only 120 words!'
 	}
 ];
 
 export const socials: Link[] = [
-	// { name: 'Gitlab', url: 'https://gitlab.com/gregdan3' },
-	// { name: 'LinkedIn', href: 'https://www.linkedin.com/in/gregdan3', icon: LinkedinSolid },
+	// {
+	// 	name: 'Gitlab',
+	// 	href: 'https://gitlab.com/gregdan3',
+	// 	icon: gitlabIcon,
+	// 	bclass: 'hover:text-orange-400 hover:dark:text-orange-400'
+	// },
+	// {
+	// 	name: 'LinkedIn',
+	// 	href: 'https://www.linkedin.com/in/gregdan3',
+	// 	icon: linkedInIcon,
+	// 	bclass: 'hover:text-[#0077B5] dark:hover:text-[#0077B5]'
+	// },
 	// { name: 'Reddit', url: 'https://reddit.com/u/gregdan3d' },
-	// { name: 'Twitter', href: 'https://www.twitter.com/gregdan3d', icon: TwitterSolid }
+	// {
+	// 	name: 'Twitter',
+	// 	href: 'https://www.twitter.com/gregdan3d',
+	// 	icon: twitterIcon,
+	// 	bclass: 'hover:text-blue-400 hover:dark:text-blue-400'
+	// },
 	{
 		name: 'Telegram',
 		href: 'https://gregdan3.t.me',
@@ -62,5 +80,10 @@ export const socials: Link[] = [
 		icon: youtubeIcon,
 		bclass: 'hover:text-[#FF0000] dark:hover:text-[#FF0000]'
 	},
-	{ name: 'GitHub', href: 'https://github.com/gregdan3', icon: githubIcon }
+	{
+		name: 'GitHub',
+		href: 'https://github.com/gregdan3',
+		icon: githubIcon,
+		bclass: 'hover:text-black dark:hover:text-white'
+	}
 ];

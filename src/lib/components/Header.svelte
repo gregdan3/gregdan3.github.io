@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { DarkMode, Navbar, NavBrand, NavUl, NavHamburger } from 'flowbite-svelte';
-	import { Avatar } from '@skeletonlabs/skeleton';
 
 	import type { Link } from '$lib/types';
 	import NavButton from '$lib/components/NavButton.svelte';
@@ -8,32 +7,28 @@
 	export let links: Link[];
 </script>
 
-<header class="sticky w-screen top-0 z-50 rounded-b-xl">
-	<Navbar let:NavContainer>
-		<NavContainer fluid>
-			<!-- <NavUl class="absolute hidden lg:visible"> -->
-			<!-- 	<NavBrand href="/" src="/avatar.jpg" alt="gregdan3" name="gregdan3"> -->
-			<!-- 		<Avatar -->
-			<!-- 			src="/avatar.jpg" -->
-			<!-- 			alt="gregdan3" -->
-			<!-- 			initials="g3" -->
-			<!-- 			border="border-2 border-slate-600 dark:border-slate-500 hover:border-orange-500 hover:dark:border-orange-400" -->
-			<!-- 		/> -->
-			<!-- 		<span class="absolute text-xl font-lobster font-bold ml-20">gregdan3.dev</span> -->
-			<!-- 	</NavBrand> -->
-			<!-- </NavUl> -->
+<header class="sticky top-0 z-50">
+	<Navbar class="md:p-0 bg-ends dark:bg-ends-dark border-b-2 border-trim dark:border-trim-dark">
+		<NavHamburger />
 
-			<NavUl></NavUl>
-			<NavUl>
-				{#each links as link}
-					<NavButton {...link} />
-				{/each}
-			</NavUl>
-			<NavUl></NavUl>
+		<NavUl class="absolute left-0 m-4 hidden sm:visible">
+			<!-- <NavBrand href="/" src="/avatar.jpg" alt="gregdan3" name="gregdan3"> -->
+			<!-- 	<span -->
+			<!-- 		class="self-center whitespace-nowrap text-xl font-semibold dark:text-white invisible lg:visible" -->
+			<!-- 		>gregdan3.dev</span -->
+			<!-- 	> -->
+			<!-- </NavBrand> -->
+		</NavUl>
 
-			<NavHamburger />
-
-			<DarkMode class="absolute right-0 m-4 p-4" />
-		</NavContainer>
+		<!-- the divs here allow the buttons to center -->
+		<div></div>
+		<NavUl class="justify-center">
+			{#each links as link}
+				<NavButton {...link} />
+			{/each}
+		</NavUl>
+		<div></div>
+		<DarkMode class="absolute top-3 right-4 text-accent dark:text-accent-dark" />
+		<!-- this is a silly way to do this but the hamburger was eating the darkmode button -->
 	</Navbar>
 </header>

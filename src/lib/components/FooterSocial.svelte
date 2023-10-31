@@ -8,11 +8,11 @@
 	export let icon: IconifyIcon | undefined;
 	export let bclass: string = 'hover:text-gray-900 dark:hover:text-white';
 
-	bclass = 'transition ease-in-out text-xl text-gray-500 dark:text-gray-500' + ' ' + bclass;
+	bclass = 'transition ease-in-out text-xl text-accent dark:text-accent-dark' + ' ' + bclass;
 </script>
 
 {#if icon}
-	<FooterIcon {href}>
+	<FooterIcon {href} aClass="m-auto">
 		<Icon {icon} class={bclass} />
 	</FooterIcon>
 {/if}
