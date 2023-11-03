@@ -8,7 +8,7 @@
 	import { headerlinks, footerlinks, socials } from '../data/links';
 
 	export let title = 'Title Missing';
-	export let frontmatter = {};
+	// export let frontmatter = {};
 </script>
 
 <svelte:head>

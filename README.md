@@ -6,32 +6,29 @@
 
 <https://flowbite-svelte.com/docs/components/navbar>
 
-## Dependencies
+<https://iconify.design/>
 
-### Core
+# TODO
 
-##### PNPM
+### Content
 
-##### TypeScript
+- Xreal Air glasses
+- Learning Svelte and Frontend
 
-##### Svelte
+### Blog
 
-### TODO: NAME
+- BlogEntry which can contain a header image, title, description
+- Blog page which holds 2x4 blog entries and paginates
+- Paginator on top and bottom of blog
 
-##### MDsveX
+### Socials
 
-Pre-process Markdown documents so they can also be dynamic Svelte documents.
+`...` icon to contain the rest of my socials at a larger size, even if I don't want to use them all on the main page
 
-### Style & Components
+### Projects
 
-##### TailwindCSS
+- Unknown direction at present. Like Blog?
 
-##### Skeleton
+### Now
 
-##### Flowbite
-
-### Testing
-
-##### Playwright
-
-##### Vite
+- Month by Month or Season by Season?

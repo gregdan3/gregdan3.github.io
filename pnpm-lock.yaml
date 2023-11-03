@@ -109,6 +109,9 @@ devDependencies:
   remark-toc:
     specifier: ^9.0.0
     version: 9.0.0
+  sk-lanyard:
+    specifier: ^0.2.7
+    version: 0.2.7(svelte@4.2.2)(vite@4.5.0)
   svelte:
     specifier: ^4.2.2
     version: 4.2.2
@@ -2921,6 +2924,16 @@ packages:
       '@polka/url': 1.0.0-next.23
       mrmime: 1.0.1
       totalist: 3.0.1
+    dev: true
+
+  /sk-lanyard@0.2.7(svelte@4.2.2)(vite@4.5.0):
+    resolution: {integrity: sha512-k4hxJJaG1W42y7BdEOroNcPQJl0sL7pczjNExg5gk+PQXq4fcDmmajWo65L0eMeJejzf6kaN1jtFl0Tx8gIL2Q==}
+    peerDependencies:
+      svelte: ^4.2.0
+      vite: ^4.4.9
+    dependencies:
+      svelte: 4.2.2
+      vite: 4.5.0(@types/node@20.8.8)
     dev: true
 
   /slash@3.0.0:

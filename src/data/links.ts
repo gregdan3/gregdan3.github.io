@@ -18,6 +18,7 @@ import telegramIcon from '@iconify/icons-cib/telegram-plane';
 import linkedInIcon from '@iconify/icons-carbon/logo-linkedin';
 import twitterIcon from '@iconify/icons-carbon/logo-twitter';
 import gitlabIcon from '@iconify/icons-carbon/logo-gitlab';
+import archIcon from '@iconify/icons-cib/arch-linux';
 
 export const footerlinks: Link[] = [
 	{ name: 'License', href: '/LICENSE.txt', icon: licenseIcon },
@@ -37,7 +38,7 @@ export const headerlinks: Link[] = [
 		// blue: #000099
 		bclass:
 			'hover:bg-yellow-200 hover:border-blue-700 hover:text-blue-700 hover:shadow-blue-300 \
-      hover:dark:bg-yellow-200 hover:dark:border-blue-600 hover:dark:text-blue-700 hover:dark:shadow-blue-800',
+      hover:dark:bg-yellow-200 hover:dark:border-blue-700 hover:dark:text-blue-600 hover:dark:shadow-blue-800',
 		tooltip: 'A language with only 120 words!'
 	}
 ];
