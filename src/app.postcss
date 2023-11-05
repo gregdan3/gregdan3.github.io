@@ -6,16 +6,29 @@
 
 @layer utilities {
   article {
-    /* primary styles */
-    @apply prose dark:prose-invert sm:prose-sm md:prose-lg lg:prose-xl rounded bg-paper dark:bg-paper-dark flex-1 shrink-0 w-full mx-auto my-8 p-12 font-sans shadow-[5px_5px_15px_5px_rgba(0,0,0,0.2)] dark:shadow-[5px_5px_15px_5px_rgba(255,255,255,0.04)];
+    /* primary sizing */
+    @apply prose sm:prose-sm md:sm:prose-sm md:prose-lg lg:prose-xl;
+
+    /* secondary sizing */
+    @apply relative flex-1 w-full mx-auto my-8 p-12;
+    /* flex-1 makes the article screen-height minus header/footer */
+    /* w-full maintains prose width regardless of content */
+    /* mx-auto centers the article */
+
+    /* color and design */
+    @apply prose-slate dark:prose-invert bg-paper dark:bg-paper-dark rounded font-sans;
+
+    /* hr */
+    @apply prose-hr:my-12 prose-hr:border prose-hr:border-ctrim dark:prose-hr:border-ctrim-dark;
+
+    /* shadow */
+    @apply shadow-[5px_5px_15px_5px_rgba(0,0,0,0.2)] dark:shadow-[5px_5px_15px_5px_rgba(255,255,255,0.04)];
 
     /* links */
     @apply prose-a:decoration-blue-500 dark:prose-a:decoration-indigo-700 hover:prose-a:decoration-dashed;
-    /* hover:prose-a:decoration-blue-500 */
 
     /* headings */
-    @apply prose-h1:underline prose-h2:underline prose-h3:underline prose-h4:underline;
-    /* prose-headings:underline */
+    /* @apply prose-headings:underline; */
 
     /* inline code */
     @apply prose-code:before:content-[] prose-code:after:content-[]; 
@@ -23,17 +36,7 @@
 
     /* tables */
     /* @apply prose-table:; */
-
-    /* box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.2); */
   }
-
-  /* default mt on these is Enormous */
-  /*
-  article h1, h2, h3, h4 {
-    @apply mt-6 mb-4 ml-2
-  }
-  */
-
 
   article summary { }
   article details { }

@@ -30,10 +30,10 @@ export const headerlinks: Link[] = [
 	{ name: 'Blog', href: '/blog/', icon: bookIcon, tooltip: 'Every dev needs an abandoned blog.' },
 	{ name: 'Projects', href: '/projects/', icon: terminalIcon, tooltip: '' },
 	// { name: 'Mind Map', url: '/map/' },
-	{ name: 'Now', href: '/now/', icon: clockIcon, tooltip: '' },
+	{ name: 'Now', href: '/now/', icon: clockIcon, tooltip: 'What am I doing right now?' },
 	{
 		name: 'Toki Pona',
-		href: 'https://mun.la',
+		href: 'https://mun.la/sona',
 		// yellow: #FFFF63
 		// blue: #000099
 		bclass:

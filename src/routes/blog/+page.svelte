@@ -9,16 +9,12 @@
 
 	export let data: PageData;
 
-	$: currentPage = Number($page.url.searchParams.get('page'));
+	$: currentPage = Number($page.url.searchParams.get('page')) || 1;
 	let pages = buildBlogPageLinks(data.totalPages);
 
 	$: {
 		pages.forEach((page) => {
-			let splitUrl = page.href.split('?');
-			let queryString = splitUrl.slice(1).join('?');
-			const hrefParams = new URLSearchParams(queryString);
-			let hrefValue = Number(hrefParams.get('page'));
-			if (hrefValue === currentPage) {
+			if (Number(page.name) === currentPage) {
 				page.active = true;
 			} else {
 				page.active = false;
@@ -39,13 +35,15 @@
 	};
 </script>
 
-<div class="grid grid-cols-2 gap-4">
+<div class="grid grid-cols-1 gap-2 md:grid-cols-2 md:gap-4 pb-24">
+	<!-- NOTE: pb is to make space for Pagination -->
 	{#each data.posts as post}
 		<BlogEntry {...post} />
 	{/each}
 </div>
 
-<div class="not-prose flex flex-col h-full pt-8">
+<div class="not-prose absolute bottom-12 left-1/2 right-1/2">
+	<!-- NOTE: bottom-12 is emulating pb-12 -->
 	<Pagination
 		{pages}
 		on:previous={previous}
@@ -56,12 +54,10 @@
 		class="flex justify-center"
 	>
 		<svelte:fragment slot="prev">
-			<span class="sr-only">Previous</span>
-			<ChevronLeftOutline class="w-3 h-3" />
+			<ChevronLeftOutline class="w-4 h-4" />
 		</svelte:fragment>
 		<svelte:fragment slot="next">
-			<span class="sr-only">Next</span>
-			<ChevronRightOutline class="w-3 h-3" />
+			<ChevronRightOutline class="w-4 h-4" />
 		</svelte:fragment>
 	</Pagination>
 </div>

@@ -11,7 +11,13 @@ import { defineMDSveXConfig as defineConfig } from 'mdsvex';
 const config = defineConfig({
 	extensions: ['.svelte.md', '.md', '.svx', '.mdx'],
 	smartypants: false,
-	// smartypants: { dashes: 'oldschool' },
+	// NOTE: these load INSIDE of src/routes/+layout.svelte
+	// this can only alter the in-article content, which is useless imo
+	// layout: {
+	// 	blog: './src/lib/layouts/+blog-layout.svelte',
+	// 	project: './src/lib/layouts/+project-layout.svelte',
+	// 	_: './src/lib/layouts/+layout.svelte'
+	// }
 	remarkPlugins: [
 		remarkAbbr,
 		remarkSupersub,
@@ -20,19 +26,24 @@ const config = defineConfig({
 		[
 			remarktoc,
 			{
-				heading: '^(Contents|TOC|Table of Contents|ijo|ijo lipu)$',
+				heading: '^(Contents|TOC|Table of Contents|ijo|ijo lipu|Now)$',
 				ordered: false,
 				tight: true,
 				maxDepth: 4
 			}
 		]
 	],
-	rehypePlugins: [rehypeSlug]
-	// TODO: this causes double loads?
-	// layout: {
-	// 	project: './src/routes/+layout.svelte',
-	// 	// blog: './src/routes/+layout.svelte',
-	// 	_: './src/routes/+layout.svelte'
+	rehypePlugins: [rehypeSlug],
+	highlight: {}
+	// frontmatter: {
+	// 	parse: (frontmatter, messages) => {
+	// 		try {
+	// 			let content = yaml.load(frontmatter);
+	// 			return { frontmatter: content, ...content };
+	// 		} catch (e) {
+	// 			messages.push(e.message);
+	// 		}
+	// 	}
 	// }
 });
 

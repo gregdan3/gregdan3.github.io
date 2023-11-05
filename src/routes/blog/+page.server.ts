@@ -21,7 +21,7 @@ export const load: PageServerLoad = async ({ url }) => {
 
 	posts.sort((a, b) => (new Date(a.date) > new Date(b.date) ? -1 : 1));
 
-	let serverCurrentPage = Number(url.searchParams.get('page') || '1');
+	let serverCurrentPage = Number(url.searchParams.get('page') || 1);
 	if (serverCurrentPage < 1) {
 		serverCurrentPage = 1;
 	}

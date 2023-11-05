@@ -19,14 +19,14 @@
 
 <a
 	href={`/blog/${slug}`}
-	class="relative h-56 bg-table dark:bg-table-dark hover:bg-ends hover:dark:bg-ends-dark transition-all ease-in-out duration-300 rounded-lg shadow-md border border-accent dark:border-trim-dark"
+	class="relative h-48 md:h-72 bg-table dark:bg-table-dark hover:bg-ends hover:dark:bg-ends-dark transition-all ease-in-out duration-300 rounded-lg shadow-md border border-accent dark:border-ctrim-dark"
 >
 	>
 	{#if banner}
 		<img
 			src={banner}
 			alt="blog-banner"
-			class="absolute top-0 left-0 w-full h-2/3 rounded-t-lg object-cover"
+			class="absolute top-0 left-0 w-full h-3/4 rounded-t-lg object-cover"
 		/>
 	{:else}
 		<div
@@ -34,25 +34,25 @@
 		></div>
 	{/if}
 
-	<div class="absolute top-4 left-4 overflow-hidden h-10">
+	<div class="absolute top-4 left-4">
 		{#if tags}
-			<div class="flex space-x-1">
+			<div class="flex flex-wrap space-x-0.5">
 				{#each tags as tag}
 					<span
-						class="text-xs bg-ends border border-trim dark:bg-ends-dark dark:border-trim-dark p-1 px-2 rounded"
+						class="text-xs bg-ends border border-trim dark:bg-ends-dark dark:border-trim-dark m-0.5 p-0.5 px-1 rounded"
 						>{tag}</span
 					>
 				{/each}
 			</div>
 		{/if}
 	</div>
-	<div class="absolute bottom-0 left-0 w-full p-4">
-		<div class="text-xl font-bold mb-0 text-major dark:text-major-dark pb-2">
+	<div class="absolute bottom-0 left-0 w-full p-2 md:p-4">
+		<div class="text-xl font-bold mb-0 text-major dark:text-major-dark md:pb-3">
 			{title}
 		</div>
 		<div class="flex justify-between items-center">
 			<div
-				class="text-xs italic max-w-xs truncate border-l-2 border-accent rounded-sm text-accent dark:text-accent-dark pl-1"
+				class="text-xs italic max-w-xs truncate border-l-2 border-accent dark:border-accent-dark rounded-sm text-accent dark:text-accent-dark pl-1"
 			>
 				{#if description}
 					{description}
