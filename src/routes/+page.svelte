@@ -1,11 +1,21 @@
 <script lang="ts">
+	import Meta from '$lib/components/Meta.svelte';
 	import Clock from '$lib/components/Clock.svelte';
 	import Github from '$lib/components/GithubActivity.svelte';
 	import Running from '$lib/components/RunningRecord.svelte';
 	import Discord from '$lib/components/DiscordStatus.svelte';
 
 	export let tz = 'CT';
+
+	const metadata = {
+		// frontmatter standin
+		description: 'Welcome to gregsite.'
+	};
 </script>
+
+<svelte:head>
+	<Meta {...metadata} />
+</svelte:head>
 
 <div>
 	I'm Gregory (@gregdan3). I do <a href="">devops</a>, <a href="">database</a>, and
