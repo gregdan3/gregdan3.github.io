@@ -11,6 +11,8 @@
 	import type { Link } from '$lib/types';
 	import FooterSocial from '$lib/components/FooterSocial.svelte';
 
+	import avatar from '$lib/assets/avatar.jpg';
+
 	import Icon from '@iconify/svelte';
 	import chevronUpIcon from '@iconify/icons-mdi/chevron-up';
 
@@ -24,7 +26,7 @@
 >
 	<FooterBrand
 		href="/"
-		src="/avatar.jpg"
+		src={avatar}
 		alt="gregdan3.dev"
 		name="gregdan3.dev"
 		imgClass="h-8 w-8 rounded-full border border-trim dark:border-trim-dark mr-2"
