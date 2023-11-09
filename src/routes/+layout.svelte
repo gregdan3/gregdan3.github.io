@@ -6,12 +6,10 @@
 	import Footer from '$lib/components/Footer.svelte';
 
 	import { headerlinks, footerlinks, socials } from '$src/data/links';
-
-	export let frontmatter = {};
 </script>
 
 <svelte:head>
-	<Meta title={frontmatter.title} />
+	<Meta />
 </svelte:head>
 
 <div class="flex flex-col min-h-screen bg-table dark:bg-table-dark">
