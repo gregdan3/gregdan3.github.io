@@ -2,11 +2,19 @@
 title: Test Page Number One
 author: gregdan3
 date: 2023-02-22
-description:
+description: This is a test page with a comedically, absurdly, outrageously long description for the purpose of demonstrating whether or not I can safely, accurately, precisely, and confidently deploy data into both the blog entry field and the blog page itself.
 published: true
+tags:
+  - 1
+  - 2
+  - 3
+  - 4
 ---
 
-<script lang="ts">
+<script context="module">
+	import avatar from '$lib/assets/avatar.jpg';
+
+  metadata.image = avatar;
 </script>
 
 # Markdown Test Page
