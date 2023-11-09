@@ -4,7 +4,7 @@ import { fetchSlugFromPath } from '$lib/utils';
 const POSTS_PER_PAGE = 6;
 
 export const load: PageServerLoad = async ({ url }) => {
-	const modules = import.meta.glob(`/src/content/posts/*.{md,mdx,svx,svelte.md}`);
+	const modules = import.meta.glob(`/src/data/posts/*.{md,mdx,svx,svelte.md}`);
 	const postPromises = Object.entries(modules).map(([path, resolver]) =>
 		resolver().then(
 			(post) =>
