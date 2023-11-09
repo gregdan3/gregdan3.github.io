@@ -3,6 +3,7 @@ import remarkAbbr from 'remark-abbr';
 import remarktoc from 'remark-toc';
 import remarkSupersub from 'remark-supersub';
 import remarkgfm from 'remark-gfm';
+import remarkReadingTime from 'mdsvex-reading-time';
 
 import rehypeSlug from 'rehype-slug';
 
@@ -11,17 +12,19 @@ import { defineMDSveXConfig as defineConfig } from 'mdsvex';
 const config = defineConfig({
 	extensions: ['.svelte.md', '.md', '.svx', '.mdx'],
 	smartypants: false,
-	// NOTE: these load INSIDE of src/routes/+layout.svelte
-	// this can only alter the in-article content, which is useless imo
-	// layout: {
-	// 	blog: './src/lib/layouts/+blog-layout.svelte',
-	// 	project: './src/lib/layouts/+project-layout.svelte',
-	// 	_: './src/lib/layouts/+layout.svelte'
-	// }
+	// NOTE: these are NESTED IN src/routes/+layout.svelte
+	// so i only use them to edit the `svelte:head`
+	layout: {
+		now: './src/lib/layouts/+layout.svelte',
+		blog: './src/lib/layouts/+layout.svelte',
+		projects: './src/lib/layouts/+layout.svelte',
+		_: './src/lib/layouts/+layout.svelte'
+	},
 	remarkPlugins: [
 		remarkAbbr,
 		remarkSupersub,
 		remarkgfm,
+		remarkReadingTime,
 		// remarkSectionize,
 		[
 			remarktoc,
