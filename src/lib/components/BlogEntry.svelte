@@ -10,7 +10,7 @@
 	export let description: string;
 	export let date: string;
 	export let published: boolean;
-	export let banner: string = '';
+	export let image: string = '';
 	export let updated: string | undefined;
 	export let tags: string[] = [];
 
@@ -22,9 +22,9 @@
 	class="relative h-48 md:h-72 bg-table dark:bg-table-dark hover:bg-ends hover:dark:bg-ends-dark transition-all ease-in-out duration-300 rounded-lg shadow-md border border-accent dark:border-ctrim-dark"
 >
 	>
-	{#if banner}
+	{#if image}
 		<img
-			src={banner}
+			src={image}
 			alt="blog-banner"
 			class="absolute top-0 left-0 w-full h-3/4 rounded-t-lg object-cover"
 		/>
