@@ -18,7 +18,7 @@
 
 <div class="flex pl-2 my-0">
 	{#if data.metadata.description}
-		<blockquote class="w-full h-full my-0 pr-4 text-sm md:pr-8 md:text-lg">
+		<blockquote class="mt-0 pr-4 text-sm md:pr-8 md:text-lg">
 			{data.metadata.description}
 		</blockquote>
 	{:else}
