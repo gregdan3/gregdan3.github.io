@@ -5,6 +5,7 @@ date: 2023-11-05
 updated: 2023-11-05
 description: Everything I'm doing, right now.
 published: true
+layout: now
 ---
 
 <script lang="ts">

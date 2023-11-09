@@ -6,8 +6,14 @@
 	import { page } from '$app/stores';
 	import { ChevronLeftOutline, ChevronRightOutline } from 'flowbite-svelte-icons';
 	import { buildBlogPageLinks } from '$lib/utils';
+	import Meta from '$lib/components/Meta.svelte';
 
 	export let data: PageData;
+
+	const metadata = {
+		title: 'Blog',
+		description: 'Every dev needs an abandoned blog.'
+	};
 
 	$: currentPage = Number($page.url.searchParams.get('page')) || 1;
 	let pages = buildBlogPageLinks(data.totalPages);
@@ -34,6 +40,10 @@
 		goto(`/blog?page=${currentPage}`);
 	};
 </script>
+
+<svelte:head>
+	<Meta {...metadata} />
+</svelte:head>
 
 <div class="grid grid-cols-1 gap-2 md:grid-cols-2 md:gap-4 pb-24">
 	<!-- NOTE: pb is to make space for Pagination -->
