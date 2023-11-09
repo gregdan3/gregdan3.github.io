@@ -40,7 +40,7 @@ layout: now
 - I got my [ilo pi toki pona taso](https://github.com/gregdan3/ilo-pi-toki-pona-taso), "Only-Toki-Pona tool", ready for everyone to use! I immediately regretted some of my database design choices, but hey, you can't win them all.
 - I started doing yoga. It's been as big a change in my well-being as the gym and physical therapy were before it- I can move and feel comfortable in my body far more than before, with 45 minute sessions twice a week.
 
-<hr class="my-8" />
+<br />
 
 <div class="relative">
 
