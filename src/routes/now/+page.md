@@ -1,16 +1,18 @@
 ---
 title: Now
-author: gregdan3
 date: 2023-11-05
-updated: 2023-11-05
 description: Everything I'm doing, right now.
-published: true
 layout: now
 ---
 
 <script lang="ts">
+	import { formatBlogPostDate } from '$lib/utils';
 	import { Tooltip } from 'flowbite-svelte';
 </script>
+
+<div class="absolute top-16 right-16 text-xs">
+  {formatBlogPostDate(date)}
+</div>
 
 <!-- # Winter -->
 <!---->
@@ -38,6 +40,10 @@ layout: now
 - I got my [ilo pi toki pona taso](https://github.com/gregdan3/ilo-pi-toki-pona-taso), "Only-Toki-Pona tool", ready for everyone to use! I immediately regretted some of my database design choices, but hey, you can't win them all.
 - I started doing yoga. It's been as big a change in my well-being as the gym and physical therapy were before it- I can move and feel comfortable in my body far more than before, with 45 minute sessions twice a week.
 
+<hr class="my-8" />
+
+<div class="relative">
+
 <details>
 <summary>Older Content</summary>
 
@@ -53,7 +59,7 @@ I keep track of the most recent three months at a time, and everything older is 
 
 #### July
 
-- I got myself a Thinkpad x280 to serve as a distraction-reducing writing laptop. Highly recommended!
+- I got myself a Thinkpad x280 to serve as a distraction-reducing writing laptop. Highly recommended! It's like, $100 on eBay.
 - I started going to the gym at my university a few times a week, which has had an enormous impact on my day to day well-being and strength. I can't recommend it enough.
 
 #### June
@@ -82,9 +88,12 @@ I keep track of the most recent three months at a time, and everything older is 
 #### January
 
 </details>
-
-<div class="absolute top-12 right-12 text-xs">
-  <a href="https://nownownow.com/about">what is this?</a>
-  <Tooltip type="auto" placement="bottom" class="absolute">What I'm doing right now. Click for more info!</Tooltip>
-  <!-- TODO: don't get stuck inside the article -->
+  <div class="text-xs absolute top-2 right-2">
+    <a href="https://nownownow.com/about">
+      what is this page?
+    </a>
+    <Tooltip type="auto" placement="top" class="absolute">
+      What I'm doing right now. Click for more info!
+    </Tooltip>
+  </div>
 </div>
