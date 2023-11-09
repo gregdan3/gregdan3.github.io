@@ -19,7 +19,7 @@
 
 <a
 	href={`/blog/${slug}`}
-	class="relative h-48 md:h-72 bg-table dark:bg-table-dark hover:bg-ends hover:dark:bg-ends-dark transition-all ease-in-out duration-300 rounded-lg shadow-md border border-accent dark:border-ctrim-dark"
+	class="relative h-48 md:h-52 bg-table dark:bg-table-dark hover:bg-ends hover:dark:bg-ends-dark transition-all ease-in-out duration-300 rounded-lg shadow-md border border-accent dark:border-ctrim-dark"
 >
 	>
 	{#if image}
@@ -46,8 +46,8 @@
 			</div>
 		{/if}
 	</div>
-	<div class="absolute bottom-0 left-0 w-full p-2 md:p-4">
-		<div class="text-xl font-bold mb-0 text-major dark:text-major-dark md:pb-3">
+	<div class="absolute bottom-0 left-0 w-full p-3">
+		<div class="text-lg font-bold text-major dark:text-major-dark mb-1">
 			{title}
 		</div>
 		<div class="flex justify-between items-center">
