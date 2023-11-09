@@ -2,6 +2,17 @@ import type { Project } from '$lib/types';
 
 export const links: Project[] = [
 	{
+		name: 'gregdan3.dev',
+		repo: 'https://github.com/gregdan3/gregdan3.github.io',
+		role: 'Creator',
+		description: 'My personal website, in Svelte, with Tailwind.',
+		skills: [
+			{ name: 'TailwindCSS', icon: 'tailwindcss' },
+			{ name: 'TypeScript', icon: 'ts' },
+			{ name: 'Svelte', icon: 'svelte' }
+		]
+	},
+	{
 		name: 'lipu Linku',
 		repo: 'https://github.com/lipu-linku/lipu-linku.github.io',
 		role: 'Maintainer',
