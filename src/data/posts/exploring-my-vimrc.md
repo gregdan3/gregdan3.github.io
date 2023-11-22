@@ -2,13 +2,9 @@
 title: Exploring my vimrc
 author: gregdan3
 date: 2020-03-08
-description:
+description: This isn't my current vimrc. New version when?
 published: true
 ---
-
-This isn't my current vimrc on display. New version when?
-
-<!-- cut -->
 
 I've been using vim as my primary editor for the better part of two years now.
 [My .vimrc](https://github.com/gregdan3/dotfiles/blob/master/.vimrc)
