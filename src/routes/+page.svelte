@@ -5,12 +5,13 @@
 	import Running from '$lib/components/RunningRecord.svelte';
 	import Discord from '$lib/components/DiscordStatus.svelte';
 
-	export let tz = 'CT';
-
 	const metadata = {
 		// frontmatter standin
 		description: 'Welcome to gregsite.'
 	};
+
+	export let tz = 'CT';
+	export let user_id = '497549183847497739';
 </script>
 
 <svelte:head>
@@ -32,7 +33,7 @@
 <Running />
 <!-- recent run(s), personal records -->
 
-<Discord />
+<Discord {user_id} />
 <!-- avatar, online status, text status -->
 
 <!-- TODO: youtube stats? -->
