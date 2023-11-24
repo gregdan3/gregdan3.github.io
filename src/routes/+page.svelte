@@ -11,7 +11,7 @@
 	};
 
 	export let tz = 'CT';
-	export let user_id = '497549183847497739';
+	export let discordUserID = '497549183847497739';
 </script>
 
 <svelte:head>
@@ -19,9 +19,9 @@
 </svelte:head>
 
 <div>
-	I'm Gregory (@gregdan3). I do <a href="/">devops</a>, <a href="/">database</a>, and
-	<a href="/">backend</a>. I <a href="/">self teach</a>, the scariest thing any dev can imagine. I
-	have no idea how to breathe
+	I'm Gregory (@gregdan3). I do devops, database, and backend. Frontend was suspiciously missing
+	from this list, so this site is now a permanent work in progress as I
+	<a href="/blog/learning-svelte">learn Svelte</a>. I have no idea how to breathe.
 </div>
 <br />
 
@@ -33,7 +33,7 @@
 <Running />
 <!-- recent run(s), personal records -->
 
-<Discord {user_id} />
+<Discord user_id={discordUserID} />
 <!-- avatar, online status, text status -->
 
 <!-- TODO: youtube stats? -->
