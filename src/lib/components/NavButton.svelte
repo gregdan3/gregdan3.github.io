@@ -9,7 +9,7 @@
 	export let bclass: string = '';
 	export let tooltip: string = '';
 	bclass =
-		'transition ease-in-out h-8 font-bold bg-paper dark:bg-paper-dark text-major dark:text-major-dark ring-1 ring-gray-400 dark:ring-gray-950' +
+		'h-8 font-bold bg-paper dark:bg-paper-dark text-major dark:text-major-dark ring-1 ring-gray-400 dark:ring-gray-950' +
 		' ' +
 		bclass;
 </script>

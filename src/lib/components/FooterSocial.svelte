@@ -8,7 +8,7 @@
 	export let icon: IconifyIcon | undefined;
 	export let bclass: string = 'hover:text-gray-900 dark:hover:text-white';
 
-	bclass = 'transition ease-in-out text-xl text-accent dark:text-accent-dark' + ' ' + bclass;
+	bclass = 'text-xl text-accent dark:text-accent-dark' + ' ' + bclass;
 </script>
 
 {#if icon}
