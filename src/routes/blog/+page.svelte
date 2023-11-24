@@ -42,13 +42,13 @@
 </script>
 
 <svelte:head>
-	<Meta {...metadata} />
+	<Meta {metadata} />
 </svelte:head>
 
 <div class="grid grid-cols-1 gap-2 md:grid-cols-2 md:gap-4 pb-16">
 	<!-- NOTE: pb is to make space for Pagination -->
 	{#each data.posts as post}
-		<BlogEntry {...post} />
+		<BlogEntry {post} />
 	{/each}
 </div>
 

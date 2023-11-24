@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<Meta {...metadata} />
+	<Meta {metadata} />
 </svelte:head>
 
 <slot />

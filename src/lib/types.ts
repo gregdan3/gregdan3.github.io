@@ -1,5 +1,19 @@
 import type { IconifyIcon } from '@iconify/svelte';
 
+export interface MetaData {
+	title: string;
+	description?: string;
+}
+
+export interface BlogPost extends MetaData {
+	slug: string; // url to post based on its name
+	author?: string;
+	date: string;
+	published: boolean;
+	tags: string[];
+	image?: string; // src
+}
+
 // links.ts
 export interface Link {
 	name: string;

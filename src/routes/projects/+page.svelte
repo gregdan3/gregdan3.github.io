@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<Meta {...metadata} />
+	<Meta {metadata} />
 </svelte:head>
 
 {#each links as link}
