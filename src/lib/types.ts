@@ -47,12 +47,14 @@ export interface LanyardData {
 	kv: { [key: string]: string };
 	listening_to_spotify: boolean;
 	discord_user: LanyardDiscordUser;
-	discord_status: 'online' | 'idle' | 'dnd' | 'offline';
+	discord_status: DiscordStatus;
 	activities: LanyardDiscordActivity[];
 	active_on_discord_mobile: boolean;
 	active_on_discord_desktop: boolean;
 	active_on_discord_web: boolean;
 }
+
+type DiscordStatus = 'online' | 'idle' | 'dnd' | 'offline';
 
 export interface LanyardTimestamps {
 	start: number;
