@@ -1,8 +1,7 @@
 ---
 title: Now
-date: 2023-11-05
+date: 2023-11-23
 description: Everything I'm doing, right now.
-layout: now
 ---
 
 <script lang="ts">
@@ -10,20 +9,25 @@ layout: now
 	import { Tooltip } from 'flowbite-svelte';
 </script>
 
+<!-- DO NOT CHANGE -->
 <div class="absolute top-16 right-16 text-xs">
   {formatBlogPostDate(date)}
 </div>
 
-<!-- # Winter -->
-<!---->
-<!-- #### December -->
+# Winter
+
+#### December
+
+- My birthday is coming up this month. Unsure what to do about it.
+- I'm running an 8k on the 2nd!
 
 # Fall
 
 #### November
 
-- I'm going to a wedding mid-month! Two close friends from much later in college.
-- I'm running that 5k on the 11th!
+- I got an in-progress version of this site up on [beta.gregdan3.dev](https://beta.gregdan3.dev).
+- I went to a gay wedding on the 18th! Congratulations to them both, and thank you for being incredible.
+- I ran my first ever 5k on the 11th and got a [26:27](https://runsignup.com/Race/Results/153664/IndividualResult/gLZG?resultSetId=420758#U80855384)!
 - I updated my [fanart page](https://mun.la/fanart) with the help of a friend from the Toki Pona community.
 
 #### October
@@ -35,11 +39,6 @@ layout: now
 <!-- - I got a CT Scan! Long story, but I'm okay. It's weird to see the inside of your own body, especially your skull and brain. -->
 - I played a translation of [Zelda 1](https://youtu.be/SkiiabwexcA) in Toki Pona!
 
-#### September
-
-- I got my [ilo pi toki pona taso](https://github.com/gregdan3/ilo-pi-toki-pona-taso), "Only-Toki-Pona tool", ready for everyone to use! I immediately regretted some of my database design choices, but hey, you can't win them all.
-- I started doing yoga. It's been as big a change in my well-being as the gym and physical therapy were before it- I can move and feel comfortable in my body far more than before, with 45 minute sessions twice a week.
-
 <br />
 
 <div class="relative">
@@ -48,6 +47,11 @@ layout: now
 <summary>Older Content</summary>
 
 I keep track of the most recent three months at a time, and everything older is stashed in here.
+
+#### September
+
+- I got my [ilo pi toki pona taso](https://github.com/gregdan3/ilo-pi-toki-pona-taso), "Only-Toki-Pona tool", ready for everyone to use! I immediately regretted some of my database design choices, but hey, you can't win them all.
+- I started doing yoga. It's been as big a change in my well-being as the gym and physical therapy were before it- I can move and feel comfortable in my body far more than before, with 45 minute sessions twice a week.
 
 # Summer
 
@@ -75,7 +79,7 @@ I keep track of the most recent three months at a time, and everything older is 
 
 #### April
 
-- I bought some AR Glasses, the [Nreal Airs](https://www.nreal.ai/) to be exact. They're really painfully in beta right now.
+- I bought some AR Glasses, the [Nreal Airs](https://www.nreal.ai/) to be exact. They're a painfully incomplete product, barely in beta despite the marketing.
 
 #### March
 
@@ -87,6 +91,7 @@ I keep track of the most recent three months at a time, and everything older is 
 
 #### January
 
+<!-- DO NOT CHANGE -->
 </details>
   <div class="text-xs absolute top-2 right-2">
     <a href="https://nownownow.com/about">
