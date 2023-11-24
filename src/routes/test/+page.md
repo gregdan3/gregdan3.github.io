@@ -1,9 +1,5 @@
 ---
-title: Test Page
-author: gregdan3
-date: 2023-02-22
-description:
-published: true
+title: Secret Test Page!
 ---
 
 <script lang="ts">
@@ -11,16 +7,6 @@ published: true
   import 'prism-themes/themes/prism-material-dark.min.css';
 	import { Accordion, AccordionItem } from 'flowbite-svelte';
 </script>
-
-# Markdown Test Page
-
-# Contents
-
-Any content here will be eliminated by `remark-toc`
-
-# ijo lipu
-
-This is a second valid table of contents section but it does not get filled because the first is filled
 
 # Checks
 
@@ -31,14 +17,22 @@ If a box is checked, it indicates that the section has all the necessary formatt
 - [x] [blockquotes](#blockquotes)
 - [x] [lists](#lists)
 - [x] [horizontal rule](#horizontal-rule)
-- [x] [table](#table)
-- [ ] [code](#code)
+- [ ] [table](#table): Needs css
+- [ ] [code](#code): Needs light/dark switch?
 - [x] [text formatting](#text-formatting)
 - [x] [images](#images)
-- [x] [spoilers](#spoilers)
-<!-- - [ ] [typographic replacements](#typographic-replacements) -->
-- [ ] [plugins](#plugins)
+- [ ] [spoilers](#spoilers): Summary not in-line with arrow?
+- [ ] [Subscript/Superscript](#subscript--superscript)
 - [ ] [footnotes](#footnotes)
+- [x] [abbreviations](#abbreviations)
+
+# Contents
+
+Any content here will be eliminated by `remark-toc`
+
+# TOC
+
+This is a second valid table of contents section but it does not get filled because the first is filled
 
 ---
 
@@ -135,12 +129,28 @@ Bottom text.
 7. Mulberry
 8. > blockquote
 
+### Ordered List with All 1s
+
+1. Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+1. Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+1. Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+
+### Ordered List Starting at non-1
+
+57. Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+58. Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+59. Non-reset to 1
+
 ### Unordered List
 
 - Olive
 - Orange
   - Blood orange
     - tasty
+    * test
+    - test2
+      - test
+    - test3
   - Clementine
     - woah
     - what is a clementine
@@ -149,30 +159,6 @@ Bottom text.
   2. unsmooth
 - Ut aute ipsum occaecat nisi culpa Lorem id occaecat cupidatat id id magna laboris ad duis. Fugiat cillum dolore veniam nostrud proident sint consectetur eiusmod irure adipisicing.
 - Passionfruit
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
 
 [[Top]](#top)
 
@@ -338,9 +324,7 @@ With a reference later in the document defining the URL location:
 
 ![Super wide](http://placekitten.com/1280/800)
 
-![Not so big](http://placekitten.com/480/400)
-
-[![Manny Pacquiao](https://img.youtube.com/vi/s6bCmZmy9aQ/0.jpg)](https://youtu.be/s6bCmZmy9aQ)
+[]![Not so big, but clickable](http://placekitten.com/480/400)](http://placekitten.com/480/400)
 
 [[Top]](#top)
 
