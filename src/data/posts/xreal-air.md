@@ -3,15 +3,7 @@ title: XReal Air
 author: gregdan3
 date: 2023-10-15
 description: Fucked Up If True
-published: true
-tags:
-  - bruh
-  - moment
-  - 64
-  - wow
-  - jesus
-  - crazy
-  - incredible
+published: false
 ---
 
 Gregory Danielson, [10/31/23 8:19 AM]

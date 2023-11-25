@@ -3,7 +3,7 @@ title: Learning Svelte
 author: gregdan3
 date: 2023-11-01
 description: toki pona li pona tawa sina la o kama sona e ona tan mi.
-published: true
+published: false
 ---
 
 I am not a web developer.
