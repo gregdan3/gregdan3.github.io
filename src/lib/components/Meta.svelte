@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { MetaData } from '$lib/types';
-	import avatar from '$lib/assets/avatar.jpg';
+	import avatar from '$lib/assets/avatar.png';
 	import { page } from '$app/stores';
 
 	const locale = 'en_US';

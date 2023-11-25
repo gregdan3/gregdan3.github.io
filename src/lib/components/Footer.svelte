@@ -6,7 +6,7 @@
 	import type { Link } from '$lib/types';
 	import FooterSocial from '$lib/components/FooterSocial.svelte';
 
-	import avatar from '$lib/assets/avatar.jpg';
+	import avatar from '$lib/assets/avatar.png';
 
 	import Icon from '@iconify/svelte';
 	import chevronUpIcon from '@iconify/icons-mdi/chevron-up';
@@ -17,14 +17,14 @@
 
 <Footer
 	footerType="socialmedia"
-	class="grid grid-cols-3 border-t-2 bg-ends dark:bg-ends-dark border-trim dark:border-trim-dark"
+	class="px-4 py-2 grid grid-cols-3 border-t-2 bg-ends dark:bg-ends-dark border-trim dark:border-trim-dark"
 >
 	<FooterBrand
 		href="/"
 		src={avatar}
 		alt={$page.url.hostname}
 		name={$page.url.hostname}
-		imgClass="h-8 w-8 rounded-full border border-trim dark:border-trim-dark mr-2"
+		imgClass="h-12 w-12 rounded-full border border-trim dark:border-trim-dark mr-2"
 		spanClass="self-center whitespace-nowrap text-md md:text-xl font-semibold text-major dark:text-major-dark"
 	/>
 	<!-- visible lg:hidden -->

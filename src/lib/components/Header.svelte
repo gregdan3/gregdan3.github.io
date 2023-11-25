@@ -12,7 +12,7 @@
 		<NavHamburger />
 
 		<NavUl class="absolute left-0 m-4 hidden sm:visible">
-			<!-- <NavBrand href="/" src="/avatar.jpg" alt="gregdan3" name="gregdan3"> -->
+			<!-- <NavBrand href="/" src="/avatar.png" alt="gregdan3" name="gregdan3"> -->
 			<!-- 	<span -->
 			<!-- 		class="self-center whitespace-nowrap text-xl font-semibold dark:text-white invisible lg:visible" -->
 			<!-- 		>gregdan3.dev</span -->
