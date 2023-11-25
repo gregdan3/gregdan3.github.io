@@ -2,6 +2,8 @@ import type { LinkType } from 'flowbite-svelte';
 
 const centralTimeOffsetms = 6 * 60 * 60 * 1000;
 
+export const sleep = (delay: number) => new Promise((resolve) => setTimeout(resolve, delay));
+
 export const fetchSlugFromPath = (path: string) =>
 	path.match(/([\w-]+)\.(svelte\.md|md|mdx|svx)/i)?.[1] ?? null;
 
