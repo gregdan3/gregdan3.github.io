@@ -50,13 +50,13 @@
 			<div class="flex p-2">
 				<DiscordAvatar {data} />
 				<div class="flex flex-col ml-2 w-full">
-					<div class="flex w-full">
+					<div class="flex w-full relative">
 						<!-- structurally, this is just another activity -->
 						<span class="font-bold pr-1">{data.discord_user.display_name}</span>
 						<span class="font-light">@{data.discord_user.global_name}</span>
 						{#if data.kv.badges}
 							{@const badges = data.kv.badges.split(' ')}
-							<div class="flex ml-auto">
+							<div class="flex absolute right-0 -translate-y-10 bg-[#313338] rounded-full">
 								{#each badges as badge}
 									<img
 										src={makeBadgeURL(badge)}
