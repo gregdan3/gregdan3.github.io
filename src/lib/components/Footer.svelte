@@ -1,13 +1,7 @@
 <script lang="ts">
-	import {
-		Footer,
-		FooterBrand,
-		FooterIcon,
-		FooterLinkGroup,
-		FooterLink,
-		FooterCopyright
-	} from 'flowbite-svelte';
 	import { page } from '$app/stores';
+
+	import { Footer, FooterBrand, FooterIcon, FooterLinkGroup } from 'flowbite-svelte';
 
 	import type { Link } from '$lib/types';
 	import FooterSocial from '$lib/components/FooterSocial.svelte';
