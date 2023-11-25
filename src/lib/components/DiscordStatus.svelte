@@ -1,7 +1,7 @@
 <script lang="ts">
 	import type { LanyardData } from '$lib/types';
 
-	import { Skeleton, ImagePlaceholder } from 'flowbite-svelte';
+	import { Skeleton, ImagePlaceholder, CardPlaceholder } from 'flowbite-svelte';
 
 	import DiscordAvatar from '$lib/components/Discord/DiscordAvatar.svelte';
 	import DiscordActivity from '$lib/components/Discord/DiscordActivity.svelte';
@@ -30,8 +30,13 @@
 	class="not-prose flex shadow-xl border border-accent dark:border-accent-dark bg-white dark:bg-[#313338] rounded-lg leading-snug w-fit h-fit"
 >
 	{#await fetchDiscordStatus(user_id)}
-		<ImagePlaceholder imgHeight="20" class="w-32 h-20 overflow-hidden" />
-		<Skeleton size="sm" class="w-52 h-20 inline-block flex-wrap overflow-hidden" />
+		<div>
+			<CardPlaceholder size="lg" class="h-[155px] w-[480px] overflow-hidden mb-4" />
+			<div class="flex">
+				<ImagePlaceholder imgHeight="20" class="w-36 h-20 ml-4 mb-4 overflow-hidden" />
+				<Skeleton class="w-52 h-20 overflow-hidden" />
+			</div>
+		</div>
 	{:then data}
 		<div class="flex flex-col">
 			{#if data.kv.banner}
