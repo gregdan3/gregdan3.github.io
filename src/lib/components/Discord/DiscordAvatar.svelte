@@ -1,0 +1,52 @@
+<script lang="ts">
+	import type { LanyardData } from '$lib/types';
+
+	import Icon from '@iconify/svelte';
+	import desktopIcon from '@iconify/icons-material-symbols/desktop-windows';
+	import mobileIcon from '@iconify/icons-material-symbols/phone-android';
+	import webIcon from '@iconify/icons-material-symbols/web';
+	import offlineIcon from '@iconify/icons-material-symbols/adjust';
+
+	export let data: LanyardData;
+
+	const makeAvatarURL = (user_id: number, avatar_id: string, size: number = 256): string => {
+		return `https://cdn.discordapp.com/avatars/${user_id}/${avatar_id}?size=${size}`;
+	};
+
+	const statusColors: Record<string, string> = {
+		online: 'text-emerald-500',
+		idle: 'text-amber-500',
+		dnd: 'text-rose-500',
+		offline: 'text-gray-500'
+	};
+	const getStatusColor = (status: 'online' | 'idle' | 'dnd' | 'offline') => {
+		const str = statusColors[status];
+		if (!str) return 'text-black';
+		return str;
+	};
+
+	let statusClasses = 'absolute bottom-0 right-0 w-6 h-6 rounded-full bg-white dark:bg-[#313338]';
+
+	let icon = offlineIcon;
+	if (data.active_on_discord_web) {
+		icon = webIcon;
+	}
+	if (data.active_on_discord_desktop) {
+		icon = desktopIcon;
+	}
+	if (data.active_on_discord_mobile) {
+		icon = mobileIcon;
+	}
+</script>
+
+<div class="w-20 h-20 relative rounded-full flex-shrink-0">
+	<img
+		src={makeAvatarURL(data.discord_user.id, data.discord_user.avatar)}
+		alt={data.discord_user.global_name}
+	/>
+	<div class={statusClasses}>
+		<!-- TODO: WHY is the `mt` so STUPID -->
+		<Icon {icon} class={'mx-auto mt-1 md:mt-0.5 ' + getStatusColor(data.discord_status)} />
+	</div>
+	<!-- NOTE: flowbite-svelte avatar sucks -->
+</div>
