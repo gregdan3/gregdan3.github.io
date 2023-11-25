@@ -6,8 +6,7 @@
     gregdan3 (jan Kekan San)
 
 /* Tools */
-    neovim (lunarvim)
-    pandoc
-    htmlmin
-    markdown-toc
-    docker (for testing)
+    neovim (lazyvim)
+    sveltekit
+    vite (for development)
+    firefox
