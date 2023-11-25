@@ -31,7 +31,7 @@
 	/>
 	<meta property="og:title" content={titleFull} />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="{href}{$page.url.pathname}" />
+	<meta property="og:url" content="{$page.url.origin}{$page.url.pathname}" />
 	<meta property="og:image" content={metadata.image} />
 	<meta property="og:locale" content={locale} />
 	<meta property="og:site_name" content={site_name} />

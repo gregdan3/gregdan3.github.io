@@ -7,6 +7,7 @@
 		FooterLink,
 		FooterCopyright
 	} from 'flowbite-svelte';
+	import { page } from '$app/stores';
 
 	import type { Link } from '$lib/types';
 	import FooterSocial from '$lib/components/FooterSocial.svelte';
@@ -27,8 +28,8 @@
 	<FooterBrand
 		href="/"
 		src={avatar}
-		alt="gregdan3.dev"
-		name="gregdan3.dev"
+		alt={$page.url.hostname}
+		name={$page.url.hostname}
 		imgClass="h-8 w-8 rounded-full border border-trim dark:border-trim-dark mr-2"
 		spanClass="self-center whitespace-nowrap text-md md:text-xl font-semibold text-major dark:text-major-dark"
 	/>
