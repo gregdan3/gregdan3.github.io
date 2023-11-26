@@ -24,8 +24,8 @@
 		src={avatar}
 		alt={$page.url.hostname}
 		name={$page.url.hostname}
-		imgClass="h-12 w-12 rounded-full border border-trim dark:border-trim-dark mr-2"
-		spanClass="self-center whitespace-nowrap text-md md:text-xl font-semibold text-major dark:text-major-dark"
+		imgClass="h-12 w-12 rounded-2xl border bg-trim dark:bg-trim-dark border-trim dark:border-trim-dark mr-2"
+		spanClass="whitespace-nowrap text-md md:text-xl font-semibold text-major dark:text-major-dark"
 	/>
 	<!-- visible lg:hidden -->
 
