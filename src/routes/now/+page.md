@@ -18,8 +18,9 @@ description: Everything I'm doing, right now.
 
 #### December
 
-- My birthday is coming up this month. Unsure what to do about it.
-- I'm running an 8k on the 2nd!
+- I'm getting back into video making, starting with finishing [my Toki Pona lesson series](https://youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT).
+- My birthday is coming up this month. Unsure what to do about it. Maybe run a 5k? That seems to be my thing lately
+- I ran an 8k on the 2nd and got a [44:15.7](https://runsignup.com/Race/Results/113352/IndividualResult/bZqJ#U80855384), an 8:51 average pace over 5 miles! Absolutely ecstatic considering my first serious run was October 22nd- 41 days prior, or just under 6 weeks.
 
 # Fall
 
@@ -36,7 +37,7 @@ description: Everything I'm doing, right now.
 
 - I picked up on rewriting [this site](https://gregdan3.dev) again, and I'm going to take it to the finish line.
 - I signed up for my first ever [5k](https://en.wikipedia.org/wiki/5K_run). I wasn't sure if I could actually run all the way to the finish line when I signed up, but I managed a 4.5 mile run a few days later- I'll be fine!
-<!-- - I got a CT Scan! Long story, but I'm okay. It's weird to see the inside of your own body, especially your skull and brain. -->
+- I got a CT Scan! Long story, but I'm mostly okay. It's weird to see the inside of your own body.
 - I played a translation of [Zelda 1](https://youtu.be/SkiiabwexcA) in Toki Pona!
 
 <br />
