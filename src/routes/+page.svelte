@@ -3,7 +3,7 @@
 	import Clock from '$lib/components/Clock.svelte';
 	import Github from '$lib/components/GithubActivity.svelte';
 	import Running from '$lib/components/RunningRecord.svelte';
-	import Discord from '$lib/components/DiscordStatus.svelte';
+	import Discord from '$lib/components/Discord/Discord.svelte';
 
 	const metadata = {
 		// frontmatter standin

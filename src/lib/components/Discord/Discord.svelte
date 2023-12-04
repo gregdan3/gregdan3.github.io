@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { LanyardData } from '$lib/types';
+	import { sleep } from '$lib/utils';
 
 	import { Skeleton, ImagePlaceholder, CardPlaceholder } from 'flowbite-svelte';
 
@@ -13,6 +14,7 @@
 			method: 'POST',
 			body: JSON.stringify({ user_id: user_id })
 		});
+		// await sleep(3000);
 		return await resp.json();
 	}
 
