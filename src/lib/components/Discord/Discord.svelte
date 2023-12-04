@@ -58,7 +58,9 @@
 						<span class="font-light">@{data.discord_user.global_name}</span>
 						{#if data.kv.badges}
 							{@const badges = data.kv.badges.split(' ')}
-							<div class="flex absolute right-0 -translate-y-10 bg-[#313338] rounded-full">
+							<div
+								class="flex absolute right-0 px-1 -translate-y-10 sm:translate-y-0 bg-white dark:bg-[#313338] rounded-full"
+							>
 								{#each badges as badge}
 									<img
 										src={makeBadgeURL(badge)}
