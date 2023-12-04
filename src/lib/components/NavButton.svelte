@@ -14,8 +14,8 @@
 		bclass;
 </script>
 
-<NavLi {href}>
-	<Button outline shadow color="dark" class={bclass}>
+<NavLi>
+	<Button {href} outline shadow color="dark" class={bclass}>
 		{#if icon}
 			<Icon {icon} class="-ml-0.5 mr-2 h-6 w-6" />
 		{/if}
