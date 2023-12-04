@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2023-11-23
+date: 2023-12-03
 description: Everything I'm doing, right now.
 ---
 
@@ -13,8 +13,9 @@ description: Everything I'm doing, right now.
 
 #### December
 
-- I'm getting back into video making, starting with finishing [my Toki Pona lesson series](https://youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT).
 - My birthday is coming up this month. Unsure what to do about it. Maybe run a 5k? That seems to be my thing lately
+- I'm getting back into video making, starting with finishing [my Toki Pona lesson series](https://youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT).
+- I've been working on a re-design for kulupu Linku's datastore, now [sona Linku](https://github.com/lipu-linku/sona)
 - I ran an 8k on the 2nd and got a [44:15.7](https://runsignup.com/Race/Results/113352/IndividualResult/bZqJ#U80855384), an 8:51 average pace over 5 miles! Absolutely ecstatic considering my first serious run was October 22nd- 41 days prior, or just under 6 weeks.
 
 ## Fall
