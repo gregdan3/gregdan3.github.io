@@ -64,3 +64,19 @@ The solution, in hindsite, was terribly simple. I love when that happens.
 - I also couldn't just
 
 ---
+
+I had to fiddle my way through getting title and description metadata from my blogs to my layouts. I originally tried a suggestion by somebody in the issues for mdsvex, where they created a store for metadata and read it from the layout, but that solution was really nasty- and didn't consistently work.
+My solution was to figure out that mdsvex automatically pushes metadata to a configured layout, so I simply... used that.
+For non-mdsvex pages, I just recreate the `<svelte:head>`.
+
+---
+
+I realized it would be even easier to dump my frontmatter content via an object that I can type, rather than splitting it into each expected field.
+
+---
+
+I figured out how to do server stuff. I think I should make my blog generate statically at some point, but I like the server stuff as is. Especially for the discord indicator.
+
+---
+
+This is actually a css thing, but chrome only runs nested transitions after the parent is done, delaying children linearly by the number of parents that transition. Yikes.
