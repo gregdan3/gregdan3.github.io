@@ -26,20 +26,20 @@ export interface Link {
 // projects.ts
 export interface Technology {
 	name: string;
-	icon: string; // TODO
+	icon: IconifyIcon;
 }
 
 type Role = 'Contributor' | 'Maintainer' | 'Creator';
 
-export interface Project {
+export interface ProjectData {
 	name: string;
-	repo: string;
-	link?: string;
-	blog?: string;
+	repo: string; // repo of the project
+	link?: string; // live version of the project
+	blog?: string; // blog post about the project
 	role: Role;
 	description: string;
 	skills: Technology[];
-	header?: string;
+	banner?: string; // image
 }
 
 export interface LanyardData {

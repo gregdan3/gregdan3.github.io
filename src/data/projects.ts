@@ -1,6 +1,6 @@
-import type { Project } from '$lib/types';
+import type { ProjectData } from '$lib/types';
 
-export const links: Project[] = [
+export const projects: ProjectData[] = [
 	{
 		name: 'gregdan3.dev',
 		repo: 'https://github.com/gregdan3/gregdan3.github.io',

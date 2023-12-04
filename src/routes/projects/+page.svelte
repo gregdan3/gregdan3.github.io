@@ -1,6 +1,7 @@
 <script lang="ts">
-	import { links } from '$src/data/projects';
+	import { projects } from '$src/data/projects';
 	import Meta from '$lib/components/Meta.svelte';
+	import Project from '$lib/components/Project.svelte';
 
 	const metadata = {
 		title: 'Projects',
@@ -12,6 +13,8 @@
 	<Meta {metadata} />
 </svelte:head>
 
-{#each links as link}
-	<div>{link.name}</div>
-{/each}
+<div class="grid grid-cols:2 md:grid-cols-3">
+	{#each projects as project}
+		<Project {project}></Project>
+	{/each}
+</div>

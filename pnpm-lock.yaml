@@ -22,6 +22,9 @@ devDependencies:
   '@iconify/icons-mdi':
     specifier: ^1.2.48
     version: 1.2.48
+  '@iconify/icons-mingcute':
+    specifier: ^1.2.9
+    version: 1.2.9
   '@iconify/icons-pixelarticons':
     specifier: ^1.2.5
     version: 1.2.5
@@ -501,6 +504,12 @@ packages:
 
   /@iconify/icons-mdi@1.2.48:
     resolution: {integrity: sha512-1Tiq+iX1d2MzrdDiw45Tc9HuhNgg8H4vvaKNV+kF+jmr/kPG+YyeLMyXUKp4bwv+gheIAgNpZPjuqAPRkmMieA==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify/icons-mingcute@1.2.9:
+    resolution: {integrity: sha512-+iP9NhTM7WFtPDVb1jTgXJYApwDx7dNjOjmAJ4QG5mw3o1fu8/lQCdQ/3DgrVPt+GM2C/KQ+uPFyRh976VnZLQ==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
