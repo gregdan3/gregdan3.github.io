@@ -9,12 +9,7 @@ description: Everything I'm doing, right now.
 	import { Tooltip } from 'flowbite-svelte';
 </script>
 
-<!-- DO NOT CHANGE -->
-<div class="absolute top-16 right-16 text-xs">
-  {formatBlogPostDate(date)}
-</div>
-
-# Winter
+## Winter
 
 #### December
 
@@ -22,7 +17,7 @@ description: Everything I'm doing, right now.
 - My birthday is coming up this month. Unsure what to do about it. Maybe run a 5k? That seems to be my thing lately
 - I ran an 8k on the 2nd and got a [44:15.7](https://runsignup.com/Race/Results/113352/IndividualResult/bZqJ#U80855384), an 8:51 average pace over 5 miles! Absolutely ecstatic considering my first serious run was October 22nd- 41 days prior, or just under 6 weeks.
 
-# Fall
+## Fall
 
 #### November
 
@@ -54,7 +49,7 @@ I keep track of the most recent three months at a time, and everything older is 
 - I got my [ilo pi toki pona taso](https://github.com/gregdan3/ilo-pi-toki-pona-taso), "Only-Toki-Pona tool", ready for everyone to use! I immediately regretted some of my database design choices, but hey, you can't win them all.
 - I started doing yoga. It's been as big a change in my well-being as the gym and physical therapy were before it- I can move and feel comfortable in my body far more than before, with 45 minute sessions twice a week.
 
-# Summer
+## Summer
 
 #### August
 
@@ -72,7 +67,7 @@ I keep track of the most recent three months at a time, and everything older is 
 - I started going to physical therapy, primarily for my neck. It's taught me a lot about how complex and inter-linked the systems of the body are, how sensitive they are, and how difficult they are to change.
 - I traveled to DC to attend a meetup of Toki Pona speakers in North America. It was one of the highlights of my entire year- and about the only place I could speak Toki Pona and nothing else for a full day.
 
-# Spring
+## Spring
 
 #### May
 
@@ -86,7 +81,7 @@ I keep track of the most recent three months at a time, and everything older is 
 
 - I traveled to Houston to attend the wedding of two old friends from college. Congratulations to them both!
 
-# Winter
+## Winter
 
 #### February
 
@@ -103,3 +98,14 @@ I keep track of the most recent three months at a time, and everything older is 
     </Tooltip>
   </div>
 </div>
+
+<!-- DO NOT CHANGE -->
+<div class="absolute top-16 right-16 text-xs">
+  {formatBlogPostDate(date)}
+</div>
+
+<style>
+  h2:first-child {
+    margin-top: 0;
+  }
+</style>
