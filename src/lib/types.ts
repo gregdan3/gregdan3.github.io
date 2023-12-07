@@ -26,7 +26,8 @@ export interface Link {
 // projects.ts
 export interface Technology {
 	name: string;
-	icon: IconifyIcon;
+	icon: string;
+	bclass?: string;
 }
 
 type Role = 'Contributor' | 'Maintainer' | 'Creator';

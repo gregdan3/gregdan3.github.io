@@ -13,10 +13,7 @@
 	<Meta {metadata} />
 </svelte:head>
 
-This page is a work in progress!
-<hr />
-
-<div class="grid grid-cols:2 md:grid-cols-3">
+<div class="grid grid-cols-1 space-y-6">
 	{#each projects as project}
 		<Project {project}></Project>
 	{/each}
