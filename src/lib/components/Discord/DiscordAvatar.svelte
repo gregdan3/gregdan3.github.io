@@ -25,7 +25,8 @@
 		return str;
 	};
 
-	let statusClasses = 'absolute bottom-0 right-0 w-6 h-6 rounded-full bg-white dark:bg-[#313338]';
+	let statusClasses =
+		'absolute bottom-0 right-0 w-6 h-6 rounded-full bg-white dark:bg-[#313338] ring-2 ring-major dark:ring-0';
 
 	let icon = offlineIcon;
 	if (data.active_on_discord_web) {
@@ -39,10 +40,11 @@
 	}
 </script>
 
-<div class="w-20 h-20 relative rounded-full flex-shrink-0">
+<div class="w-20 h-20 relative flex-shrink-0">
 	<img
 		src={makeAvatarURL(data.discord_user.id, data.discord_user.avatar)}
 		alt={data.discord_user.global_name}
+		class="rounded-full ring-2 ring-major dark:ring-0"
 	/>
 	<div class={statusClasses}>
 		<!-- TODO: WHY is the `mt` so STUPID -->
