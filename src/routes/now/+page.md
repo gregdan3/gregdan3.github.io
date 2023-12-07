@@ -14,9 +14,11 @@ description: Everything I'm doing, right now.
 #### December
 
 - My birthday is coming up this month. Unsure what to do about it. Maybe run a 5k? That seems to be my thing lately
-- I'm getting back into video making, starting with finishing [my Toki Pona lesson series](https://youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT).
+- I'm doing my first work as a Toki Pona freelancer, for jan Sonja! Secret project though, no peeking!
+- I finished the basic design on my website. Now comes content, the hardest part of making a website.
+<!-- - I'm getting back into video making, starting with finishing [my Toki Pona lesson series](https://youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT). -->
 - I've been working on a re-design for kulupu Linku's datastore, now [sona Linku](https://github.com/lipu-linku/sona)
-- I ran an 8k on the 2nd and got a [44:15.7](https://runsignup.com/Race/Results/113352/IndividualResult/bZqJ#U80855384), an 8:51 average pace over 5 miles! Absolutely ecstatic considering my first serious run was October 22nd- 41 days prior, or just under 6 weeks.
+- I ran an 8k on the 2nd and got a [44:15.7](https://runsignup.com/Race/Results/113352/IndividualResult/bZqJ#U80855384), 8:51 pace over 5 miles! Feels great when my first serious run was October 22nd- 41 days before, or 6 weeks.
 
 ## Fall
 
