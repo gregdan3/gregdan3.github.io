@@ -9,7 +9,7 @@
 	import avatar from '$lib/assets/avatar.png';
 
 	import Icon from '@iconify/svelte';
-	import chevronUpIcon from '@iconify/icons-mdi/chevron-up';
+	import chevronUpIcon from '@iconify/icons-mingcute/arrows-up-line';
 
 	export let footerlinks: Link[];
 	export let socials: Link[];

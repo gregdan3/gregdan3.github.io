@@ -4,30 +4,13 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
-  prism-themes:
-    specifier: ^1.9.0
-    version: 1.9.0
-
 devDependencies:
-  '@iconify/icons-carbon':
-    specifier: ^1.2.20
-    version: 1.2.20
-  '@iconify/icons-cib':
+  '@iconify/icons-fa-brands':
     specifier: ^1.2.4
     version: 1.2.4
-  '@iconify/icons-material-symbols':
-    specifier: ^1.2.58
-    version: 1.2.58
-  '@iconify/icons-mdi':
-    specifier: ^1.2.48
-    version: 1.2.48
   '@iconify/icons-mingcute':
     specifier: ^1.2.9
     version: 1.2.9
-  '@iconify/icons-pixelarticons':
-    specifier: ^1.2.5
-    version: 1.2.5
   '@iconify/svelte':
     specifier: ^3.1.4
     version: 3.1.4(svelte@4.2.7)
@@ -97,6 +80,9 @@ devDependencies:
   prettier-plugin-tailwindcss:
     specifier: ^0.5.7
     version: 0.5.7(prettier-plugin-svelte@3.1.2)(prettier@3.1.0)
+  prism-themes:
+    specifier: ^1.9.0
+    version: 1.9.0
   rehype-slug:
     specifier: ^6.0.0
     version: 6.0.0
@@ -484,38 +470,14 @@ packages:
     resolution: {integrity: sha512-dvuCeX5fC9dXgJn9t+X5atfmgQAzUOWqS1254Gh0m6i8wKd10ebXkfNKiRK+1GWi/yTvvLDHpoxLr0xxxeslWw==}
     dev: true
 
-  /@iconify/icons-carbon@1.2.20:
-    resolution: {integrity: sha512-GaBRDebrshFfiRu11ktyBvm/Ez72UXvZUsHG3WPqddokTp3auOT4cLch+2JSEzeVXSGbopzU2Fhpv8vE2I0XCw==}
-    dependencies:
-      '@iconify/types': 2.0.0
-    dev: true
-
-  /@iconify/icons-cib@1.2.4:
-    resolution: {integrity: sha512-CvVI7fPC9seFxnOB+G8GQaWTs92Ycf40jcAISllwrzxHacqOokebljw986ssVgVL4xMOl8Bo0SdBqRbDDW8jsA==}
-    dependencies:
-      '@iconify/types': 2.0.0
-    dev: true
-
-  /@iconify/icons-material-symbols@1.2.58:
-    resolution: {integrity: sha512-EFBflkqoJmk8FJqA5U8xgJub3a3IaIX4hZVEY4nTnCr8XM4Qopu8H5DRRI9qStF8K3t7XQIJz3AeWmSZrF3+7w==}
-    dependencies:
-      '@iconify/types': 2.0.0
-    dev: true
-
-  /@iconify/icons-mdi@1.2.48:
-    resolution: {integrity: sha512-1Tiq+iX1d2MzrdDiw45Tc9HuhNgg8H4vvaKNV+kF+jmr/kPG+YyeLMyXUKp4bwv+gheIAgNpZPjuqAPRkmMieA==}
+  /@iconify/icons-fa-brands@1.2.4:
+    resolution: {integrity: sha512-MnUUfPhKJ6ECvVNxipBCmyuvJPDgRJcJ1f9nfgv0obikp6D9d6dGtMrR+bw4Gku6Gr/WCnS1e/Qd5gdmXlE84w==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
 
   /@iconify/icons-mingcute@1.2.9:
     resolution: {integrity: sha512-+iP9NhTM7WFtPDVb1jTgXJYApwDx7dNjOjmAJ4QG5mw3o1fu8/lQCdQ/3DgrVPt+GM2C/KQ+uPFyRh976VnZLQ==}
-    dependencies:
-      '@iconify/types': 2.0.0
-    dev: true
-
-  /@iconify/icons-pixelarticons@1.2.5:
-    resolution: {integrity: sha512-y9EbVHAnpWIh3dXr+WSsNt9vV6UhDbhCId08TxBr+981XVP134d/BSuI7X3qPIx+UpthlHcutydv4WFq+hWxeQ==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
@@ -3058,7 +3020,7 @@ packages:
 
   /prism-themes@1.9.0:
     resolution: {integrity: sha512-tX2AYsehKDw1EORwBps+WhBFKc2kxfoFpQAjxBndbZKr4fRmMkv47XN0BghC/K1qwodB1otbe4oF23vUTFDokw==}
-    dev: false
+    dev: true
 
   /prismjs@1.29.0:
     resolution: {integrity: sha512-Kx/1w86q/epKcmte75LNrEoT+lX8pBpavuAbvJWRXar7Hz8jrtF+e3vY751p0R8H9HdArwaCTNDDzHg/ScJK1Q==}

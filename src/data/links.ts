@@ -1,24 +1,24 @@
 import type { Link } from '$lib/types';
 
 // header links
-import terminalIcon from '@iconify/icons-material-symbols/terminal-sharp';
-import clockIcon from '@iconify/icons-material-symbols/calendar-clock-outline-sharp';
-import bookIcon from '@iconify/icons-material-symbols/menu-book-outline-sharp';
-import homeIcon from '@iconify/icons-material-symbols/home-outline-sharp';
+import terminalIcon from '@iconify/icons-mingcute/terminal-box-line';
+import clockIcon from '@iconify/icons-mingcute/calendar-time-add-line';
+import bookIcon from '@iconify/icons-mingcute/book-6-line'; // book 4 is cool
+import homeIcon from '@iconify/icons-mingcute/home-4-line';
 
 // footer links
-import licenseIcon from '@iconify/icons-carbon/license';
-import codeIcon from '@iconify/icons-carbon/code';
+import licenseIcon from '@iconify/icons-mingcute/document-line';
+import codeIcon from '@iconify/icons-mingcute/code-line';
 
 // socials
-import discordIcon from '@iconify/icons-carbon/logo-discord';
-import youtubeIcon from '@iconify/icons-carbon/logo-youtube';
-import githubIcon from '@iconify/icons-carbon/logo-github';
-import telegramIcon from '@iconify/icons-cib/telegram-plane';
-import linkedInIcon from '@iconify/icons-carbon/logo-linkedin';
-import twitterIcon from '@iconify/icons-carbon/logo-twitter';
-import gitlabIcon from '@iconify/icons-carbon/logo-gitlab';
-import archIcon from '@iconify/icons-cib/arch-linux';
+import discordIcon from '@iconify/icons-fa-brands/discord';
+import youtubeIcon from '@iconify/icons-fa-brands/youtube';
+import githubIcon from '@iconify/icons-fa-brands/github';
+import telegramIcon from '@iconify/icons-fa-brands/telegram-plane';
+import linkedInIcon from '@iconify/icons-fa-brands/linkedin';
+import twitterIcon from '@iconify/icons-fa-brands/twitter';
+import gitlabIcon from '@iconify/icons-fa-brands/gitlab';
+// import archIcon from '@iconify/icons-fa-brands/arch-linux';
 
 export const footerlinks: Link[] = [
 	{ name: 'License', href: '/LICENSE.txt', icon: licenseIcon },

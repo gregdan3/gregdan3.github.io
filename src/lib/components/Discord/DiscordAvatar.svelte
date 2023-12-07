@@ -2,10 +2,10 @@
 	import type { LanyardData } from '$lib/types';
 
 	import Icon from '@iconify/svelte';
-	import desktopIcon from '@iconify/icons-material-symbols/desktop-windows';
-	import mobileIcon from '@iconify/icons-material-symbols/phone-android';
-	import webIcon from '@iconify/icons-material-symbols/web';
-	import offlineIcon from '@iconify/icons-material-symbols/adjust';
+	import desktopIcon from '@iconify/icons-mingcute/computer-fill';
+	import mobileIcon from '@iconify/icons-mingcute/cellphone-fill';
+	import webIcon from '@iconify/icons-mingcute/bank-card-fill';
+	import offlineIcon from '@iconify/icons-mingcute/copper-coin-fill';
 
 	export let data: LanyardData;
 
