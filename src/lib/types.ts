@@ -23,6 +23,17 @@ export interface Link {
 	tooltip?: string;
 }
 
+export interface DiscordShield {
+	invite_link: string;
+	label: string;
+	server_id: string;
+	logo: string;
+	logoColor: string;
+	labelColor: string;
+	color: string;
+	style: string;
+}
+
 // projects.ts
 export interface Technology {
 	name: string;

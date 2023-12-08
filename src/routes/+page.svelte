@@ -4,6 +4,9 @@
 	import Github from '$lib/components/GithubActivity.svelte';
 	import Running from '$lib/components/RunningRecord.svelte';
 	import Discord from '$lib/components/Discord/Discord.svelte';
+	import Shield from '$lib/components/Shield.svelte';
+
+	import { servers } from '$src/data/links';
 
 	const metadata = {
 		// frontmatter standin
@@ -23,17 +26,30 @@
 	from this list, so this site is now a permanent work in progress as I
 	<a href="/blog/learning-svelte">learn Svelte</a>. I have no idea how to breathe.
 </div>
+
 <br />
 
-<Clock {tz} />
+<div class="not-prose flex flex-col">
+	<div class="flex flex-row">
+		<div class="pr-2">
+			<Discord user_id={discordUserID} />
+		</div>
+		<div class="flex flex-col space-y-1">
+			{#each servers as server}
+				<Shield {server}></Shield>
+			{/each}
+		</div>
+	</div>
 
-<Github />
-<!-- recent repos, activity graph -->
+	<Clock {tz} />
 
-<Running />
-<!-- recent run(s), personal records -->
+	<Github />
+	<!-- recent repos, activity graph -->
 
-<Discord user_id={discordUserID} />
-<!-- avatar, online status, text status -->
+	<Running />
+	<!-- recent run(s), personal records -->
 
-<!-- TODO: youtube stats? -->
+	<!-- avatar, online status, text status -->
+
+	<!-- TODO: youtube stats? -->
+</div>

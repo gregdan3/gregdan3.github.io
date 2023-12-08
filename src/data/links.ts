@@ -1,4 +1,5 @@
 import type { Link } from '$lib/types';
+import type { DiscordShield } from '$lib/types';
 
 // header links
 import terminalIcon from '@iconify/icons-mingcute/terminal-box-line';
@@ -86,5 +87,59 @@ export const socials: Link[] = [
 		href: 'https://github.com/gregdan3',
 		icon: githubIcon,
 		bclass: 'hover:text-black dark:hover:text-white'
+	}
+];
+
+// shields
+export const servers: DiscordShield[] = [
+	{
+		invite_link: 'https://discord.gg/mapona',
+		label: 'ma pona pi toki pona',
+		server_id: '301377942062366741',
+		color: '3A4740',
+		logoColor: 'white',
+		labelColor: '5865F2',
+		style: 'plastic',
+		logo: 'discord'
+	},
+	{
+		invite_link: 'https://discord.gg/ChC6qtVsSE',
+		label: 'kama sona',
+		server_id: '969386329513295872',
+		color: '3A4740',
+		logoColor: 'white',
+		labelColor: 'violet',
+		style: 'plastic',
+		logo: 'discord'
+	},
+	{
+		invite_link: 'https://discord.gg/arjV4Nw',
+		label: 'ma toki pona',
+		server_id: '453933949362765826',
+		color: '3A4740',
+		logoColor: 'white',
+		labelColor: 'yellow',
+		style: 'plastic',
+		logo: 'discord'
+	},
+	{
+		invite_link: 'https://vrc.group/TOKI.9663',
+		label: 'MA TOKI PONA VR',
+		server_id: '929521083193888790',
+		color: '3A4740',
+		logoColor: 'white',
+		labelColor: '00a6e8',
+		style: 'plastic',
+		logo: 'discord'
+	},
+	{
+		invite_link: 'https://discord.gg/A3ZPqnHHsy',
+		label: 'kulupu Linku',
+		server_id: '972470770443886662',
+		color: '3A4740',
+		logoColor: 'white',
+		labelColor: 'lightgray',
+		style: 'plastic',
+		logo: 'discord'
 	}
 ];
