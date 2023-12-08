@@ -13,6 +13,7 @@ description: Everything I'm doing, right now.
 
 #### December
 
+- [kulupu Linku is now up on Crowdin!](https://linku.crowdin.com)
 - My birthday is coming up this month. Unsure what to do about it. Maybe run a 5k? That seems to be my thing lately
 - I'm doing my first work as a Toki Pona freelancer, for jan Sonja! Secret project though, no peeking!
 - I finished the basic design on my website. Now comes content, the hardest part of making a website.
