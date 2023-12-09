@@ -32,11 +32,11 @@
 	class="not-prose flex shadow-xl border border-accent dark:border-accent-dark bg-white dark:bg-[#313338] rounded-lg leading-snug w-fit h-fit"
 >
 	{#await fetchDiscordStatus(user_id)}
-		<div>
-			<CardPlaceholder size="lg" class="h-[155px] w-[480px] overflow-hidden mb-4" />
-			<div class="flex">
-				<ImagePlaceholder imgHeight="20" class="w-36 h-20 ml-4 mb-4 overflow-hidden" />
-				<Skeleton class="w-52 h-20 overflow-hidden" />
+		<div class="overflow-hidden">
+			<CardPlaceholder size="lg" class="h-32 overflow-hidden" />
+			<div class="flex overflow-hidden m-4">
+				<ImagePlaceholder imgHeight="12" class="h-16 w-16 overflow-hidden" />
+				<Skeleton class="h-20 w-72 overflow-hidden" />
 			</div>
 		</div>
 	{:then data}
