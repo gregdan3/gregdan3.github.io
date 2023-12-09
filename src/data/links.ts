@@ -141,5 +141,15 @@ export const servers: DiscordShield[] = [
 		labelColor: 'lightgray',
 		style: 'plastic',
 		logo: 'discord'
+	},
+	{
+		invite_link: 'https://discord.gg/A3ZPqnHHsy',
+		label: 'ma unpa pi toki unpa',
+		server_id: '1036373672895725598',
+		color: '3A4740',
+		logoColor: 'white',
+		labelColor: 'DD2222',
+		style: 'plastic',
+		logo: 'discord'
 	}
 ];
