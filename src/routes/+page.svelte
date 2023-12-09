@@ -34,7 +34,7 @@
 		<div class="pr-2">
 			<Discord user_id={discordUserID} />
 		</div>
-		<div class="flex flex-col space-y-1">
+		<div class="flex flex-col shrink-0 space-y-1">
 			{#each servers as server}
 				<Shield {server}></Shield>
 			{/each}
