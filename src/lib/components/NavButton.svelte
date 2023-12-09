@@ -1,11 +1,15 @@
 <script lang="ts">
+	import { page } from '$app/stores';
+
 	import { NavLi, Button, Tooltip } from 'flowbite-svelte';
 	import type { IconifyIcon } from '@iconify/svelte';
 	import Icon from '@iconify/svelte';
 
+	$: current = href == $page.url.pathname;
+
 	export let name: string;
 	export let href: string;
-	export let icon: IconifyIcon | undefined | null = null;
+	export let icon: IconifyIcon | null;
 	export let bclass: string = '';
 	export let tooltip: string = '';
 	bclass =
@@ -19,7 +23,7 @@
 		{#if icon}
 			<Icon {icon} class="-ml-0.5 mr-2 h-6 w-6" />
 		{/if}
-		{name}
+		<span class={current ? 'underline decoration-2' : ''}>{name}</span>
 	</Button>
 	{#if tooltip}
 		<Tooltip arrow={false} type="auto" placement="bottom" class="absolute">{tooltip}</Tooltip>
