@@ -46,6 +46,8 @@
 				alt={activity.emoji.name}
 				class="w-8 h-8 float-left mr-1"
 			/>
+		{:else if activity.emoji?.name}
+			<span>{activity.emoji.name}</span>
 		{/if}
 		{#if activity.state}
 			<span>{activity.state}</span>
