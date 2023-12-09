@@ -28,10 +28,10 @@ export const footerlinks: Link[] = [
 
 export const headerlinks: Link[] = [
 	{ name: 'Home', href: '/', icon: homeIcon, tooltip: '' },
-	{ name: 'Blog', href: '/blog/', icon: bookIcon, tooltip: 'Every dev needs an abandoned blog.' },
-	{ name: 'Projects', href: '/projects/', icon: terminalIcon, tooltip: '' },
+	{ name: 'Blog', href: '/blog', icon: bookIcon, tooltip: 'Every dev needs an abandoned blog.' },
+	{ name: 'Projects', href: '/projects', icon: terminalIcon, tooltip: '' },
 	// { name: 'Mind Map', url: '/map/' },
-	{ name: 'Now', href: '/now/', icon: clockIcon, tooltip: 'What am I doing right now?' },
+	{ name: 'Now', href: '/now', icon: clockIcon, tooltip: 'What am I doing right now?' },
 	{
 		name: 'Toki Pona',
 		href: 'https://mun.la/sona',
