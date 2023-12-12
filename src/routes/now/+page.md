@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2023-12-03
+date: 2023-12-12
 description: Everything I'm doing, right now.
 ---
 
@@ -13,9 +13,9 @@ description: Everything I'm doing, right now.
 
 #### December
 
+- I finished my first work as a Toki Pona freelancer for jan Sonja! Secret project though, no peeking!
+- Had my birthday! I'm 26 now. I spent most of the day relaxing. Baldur's Gate 3 is fantastic (thanks mom)
 - [kulupu Linku is now up on Crowdin!](https://linku.crowdin.com)
-- My birthday is coming up this month. Unsure what to do about it. Maybe run a 5k? That seems to be my thing lately
-- I'm doing my first work as a Toki Pona freelancer, for jan Sonja! Secret project though, no peeking!
 - I finished the basic design on my website. Now comes content, the hardest part of making a website.
 <!-- - I'm getting back into video making, starting with finishing [my Toki Pona lesson series](https://youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT). -->
 - I've been working on a re-design for kulupu Linku's datastore, now [sona Linku](https://github.com/lipu-linku/sona)
