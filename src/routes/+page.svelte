@@ -30,11 +30,11 @@
 <br />
 
 <div class="not-prose flex flex-col">
-	<div class="flex flex-row">
-		<div class="pr-2">
+	<div class="flex flex-col md:flex-row">
+		<div class="pb-2 md:pr-2">
 			<Discord user_id={discordUserID} />
 		</div>
-		<div class="flex flex-col shrink-0 space-y-1">
+		<div class="flex flex-wrap md:flex-col shrink-0 md:mt-1">
 			{#each servers as server}
 				<Shield {server}></Shield>
 			{/each}
