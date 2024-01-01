@@ -43,7 +43,7 @@
 <div class="w-20 h-20 relative flex-shrink-0">
 	<img
 		src={makeAvatarURL(data.discord_user.id, data.discord_user.avatar)}
-		alt={data.discord_user.global_name}
+		alt={data.discord_user.username}
 		class="rounded-full ring-2 ring-major dark:ring-0"
 	/>
 	<div class={statusClasses}>

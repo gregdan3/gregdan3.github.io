@@ -84,13 +84,13 @@ export interface LanyardSpotifyData {
 
 export interface LanyardDiscordUser {
 	id: number;
-	username: string;
+	username: string; // searchable global identifier
 	avatar: string;
 	discriminator: string;
 	bot: boolean;
-	global_name: string;
+	global_name: string; // nickname on discord
 	avatar_decoration_data: string;
-	display_name: string;
+	display_name: string; // nickname on server
 	public_flags: number;
 }
 

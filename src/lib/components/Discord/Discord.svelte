@@ -44,7 +44,7 @@
 			{#if data.kv.banner}
 				<img
 					src={makeBannerURL(data.discord_user.id, data.kv.banner)}
-					alt={data.discord_user.global_name}
+					alt={data.discord_user.username}
 					class="rounded-t-md border-b border-accent dark:border-accent-dark"
 				/>
 			{/if}
@@ -54,8 +54,8 @@
 				<div class="flex flex-col ml-2 w-full">
 					<div class="flex w-full relative">
 						<!-- structurally, this is just another activity -->
-						<span class="font-bold pr-1">{data.discord_user.display_name}</span>
-						<span class="font-light">@{data.discord_user.global_name}</span>
+						<span class="font-bold pr-1 whitespace-nowrap">{data.discord_user.global_name}</span>
+						<span class="font-light ml-4 whitespace-nowrap">@{data.discord_user.username}</span>
 						{#if data.kv.badges}
 							{@const badges = data.kv.badges.split(' ')}
 							<div
@@ -64,7 +64,7 @@
 								{#each badges as badge}
 									<img
 										src={makeBadgeURL(badge)}
-										alt={data.discord_user.global_name + "'s badge'"}
+										alt={data.discord_user.username + "'s badge'"}
 										class="h-6 w-6"
 									/>
 								{/each}
