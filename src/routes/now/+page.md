@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2023-12-12
+date: 2024-02-05
 description: Everything I'm doing, right now.
 ---
 
@@ -11,6 +11,22 @@ description: Everything I'm doing, right now.
 
 ## Winter
 
+<!-- #### March -->
+<!---->
+<!-- - I'll run a half marathon on the 23rd! -->
+<!-- - I'll run a 10k on the 2nd! -->
+
+#### February
+
+- I'm doing a valentine's day themed toki pona lesson for the VR community!
+- I've been slowly upping my mileage in runs for a while, so I've decided it's time to run a half marathon! I'm working up my long runs now, just did 9.5 miles on the 3rd. It's two months out!
+
+#### January
+
+- I traveled to San Francisco for a meetup of Toki Pona speakers! Not as big as the DC one last summer, but just as fun- and longer this time! 6 full days, almost exclusively speaking Toki Pona.
+- We're running a contest to update the icon and banner in [ma pona pi toki pona](https://discord.gg/mapona)!
+- We're writing a proposal to add sitelen pona, Toki Pona's writing system, to Unicode! It's a huge effort across the community, although there are surprisingly few writers in total.
+
 #### December
 
 - I finished my first work as a Toki Pona freelancer for jan Sonja! Secret project though, no peeking!
@@ -20,6 +36,15 @@ description: Everything I'm doing, right now.
 <!-- - I'm getting back into video making, starting with finishing [my Toki Pona lesson series](https://youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT). -->
 - I've been working on a re-design for kulupu Linku's datastore, now [sona Linku](https://github.com/lipu-linku/sona)
 - I ran an 8k on the 2nd and got a [44:15.7](https://runsignup.com/Race/Results/113352/IndividualResult/bZqJ#U80855384), 8:51 pace over 5 miles! Feels great when my first serious run was October 22nd- 41 days before, or 6 weeks.
+
+<br />
+
+<div class="relative">
+
+<details>
+<summary>Older Content</summary>
+
+I keep track of the most recent three months at a time, and everything older is stashed in here.
 
 ## Fall
 
@@ -38,15 +63,6 @@ description: Everything I'm doing, right now.
 - I signed up for my first ever [5k](https://en.wikipedia.org/wiki/5K_run). I wasn't sure if I could actually run all the way to the finish line when I signed up, but I managed a 4.5 mile run a few days later- I'll be fine!
 - I got a CT Scan! Long story, but I'm mostly okay. It's weird to see the inside of your own body.
 - I played a translation of [Zelda 1](https://youtu.be/SkiiabwexcA) in Toki Pona!
-
-<br />
-
-<div class="relative">
-
-<details>
-<summary>Older Content</summary>
-
-I keep track of the most recent three months at a time, and everything older is stashed in here.
 
 #### September
 
