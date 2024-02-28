@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2024-02-05
+date: 2024-02-28
 description: Everything I'm doing, right now.
 ---
 
@@ -9,16 +9,18 @@ description: Everything I'm doing, right now.
 	import { Tooltip } from 'flowbite-svelte';
 </script>
 
-## Winter
+## Spring
 
-<!-- #### March -->
-<!---->
-<!-- - I'll run a half marathon on the 23rd! -->
-<!-- - I'll run a 10k on the 2nd! -->
+#### March
+
+- I'm running a half marathon on the 23rd!
+- I'm running a 10k on the 2nd!
 
 #### February
 
-- I'm doing a valentine's day themed toki pona lesson for the VR community!
+- I'm finally pushing my beta dev site to be the primary one!
+- I ran 13.1 miles for the first time on the 25th. 2:12:14. Let's GO!
+- I did a valentine's day themed toki pona lesson for the VR community!
 - I've been slowly upping my mileage in runs for a while, so I've decided it's time to run a half marathon! I'm working up my long runs now, just did 9.5 miles on the 3rd. It's two months out!
 
 #### January
@@ -68,6 +70,7 @@ I keep track of the most recent three months at a time, and everything older is 
 
 - I got my [ilo pi toki pona taso](https://github.com/gregdan3/ilo-pi-toki-pona-taso), "Only-Toki-Pona tool", ready for everyone to use! I immediately regretted some of my database design choices, but hey, you can't win them all.
 - I started doing yoga. It's been as big a change in my well-being as the gym and physical therapy were before it- I can move and feel comfortable in my body far more than before, with 45 minute sessions twice a week.
+- I'm working on a refresh of the definitions in [lipu Linku](https://linku.la) with help from lots of others. See [here](https://github.com/lipu-linku/pali-nimi/) for details!
 
 ## Summer
 
@@ -86,6 +89,7 @@ I keep track of the most recent three months at a time, and everything older is 
 
 - I started going to physical therapy, primarily for my neck. It's taught me a lot about how complex and inter-linked the systems of the body are, how sensitive they are, and how difficult they are to change.
 - I traveled to DC to attend a meetup of Toki Pona speakers in North America. It was one of the highlights of my entire year- and about the only place I could speak Toki Pona and nothing else for a full day.
+- I put out a video with a toki pona taso section, all about the variety of ways you can describe a jellyfish! [See it here!](https://www.youtube.com/watch?v=4ituR4S-NS0)
 
 ## Spring
 
@@ -96,16 +100,23 @@ I keep track of the most recent three months at a time, and everything older is 
 #### April
 
 - I bought some AR Glasses, the [Nreal Airs](https://www.nreal.ai/) to be exact. They're a painfully incomplete product, barely in beta despite the marketing.
+- I did some AWESOME april fools gags [here](https://www.youtube.com/watch?v=Ywy9Fa8wcOI) and [here](https://www.youtube.com/watch?v=gxe0cHuSBG4), as well as turning ma pona pi toki pona into ma Losupan pi toki Losupan!
 
 #### March
 
+- I published my multiple li/e, en, anu lesson, [check it out!](https://www.youtube.com/watch?v=BGsodPu9UAw)
 - I traveled to Houston to attend the wedding of two old friends from college. Congratulations to them both!
 
 ## Winter
 
 #### February
 
+- I published a lesson on names, numbers, and kin! [Check it out!](https://youtu.be/P0N1S5jBujI)
+- I dubbed waso mu's comic ["mi lon e ma"](https://waso-mu.neocities.org/musi/), [see it here!](https://youtu.be/GU9PEZ9TARs)
+
 #### January
+
+- I played through the first part of waso Keli's translation of Link's Awakening! [See it here](https://youtu.be/xi8gUvqyMm4)!
 
 <!-- DO NOT CHANGE -->
 </details>
