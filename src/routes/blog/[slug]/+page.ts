@@ -3,7 +3,7 @@ import { fetchSlugFromPath } from '$lib/utils';
 import { error } from '@sveltejs/kit';
 
 export const load: PageLoad = async ({ params }) => {
-	const modules = import.meta.glob(`/src/data/posts/*.{md,svx,svelte.md}`);
+	const modules = import.meta.glob(`/src/data/posts/*.{md,svelte.md}`);
 
 	let match: { path?: string; resolver?: App.MdsvexResolver } = {};
 	for (const [path, resolver] of Object.entries(modules)) {

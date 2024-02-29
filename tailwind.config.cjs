@@ -6,7 +6,7 @@ const colors = require('tailwindcss/colors');
 const config = {
 	darkMode: ['class'],
 	content: [
-		'./src/**/*.{html,js,svelte,ts,md,mdx,svx}',
+		'./src/**/*.{html,js,svelte,ts,md,svelte.md}',
 		'./node_modules/flowbite-svelte/**/*.{html,js,svelte,ts}'
 	],
 	theme: {
