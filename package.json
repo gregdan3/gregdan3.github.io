@@ -19,7 +19,7 @@
 		"@iconify/icons-mingcute": "^1.2.9",
 		"@iconify/svelte": "^3.1.6",
 		"@playwright/test": "^1.42.0",
-		"@sveltejs/adapter-static": "^3.0.1",
+		"@sveltejs/adapter-vercel": "^5.1.0",
 		"@sveltejs/kit": "^2.5.2",
 		"@sveltejs/vite-plugin-svelte": "^3.0.2",
 		"@tailwindcss/typography": "^0.5.10",
