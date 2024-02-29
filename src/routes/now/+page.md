@@ -16,6 +16,8 @@ description: Everything I'm doing, right now.
 - I'm running a half marathon on the 23rd!
 - I'm running a 10k on the 2nd!
 
+## Winter
+
 #### February
 
 - I'm finally pushing my beta dev site to be the primary one!
