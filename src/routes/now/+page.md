@@ -9,21 +9,36 @@ description: Everything I'm doing, right now.
 	import { Tooltip } from 'flowbite-svelte';
 </script>
 
+<!-- ## Summer -->
+
+<!-- #### June -->
+<!---->
+<!-- - I'm traveling to Chicago to see a BIG crowd of toki pona speakers! -->
+
 ## Spring
+
+#### April
+
+- I'm traveling to Arkansas to see the total solar eclipse! Will be going with my siblings and girlfriend!
+- The morning of April 5th, I ran 7 miles at an average pace of 8:43- this was my 5k pace in October, and just short of my 10k pace only a month ago.
+- I released an April Fools video for the Toki Pona community, [tomo pi walo loje](https://youtu.be/liZCeOD9-gI)
+- At the same time, I helped [ma pona pi toki pona](https://discord.gg/mapona) become kiku tiki tuki tiki- circle place of [circle language](https://tiger.kittycat.homes/made/conlang/tuki-tiki/cheat-sheet.pdf)!
 
 #### March
 
-- I'm running a half marathon on the 23rd!
-- I'm running a 10k on the 2nd!
+- My girlfriend and I went to the [Cherry Blossom Festival](https://japanalabama.com/Cherry-Blossom-Festival) at the Botanical Gardens; it was absolutely lovely, though I wish there were more cherry blossoms.
+- I ran a half marathon on the 23rd, and got a time of [1:59:59](https://runsignup.com/Race/Results/102420/IndividualResult/gsqK?resultSetId=444401#U80855384)!
+- I had an AWESOME toki pona meetup in Birmingham with two very welcome visitors from Florida and Ohio!
+- I ran a 10k on the 2nd, and got a time of [53:48](https://runsignup.com/Race/Results/27993/IndividualResult/gZtq#U80855384)!
 
 ## Winter
 
 #### February
 
-- I'm finally pushing my beta dev site to be the primary one!
 - I ran 13.1 miles for the first time on the 25th. 2:12:14. Let's GO!
 - I did a valentine's day themed toki pona lesson for the VR community!
 - I've been slowly upping my mileage in runs for a while, so I've decided it's time to run a half marathon! I'm working up my long runs now, just did 9.5 miles on the 3rd. It's two months out!
+- I started a new job, sorta! I do the same things, in the same building, for mostly the same people, but for higher pay. Cool!
 
 #### January
 
