@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2024-02-28
+date: 2024-04-06
 description: Everything I'm doing, right now.
 ---
 
@@ -40,6 +40,15 @@ description: Everything I'm doing, right now.
 - I've been slowly upping my mileage in runs for a while, so I've decided it's time to run a half marathon! I'm working up my long runs now, just did 9.5 miles on the 3rd. It's two months out!
 - I started a new job, sorta! I do the same things, in the same building, for mostly the same people, but for higher pay. Cool!
 
+<br />
+
+<div class="relative">
+
+<details>
+<summary>Older Content</summary>
+
+I keep track of the most recent three months at a time, and everything older is stashed in here.
+
 #### January
 
 - I traveled to San Francisco for a meetup of Toki Pona speakers! Not as big as the DC one last summer, but just as fun- and longer this time! 6 full days, almost exclusively speaking Toki Pona.
@@ -55,15 +64,6 @@ description: Everything I'm doing, right now.
 <!-- - I'm getting back into video making, starting with finishing [my Toki Pona lesson series](https://youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT). -->
 - I've been working on a re-design for kulupu Linku's datastore, now [sona Linku](https://github.com/lipu-linku/sona)
 - I ran an 8k on the 2nd and got a [44:15.7](https://runsignup.com/Race/Results/113352/IndividualResult/bZqJ#U80855384), 8:51 pace over 5 miles! Feels great when my first serious run was October 22nd- 41 days before, or 6 weeks.
-
-<br />
-
-<div class="relative">
-
-<details>
-<summary>Older Content</summary>
-
-I keep track of the most recent three months at a time, and everything older is stashed in here.
 
 ## Fall
 
