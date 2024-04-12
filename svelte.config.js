@@ -6,17 +6,21 @@ import adapter from '@sveltejs/adapter-static';
 // import adapter from "@sveltejs/adapter-cloudflare";
 // import adapter from '@sveltejs/adapter-vercel';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
-// import { Config } from '@sveltejs/kit';
 
 const config = {
 	extensions: ['.svelte', ...mdsvexConfig.extensions],
-
-	// Consult https://kit.svelte.dev/docs/integrations#preprocessors
-	// for more information about preprocessors
 	preprocess: [vitePreprocess(), preprocess({ postcss: true }), mdsvex(mdsvexConfig)],
 
 	kit: {
-		adapter: adapter({ strict: false })
+		adapter: adapter({
+			strict: false,
+			pages: 'build',
+			assets: 'build',
+			precompress: true
+		}),
+		paths: {
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+		}
 	}
 };
 
