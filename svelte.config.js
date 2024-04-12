@@ -1,9 +1,10 @@
 import { mdsvex } from 'mdsvex';
 import mdsvexConfig from './mdsvex.config.js';
 import preprocess from 'svelte-preprocess';
-// import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-static';
 // import adapter from '@sveltejs/adapter-auto';
-import adapter from '@sveltejs/adapter-vercel';
+// import adapter from "@sveltejs/adapter-cloudflare";
+// import adapter from '@sveltejs/adapter-vercel';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 // import { Config } from '@sveltejs/kit';
 
