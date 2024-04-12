@@ -1,0 +1,26 @@
+---
+name: Deploy to Github Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js 21
+        uses: actions/setup-node@v3
+        with:
+          node-version: 21.7.2
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 8.15.2
+      - name: Install packages
+        run: pnpm install
+      - name: Build
+        run: pnpm build
+      - name: Deploy
+        run: pnpm gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
