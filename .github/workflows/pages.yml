@@ -23,4 +23,8 @@ jobs:
       - name: Build
         run: pnpm build
       - name: Deploy
-        run: pnpm gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
+        run: |
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          pnpm gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
