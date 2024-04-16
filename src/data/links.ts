@@ -143,7 +143,7 @@ export const servers: DiscordShield[] = [
 		logo: 'discord'
 	},
 	{
-		invite_link: 'https://discord.gg/A3ZPqnHHsy',
+		invite_link: 'https://discord.gg/7BfyugsbEK',
 		label: 'ma unpa pi toki unpa',
 		server_id: '1036373672895725598',
 		color: '3A4740',
