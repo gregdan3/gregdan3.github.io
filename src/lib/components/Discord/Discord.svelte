@@ -18,7 +18,7 @@
 		return await resp.json();
 	}
 
-	const makeBannerURL = (user_id: number, banner_id: string, size: number = 480): string => {
+	const makeBannerURL = (user_id: number, banner_id: string, size: number = 1024): string => {
 		return `https://cdn.discordapp.com/banners/${user_id}/${banner_id}?size=${size}`;
 	};
 	const makeBadgeURL = (badge_id: string, extension: string = 'png') => {
