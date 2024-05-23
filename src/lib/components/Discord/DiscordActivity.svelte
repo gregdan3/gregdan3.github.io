@@ -44,7 +44,7 @@
 			<img
 				src={makeEmojiURL(activity.emoji.id)}
 				alt={activity.emoji.name}
-				class="w-8 h-8 float-left mr-1"
+				class="w-8 h-7 float-left mr-1"
 			/>
 		{:else if activity.emoji?.name}
 			<span>{activity.emoji.name}</span>
