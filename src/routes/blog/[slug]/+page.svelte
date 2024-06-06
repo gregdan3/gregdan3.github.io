@@ -13,7 +13,7 @@
 
 <div>
 	<!-- <div class="flex justify-center mt-4">{data.metadata.author}</div> -->
-	<h1 class="flex justify-center text-3xl md:text-5xl">{data.metadata.title}</h1>
+	<h1 class="flex justify-center text-center text-3xl md:text-5xl">{data.metadata.title}</h1>
 </div>
 
 <div class="flex pl-2 my-0">
