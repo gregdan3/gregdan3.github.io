@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2024-04-06
+date: 2024-09-06
 description: Everything I'm doing, right now.
 ---
 
@@ -15,11 +15,60 @@ description: Everything I'm doing, right now.
 <!---->
 <!-- - I'm traveling to Chicago to see a BIG crowd of toki pona speakers! -->
 
+## Fall
+
+#### September
+
+- I'm getting out a very important video for the future of Toki Pona.
+- I published [a very silly video](https://www.youtube.com/watch?v=fc4QjYbONps) thanks
+  to ijo Vivi!
+
+## Summer
+
+#### August
+
+- I published [ilo Muni pi mute nimi](https://gregdan3.github.io/ilo-muni/), a graphing
+  tool in the style of [Google Ngrams](https://books.google.com/ngrams/) to view the
+  history of Toki Pona!
+- I'm finally getting back to running- it was so frustrating to be out for so
+  long, but it turns out that my ankle pain is entirely in my head. Not a joke.
+
+#### July
+
+- I received an old, old laptop I had when I was a child from my parents, and oh _man_
+  does it suck. But incredibly, it still works! It's an HP ze5500
+- I started graphing the frequency-counted words from [sona mute](https://github.com/gregdan3/sona-mute), demonstrating some fascinating
+
+#### June
+
+- I travelled to Chicago for a big toki pona meetup- it was so much fun. I finally got
+  to meet some people I'd only spoken to over the internet- always exciting!
+- I made some software, [sona mute](https://github.com/gregdan3/sona-mute) "frequency knowledge," which takes in toki pona text
+  from various sources and frequency-counts it.
+
+<br />
+
+<div class="relative">
+
+<details>
+<summary>Older Content</summary>
+
+I keep track of the most recent three months at a time, and everything older is stashed in here.
+
 ## Spring
+
+#### May
+
+- I started [streaming in Toki Pona on YouTube](https://www.youtube.com/@gregdan3d/streams), which has been incredibly fun! Also, play Animal Well!
+- I updated [my toki pona site, mun.la](https://mun.la) to render on a Dreamcast or
+  Nintendo DS, and with some cool new graphics too!
+- I published a Python library called [sona toki](https://github.com/gregdan3/sona-toki/) "language knowledge," which helps you determine if a given text is or is not Toki Pona.
+- I had one bad run right at the start of the month, then had left calf pain for a week and nasty ankle pain afterward that prevented me from running. Damn, and I was planning on a marathon in October.
 
 #### April
 
-- I'm traveling to Arkansas to see the total solar eclipse! Will be going with my siblings and girlfriend!
+- I traveled to Arkansas to see the total solar eclipse, and it was genuinely
+  incredible. I think about it very often.
 - The morning of April 5th, I ran 7 miles at an average pace of 8:43- this was my 5k pace in October, and just short of my 10k pace only a month ago.
 - I released an April Fools video for the Toki Pona community, [tomo pi walo loje](https://youtu.be/liZCeOD9-gI)
 - At the same time, I helped [ma pona pi toki pona](https://discord.gg/mapona) become kiku tiki tuki tiki- circle place of [circle language](https://tiger.kittycat.homes/made/conlang/tuki-tiki/cheat-sheet.pdf)!
@@ -39,15 +88,6 @@ description: Everything I'm doing, right now.
 - I did a valentine's day themed toki pona lesson for the VR community!
 - I've been slowly upping my mileage in runs for a while, so I've decided it's time to run a half marathon! I'm working up my long runs now, just did 9.5 miles on the 3rd. It's two months out!
 - I started a new job, sorta! I do the same things, in the same building, for mostly the same people, but for higher pay. Cool!
-
-<br />
-
-<div class="relative">
-
-<details>
-<summary>Older Content</summary>
-
-I keep track of the most recent three months at a time, and everything older is stashed in here.
 
 #### January
 
