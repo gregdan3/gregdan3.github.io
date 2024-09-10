@@ -5,6 +5,7 @@
 	import Running from '$lib/components/RunningRecord.svelte';
 	import Discord from '$lib/components/Discord/Discord.svelte';
 	import Shield from '$lib/components/Shield.svelte';
+	import Beats from '$lib/components/Beats.svelte';
 
 	import { servers } from '$src/data/links';
 
@@ -23,8 +24,8 @@
 
 <div>
 	I'm Gregory (@gregdan3). I do devops, database, and backend. Frontend was suspiciously missing
-	from this list, so this site is now a permanent work in progress as I
-	<a href="/blog/learning-svelte">learn Svelte</a>. I have no idea how to breathe.
+	from this list, so this site is now a permanent work in progress as I learn Svelte. I have no idea
+	how to breathe.
 </div>
 
 <br />
@@ -41,12 +42,12 @@
 		</div>
 	</div>
 
-	<Clock {tz} />
+	<Beats />
 
-	<Github />
+	<!-- <Github /> -->
 	<!-- recent repos, activity graph -->
 
-	<Running />
+	<!-- <Running /> -->
 	<!-- recent run(s), personal records -->
 
 	<!-- avatar, online status, text status -->
