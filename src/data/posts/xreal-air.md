@@ -1,10 +1,15 @@
 ---
-title: XReal Air
+title: The XReal Air Saved My Neck
 author: gregdan3
 date: 2023-10-31
-description: Fucked Up If True
+updated: 2024-07-02
+description: My body doesn't understand ergonomics, but now it doesn't matter
 published: false
 ---
+
+In January of 2023, something happened inside my neck. I'm still not sure what. I started having serious nerve pain, brain fog, inability to focus, and a laundry list of other nasty intermittent problems. It affected my work, my hobbies, my personal life- essentially everything I wanted or needed to do was affected in some way, covered in this malaise of, oh no, my neck hurts and now I can't think.
+
+I spent the following year and a half trying nearly everything to help the issue- and I still don't have a clear answer for how to fix it! But I did find one thing that helps immensely: In April, I purchased the [Xreal Air AR Glasses](TODO), then called the Nreal Air.
 
 Gregory Danielson, [10/31/23 8:19 AM]
 

@@ -1,39 +1,34 @@
 ---
 title: Protecting your Discord Community
 author: gregdan3
-date: 2023-11-13
-description: I mod a 10k+ and a 4k+ member server. This is my collected advice.
+date: 2024-09-09
+description: Collected advice from two years of moderation.
 published: false
 ---
 
-# Summary
+## Summary
 
 - Enable Community.
-- Require at least email verification for accounts.
-<!-- Except for phone verification, higher levels are useless. I don't recommend phone verification except in dire circumstances. -->
-- Enable 2FA for mod actions.
+- Require at least email verification. Phone verification is safer, but inconvenient.
+- Require 2-factor authentication for mod actions.
 - Enable raid protection.
 - <details><summary>Disable creating threads. Use forum channels instead.</summary>
   Optionally create a role which re-enables threads, assigning it to trusted users. I don't recommend allowing threads.</details>
 - <details><summary>Disable image and link embedding if under attack.</summary>
   Optionally create a role which re-enables these and assign it to trusted users. You could use a bot to automatically assign the role after a set time or number of posts. </details>
-- Explore other bots for moderation. I highly recommend [YAGPDB](https://yagpdb.xyz/).
-- You can use bots to enforce higher levels of verification than Discord enables.
-  <!-- Some users will repeatedly evade bans to attack your community.  -->
-  <!-- If your server is going through a specific attack distinct from a raid, read the guide at the bottom of this document, and reach out for more help if you need. -->
-- If you need details, justifications, or help on where to find one of these settings, read the rest of the document or reach out for help.
+- Bots can enforce stronger verification and logging than Discord offers.
+  - [YAGPDB](https://yagpdb.xyz/) can respond to joins and throw captchas.
 
-# Contents
+## Foreword
 
-# Foreword
+The goal is to protect your community to the maximum extent _without_ altering the
+community itself, or preventing legitimate users from entering it.
 
-If you are a moderator or admin of a Discord server, especially one adjacent to the Toki Pona community, it is highly recommended you read the following document **in full**.
+You _can_ secure your server to the maximum extent by never allowing anyone to join, locking down every permission, forcing users through a background check. These are also obviously undesirable. Moderation is not a perfect system, and cannot prevent all forms of abuse. However, we can design the permissions of a server to compromise between "nobody may enter or leave" and "the oldest anarchy server on Discord" without harming the community itself.
 
-Nothing in this document can be as secure as never allowing anyone to join your server, or locking down every possible permission, or forcing every user to go through a detailed and thorough background check, or otherwise bricking your community. This isn't the goal. Moderation is not a perfect system, and cannot prevent all forms of abuse. However, we can design the permissions of a server to compromise between "nobody may enter or leave" and "the oldest anarchy server on Discord" without harming the community itself.
+The goal of my recommendations in this document are to minimize the surface area for attack while not compromising the functionality of the server for normal users.
 
-The goal of taking these steps is to minimize the surface area for a potential attack while not compromising the functionality of the server for normal users.
-
-# Discord's Safety Settings
+## Discord's Safety Settings
 
 It is **highly recommended** that you enable Community in `Server Settings -> Enable Community -> Get Started`. This will obligate media scanning and disables dangerous permissions for `@everyone` to have. This does not require you to make the server public, be listed in Discovery, or otherwise change the visibility or invite rules of your server.
 
@@ -77,7 +72,7 @@ In **ma pona pi toki pona**, we happen to still have a previous verification rol
 
 A bot can be used to assign a target role after a user has sent a sufficient number of messages or remained in the server for a sufficient period of time.
 
-# YAGPDB
+## YAGPDB
 
 # Other Bots
 
