@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2024-09-06
+date: 2024-09-10
 description: Everything I'm doing, right now.
 ---
 
@@ -9,17 +9,14 @@ description: Everything I'm doing, right now.
 	import { Tooltip } from 'flowbite-svelte';
 </script>
 
-<!-- ## Summer -->
-
-<!-- #### June -->
-<!---->
-<!-- - I'm traveling to Chicago to see a BIG crowd of toki pona speakers! -->
-
 ## Fall
 
 #### September
 
+- I'm re-writing this site in Astro. Uh, for reasons.
 - I'm getting out a very important video for the future of Toki Pona.
+- I published a big update to [ilo Muni pi mute
+  nimi](https://gregdan3.github.io/ilo-muni/)!
 - I published [a very silly video](https://www.youtube.com/watch?v=fc4QjYbONps) thanks
   to ijo Vivi!
 
@@ -30,21 +27,16 @@ description: Everything I'm doing, right now.
 - I published [ilo Muni pi mute nimi](https://gregdan3.github.io/ilo-muni/), a graphing
   tool in the style of [Google Ngrams](https://books.google.com/ngrams/) to view the
   history of Toki Pona!
+- I gave a talk at [suno pi toki pona](https://suno.pona.la/2024/) about that work!
 - I'm finally getting back to running- it was so frustrating to be out for so
   long, but it turns out that my ankle pain is entirely in my head. Not a joke.
 
 #### July
 
 - I received an old, old laptop I had when I was a child from my parents, and oh _man_
-  does it suck. But incredibly, it still works! It's an HP ze5500
-- I started graphing the frequency-counted words from [sona mute](https://github.com/gregdan3/sona-mute), demonstrating some fascinating
-
-#### June
-
-- I travelled to Chicago for a big toki pona meetup- it was so much fun. I finally got
-  to meet some people I'd only spoken to over the internet- always exciting!
-- I made some software, [sona mute](https://github.com/gregdan3/sona-mute) "frequency knowledge," which takes in toki pona text
-  from various sources and frequency-counts it.
+  does it suck. But incredibly, it still works! It's an HP ze5500, and I played
+  Maplestory on it for probably a decade.
+- I started graphing the frequency-counted words spat out by [sona mute](https://github.com/gregdan3/sona-mute), demonstrating some fascinating trends in Toki Pona's history!
 
 <br />
 
@@ -54,6 +46,12 @@ description: Everything I'm doing, right now.
 <summary>Older Content</summary>
 
 I keep track of the most recent three months at a time, and everything older is stashed in here.
+
+#### June
+
+- My girlfriend and I travelled to Chicago for a big toki pona meetup- it was so much fun. I finally got to meet some people I'd only spoken to over the internet- always exciting!
+- I made some software, [sona mute](https://github.com/gregdan3/sona-mute) "frequency knowledge," which takes in toki pona text
+  from various sources and frequency-counts it.
 
 ## Spring
 
